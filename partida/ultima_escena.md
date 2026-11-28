@@ -3,58 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1789)
-
-si, me encantaría, vamos
-
-## RESPUESTA 1 (T1789)
-
-> si, me encantaría, vamos
-
-> —Sí, me encantaría. Vamos.
-
-Cha Hae-in se pone de pie tan rápido que casi tira la lata de té. La agarra en el aire sin mirar, con un reflejo de cazadora, y la deja otra vez en la mesa, un poco avergonzada.
-
-—Bien. —Se acomoda el suéter—. Bien.
-
-Juntan entre los dos las cajas vacías y las bolsas de papel. Kase abre los ojos, se estira en el brazo del sillón con las patas delanteras bien largas y salta a tu hombro sin que nadie le diga nada. Cha Hae-in lo mira subir, sorprendida otra vez, y se le escapa una sonrisa.
-
-En el ascensor de espejos, mientras bajan los números, saca del bolsillo del pantalón unos anteojos de sol grandes y una gorra negra y se los pone.
-
-—Si no, me reconocen cada dos cuadras —explica—. Y piden fotos. Y se juntan.
-
-Con la gorra y los anteojos parece otra persona. Casi.
-
-En el vestíbulo, el chico de recepción la mira pasar, frunce el ceño como si tratara de acordarse de algo y no lo logra. Afuera, el portero de guantes blancos les abre la puerta.
-
-El día está frío y limpio, con el cielo azul fuerte después de la lluvia. Gangnam brilla. Hay olor a café, a castañas, a la panadería de la esquina, y un viento que trae hojas amarillas de los ginkgos de la vereda.
-
-Cha Hae-in levanta la mano y un taxi negro se detiene enseguida junto al cordón. Te abre la puerta de atrás.
-
-—Hay muchas cosas —dice, mientras subes con Kase—. El palacio antiguo, Gyeongbokgung, con los guardias de colores. La torre de Namsan, arriba de la montaña, desde donde se ve toda la ciudad. Y el mercado de Gwangjang, que es viejo y está lleno de comida. —Se sienta a tu lado y se baja un poco los anteojos para mirarte por encima—. ¿Qué quieres ver primero?
-
-El taxista los mira por el espejo retrovisor, esperando.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1789 · SOLO LEVELING · DÍA 2 · 13:34   ║
-║ Seúl, Corea del Sur                          ║
-║ Gangnam · taxi frente al hotel               ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.292.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1790)
+## COMANDO 1 (T1790)
 
 la torre de namsan, quiero ver toda la ciudad
 
-## RESPUESTA 2 (T1790)
+## RESPUESTA 1 (T1790)
 
 > la torre de namsan, quiero ver toda la ciudad
 
@@ -101,11 +54,11 @@ Después mira los candados. Se queda mirándolos un rato largo. Un señor, junto
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1791)
+## COMANDO 2 (T1791)
 
 compro un candado y le digo que pongamos uno juntos
 
-## RESPUESTA 3 (T1791)
+## RESPUESTA 2 (T1791)
 
 > compro un candado y le digo que pongamos uno juntos
 
@@ -150,6 +103,57 @@ Levanta la vista.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1792)
+
+lo que quieras
+
+## RESPUESTA 3 (T1792)
+
+> lo que quieras
+
+> —Lo que quieras.
+
+Cha Hae-in te mira un segundo más, como si buscara en tu cara si es en serio. Después baja la vista al candado.
+
+Apoya el candado sobre la baranda, para que no se mueva, y escribe. Despacio, con la letra prolija de anoche, en coreano. Se tapa un poco con el hombro para que no veas mientras escribe, como una nena en el colegio.
+
+Cuando termina, sopla la tinta y lo da vuelta para mostrártelo.
+
+Arriba, en letras chiquitas, dice: "Facundo". Debajo, un poco más grande, como si se hubiera animado a mitad de camino: "Hae-in". No "Cha Hae-in". Solo "Hae-in". Y más abajo, la fecha de hoy.
+
+Entre los dos nombres, muy chiquito, casi escondido, hay un corazón. Lo dibujó y después, por lo que se ve, intentó taparlo con una raya, y después cambió de idea y lo repasó otra vez, así que quedó más oscuro que todo lo demás.
+
+Ella mira el corazón. Tú miras el corazón. Ella se da cuenta de que lo estás mirando.
+
+—Se me resbaló la lapicera —dice, muy rápido, sin ninguna convicción.
+
+Busca un lugar libre en la reja, entre un candado azul oxidado y uno con forma de corazón rosado. Pasa el arco del candado por el alambre y lo sostiene abierto, esperando, con la mano un poco temblorosa.
+
+—Hay que cerrarlo los dos —dice—. Así dicen.
+
+Pone dos dedos sobre el candado y deja espacio para los tuyos.
+
+Cuando lo cierran, hace un clic chiquito y firme.
+
+Cha Hae-in desata el hilo de las dos llavecitas. Se queda con una en la palma de la mano, mirándola, y la otra te la ofrece, extendida entre los dedos.
+
+—Antes la gente tiraba las llaves por la montaña, para que nadie pudiera abrirlo nunca. Ahora está prohibido. —Señala con la barbilla un buzón de metal en forma de corazón, junto al kiosco, donde se tiran las llaves—. Se pueden tirar ahí. —Duda—. O... cada uno se queda con la suya.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1792 · SOLO LEVELING · DÍA 2 · 14:32   ║
+║ Seúl, Corea del Sur                          ║
+║ Monte Namsan · plaza de la torre, candados   ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirando el candado       ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 14:28, Namsan. Facundo compró un candado (10.000 won, dos llavecitas, lapicera negra) y le propuso a Cha ponerlo juntos (indirecto). Cha, roja entera: "Yo... Nunca... nadie..." "Está bien. Juntos." Tiene la lapicera destapada sobre el candado: "¿Qué... qué escribimos?" Pareja joven mirando emocionada.
+ESTADO AL CIERRE: Día 2 14:32, Namsan. Candado escrito por Cha: "Facundo" / corazón chiquito (tachado y repasado) / "Hae-in" / fecha. "Se me resbaló la lapicera." Lo cerraron juntos en la reja (entre uno azul oxidado y uno rosado con forma de corazón). Cha tiene una llavecita; te ofrece la otra: se pueden tirar en el buzón de metal con forma de corazón, "o... cada uno se queda con la suya."
