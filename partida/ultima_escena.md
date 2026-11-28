@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1732)
-
-no la mate
-
-## RESPUESTA 1 (T1732)
-
-> no la mate
-
-> —No la mates.
-
-Makima no se mueve.
-
-La mano sigue en alto, apuntando a los barrotes. Los dedos, quietos. El tubo de arriba zumba. En la celda, la fiend de las orejas de animal contiene la respiración. Cosmo se tapa la boca con las dos manos, con los ojos en espiral enormes. Quanxi no cambia la cara: sigue mirando a Makima, tranquila, como quien mira llover.
-
-Pasan cinco segundos. Diez.
-
-Al fondo del pasillo, la silueta de Kishibe se endereza, apenas.
-
-Makima te mira. No a los ojos: a la cara entera, despacio, como si la leyera. Después baja la vista a tus manos. Después vuelve a la cara.
-
-—"No la mates" —repite, con tu misma voz baja, sin ironía.
-
-Y baja la mano.
-
-Despacio. Los dedos se aflojan, se cierran, la mano vuelve a juntarse con la otra delante del cuerpo, sobre el abrigo negro mojado de lluvia. Así de simple.
-
-En la celda, la de las costuras se larga a llorar, sin ruido, contra el hombro de Quanxi. Quanxi cierra el único ojo un segundo. Solo uno. Cuando lo abre, te mira a ti.
-
-—Usted me trajo a Santa Claus viva —dice Makima, con suavidad—. Despertó a trescientas ochenta y siete personas que yo ya había dado por muertas. Se tragó una mano del Infierno en un sótano. Durmió a cuarenta y seis muñecos y a tres asesinos sin hacer ruido. Y no me pidió nada. Ni dinero, ni un lugar, ni un nombre. —Se le estira un poco la sonrisa—. Es la primera cosa que me pide, señor Morelli.
-
-Da un paso hacia ti. Uno solo.
-
-—Y me la pide para una mujer que vino a matar a uno de los míos.
-
-Lo dice sin enojo. Con curiosidad. Con algo que, en cualquier otra persona, sería ternura.
-
-—Está bien. No la voy a matar. A ninguna de ellas. —Inclina la cabeza—. Pero las cosas no son gratis en este trabajo. Ni siquiera para usted.
-
-Otro paso. Queda a un metro. Huele a lluvia y a algo dulce, como el aire antes de una tormenta.
-
-—Si ella vive, alguien tiene que responder por ella. Por lo que haga mañana, y pasado, y dentro de un año. Si vuelve a tocar a Denji, si sus chicas vuelven a matar a alguien en mi ciudad. —Te mira, y los anillos amarillos no se mueven—. ¿Va a ser usted?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1732 · CHAINSAW MAN · DÍA 4 · 21:43    ║
-║ Tokio, otoño de 1997                         ║
-║ Central de Seguridad Pública, celdas         ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.078 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el departamento, con Power          ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1733)
+## COMANDO 1 (T1733)
 
 si, voy a ser yo
 
-## RESPUESTA 2 (T1733)
+## RESPUESTA 1 (T1733)
 
 > si, voy a ser yo
 
@@ -123,11 +64,11 @@ Una pausa.
 
 ---
 
-## COMANDO 3 (T1734)
+## COMANDO 2 (T1734)
 
 porque me gusta ayudar, nada más
 
-## RESPUESTA 3 (T1734)
+## RESPUESTA 2 (T1734)
 
 > porque me gusta ayudar, nada más
 
@@ -178,4 +119,69 @@ Quanxi no se relaja. Pero algo, en los hombros, baja un centímetro.
 
 ---
 
-ESTADO AL CIERRE: Día 4 21:47, celdas. "Porque me gusta ayudar. Nada más." Quanxi: "Hace veinte años conocí a un chico que decía eso" (Kishibe) "Mira cómo terminó." Makima se fue: "Buenas noches, señor Morelli. Cuídelas también a ellas." Las fiends se relajan (Cosmo da vueltas cantando). Quanxi: "Ahora somos tuyas, según ella. Cinco. Sin papeles, sin dinero, sin armas, en un país que nos quiere muertas. ¿Adónde nos llevas?" Kishibe apoyado en los barrotes.
+## COMANDO 3 (T1735)
+
+les gustaría ir a otro país a empezar de nuevo?
+
+## RESPUESTA 3 (T1735)
+
+> les gustaría ir a otro país a empezar de nuevo?
+
+> —¿Les gustaría ir a otro país a empezar de nuevo?
+
+Cosmo deja de dar vueltas.
+
+Las otras tres levantan la cabeza al mismo tiempo, como gatos que oyeron abrirse una lata. La de las costuras, sentada en el piso, se queda con la boca abierta. La de los cuernitos mira a Quanxi. La de las orejas de animal te mira a ti, sin parpadear, con los ojos todavía rojos.
+
+Quanxi no se mueve. Pero el ojo se le entrecierra.
+
+—Otro país. —Lo dice despacio, probando las palabras—. Empezar de nuevo.
+
+Kishibe, apoyado en los barrotes, deja la petaca a medio camino de la boca.
+
+—A China no podemos volver —sigue Quanxi, con la voz seca, sin queja, como quien enumera munición—. Fallamos. Allá, a los que fallan, no los esperan con flores. Acá, ya oíste a tu jefa. Y en cualquier otro lado, somos una híbrida y cuatro fiends sin papeles. —Mira a las cuatro, una por una—. A ellas las matan en cualquier frontera. No tienen cara de personas.
+
+—Yo tengo cara de persona —protesta la de las costuras, bajito, desde el piso.
+
+—Tú tienes la cara cosida en once partes, Tsugihagi.
+
+—Doce.
+
+Quanxi casi sonríe. Casi.
+
+La de las orejas de animal da un paso adelante, por primera vez sin esconderse detrás de ella. Te mira de cerca. Es joven, o lo parece, con el pelo negro y lacio y dos orejas puntiagudas de zorro asomándole entre el pelo.
+
+—¿Un lugar con mar? —pregunta. La voz le sale chiquita, con un acento más fuerte que el de Quanxi—. Donde nadie... donde no haya cazadores. Ni demonios. Ni gente que mire raro.
+
+—Long —dice Quanxi.
+
+—Solo pregunto.
+
+Cosmo levanta la mano, como en la escuela, y grita:
+
+—¡Halloween!
+
+Nadie sabe si es un sí.
+
+Quanxi suspira. Se pasa una mano por el pelo blanco, corto, despeinado. Te vuelve a mirar, y esta vez hay algo distinto en el ojo, debajo del frío. Algo que no se anima a ser esperanza todavía.
+
+—Suponiendo que sí. —Cruza los brazos más fuerte—. ¿Adónde? ¿Y cómo, viajero? Cinco mujeres sin papeles, una con un parche y cuatro con cuernos, orejas y costuras, en un barco, cruzando una frontera. —Una pausa—. Explícame cómo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1735 · CHAINSAW MAN · DÍA 4 · 21:49    ║
+║ Tokio, otoño de 1997                         ║
+║ Central de Seguridad Pública, celdas         ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.078 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el departamento, con Power          ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Responder por Quanxi y sus fiends  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 4 21:49, celdas. Facundo propone ir a otro país a empezar de nuevo. Quanxi: a China no pueden volver (fallaron); en Japón Makima; en cualquier frontera matan a las fiends ("no tienen cara de personas"). Tsugihagi (costuras, "doce partes"). LONG (orejas de zorro, pelo negro lacio): "¿Un lugar con mar? Donde no haya cazadores. Ni demonios. Ni gente que mire raro." Cosmo: "¡Halloween!" Quanxi: "Suponiendo que sí. ¿Adónde? ¿Y cómo, viajero? Explícame cómo."

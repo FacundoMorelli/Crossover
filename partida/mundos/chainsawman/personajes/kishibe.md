@@ -21,3 +21,4 @@ ENCUENTROS:
 - T1731 · Makima deduce que él avisó a Facundo.
 - T1733 · "¿Así nomás?" Abre la reja con una llave oxidada y le quita las esposas a Quanxi y a las cuatro fiends. Cosmo le toca la nariz ("¡Halloween!"); él la deja.
 - T1734 · Quanxi cuenta que hace veinte años él decía que le gustaba ayudar. Toma un trago largo; no dice nada.
+- T1735 · Deja la petaca a medio camino al oír la propuesta de Facundo.
