@@ -180,3 +180,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1729 (Chainsaw Man) · Se echa pegado a la espalda de Power mientras ella duerme en el tatami.
 - T1736 (Chainsaw Man) · Espera a Facundo sentado en la puerta. Duerme al sol con Miau. Power intenta bañarlo: pierde ella.
 - T1737 (Chainsaw Man) · Vuela furioso dentro de la camisa de Facundo hasta la isla del Pacífico. Se despide de Power (rasca su puerta una vez; ella lo abraza).
+- T1741 (Fullmetal) · Se sube a la palma de hierro de Alphonse Elric y se enrosca.

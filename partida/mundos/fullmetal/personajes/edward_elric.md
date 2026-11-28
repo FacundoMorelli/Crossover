@@ -14,3 +14,4 @@ ESTADO: en el hospital militar de Central. MENOR.
 ENCUENTROS:
 - T1739 · Día 1 17:50 · Desde adentro de la habitación del hospital (no visto): "¡Al! ¡Cierra esa ventana, que entra frío! ¿Con quién hablas?"
 - T1740 · Se asoma: bajo, en puntas de pie, trenza a medio deshacer, vendaje en la frente, camisa de hospital, automail del brazo derecho. Sabe (por Facundo, lo oyó) el nombre Facundo Morelli y del gato. "¿Y tú quién eres? ¿Facundo qué? ¿Morelli? ¿Qué clase de nombre es ese? ¿Y qué te pasó en el pelo? ¿Te cayó un tarro de pintura encima?" Tasación: alquimia sin círculo, automail; "vio algo que nadie debería ver; le costó un brazo y una pierna".
+- T1741 · Baja con pantuflas de hospital, abrigo rojo sobre los hombros, renguea. "Sí, Al. Ya veo. Felicitaciones." Deduce: "Ese pelo no es teñido. Se nota en la raíz. Y esos ojos tampoco son de por acá. No hay nadie en Amestris con los ojos así." "¿De dónde eres? ¿De Xing? ¿De Creta?"

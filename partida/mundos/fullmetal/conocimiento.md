@@ -10,3 +10,4 @@
 (nadie)
 - T1739 · ALPHONSE vio a Facundo y a Kase (aspecto). Un SOLDADO de la calle lo siguió con la vista.
 - T1740 · AL y ED saben (por Facundo) su nombre, Facundo Morelli, y el del gato, Kase. Vieron su aspecto.
+- T1741 · ED dedujo que el pelo de Facundo es natural y que sus ojos no son de Amestris.

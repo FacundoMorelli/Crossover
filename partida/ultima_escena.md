@@ -3,113 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1738)
-
-cumplo la misión de mundo y aki vive igual. me voy al nuevo mundo
-
-## RESPUESTA 1 (T1738)
-
-> cumplo la misión de mundo y aki vive igual. me voy al nuevo mundo
-
-Abajo, en la ventana del tercer piso, Aki deja el cuchillo sobre la tabla. Se queda quieto un segundo, de espaldas, con el delantal puesto. Después levanta la vista hacia el techo, hacia la azotea, como si hubiera oído algo. No puede haber oído nada. Vuelve a las cebollas.
-
-Una ventana del Sistema se abre delante de ti, fría, encima de las luces de Tokio:
-
-[Misión de Mundo cumplida: Aki Hayakawa sigue vivo cuando termina el ataque del Demonio Pistola.]
-
-[EXP +20.000 · Fragmentos +500.]
-
-[Mundos completados: 13.]
-
-No dice cómo. No hace falta. En la cocina del tercer piso, Aki se ríe de algo que le grita Power desde el cuarto. Es la primera vez que lo oyes reírse.
-
-Abres la puerta. El rectángulo de luz blanca y azul se recorta en el aire de la azotea, zumbando bajito. Kase te clava las uñas en el hombro, como cada vez. Allá abajo, en el balcón, Miau levanta la cabeza.
-
-Cruzas.
-
-Oscuridad. Ni arriba ni abajo.
-
-[Destino fijado.]
-
-Lo primero es el sonido.
-
-Un tranvía. Pero no como los de Tokio: más lento, más pesado, con campanilla de bronce, chirriando sobre rieles de hierro. Cascos de caballo sobre piedra. Una bocina de auto, ronca, de las de pera de goma. Y debajo de todo, un murmullo de ciudad grande, de esas que todavía no conocen la electricidad del todo.
-
-Después el olor. Carbón. Pan recién horneado. Lluvia sobre adoquines. Bosta de caballo. Tinta de diario.
-
-Abres los ojos detrás de un quiosco de diarios de madera verde, en el borde de una plaza empedrada. Atardece. El cielo es naranja y gris sobre los techos de pizarra. Los edificios son de piedra clara, de cuatro y cinco pisos, con balcones de hierro forjado y relojes en las fachadas. Hay faroles de gas que un hombre con una pértiga va prendiendo uno por uno. En el centro de la plaza, una fuente seca con una estatua de un hombre a caballo, con uniforme y sable.
-
-Por la plaza pasan soldados. Muchos. Uniformes azules, de cuello alto, con botones dorados y gorras. Caminan en pareja, sin apuro, con las manos atrás. Nadie se cruza con ellos de frente.
-
-Kase se sacude la llovizna y mira a su alrededor con desconfianza.
-
-En el quiosco, colgados con broches, hay diarios. Los titulares están en un idioma que nunca viste, de letras angulosas, y que entiendes perfectamente:
-
-"INCENDIO EN LA PRIMERA RAMA DE LA BIBLIOTECA ESTATAL. SE PERDIERON MILES DE VOLÚMENES."
-
-"EXPLOSIÓN EN INSTALACIÓN MILITAR ABANDONADA JUNTO A LA PRISIÓN CENTRAL. EL EJÉRCITO HABLA DE ACCIDENTE."
-
-Y en la pared de piedra del quiosco, pegado con engrudo, un cartel de búsqueda con un dibujo a lápiz. Un hombre de piel morena y ojos rojos, con una cicatriz enorme en forma de X en la frente:
-
-"BUSCADO: ASESINO DE ALQUIMISTAS ESTATALES. EXTREMADAMENTE PELIGROSO. RECOMPENSA DEL EJÉRCITO DE AMESTRIS."
-
-A dos cuadras, sobre los techos, se ve un edificio blanco grande, con una cruz pintada y una bandera militar: un hospital. Y más allá, al fondo de la avenida, dominando todo, una mole de piedra con columnas, escalinatas y docenas de banderas verdes y negras con un dragón alado: el cuartel general.
-
-Por la vereda de enfrente pasa un hombre corriendo. Uniforme azul, sin gorra, anteojos rectangulares, barba corta, una carpeta apretada contra el pecho. No corre como quien llega tarde. Corre como quien acaba de entender algo terrible. Dobla la esquina hacia el cuartel general y desaparece.
-
-```
-╔══════════════════════════════════════════════╗
-║ DON DE MUNDO                                 ║
-║ Mundo: Fullmetal Alchemist                   ║
-║ ALQUIMIA DEL IRIS                            ║
-║ Tus ojos son tu círculo de transmutación.    ║
-║ Transmutas lo que miras, sin círculo y sin   ║
-║ manos. Pagas la diferencia del intercambio   ║
-║ con tu energía. Comprendes al instante lo    ║
-║ que ves. Curas y reparas cuerpos vivos;      ║
-║ no revives ni tocas almas. Nadie puede       ║
-║ anularla. Al usarla, tus iris brillan con    ║
-║ un anillo de símbolos.                       ║
-║ Maestría 30                                  ║
-║ 50: transmutación a distancia por marcas     ║
-║ 70: La Puerta propia                         ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ MISIÓN DE MUNDO                              ║
-║ Mundo: Fullmetal Alchemist                   ║
-║                                              ║
-║ MISIÓN: Que Maes Hughes siga vivo cuando     ║
-║ termine el Día Prometido.                    ║
-║ RECOMPENSA: 25.000 EXP · 600 Fragmentos      ║
-║ VENCE: nunca                                 ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1738 · FULLMETAL · DÍA 1 · 17:30       ║
-║ Ciudad Central, Amestris, 1914               ║
-║ Plaza cerca del hospital militar             ║
-║ NIVEL 33 · EXP 461.130/480.000               ║
-║ FRAGMENTOS 289.378 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1739)
+## COMANDO 1 (T1739)
 
 voy a caminar
 
-## RESPUESTA 2 (T1739)
+## RESPUESTA 1 (T1739)
 
 > voy a caminar
 
@@ -175,11 +73,11 @@ Detrás de la armadura, adentro de la habitación, se oye otra voz, más aguda, 
 
 ---
 
-## COMANDO 3 (T1740)
+## COMANDO 2 (T1740)
 
 se llama Kase y yo Facundo Morelli
 
-## RESPUESTA 3 (T1740)
+## RESPUESTA 2 (T1740)
 
 > se llama Kase y yo Facundo Morelli
 
@@ -238,4 +136,59 @@ Al lo ignora. Vuelve a inclinarse hacia la calle, todo lo que puede, con los pun
 
 ---
 
-ESTADO AL CIERRE: Día 1 17:52, vereda del hospital. Al se presenta ("Alphonse Elric. Al"); Kase le parpadeó ("¡le caigo bien!"). ED se asoma (bajo, en puntas de pie, trenza a medio deshacer, vendaje en la frente, automail): "¿Facundo qué? ¿Morelli? ¿Qué clase de nombre es ese? ¿Te cayó un tarro de pintura?" Al: "¡No seas maleducado!" Al pide: "¿Puedo bajar? Solo un minuto. A acariciarlo."
+## COMANDO 3 (T1741)
+
+esta bien
+
+## RESPUESTA 3 (T1741)
+
+> esta bien
+
+> —Está bien.
+
+—¡Gracias! ¡Ya bajo! ¡No se vaya!
+
+La armadura desaparece de la ventana con un estruendo de metal contra madera. Se oye la silla caer. Se oye a Ed gritar "¡Al, la silla!". Se oyen pasos enormes, de hierro, bajando una escalera de a tres escalones, y una enfermera que grita algo, y otra puerta.
+
+Medio minuto después, la puerta principal del hospital se abre de par en par. Los dos guardias se apartan sin decir nada, como si ya estuvieran acostumbrados. Al sale al jardín, a trancos largos, cruza el camino de piedra y llega hasta la reja. De cerca es todavía más grande: te pasa por más de una cabeza, ancho como un ropero, con la armadura llena de abolladuras, rayones y un remiendo nuevo en un hombro, soldado y brillante. Huele a aceite de máquina y a metal frío.
+
+Se agacha. Es difícil para él: las rodillas de hierro crujen, el penacho del casco se balancea. Queda de cuclillas detrás de los barrotes, a la altura de tu hombro, con los dos puntitos de luz fijos en Kase.
+
+Levanta una mano. Enorme, de dedos gruesos, con guantelete. La acerca despacio, muy despacio, entre dos barrotes, y la deja quieta en el aire, abierta, a un palmo del gato. Sin tocarlo. Esperando.
+
+Kase la mira. La huele. Mira los puntitos de luz del casco.
+
+Y baja de tu hombro.
+
+Se pasa por entre los barrotes de la reja, con una elegancia de rey, se sube de un salto a la palma de hierro, da una vuelta sobre sí mismo y se echa ahí, enroscado, con la cola tapándole la nariz. Ocupa toda la mano de la armadura.
+
+Al se queda de piedra. Literalmente: no mueve ni un dedo. Los puntitos de luz tiemblan.
+
+—Hermano —susurra, como si estuviera en una iglesia—. Hermano. Se me subió a la mano.
+
+Ed llega detrás, por el camino del jardín, sin apuro, arrastrando unas pantuflas de hospital y con el abrigo rojo echado sobre los hombros. Camina rengueando un poco. Se para al lado de su hermano, con las manos en los bolsillos, y mira al gato acostado en la palma de metal. Hace una mueca, como si le diera bronca que el gato fuera tan lindo.
+
+—Sí, Al. Ya veo. —Suspira—. Felicitaciones.
+
+Después te mira a ti. A través de la reja. Esta vez no grita. Te estudia con los ojos dorados entrecerrados, serio, como quien estudia un problema de alquimia que no termina de cerrar.
+
+—Ese pelo no es teñido. Se nota en la raíz. —Te señala el ojo izquierdo con la barbilla—. Y esos ojos tampoco son de por acá. No hay nadie en Amestris con los ojos así. Ni en el Este, ni en el Sur. —Entrecierra más los ojos—. ¿De dónde eres? ¿De Xing? ¿De Creta?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1741 · FULLMETAL · DÍA 1 · 17:55       ║
+║ Ciudad Central, Amestris, 1914               ║
+║ Reja del hospital militar                    ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.378 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la mano de Al                       ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 17:55, reja del hospital militar. Al bajó (rompiendo una silla), se agachó tras la reja con la mano abierta; KASE se subió a su palma y se enroscó ("Hermano. Se me subió a la mano."). Ed bajó (pantuflas, abrigo rojo, renguea). Serio, a Facundo: "Ese pelo no es teñido. Y esos ojos no son de por acá. ¿De dónde eres? ¿De Xing? ¿De Creta?"
