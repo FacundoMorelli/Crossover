@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1776)
-
-dejo la tarjeta ahi y salgo a pasear con kase
-
-## RESPUESTA 1 (T1776)
-
-> dejo la tarjeta ahi y salgo a pasear con kase
-
-Dejas la tarjetita con el número de Cha Hae-in sobre la mesita de luz, al lado del teléfono blanco, y te guardas la llave.
-
-Kase levanta la cabeza de la almohada. Te mira caminar hacia la puerta, suspira por la nariz, como si le costara mucho, y salta de la cama. Cuando abres la puerta, ya está trepado a tu hombro.
-
-En el vestíbulo, el piano sigue sonando bajito para nadie. La recepcionista de antes levanta la vista, ve a Kase y vuelve a bajarla. El portero de guantes blancos te abre la puerta de vidrio con una reverencia corta.
-
-Afuera hace frío. Es un frío seco, de otoño, que huele a escape de autos, a castañas asadas de algún puesto que ya cerró y a lluvia que todavía no cayó.
-
-Gangnam a medianoche no duerme. Los neones de los carteles siguen prendidos, en coreano y en inglés: clínicas, karaokes, cafeterías abiertas las veinticuatro horas. Pasa un grupo de oficinistas con la corbata floja, riéndose fuerte, abrazados. Dos chicas con uniforme escolar, demasiado tarde para estar en la calle, miran a Kase y gritan bajito "¡qué lindo!". Kase no las mira.
-
-En la esquina, la pantalla gigante ya no muestra la Puerta. Ahora pasa un noticiero. Una presentadora de traje rojo habla con cara seria, y detrás de ella hay un mapa con una isla al sur de la península, pintada de rojo:
-
-"...a casi cuatro años de la ruptura de la Puerta de rango S, la isla de Jeju sigue bajo control de los monstruos tipo insecto. Tras tres incursiones fallidas, fuentes de la Asociación de Cazadores confirman que se analiza una cuarta expedición, con la posible participación de cazadores de Japón..."
-
-La imagen cambia a una foto vieja y borrosa, tomada desde un helicóptero: una costa negra, llena de agujeros, y algo que se mueve entre ellos.
-
-Sigues caminando. Las calles bajan suave hacia el sur, y en veinte minutos se terminan los edificios. Llegas a la orilla del río Han.
-
-Es un parque largo junto al agua, casi vacío a esta hora. Hay bancos, faroles amarillos, una bicisenda y pasto cortado. El río es ancho y oscuro, con los puentes iluminados encima como collares de luz. Del otro lado brillan las torres del norte. Corre un viento suave que trae olor a agua dulce.
-
-Más adelante, junto a la bicisenda, hay una tienda de conveniencia chiquita, de esas que tienen afuera una mesa de plástico y una máquina de agua caliente para el ramyeon. Detrás del mostrador, un señor mayor mira una tele pequeña. Afuera, sentado solo en la mesa de plástico, un chico flaco con capucha come fideos instantáneos de un vaso de cartón, mirando el río.
-
-Kase levanta la nariz. Huele algo. Se te baja del hombro, camina hasta la puerta de la tienda y se sienta frente al vidrio, mirando la heladera de adentro, muy derecho, con la cola enroscada alrededor de las patas.
-
-Después se da vuelta y te mira.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1776 · SOLO LEVELING · DÍA 2 · 00:04   ║
-║ Seúl, Corea del Sur                          ║
-║ Parque junto al río Han · tienda 24 horas    ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.815 · 0 won                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: sentado frente a la tienda, mirándote  ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Cha Hae-in vuelve a la una         ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1777)
+## COMANDO 1 (T1777)
 
 cambio fragmentos a won y le compro algo a kase
 
-## RESPUESTA 2 (T1777)
+## RESPUESTA 1 (T1777)
 
 > cambio fragmentos a won y le compro algo a kase
 
@@ -99,11 +50,11 @@ Lo mira a Kase. Después te mira a ti, a la cara.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1778)
+## COMANDO 2 (T1778)
 
 si, le doy el atún a kase
 
-## RESPUESTA 3 (T1778)
+## RESPUESTA 2 (T1778)
 
 > si, le doy el atún a kase
 
@@ -138,6 +89,49 @@ Te mira de nuevo. Mira el sobretodo negro, la cicatriz, los tatuajes del cuello.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1779)
+
+no, soy un viajero, ¿y tú?
+
+## RESPUESTA 3 (T1779)
+
+> no, soy un viajero, ¿y tú?
+
+> —No, soy un viajero. ¿Y tú?
+
+El chico se queda un segundo callado. Después da vuelta la credencial con dos dedos, sobre la mesa, para que la veas.
+
+Es una tarjeta de plástico con el logo de la Asociación de Cazadores, una foto suya de frente, más chico y sin ojeras, y una letra grande, en un recuadro gris:
+
+E.
+
+Debajo, el nombre: Han Dong-su.
+
+—Rango E —dice, como quien pide perdón—. Lo más bajo que hay. —Vuelve a dar vuelta la tarjeta, boca abajo—. Desperté hace un año. Todos en el colegio pensaron que iba a ser algo. Mi abuela hizo una fiesta.
+
+Mueve los fideos con los palillos, sin comerlos.
+
+—Los de rango E no sirven para pelear. Sirven para cargar cosas en las Puertas de rango D y C, para los gremios chicos. Te pagan por día. —Se mira el vendaje de los nudillos—. Hoy un goblin se metió por atrás de la fila y me tocó a mí ponerme adelante, porque el que tenía que hacerlo se escondió. Casi me muero. Me pagaron cuarenta mil won y me dijeron que no vuelva si me voy a quejar.
+
+Lo dice sin enojo, cansado, mirando el río. Kase levanta la cabeza del platito, lo mira con la boca llena de atún y vuelve a comer.
+
+—Un viajero... —repite Dong-su, con media sonrisa triste—. Suena bien. ¿Y a dónde viaja uno, si se va de aquí?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1779 · SOLO LEVELING · DÍA 2 · 00:14   ║
+║ Seúl, Corea del Sur                          ║
+║ Parque junto al río Han · tienda 24 horas    ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.292.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: comiendo atún en el platito            ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Cha Hae-in vuelve a la una         ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 00:11. Facundo: "Sí." Kase come una lata de atún en el platito (queda 1 lata, premios y leche en la bolsa). El chico de la capucha: su abuela tenía un gato gris. Detalles: buzo gastado, vendaje sucio en los nudillos derechos, credencial de plástico boca abajo con cinta azul, zapatillas rotas. Pregunta: "¿Eres cazador?"
+ESTADO AL CIERRE: Día 2 00:14. Facundo: "No, soy un viajero. ¿Y tú?" El chico es HAN DONG-SU, cazador rango E (credencial de la Asociación), despertó hace un año; carga cosas en Puertas D y C para gremios chicos, paga por día. Hoy un goblin, se puso adelante porque otro se escondió; casi muere; le pagaron 40.000 won y lo echaron. Su abuela (hizo fiesta cuando despertó). Pregunta: "Un viajero... Suena bien. ¿Y a dónde viaja uno, si se va de aquí?"
