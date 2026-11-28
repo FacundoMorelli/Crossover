@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1785)
-
-me voy a dormir y simula hasta la 1
-
-## RESPUESTA 1 (T1785)
-
-> me voy a dormir y simula hasta la 1
-
-Te acuestas en la cama enorme. Las sábanas están frías y huelen a limpio. Kase espera a que te acomodes, se baja de la almohada del medio y se te echa encima del pecho, pesado y caliente, como todas las noches en todos los mundos.
-
-Afuera, la llovizna sigue cayendo sobre Seúl, sin ruido.
-
-Te duermes.
-
-...
-
-La lluvia para cerca de las cuatro. A las seis empieza a clarear, gris, detrás de las torres del este. A las siete la ciudad ya ruge abajo: autobuses, bocinas, el tren elevado que pasa cada tres minutos sobre el puente del Han. En el pasillo, una mucama empuja un carrito y pasa de largo frente a la 2207, porque el cartelito de "no molestar" quedó colgado del picaporte desde que entraste.
-
-Duermes de corrido. Sin sueños.
-
-A las doce y cuarenta te despierta una pata. Una pata grande y peluda, apoyada en tu cara, con las uñas apenas asomadas. Después otra. Kase está sentado sobre tu pecho, mirándote con los dos ojos, y cuando ve que abres los tuyos, maúlla una sola vez, corto y exigente: es la hora de comer de un gato que no come desde el atún de anoche.
-
-El sol entra por el ventanal. Seúl está limpio y brillante después de la lluvia. En la mesita, la tarjetita de Cha Hae-in. El reloj: 12:41.
-
-Pasan los minutos.
-
-A la una en punto, ni un minuto antes ni uno después, golpean la puerta. Tres golpes suaves, separados, de alguien que lo pensó antes de golpear.
-
-Del otro lado, por la mirilla, se ve a Cha Hae-in. Sin armadura, sin espada a la vista: un suéter de lana color crema, un pantalón oscuro, el pelo suelto sobre los hombros. En cada mano trae una bolsa de papel de un restaurante, y sale de ellas un olor a carne a la parrilla, a ajo y a arroz recién hecho que atraviesa la puerta.
-
-Kase ya está en la puerta, sentado, con la cola moviéndose.
-
-—¿Facundo? —dice ella, desde el pasillo, un poco bajito—. Soy yo. Traje bulgogi. —Una pausa—. Y algo para el gato.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1785 · SOLO LEVELING · DÍA 2 · 13:00   ║
-║ Seúl, Corea del Sur                          ║
-║ Hotel de Gangnam · habitación 2207           ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.292.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: sentado frente a la puerta             ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Cha Hae-in en la puerta            ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1786)
+## COMANDO 1 (T1786)
 
 abro la puerta, hola cha, pasa
 
-## RESPUESTA 2 (T1786)
+## RESPUESTA 1 (T1786)
 
 > abro la puerta, hola cha, pasa
 
@@ -101,11 +52,11 @@ Te mira, de frente, esperando.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1787)
+## COMANDO 2 (T1787)
 
 si, muy bien, gracias por la comida
 
-## RESPUESTA 3 (T1787)
+## RESPUESTA 2 (T1787)
 
 > si, muy bien, gracias por la comida
 
@@ -146,6 +97,47 @@ Kase, que terminó la comida premium, se sube al brazo del sillón, al lado de e
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1788)
+
+un tiempo seguramente
+
+## RESPUESTA 3 (T1788)
+
+> un tiempo seguramente
+
+> —Un tiempo, seguramente.
+
+Cha Hae-in asiente despacio, mirando al gato. No dice nada, pero los hombros se le aflojan, apenas, como si hubiera estado esperando otra respuesta y esta le cayera mejor.
+
+—Un tiempo —repite.
+
+Vuelve a comer, ahora un poco más rápido, más tranquila. Te pasa sin decir nada el recipiente de kimchi, después el de espinaca, después la lata de té de cebada, ya abierta. Kase la mira comer desde el brazo del sillón, con la cola colgando, y ella, sin dejar de comer, le acerca dos dedos a la cabeza, despacio. Kase no se aparta. Ella no llega a acariciarlo: solo deja los dedos cerca, y el gato los huele una vez y cierra los ojos.
+
+Cha Hae-in se queda quieta, sorprendida, con la boca un poco abierta.
+
+—No le caigo mal —dice, bajito, casi sin creerlo.
+
+Afuera, el sol de la tarde pega en las torres de vidrio y rebota en el techo de la habitación. Abajo, en la avenida, ya no queda nada de la Puerta de anoche: solo tránsito, gente con bolsas de compras, una fila larga frente a una cafetería.
+
+Cha Hae-in termina su arroz y deja los palillos cruzados sobre el cuenco vacío. Se limpia la boca con una servilleta. Te mira.
+
+—Hoy no tengo Puertas. El gremio me dio el día libre después del informe. —Duda, juega con la servilleta entre los dedos—. Si te vas a quedar un tiempo... no conoces nada de Seúl, ¿verdad? —Se le colorean las orejas otra vez—. Puedo mostrarte. Si quieres.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1788 · SOLO LEVELING · DÍA 2 · 13:20   ║
+║ Seúl, Corea del Sur                          ║
+║ Hotel de Gangnam · habitación 2207           ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.292.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el brazo del sillón, ojos cerrados  ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 13:08, 2207, comiendo bulgogi. Facundo: "Sí, muy bien. Gracias por la comida." Cha le cuenta que el maná de los cazadores le huele pesado y sucio (sale a tomar aire en reuniones; la creen antipática); con Facundo no huele a nada ("hueles a jabón del hotel... como una ventana abierta"). Kase se sienta en el brazo del sillón junto a ella. "¿Cuánto tiempo te vas a quedar en Seúl, Facundo?"
+ESTADO AL CIERRE: Día 2 13:20, 2207. Facundo: "Un tiempo, seguramente." Cha se relaja; le pasa banchan y té. Acerca dos dedos a Kase, que los huele y cierra los ojos: "No le caigo mal." Terminó de comer. Tiene el día libre (el gremio se lo dio tras el informe). "Si te vas a quedar un tiempo... no conoces nada de Seúl, ¿verdad? Puedo mostrarte. Si quieres."
