@@ -1760,3 +1760,4 @@ T1758 · FULLMETAL · iglesia abandonada · Vigila a Lust y Envy toda la noche (
 T1759 · FULLMETAL · iglesia · "Me gusta ayudar." Mustang desconfía. Hawkeye: "El gato tiene sus mismos ojos." Mustang: "¿Qué son?"
 T1760 · FULLMETAL · iglesia · "Son homúnculos, creados por alguien muy arriba en el Ejército." Mustang: "¿Cuánto de arriba, viajero?"
 T1761 · FULLMETAL · iglesia · "El Führer Bradley es uno de ellos." Mustang lo cree. "Hughes no puede volver. ¿Hay más?"
+T1762 · FULLMETAL · Resembool · SIMULACIÓN hasta el fin del Día Prometido. Hughes vivo. Padre derrotado. Fu, Buccaneer, quimeras, Lan Fan salvados. Ojos de Mustang curados. Lust y Envy sellados vivos. MISIÓN CUMPLIDA. NIVEL 34.

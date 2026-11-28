@@ -1,0 +1,12 @@
+# OTROS PERSONAJES (Fullmetal) — registro de la simulación T1762
+- IZUMI CURTIS: en Dublith le da un puñetazo a Facundo, se rompe dos nudillos, se ríe y lo invita a cenar.
+- PINAKO ROCKBELL: aloja a los Hughes en Resembool todo el año; no hace preguntas.
+- WINRY ROCKBELL: en Resembool, en el taller.
+- MARTEL, DOLCETTO, ROA (quimeras de Greed): salvados de Bradley por Facundo; vivos en un granero de las afueras de Dublith (canon: mueren).
+- GREED: capturado por Padre como en el canon (luego Greed/Ling).
+- LING YAO y LAN FAN: Lan Fan no pierde el brazo (Facundo detiene la mano de Bradley); lo sigue tres días en silencio.
+- VAN HOHENHEIM: en Resembool mira largo a Facundo sin preguntar nada; cena con Pinako y los Hughes; muere en la tumba de Trisha tras el Día Prometido, como en el canon.
+- OLIVIER MIRA ARMSTRONG: su espada se dobla contra la piel de Facundo; "si eres útil, quédate"; se ríe con Buccaneer.
+- BUCCANEER y el GENERAL FU: salvados en el Día Prometido (Facundo detiene la espada de Bradley sobre Fu y cura el pecho de Buccaneer) (canon: mueren).
+- KIMBLEE, SLOTH, GLUTTONY, PRIDE (vuelve a bebé), PADRE: caen en el Día Prometido.
+- SCAR: mata a Bradley, como en el canon.

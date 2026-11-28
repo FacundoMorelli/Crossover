@@ -31,3 +31,4 @@
 - T1759 · MUSTANG, HAWKEYE y HUGHES saben (por Facundo) que lo hace porque le gusta ayudar. HAWKEYE notó que Kase tiene los mismos ojos que Facundo.
 - T1760 · MUSTANG, HAWKEYE y HUGHES saben (por Facundo) que Lust y Envy son homúnculos y que los creó alguien muy arriba en el Ejército.
 - T1761 · MUSTANG, HAWKEYE y HUGHES saben (por Facundo) que el FÜHRER KING BRADLEY ES UN HOMÚNCULO.
+- T1762 · (sim) Saben de los poderes de Facundo, en distintos grados: los Elric, Mustang, Hawkeye, Hughes, Izumi, Olivier, Buccaneer, Ling, Lan Fan, Hohenheim, y en el Día Prometido, casi todos los combatientes (lo vieron usar el Eclipse contra el sol de Padre y curar con la mirada). Ningún homúnculo lo sintió nunca (Velo). PADRE lo vio en el Día Prometido.

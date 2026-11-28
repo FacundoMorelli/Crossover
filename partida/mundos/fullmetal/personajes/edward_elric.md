@@ -18,3 +18,4 @@ ENCUENTROS:
 - T1742 · Sabe (por Facundo) que es viajero "de bastante lejos". "Eso no es un lugar." Reta a Al por contar de Lior y Youswell. Deduce: "Más lejos que Xing, supongo. Del otro lado del gran desierto, o más allá." "¿Allá hay alquimia? ¿Distinta a la de acá?" (curiosidad).
 - T1744 · Sabe (por Facundo) que no tiene papeles. "¿Cruzaste la frontera sin papeles? ¿Por el desierto? ¿O por las montañas de Briggs? Porque por Briggs nadie pasa sin que la Reina de Hielo lo..." "Si va a Investigaciones, voy yo también. Quiero escuchar cómo cruzó la frontera." (12 puntos en la cabeza).
 - T1745 · Protesta ("¡violación de mis derechos como Alquimista Estatal!"); Brosh lo arrea adentro.
+- T1762 · (sim) Grita diez minutos cuando le cuentan. Le da el último golpe a Padre. Da su Puerta (su alquimia) para recuperar el cuerpo de Al. No perdona todavía a Hohenheim. En Resembool, en el taller con Winry.

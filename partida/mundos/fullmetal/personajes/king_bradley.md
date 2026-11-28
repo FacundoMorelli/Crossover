@@ -12,3 +12,4 @@ QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: en Central. La Tasación no revela que es homúnculo.
 - T1761 · (fuera de escena) Mustang, Hawkeye y Hughes saben (por Facundo) que es un homúnculo. Bradley NO sabe que lo saben. Sí sabe (deducción posible) que Lust y Envy fueron por Hughes anoche y no volvieron.
+- T1762 · (sim) Cae contra Scar en el Día Prometido, como en el canon. MUERTO.
