@@ -1895,3 +1895,5 @@ T1892 · ONE PIECE · Baltigo · Vuelve con Robin. Ella llora y ríe. "Mañana q
 T1893 · ONE PIECE · Baltigo · "Mañana vamos. Después vengo menos, me mantengo entre otros mundos." Robin: "Pobre Sakazuki." "¿Cuánto es un poco menos?"
 T1894 · ONE PIECE · Baltigo · "Cada dos meses." Robin: faltan 19 meses para Sabaody; el trato termina seis meses antes. "¿Lo pensaste?"
 T1895 · ONE PIECE · Baltigo · Plan: barreras sobre las islas de la tripulación a seis meses de Sabaody. Robin: "¿Me llevas a la librería de Water 7?"
+
+T1896 · ONE PIECE → DEMON SLAYER · Water 7: Robin compra un libro con su nombre. Pared nueva: "Uno". Despedida en Baltigo. Puerta al azar → Yoshiwara, Día 1 22:40. Don: Respiración del Crepúsculo. Uzui lo encara: "Qué llamativo."

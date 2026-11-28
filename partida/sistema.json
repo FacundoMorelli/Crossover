@@ -1,8 +1,8 @@
 {
-  "turno": 1895,
-  "mundo_actual": "onepiece",
-  "fecha_local": "One Piece: Día ~227 (timeskip, ~5,5 meses)",
-  "hora": "Día ~227, 23:29 (Baltigo)",
+  "turno": 1896,
+  "mundo_actual": "demonslayer",
+  "fecha_local": "Demon Slayer: Día 1 (era Taishō, ~4 meses después del tren Mugen; arco del Distrito Rojo)",
+  "hora": "Día 1, 22:40 (Yoshiwara, Tokio)",
   "edad": 18,
   "nivel": 35,
   "exp": 549130,
@@ -88,6 +88,11 @@
       "moneda": "won",
       "cantidad": 1282800,
       "cambio": "1 Fragmento = 130.000 won (fijado T1764)"
+    },
+    "demonslayer": {
+      "moneda": "yenes (Taishō)",
+      "cantidad": 0,
+      "cambio": "1 Fragmento = 5 yenes (fijado T1896). Un jornal obrero ronda 1 yen; una comida, 10-20 sen."
     }
   },
   "puntos_de_stat_sin_asignar": 205,
@@ -101,7 +106,7 @@
     "energia": 4006,
     "control": 4005
   },
-  "energia_actual_pct": 99,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -445,6 +450,18 @@
         "Maestría 70: absorbe una ruptura entera (los monstruos vuelven adentro y la Puerta se cierra)."
       ],
       "primer_uso": "T1767 (lectura pasiva de la Puerta de Gangnam)"
+    },
+    "demonslayer": {
+      "nombre": "Respiración del Crepúsculo (Tasogare no Kokyū)",
+      "tipo": "estilo de respiración propio, hijo de la Respiración del Sol (no copia ningún estilo canon)",
+      "maestria": 30,
+      "reglas": [
+        "Cada forma corta con la luz del atardecer: lo que corta no se regenera hasta el alba (afecta a demonios y a cualquier regeneración).",
+        "Marca del cazador y Concentración Total Constante activas desde ya, SIN costo de vida (no muere a los 25).",
+        "Formas desbloqueadas en maestría 30: Primera forma: Último rayo (tajo horizontal de luz anaranjada); Segunda forma: Sombra larga (corte que se estira como la sombra del atardecer, alcanza lejos); Tercera forma: Horizonte quebrado (círculo de cortes alrededor, defensa y ataque).",
+        "Más formas con maestría (cada +10).",
+        "Funciona con cualquier hoja; con una Nichirin el corte además mata demonios de raíz."
+      ]
     }
   },
   "velo": {
@@ -821,6 +838,11 @@
       "objeto": "Foto impresa del beso en Gwangjang (la de los diarios), regalo de Cha Hae-in: \"Es la única foto que tenemos juntos.\"",
       "mundo": "sololeveling",
       "turno": 1859
+    },
+    {
+      "nombre": "Señalador de cuero de Robin",
+      "cantidad": 1,
+      "nota": "T1896: se lo puso en el bolsillo del sobretodo al despedirse; era del libro nuevo de Water 7."
     }
   ],
   "copias": [
@@ -2624,7 +2646,8 @@
       "naruto",
       "chainsawman",
       "fullmetal",
-      "sololeveling"
+      "sololeveling",
+      "demonslayer"
     ],
     "mundos_completados": [
       "jujutsu",
@@ -2645,12 +2668,12 @@
     ],
     "viaje_libre": true,
     "mision_de_mundo_actual": {
-      "mundo": "sololeveling",
-      "mision": "Que todos los cazadores coreanos de la incursión a la Isla de Jeju vuelvan vivos.",
-      "recompensa": "25.000 EXP · 600 Fragmentos",
+      "mundo": "demonslayer",
+      "mision": "Que en la batalla de Yoshiwara no muera ningún civil y que Tengen Uzui salga con sus dos manos y sus dos ojos.",
+      "recompensa": "18.000 EXP · 450 Fragmentos",
       "vence": "nunca",
       "cambiada": false,
-      "estado": "CUMPLIDA (T1845, Día 22: los 16 coreanos volvieron vivos al buque)"
+      "estado": "activa (T1896)"
     },
     "relojes": {
       "jujutsu": "Salida 29/04/2019 10:21, portón de la sede de los altos mandos (Kioto). Prometió a Nanami avisar al volver. Corre.",
@@ -2684,7 +2707,9 @@
       "sololeveling": "Llegada Día 1, 21:40, Gangnam (T1764). MISIÓN CUMPLIDA Día 22 (Jeju). SALIDA Día 24 ~18:05, plaza del ginkgo del barrio de la señora Kang (este de Seúl), testigo Cha Hae-in. Corre al ritmo de Facundo.",
       "onepiece_trato_akainu": "TRATO SELLADO (T1891): corre desde el Día ~228 00:00 un año (hasta Día ~593 00:00). Marina/CP/Gobierno buscan solo a Facundo; no tocan a Robin ni a la tripulación del Sombrero de Paja ni a los que caminan con ellos. Si atacan a un marine, la Marina se defiende. Si lo encuentran, Facundo se entrega en la oficina del Almirante de Flota sin pelear ni desaparecer.",
       "onepiece_sabaody_reencuentro": "Reencuentro de los Sombrero de Paja en Sabaody: Día ~787 (dos años desde Marineford, ~Día 57). Al T1894 (Día ~227) faltan ~560 días (~19 meses). El trato con Akainu termina el Día ~593: seis meses antes de Sabaody.",
-      "onepiece_plan_barreras": "PLAN DE FACUNDO (T1895): cuando queden seis meses para Sabaody (al terminar el trato con Akainu, Día ~593), poner la barrera del Bankai (como sobre la flota de Barbablanca) sobre cada isla donde estén: Kuraigana, Weatheria, Boin, Torino, Karakuri, Namakura, Momoiro, Rusukaina y Baltigo."
+      "onepiece_plan_barreras": "PLAN DE FACUNDO (T1895): cuando queden seis meses para Sabaody (al terminar el trato con Akainu, Día ~593), poner la barrera del Bankai (como sobre la flota de Barbablanca) sobre cada isla donde estén: Kuraigana, Weatheria, Boin, Torino, Karakuri, Namakura, Momoiro, Rusukaina y Baltigo.",
+      "onepiece_salida_T1896": "Salida Día ~231 (mañana), torre de Dragon en Baltigo, testigo Robin. Robin borró las 97 marcas y empezó pared nueva ('Uno'). Prometió volver en ~2 meses con una historia nueva para el cuaderno. Corre.",
+      "demonslayer": "Llegada Día 1 22:40, callejón junto a la casa Kyōgoku, Yoshiwara (Tokio, Taishō). Corre."
     },
     "puerta_abierta": true,
     "historial_misiones": {
@@ -2721,10 +2746,9 @@
         "estado": "CUMPLIDA (T1144): la Guerra de Liberación Paranormal terminó antes de empezar; sin muertos de la U.A."
       }
     },
-    "mundos_disponibles_sin_visitar": [
-      "demonslayer"
-    ],
-    "nota_mundos_nuevos": "T1657 (R16): se suman Demon Slayer, Fullmetal Alchemist, Chainsaw Man y Solo Leveling. /viajar nuevo elige al azar entre ellos. Dragon Ball Super es parte del mundo Dragon Ball (canon/dragonballsuper/)."
+    "mundos_disponibles_sin_visitar": [],
+    "nota_mundos_nuevos": "T1657 (R16): se suman Demon Slayer, Fullmetal Alchemist, Chainsaw Man y Solo Leveling. /viajar nuevo elige al azar entre ellos. Dragon Ball Super es parte del mundo Dragon Ball (canon/dragonballsuper/).",
+    "misiones_de_mundo_historial": {}
   },
   "apodos": {
     "bleach": "Bicolor (Yoruichi y Urahara). En el Seireitei, desde el 29/07: 'el Ryoka del Sōkyoku'.",
@@ -2735,7 +2759,8 @@
     "naruto": "",
     "chainsawman": "",
     "fullmetal": "",
-    "sololeveling": ""
+    "sololeveling": "",
+    "demonslayer": ""
   },
   "tienda": {
     "catalogo_permanente": {
@@ -2826,21 +2851,12 @@
       "Plato de carne al punto con puré (caliente, con cubiertos)": "1 Fragmento (fijado T1554)"
     },
     "stock_rotativo": {
-      "mundo": "sololeveling",
-      "slots": [
-        {
-          "item": "Celular moderno con línea surcoreana a nombre de nadie",
-          "precio": 6
-        },
-        {
-          "item": "Poción de maná (recupera 30% de energía)",
-          "precio": 8
-        },
-        {
-          "item": "Licencia de cazador falsa pero perfecta (rango E)",
-          "precio": 20
-        }
-      ]
+      "mundo": "demonslayer",
+      "items": {
+        "Saquito de glicina (los demonios débiles no se acercan)": 3,
+        "Kimono Taishō completo (con haori y geta)": 20,
+        "Mapa de Tokio de 1915": 2
+      }
     },
     "ultimo_hito_de_catalogo": 20
   },
@@ -3032,7 +3048,8 @@
     "apodo_pendiente_sololeveling": "'El cazador sin olor' (entre cazadores, por Cha Hae-in) / 'el Cerrajero' (si lo ven cerrar Puertas).",
     "sololeveling_jeju_fecha": "T1818: 4.ª incursión a Jeju anunciada Día 8 a los S; fecha: Día 22 (dos semanas). 18 cazadores coreanos S/A + japoneses (Goto Ryuji). Canon: muere Min Byung-Gyu (el Rey Hormiga lo come) y varios más; Jinwoo llega por Intercambio de Sombras con la sombra que dejó junto a Cha Hae-in (si lo hace en esta línea).",
     "sololeveling_jeju_canon_detallado": "(Fuente: repo FacundoMorelli/SoloLeveling, partida/Canon/07_isla_de_jeju.md) Día 11 (en esta línea): entrenamiento en el gimnasio de la Asociación, Jinwoo mira desde el balcón con Gunhee y Choi. 4 vs 4: Kenzo vence a Ma Dongwook; Hoshino vence a Lim Taegyu; Hoshino y Tanaka vencen a Baek; Cha vence a Kanae Tawata; Kumamoto se descontrola contra Cha y Jinwoo interviene y lo incapacita. Luego Goto desafía a Jinwoo (duda que sea mago): Jinwoo esquiva todo; Goto ataca a matar y le corta la mejilla; Jinwoo le sujeta la mano; Kei levanta muro de hielo; los separan; sin ganador. Jinwoo deja sombras en Goto y Cha (o Yoonho). Jinwoo decide no ir a Jeju (cuidar a su madre). Día 22 incursión: japoneses cebo; el Rey hormiga mata a Akari, Kenzo, Tatsumi, Kei, Ippei, Mari, GOTO (dos golpes) y MIN BYUNG-GYU (le come la cabeza); noquea a Cha casi muerta. Matsumoto ordena abandonar a los coreanos. Jinwoo llega por Intercambio de Sombras, mata al Rey (Beru). Sobreviven Choi, Cha, Baek, Ma Dongwook, Lim Taegyu, Hoshino, Kanae, Kumamoto.",
-    "onepiece_vuelta_T1859": "Cálculo: desde la salida Día ~129 pasaron ~97 días de Facundo (Shingeki 11, DB ~14, CSM 9, FMA 36, DB 3, SL 24). OP Día ~226. Canon en paralelo (timeskip): la tripulación entrena dispersa; Luffy con Rayleigh en Rusukaina; Robin en Baltigo con los revolucionarios; Barbablanca sano (curado por Facundo) con Ace vivo; Bankai de Facundo protegiendo la flota; Sabo con memoria. Robin pidió algo del mundo de los titanes (T1470) — Facundo no lo trajo todavía."
+    "onepiece_vuelta_T1859": "Cálculo: desde la salida Día ~129 pasaron ~97 días de Facundo (Shingeki 11, DB ~14, CSM 9, FMA 36, DB 3, SL 24). OP Día ~226. Canon en paralelo (timeskip): la tripulación entrena dispersa; Luffy con Rayleigh en Rusukaina; Robin en Baltigo con los revolucionarios; Barbablanca sano (curado por Facundo) con Ace vivo; Bankai de Facundo protegiendo la flota; Sabo con memoria. Robin pidió algo del mundo de los titanes (T1470) — Facundo no lo trajo todavía.",
+    "demonslayer_llegada": "Llegada T1896 por puerta de viaje libre (azar: único mundo sin visitar). Arco 8 (Distrito Rojo, caps. 70-97). Esa noche: Uzui busca a sus esposas; Tanjiro ('Sumiko', casa Tokito), Zenitsu ('Zenko', Kyōgoku), Inosuke ('Inoko', Ogimoto) infiltrados. Daki ('Warabihime', LS6) en el último piso de Kyōgoku, Gyutaro dentro de ella. Cintas del obi bajo el distrito con decenas de presos (incl. Makio y Suma, Zenitsu?). Canon: Uzui pierde la mano izquierda y el ojo; la dueña de Kyōgoku y civiles mueren."
   },
   "recompensa_onepiece": {
     "monto": 400000000,

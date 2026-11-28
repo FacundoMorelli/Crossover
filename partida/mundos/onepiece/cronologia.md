@@ -198,3 +198,5 @@
 - Día ~227 08:10 · (por Facundo) Kuma es sacado de Mary Geoise delante de su dueño, un Dragón Celestial; llevado a Momoiro.
 - Día ~227 · (en paralelo) Jewelry Bonney presa en un buque prisión de la Marina rumbo a la Red Line/Mary Geoise (canon del timeskip: Bonney capturada por la Marina).
 - Día ~167 · (canon del timeskip, por Dragon) Sengoku se retira; Akainu es el nuevo Almirante de Flota.
+
+- T1896 · Día ~228: Robin compra un libro con su nombre en Water 7. Días ~228-231 en Baltigo (Sabo cena dos veces; Dragon le da la mano a Facundo). Día ~231: Facundo se va por una puerta desde la torre de Dragon.

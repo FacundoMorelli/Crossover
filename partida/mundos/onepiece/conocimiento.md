@@ -319,3 +319,5 @@
 - T1887 · AKAINU ve a Facundo y a Robin en su oficina (aparición); sabe quién es Robin.
 - T1889 · AKAINU y ROBIN conocen el trato. (Privado, en la oficina del Almirante de Flota.)
 - T1891 · AKAINU vio que su magma no quema a Facundo.
+
+- T1896: Un librero anciano de Water 7 vendió un libro a "Nico" (Robin dio su nombre). Él la reconoció y no dijo nada. Sin fuente sobre Facundo.
