@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1882)
-
-eh, mierda, tanto me van a poner?
-
-## RESPUESTA 1 (T1882)
-
-> eh, mierda, tanto me van a poner?
-
-> —Eh... mierda. ¿Tanto me van a poner?
-
-Silencio.
-
-Después Bonney suelta una carcajada tan fuerte que se le cae crema de la boca sobre el diario, sobre tu cara dibujada. Se dobla sobre la rodilla de su padre, golpeando la mesa con la mano.
-
-—¡"¿Tanto me van a poner?"! —repite, entre lágrimas—. ¡Tres mil millones, y pregunta si es mucho!
-
-Las okamas se ríen. Ivankov se ríe con la cabeza hacia atrás, enorme, haciendo temblar las copas.
-
-Sanji no se ríe. Deja la bandeja en la mesa. Agarra el diario de las manos de Bonney, con cuidado, como si fuera de cristal, y mira el cartel. Mira la cifra. Se le cae el cigarro.
-
-—Tres mil doscientos millones —dice, bajito—. Luffy tiene trescientos. —Levanta la vista hacia ti, con la ceja enroscada temblando—. Cuando lo vea, va a llorar. De envidia. Y después va a querer pelear contigo para quitártela.
-
-Dobla el diario y se lo guarda en el bolsillo del pecho, sin pedir permiso.
-
-—Esto me lo quedo. Para mostrárselo.
-
-Pero Dragon no se ríe.
-
-Se acerca a la mesa principal despacio, desde los setos, con Kuma detrás. Se detiene a tu lado. Mira el diario en el bolsillo de Sanji. Después te mira a ti.
-
-—El dinero no importa —dice, bajo, para que lo escuchen solo los que están cerca—. Lo que importa es la última línea. —Hace una pausa—. "Movilización del Almirante de Flota". Sengoku se retiró hace dos meses. El nuevo Almirante de Flota es Sakazuki. Akainu.
-
-Kuma, detrás de él, se pone serio. Bonney deja de reírse.
-
-—Lo viste en Marineford —sigue Dragon—. Le quitaste a Ace del cadalso y no pudo tocarlo. Le paraste el volcán con algo que nadie vio. Lo dejaste solo en la orilla, viendo irse a la flota de Barbablanca. —Te mira a los ojos—. Akainu no olvida. Y no perdona. Y ahora tiene toda la Marina bajo su mano.
-
-Se queda callado un segundo.
-
-—No va a ir por ti. Sabe que no puede. Va a ir por todo lo que tengas cerca. —Mira a Kuma, a Bonney, a Sanji—. Por los que te rodean. Por los que quieres.
-
-Mira hacia el norte, hacia el mar, hacia donde queda Baltigo, y no dice el nombre. No hace falta.
-
-—¿Qué vas a hacer, Ojos de Eclipse?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1882 · ONE PIECE · DÍA ~227 · 18:43    ║
-║ Isla Momoiro · Reino Kamabakka               ║
-║ Patio de la fiesta, mesa principal           ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la mesa, mirando a Dragon           ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Dragon: "¿Qué vas a hacer?"        ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1883)
+## COMANDO 1 (T1883)
 
 que puedo hacer?
 
-## RESPUESTA 2 (T1883)
+## RESPUESTA 1 (T1883)
 
 > que puedo hacer?
 
@@ -115,11 +56,11 @@ Se cruza de brazos.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1884)
+## COMANDO 2 (T1884)
 
 esta bien, cuando terminemos y te lleve a báltigo de nuevo hablo con ella
 
-## RESPUESTA 3 (T1884)
+## RESPUESTA 2 (T1884)
 
 > esta bien, cuando terminemos y te lleve a báltigo de nuevo hablo con ella
 
@@ -174,6 +115,79 @@ Te mira a los ojos.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1885)
+
+gracias kuma, me teletransporto con dragon a baltigo
+
+## RESPUESTA 3 (T1885)
+
+> gracias kuma, me teletransporto con dragon a baltigo
+
+> —Gracias, Kuma.
+
+Kuma asiente, despacio. Baja la mano. Se endereza, haciendo crujir las baldosas, y vuelve junto al almohadón donde duerme su hija, y se sienta a su lado, y le acomoda la manta.
+
+Kase, en la mesa, abre un ojo. Se estira encima de la servilleta de encaje, sacudiéndose las migas, y salta a tu hombro.
+
+Sanji te levanta la copa desde la mesa, sin decir nada, con el cigarro en la boca. Ivankov te manda un beso con la mano enorme, desde la escalera.
+
+Le pones la mano en el brazo a Dragon. Esta vez no está tenso.
+
+Momoiro desaparece.
+
+...
+
+Viento frío. Polvo blanco. El ruido del mar contra los acantilados, abajo, de noche.
+
+La torre de Dragon, a oscuras, iluminada solo por una lámpara de aceite sobre la mesa de mapas y por la luna que entra por las cuatro ventanas.
+
+No hay nadie. Koala, Corvin, Hack, Sabo: se fueron hace horas. Solo queda una persona.
+
+Robin está sentada en la silla de Dragon, junto a la mesa, con las piernas cruzadas, el cuaderno cerrado sobre las rodillas, y un diario abierto delante, sobre los mapas, bajo la lámpara. El diario de hoy. La primera plana. Tu cara dibujada, el gato, el carruaje vacío. Y el cartel.
+
+Levanta la vista cuando aparecen.
+
+Mira a Dragon. Mira a Kase. Te mira a ti.
+
+Dragon se queda un segundo quieto, junto a la mesa. Mira a Robin. Mira el diario. Después se da vuelta, sin decir nada, y camina hacia la escalera de caracol. Antes de bajar se detiene un instante en el umbral, de espaldas.
+
+—Gracias, Ojos de Eclipse —dice.
+
+Y baja. Lo escuchas descender, escalón por escalón, hasta que sus pasos se pierden en la fortaleza.
+
+Te quedas solo con Robin, en la torre, bajo la luna.
+
+Ella no se levanta. Te mira largo, serena, con la luz amarilla de la lámpara en la cara. Después baja los ojos al diario y pasa un dedo, despacio, por la cifra del cartel, como pasó el dedo por las alas de la capa de la Legión.
+
+—Tres mil doscientos millones —dice, bajito.
+
+Una pausa.
+
+—Movilización del Almirante de Flota. —Levanta la vista—. Koala me trajo el diario a la tarde. Y Sabo me contó que el nuevo Almirante de Flota es Sakazuki.
+
+No le tiembla la voz. Pero las manos, sobre el cuaderno cerrado, se aprietan un poco.
+
+—Yo tenía ocho años —dice—. Estaba en un barco, en el mar, mirando hacia atrás. Y vi a ese hombre quemar mi isla. Los libros. La biblioteca. A mi madre. —Una pausa—. Ese mismo hombre ahora tiene toda la Marina. Y tu cara en la mesa.
+
+Se pone de pie, despacio. Se acerca. Se detiene delante de ti, muy cerca, y te mira a los ojos, de abajo.
+
+—Dragon te dijo que vinieras a contarme —dice—. Lo conozco. —Una media sonrisa, sin alegría—. Así que cuéntame. ¿Qué vas a hacer?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1885 · ONE PIECE · DÍA ~227 · 23:05    ║
+║ Baltigo · torre de Dragon                    ║
+║ Junto a la mesa de mapas, con Robin          ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 99% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Robin: "¿Qué vas a hacer?"         ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 23:02, patio de Momoiro bajo la luna. "Cuando terminemos y te lleve a Baltigo de nuevo, hablo con ella." Dragon: "Bien." Fiesta hasta la luna: postres de Sanji (pastel de seis pisos en forma de corazón); Bonney dormida en la rodilla de Kuma; Ivankov no logra hacer bailar a Dragon; Sanji le cuenta en voz baja: aprendió 73 de las 99 recetas, el primer plato en Sabaody será para Luffy. Kase dormido en una servilleta. 23:00: Dragon se levanta, listo. Kuma acuesta a Bonney en un almohadón, se agacha ante Facundo: "En Thriller Bark te pregunté a dónde te gustaría ir de vacaciones. Nunca me contestaste. Cuando quieras ir a algún lado... Lejos de todo. Donde nadie te busque. Pídemelo. Ahora sé por qué lo haría." (mano abierta delante, sin tocarlo)
+ESTADO AL CIERRE: Día ~227 23:05, torre de Dragon en Baltigo (de noche). "Gracias, Kuma." Kuma vuelve junto a Bonney. Sanji levanta la copa; Ivankov manda un beso. Teletransporte con Dragon (ya no tenso). En la torre solo Robin, sentada en la silla de Dragon con el diario de hoy (cartel de 3.200 millones). Dragon, desde la escalera: "Gracias, Ojos de Eclipse." y baja. Robin: Koala le trajo el diario; Sabo le dijo que el Almirante de Flota es Sakazuki. "Yo tenía ocho años... vi a ese hombre quemar mi isla. Los libros. La biblioteca. A mi madre. Ese mismo hombre ahora tiene toda la Marina. Y tu cara en la mesa." "Dragon te dijo que vinieras a contarme. Lo conozco. Así que cuéntame. ¿Qué vas a hacer?"

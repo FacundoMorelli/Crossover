@@ -14,3 +14,4 @@ ESTADO: en Momoiro, esperando.
 - T1877 · "¿Sanji-boy? ¡El rubio de la ceja enroscada! ¡Hace cinco meses que está! ¡Corriendo por toda la isla, gritando, peleando con mis candies, y robándose las recetas del rey de la cocina una por una, como una rata!"
 - T1880 · "¡¡Sanji-boy, a la cocina!! ¡¡Hoy tenemos invitados!! ¡¡Un revolucionario, un Shichibukai que volvió de entre los muertos, una dama de verdad, y Ojos de Eclipse!!"
 - T1881 · Baila en las mesas, canta, llora; cambia el sexo a dos okamas y se lo devuelve; le sirve vino a Dragon cada cinco minutos.
+- T1885 · Le manda un beso con la mano a Facundo desde la escalera.

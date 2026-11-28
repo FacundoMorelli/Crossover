@@ -23,3 +23,4 @@ ENCUENTROS:
 - T1881 · Cocina todo el día las recetas del rey; mira serio hasta que dicen que está bueno. Ondula con Bonney y se endereza al ver a Kuma. Le prepara a Kase pescado a la manteca; Kase le roza los tobillos: conmovido.
 - T1882 · Toma el diario, se le cae el cigarro: "Tres mil doscientos millones. Luffy tiene trescientos. Cuando lo vea, va a llorar. De envidia. Y después va a querer pelear contigo para quitártela." Se guarda el diario: "Esto me lo quedo. Para mostrárselo."
 - T1884 · Postres (pastel de seis pisos en forma de corazón). Sentado junto a Facundo, en voz baja: aprendió 73 de las 99 recetas; le faltan 26; con todas podrá alimentar a Luffy en cualquier isla; el primer plato en Sabaody será para él.
+- T1885 · Le levanta la copa a Facundo cuando se va.

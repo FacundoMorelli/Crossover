@@ -120,3 +120,4 @@ ESTADO: activa
 - T1868 · Le suelta la mano: "Un minuto. Lo voy a contar."
 - T1875 · Junto a la ventana del este, anota el tiempo: "Cuatro minutos y once segundos. Lo anoté." Media sonrisa: "Llegas tarde."
 - T1876 · Desde la ventana: "Esta vez no cuento. Tómate el tiempo que haga falta."
+- T1885 · Día ~227 23:05 · Esperó sola en la torre de Dragon, en su silla, con el diario de hoy (Koala se lo trajo; Sabo le dijo que el Almirante de Flota es Sakazuki). Pasa el dedo por la cifra: "Tres mil doscientos millones." "Yo tenía ocho años. Estaba en un barco, en el mar, mirando hacia atrás. Y vi a ese hombre quemar mi isla. Los libros. La biblioteca. A mi madre. Ese mismo hombre ahora tiene toda la Marina. Y tu cara en la mesa." "Dragon te dijo que vinieras a contarme. Lo conozco. Así que cuéntame. ¿Qué vas a hacer?"
