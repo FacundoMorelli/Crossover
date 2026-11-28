@@ -19,3 +19,4 @@ ENCUENTROS:
 - T1770 · Facundo: "Sí. Soy un viajero." Nota que alguien lo mide sin saber desde dónde. Mira cicatriz, ojos, a Kase (mismos ojos). Cara de quien sospecha que tiene enfrente a otro que esconde algo. Aparte, en voz baja: "Hay una Puerta de rango A en medio de la avenida, a las once de la noche. Y un viajero que no sabe qué es una Puerta se queda dos horas mirándola. ¿Por qué?"
 TASACIÓN (T1770): Sombras (extracción y mando), dagas; origen: sin datos; amenaza BAJA; tú x65 sobre él; se contiene (esconde parte de su maná); copiable, misión EXTREMA.
 QUÉ SABE DE FACUNDO (T1770): se llama Facundo (lo dijo Cha Hae-in), dice ser viajero, no sabía qué son cazadores ni Puertas (por Cha Hae-in), no huele mal según Cha Hae-in, se quedó en la cinta toda la incursión (deducción: lo ve ahí al salir).
+- T1771 · Oye que Facundo quería ver a Cha de nuevo; casi sonríe: "Ya veo." Mira a Kase (lo único que no le cierra) y se va a la camioneta de la Asociación.

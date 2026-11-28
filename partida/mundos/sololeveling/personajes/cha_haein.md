@@ -18,3 +18,4 @@ ESTADO: llega a la Puerta de Gangnam con el Gremio. ADULTA.
 - T1768 · (Facundo la observa sin ser visto) Danza de la Espada en el túnel: la espada como una cinta; deja orcos en el piso a cada vuelta. Ve a Jinwoo extraer la sombra del chamán. A Jinwoo, bajito: "Tú tampoco hueles mal. Como el chico de afuera." (Le cuenta a Jinwoo, sin nombrarlo, que hay alguien que no huele.)
 - T1769 · Al salir busca a Facundo entre la multitud; sonrisa de alivio al verlo. Se lo señala a Jinwoo y va a la cinta: "Facundo. Te quedaste." (Recuerda su nombre.)
 - T1770 · Le cuenta a Jinwoo en voz baja que Facundo no sabía qué son los cazadores ni las Puertas.
+- T1771 · Facundo: "...Aparte, quería ver a Cha de nuevo." Se pone colorada (orejas y mejillas), mira un poste. "Nadie... Nadie me dice esas cosas así, en la cara." "No sabes qué son los cazadores. No tienes papeles, ¿verdad? ¿Tienes dónde dormir esta noche?" RELACIÓN: interés, curiosidad, se preocupa por él.

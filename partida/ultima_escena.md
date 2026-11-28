@@ -3,126 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1768)
-
-entro sin que nadie me vea y veo lo que hacen sin que me vean,
-
-## RESPUESTA 1 (T1768)
-
-> entro sin que nadie me vea y veo lo que hacen sin que me vean
-
-Esperas a que la periodista vuelva a mirar a la cámara y a que el agente de la valla más cercana se agache a atarse el cordón.
-
-No te ve nadie. Ni la multitud, ni las cámaras, ni las pantallas. Cruzas la cinta, las vallas y el óvalo violeta en el mismo parpadeo, y la avenida de Gangnam se apaga a tu espalda como una radio desenchufada.
-
-Adentro hace frío y huele a tierra mojada, a grasa animal, a humo.
-
-Es la caverna que viste en el plano de luz, pero de verdad: un túnel ancho de piedra negra que baja en espiral, con estalactitas como dientes, antorchas clavadas en las paredes y charcos en el piso que reflejan el fuego. Te quedas arriba, en una saliente de roca, pegado a la pared, en la sombra. Kase se aplasta contra tu cuello. Desde ahí ves todo. La saliente da a todo el túnel en espiral; cuando bajan, la sigues por arriba, de roca en roca.
-
-Los orcos aparecen primero. Son altos, de más de dos metros y medio, de piel verde grisácea, con colmillos que les salen de la mandíbula inferior, armaduras de cuero y hueso, hachas del tamaño de una puerta. Salen de los túneles laterales gritando en un idioma que, por el Sistema, entiendes: "carne", "maten", "por el gran chamán".
-
-El gremio forma. El grandote del escudo adelante. Los magos atrás. El arquero en una roca.
-
-El hombre de los anteojos dorados, Choi Jong-In, levanta una mano. Sin apuro. Y del techo de la caverna, de la nada, cae fuego: bolas de fuego del tamaño de un auto, como meteoritos, que revientan sobre la primera fila de orcos y llenan el túnel de luz naranja y de gritos.
-
-Cha Hae-in no espera a que se apague. Se mete en el humo.
-
-Es lo más bonito que viste hacer con una espada en mucho tiempo. No pelea: baila. La espada larga se le mueve alrededor del cuerpo como una cinta, sin parar nunca, y cada vuelta deja un orco en el piso. Es rápida, precisa, limpia. Un orco le tira un hachazo vertical; ella ya no está ahí: está detrás de él, y él tarda en darse cuenta de que está muerto.
-
-Y el chico de la chaqueta negra.
-
-Sung Jinwoo no hace nada durante el primer minuto. Mira. Las manos en los bolsillos. Después, cuando tres orcos rodean al arquero y el arquero grita, saca las manos de los bolsillos.
-
-Tiene dos dagas negras. Y en un segundo los tres orcos están en el piso.
-
-No fue rápido: fue otra cosa. Fue como si los tres hubieran muerto al mismo tiempo, desde lejos, sin que él se moviera. Cha Hae-in se detiene en medio del baile, con la espada levantada, y lo mira. Choi Jong-In también. El grandote del escudo deja la boca abierta.
-
-A partir de ahí, Jinwoo baja. Solo. Por el túnel en espiral, sin apuro, con las dagas en las manos, y los orcos que salen a su paso no llegan a levantar las hachas. Los cazadores del gremio lo siguen, de lejos, sin entender, como quien sigue a alguien que abre camino a machetazos en una selva.
-
-Al fondo, en una cámara redonda, el trono de huesos. El chamán: más chico que los demás, encorvado, con la piel cubierta de tatuajes que brillan en rojo y un báculo de hueso con una calavera en la punta. Levanta el báculo. Grita. Los orcos que quedan se vuelven más grandes, más rojos, más rápidos.
-
-No importa.
-
-Jinwoo cruza la cámara. El chamán le lanza algo, una magia que hace temblar el aire. Jinwoo la atraviesa. Llega al trono. La daga negra entra en el pecho del chamán sin ruido.
-
-El chamán cae.
-
-Y entonces Jinwoo hace algo que no hizo nadie en esta caverna: se queda quieto frente al cadáver, extiende la mano y dice, en voz baja, una sola palabra:
-
-—Levántate.
-
-De la sombra del chamán muerto sube algo. Una silueta negra, humo con forma, ojos de luz azul. Se arrodilla frente a Jinwoo. Detrás de él, en la cámara, los cazadores del gremio retroceden un paso, todos a la vez.
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Danza de la Espada                           ║
-║ USUARIA: Cha Hae-in · Solo Leveling          ║
-║                                              ║
-║ MISIÓN: Bailar la Danza de la Espada con     ║
-║ Cha Hae-in, frente a frente, hasta que ella  ║
-║ baje la espada primero.                      ║
-║ DIFICULTAD: MEDIA                            ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Magia de fuego (meteoritos)                  ║
-║ USUARIO: Choi Jong-In · Solo Leveling        ║
-║                                              ║
-║ MISIÓN: Recibir de frente el meteorito más   ║
-║ grande de Choi Jong-In sin moverte del       ║
-║ lugar.                                       ║
-║ DIFICULTAD: MEDIA                            ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Monarca de las Sombras (Extracción de        ║
-║ Sombras y todo su poder)                     ║
-║ USUARIO: Sung Jinwoo · Solo Leveling         ║
-║                                              ║
-║ MISIÓN: Pelear con Sung Jinwoo en serio,     ║
-║ los dos con todo, y que al terminar él te    ║
-║ dé la mano.                                  ║
-║ DIFICULTAD: EXTREMA                          ║
-╚══════════════════════════════════════════════╝
-```
-
-Cha Hae-in mira la sombra arrodillada. Después mira a Jinwoo. Respira por la nariz, despacio, como hizo en la cinta, y se le abren los ojos.
-
-—Tú tampoco hueles mal —le dice a Jinwoo, bajito, casi para ella misma—. Como el chico de afuera.
-
-Jinwoo la mira por primera vez. Frunce apenas el ceño.
-
-—¿Qué chico?
-
-Arriba, en tu saliente de roca, Kase mueve la punta de la cola.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1768 · SOLO LEVELING · DÍA 1 · 22:30   ║
-║ Dentro de la Puerta de Gangnam (rango A)     ║
-║ Saliente de roca sobre la cámara del trono   ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.815 · 0 won                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: pegado a tu cuello                     ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1769)
+## COMANDO 1 (T1769)
 
 salgo antes que todos y de vuelta sin que me vean estoy en el mismo lugar de antes
 
-## RESPUESTA 2 (T1769)
+## RESPUESTA 1 (T1769)
 
 > salgo antes que todos y de vuelta sin que me vean estoy en el mismo lugar de antes
 
@@ -177,11 +62,11 @@ Jinwoo no dice nada. Te mira los ojos. Después le baja la vista a tus manos, a 
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1770)
+## COMANDO 2 (T1770)
 
 si, soy un viajero, uso tasación en sung (y acordate de leer bien todas las reglas, etc, por que se compacto y no quiero que pierdas el hilo)
 
-## RESPUESTA 3 (T1770)
+## RESPUESTA 2 (T1770)
 
 > si, soy un viajero, uso tasación en sung
 
@@ -233,6 +118,55 @@ Jinwoo no les hace caso. Da medio paso hacia la cinta, lo suficiente para que na
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1771)
+
+me gustan las cosas nuevas y no tengo otra cosa que hacer, a parte queria ver a cha de nuevo
+
+## RESPUESTA 3 (T1771)
+
+> me gustan las cosas nuevas y no tengo otra cosa que hacer, a parte queria ver a cha de nuevo
+
+> —Me gustan las cosas nuevas y no tengo otra cosa que hacer. Aparte, quería ver a Cha de nuevo.
+
+Por un segundo no se mueve nadie.
+
+Cha Hae-in se queda quieta con la mano en la correa de la espada. Se le ponen rojas las orejas y después las mejillas, rápido, como si alguien hubiera prendido una estufa. Abre la boca, la cierra y mira hacia el costado, a la nada, a un poste de luz.
+
+Jinwoo la mira a ella. Después a ti. Algo en la comisura de su boca se mueve, muy poco, casi nada. No llega a ser una sonrisa, pero se le parece.
+
+—Ya veo —dice.
+
+Saca las manos de los bolsillos, se acomoda el cuello de la chaqueta y vuelve a mirar a Kase un instante, como si el gato fuera lo único que todavía no le cierra. Después se da vuelta y camina hacia la camioneta de la Asociación, donde un hombre de traje lo espera con una carpeta. Los periodistas intentan cortarle el paso y él los esquiva sin mirarlos.
+
+Cha Hae-in sigue mirando el poste.
+
+—¡Vicemaestra! —grita el grandote del escudo desde la camioneta del gremio—. ¡El maestro Choi dice que nos vamos!
+
+Choi Jong-In ya está sentado en el asiento de adelante, con la puerta abierta, mirando el reloj.
+
+Cha Hae-in respira hondo, por la nariz, despacio. Por fin te mira. Sigue colorada, pero te sostiene la mirada.
+
+—Nadie... —empieza, y se corta. Se aclara la garganta—. Nadie me dice esas cosas así, en la cara.
+
+Mira la camioneta, mira tus manos vacías, mira a Kase y vuelve a ti.
+
+—No sabes qué son los cazadores. No tienes papeles, ¿verdad? —Baja la voz—. ¿Tienes dónde dormir esta noche?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1771 · SOLO LEVELING · DÍA 1 · 23:15   ║
+║ Seúl, Corea del Sur                          ║
+║ Gangnam, cinta del cordón de la Puerta       ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.815 · 0 won                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 1 23:13, cinta de Gangnam. Facundo: "Sí. Soy un viajero." Tasación de Jinwoo (Sombras, dagas, origen sin datos; amenaza BAJA; tú x65 sobre él; se contiene; misión EXTREMA). Cha Hae-in le cuenta a Jinwoo que Facundo no sabía qué son cazadores ni Puertas. Jinwoo, aparte, en voz baja: "¿Por qué?" (un viajero que no sabe qué es una Puerta se queda dos horas mirándola). Choi Jong-In espera impaciente; periodista se acerca.
+ESTADO AL CIERRE: Día 1 23:15, cinta de Gangnam. Facundo: "Me gustan las cosas nuevas... Aparte, quería ver a Cha de nuevo." Cha Hae-in colorada. Jinwoo casi sonríe: "Ya veo." y se va a la camioneta de la Asociación. Gremio se va (Choi espera). Cha: "Nadie me dice esas cosas así, en la cara." "No tienes papeles, ¿verdad? ¿Tienes dónde dormir esta noche?"
