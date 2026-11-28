@@ -71,3 +71,4 @@ QUÉ SABE DE FACUNDO (T1797): nombre; viajero; sin papeles; no sabía qué son c
 - T1834 · Día 22 05:36 · Beso largo agarrada a su camisa. Facundo: "Te espero aquí. Cuídate mucho, amor." Frente con frente, respira hondo: "Voy a volver. Te lo prometo. Igual que tú me lo prometiste a mí." En el umbral, sonrisa de costado: "Entro." Se va en la camioneta de la Asociación hacia el helipuerto.
 - T1836 · Día 22 · Baja adelante al nido; en la cámara de los huevos se detiene frente al huevo enorme roto, vacío (entiende); siguen hacia la reina.
 - T1837 · Día 22 · Mata a la guardia real bailando (nadie la toca); sube por la reina y la DECAPITA de un corte. Maná bajo, cansada, bajando de la cabeza de la reina cuando entra el Rey.
+- T1838 · A dos pasos detrás de Facundo cuando él aparece de la nada frente al Rey: "¿Facundo?" (voz rota, sin entender). Armadura manchada, pelo suelto pegado a la cara.

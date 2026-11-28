@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1835)
-
-me teletransporto a jeju sin que nadie me vea
-
-## RESPUESTA 1 (T1835)
-
-> me teletransporto a jeju sin que nadie me vea
-
-Kase deja de mirar la puerta y salta a tu hombro antes de que termines de pensarlo.
-
-La habitación 2207 desaparece.
-
-...
-
-Viento. Sal. Un olor espeso, ácido, como de hormiguero aplastado multiplicado por mil, que se te mete en la garganta.
-
-Aparecen sobre una saliente de roca negra, volcánica, porosa, en la ladera de una montaña. Nadie los ve llegar: no hay nadie que pueda ver. Abajo y alrededor, hasta donde llega la vista en la luz gris del amanecer, está la isla de Jeju.
-
-O lo que queda de ella.
-
-Las ciudades de la costa son esqueletos: edificios sin ventanas, calles cubiertas de tierra removida, autos volcados y oxidados, con plantas creciendo por dentro. Los campos de mandarinas que la señora Kang recordaba son una alfombra seca y gris. Y por todas partes, en el suelo, en las laderas, en los techos, hay agujeros. Miles. Bocas negras en la tierra, de dos o tres metros de diámetro, con montículos de tierra alrededor, como cráteres. Algunos humean.
-
-Y entre los agujeros, se mueven.
-
-Hormigas. Del tamaño de un caballo, algunas más grandes. Caparazones negros y rojizos que brillan con el rocío, mandíbulas como tijeras de jardín, patas que golpean la tierra con un ruido seco, constante, como lluvia. Patrullan en filas. Entran y salen de los agujeros. Cientos a la vista. Miles debajo.
-
-Kase se aplasta contra tu cuello, con las orejas hacia atrás y el pelo erizado. No hace ruido.
-
-En la costa sur, lejos, en el mar todavía oscuro, se ven las luces de un barco grande, inmóvil. El buque de la Asociación. Todavía no llegaron los helicópteros. Faltan horas.
-
-Abres el ki, y el Ojo del Eclipse, y miras hacia abajo, hacia dentro de la montaña.
-
-La isla entera está hueca. Túneles, cámaras, galerías, como las venas de un cuerpo enorme, y en ellas el maná de las hormigas, miles de puntos chicos, rojizos, moviéndose. En el centro, muy abajo, debajo de la montaña, una masa grande, pesada, quieta, rodeada de puntos más fuertes que la protegen: la reina, y su guardia.
-
-Y algo más.
-
-No está en el nido. Está afuera, en los túneles del este, moviéndose rápido, solo. Un punto que no es como los demás. Que no es rojizo, sino oscuro, casi negro, denso como una piedra caliente, mucho más fuerte que la reina, mucho más fuerte que cualquier cazador que viste en Seúl. Se detiene. Gira. Sigue. Como algo que acaba de nacer y está probando el mundo por primera vez.
-
-Un huevo ya roto, en una cámara vacía del fondo del nido, te lo confirma.
-
-El Rey ya está despierto.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1835 · SOLO LEVELING · DÍA 22 · 05:37  ║
-║ Isla de Jeju                                 ║
-║ Ladera del Hallasan · saliente de roca negra ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: aplastado contra tu cuello, erizado    ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: El Rey hormiga ya nació            ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1836)
+## COMANDO 1 (T1836)
 
 espero escondido a que lleguen los cazadores y miro
 
-## RESPUESTA 2 (T1836)
+## RESPUESTA 1 (T1836)
 
 > espero escondido a que lleguen los cazadores y miro
 
@@ -125,11 +68,11 @@ Kase te clava las uñas en el hombro.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1837)
+## COMANDO 2 (T1837)
 
 sigo mirando como van contra la reina
 
-## RESPUESTA 3 (T1837)
+## RESPUESTA 2 (T1837)
 
 > sigo mirando como van contra la reina
 
@@ -200,6 +143,80 @@ Su maná se vuelve negro.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1838)
+
+miro y cuando este por hacer algo aparezco en frente del rey
+
+## RESPUESTA 3 (T1838)
+
+> miro y cuando este por hacer algo aparezco en frente del rey
+
+Miras. Esperas.
+
+En la caverna, el Rey se queda inmóvil en la entrada un segundo largo, mirando el cadáver partido de la reina. Los coreanos lo ven por primera vez. Sientes cómo se les tensan los maná a todos al mismo tiempo, como cuerdas. El naranja de Choi se enciende. El verde de Min se queda quieto, agachado junto a Baek. El plateado de Cha Hae-in, todavía al pie del cadáver, gira hacia la entrada.
+
+El Rey baja la cabeza.
+
+El maná negro se le comprime en las piernas, en los brazos, en el puño derecho cerrado. Elige. Lo sientes elegir. No va hacia Choi, que es el que más fuego tiene. No va hacia la bestia. Va hacia el punto verde. Hacia el que cura. Hacia Min Byung-Gyu.
+
+Y en el mismo instante, el puño izquierdo, abierto como una garra, hacia el punto plateado que tiene más cerca en el camino. Hacia Cha Hae-in.
+
+Se mueve.
+
+...
+
+Y tú ya estás ahí.
+
+Un parpadeo: la saliente de roca negra del Hallasan desaparece y estás en la caverna, en el fondo de la montaña, de pie entre el Rey y los cazadores, con Kase en el hombro. Nadie te ve llegar. Pero todos te ven estar.
+
+La caverna es más grande de lo que parecía con el Ojo del Eclipse. Huele a ácido, a sangre de hormiga, a fuego, a carne quemada. El techo se pierde arriba en la oscuridad. Las paredes blancas, pegajosas, brillan con la luz de las llamas de Choi. A tu espalda, el cadáver enorme de la reina, partido en dos. Y a tu alrededor, los coreanos: Choi Jong-In con las manos en llamas y los anteojos torcidos, Baek Yoonho a medio transformar y lleno de sangre negra, Ma Dongwook en el piso con el escudo partido, Min Byung-Gyu arrodillado junto a ellos con las manos verdes.
+
+Y detrás de ti, a dos pasos, Cha Hae-in. Con la espada en la mano, la armadura gris manchada de sangre de hormiga, el pelo suelto y pegado a la cara. Los ojos muy abiertos.
+
+Delante, el Rey.
+
+De cerca, el Sistema hace lo suyo.
+
+```
+╔════════════════════════════════════════╗
+║ REY HORMIGA                            ║
+║ Jefe oculto de la Puerta de Jeju       ║
+║ PODER: Fuerza, velocidad, veneno       ║
+║        paralizante, alas, mando del    ║
+║        enjambre, cambio de tamaño      ║
+║ AMENAZA: BAJA                          ║
+║ Diferencia estimada: tú x45 sobre él   ║
+║ COPIABLE · MISIÓN: ALTA                ║
+╚════════════════════════════════════════╝
+```
+
+Es más alto que tú. Dos metros y medio, erguido. El caparazón negro, casi metálico, con reflejos violetas bajo el fuego. Una cara que no es de hormiga del todo: alargada, con mandíbulas cerradas como una boca, y ojos compuestos, enormes, rojos, que te reflejan cientos de veces. Las alas transparentes abiertas a la espalda, vibrando. Los dos brazos ya lanzados: el puño derecho hacia donde estaba Min, la garra izquierda hacia donde estaba Cha.
+
+Hacia donde estás tú ahora.
+
+—¿Facundo? —escuchas detrás, apenas, la voz de Cha Hae-in. Rota. Sin entender.
+
+Arriba, en una saliente de la caverna, pegado a la pared, un hombre con una cámara al hombro y una luz roja encendida te apunta. La luz roja parpadea. En vivo.
+
+El Rey no frena. No puede frenar: ya está en el aire. Pero algo le pasa en la cara cuando te ve aparecer de la nada: los ojos rojos se le contraen, todos a la vez, como un animal que huele algo que no entiende. Porque no huele nada. No siente nada. Delante tiene algo que, para él, no existe.
+
+La garra izquierda baja hacia tu cara.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1838 · SOLO LEVELING · DÍA 22 · 11:31  ║
+║ Isla de Jeju                                 ║
+║ Nido bajo el Hallasan · cámara de la reina   ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirando al Rey           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: ¡La garra del Rey baja hacia ti!   ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 11:31, saliente del Hallasan. El Rey mató al Equipo Charlie (Akari, Kenzo, Tatsumi) y luego a Kei e Ippei (copias de Kenzo y Kei: imposibles). Coreanos en la cámara de la reina: Choi fuego; Baek bestia; Min cura; Cha mata a la guardia real; veneno de la reina hiere a Baek y Ma Dongwook; Cha sube y DECAPITA a la reina. El grito de muerte hace volver a todas las hormigas al nido; los japoneses se retiran hacia la costa (abandonan a los coreanos). El Rey dio la vuelta, atravesó la pared de fuego y ENTRÓ en la cámara: ve a su madre muerta; su maná se vuelve negro. Coreanos heridos y cansados; Min curando a Baek; Cha bajando de la cabeza de la reina, con el maná bajo. (Canon inmediato: el Rey noquea a Cha y mata a Min.)
+ESTADO AL CIERRE: Día 22 11:31, cámara de la reina bajo el Hallasan. El Rey eligió atacar a Min (puño derecho) y a Cha (garra izquierda) y se lanzó; Facundo se teletransportó (nadie lo vio llegar, todos lo ven estar) entre el Rey y los coreanos, con Kase. Tasación del Rey (x45, misión ALTA). Presentes: Choi (manos en llamas, anteojos torcidos), Baek a medio transformar ensangrentado, Ma Dongwook en el piso con el escudo partido, Min arrodillado curando, Cha a dos pasos detrás ("¿Facundo?"). EL CAMARÓGRAFO TRANSMITE EN VIVO (luz roja) desde una saliente. El Rey no siente nada en Facundo (Velo); sus ojos se contraen. La garra izquierda baja hacia la cara de Facundo.

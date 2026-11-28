@@ -49,3 +49,4 @@
 - T1828 · CHA HAE-IN compara: Jinwoo no huele a maná "igual que tú" (Facundo). GUNHEE y CHOI oyen a Facundo decir que sabía que Sung llegaría (no investigan).
 - T1830 · JINWOO sabe (por su sombra escondida en Cha) que Kase se quedó mirando la sombra de Cha; no siente ningún maná en Facundo; deduce que Facundo esconde algo.
 - T1832 · JINWOO sabe (por Facundo) que Facundo conoce sus sombras y que puede usarlas para viajar. No sabe cómo lo sabe. Facundo prometió estar cerca en Jeju.
+- T1838 · PÚBLICO (EN VIVO, transmisión del camarógrafo rango A): Facundo Morelli aparece de la nada en la cámara de la reina de Jeju, entre el Rey hormiga y los coreanos. Lo ven los coreanos presentes (Cha, Choi, Baek, Min, Ma...) y toda Corea por TV (Go Gunhee, Woo Jinchul, la señora Kang, Dong-su, Jinwoo...). QUIÉN VIO QUÉ PODERES: teletransporte (aparecer de la nada) — todos.
