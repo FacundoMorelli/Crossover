@@ -3,58 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1832)
-
-si, voy a estar cerca, no te preocupes, no es necesario que uses tus sombras para ir para allá, sigo caminando sin esperar respuesta
-
-## RESPUESTA 1 (T1832)
-
-> si, voy a estar cerca, no te preocupes, no es necesario que uses tus sombras para ir para allá, sigo caminando sin esperar respuesta
-
-> —Sí, voy a estar cerca. No te preocupes. No es necesario que uses tus sombras para ir para allá.
-
-Y sigues caminando.
-
-No te das vuelta. Pasas al lado de Jinwoo, que sigue de espaldas, quieto en el medio de la vereda, y sigues de largo por la avenida, entre la gente, hacia la esquina.
-
-Detrás de ti no se escucha nada. Ni un paso, ni una palabra.
-
-Pero lo oyes igual, con unos oídos que nadie en esta calle sabe que tienes: la respiración de Jinwoo se corta. Una vez. Se le detiene en el pecho, como cuando a alguien le tiran agua helada por la espalda. Y después, muy bajito, para él solo, una sola palabra:
-
-—...¿Cómo?
-
-Kase, en tu hombro, se da vuelta para mirar hacia atrás, apoyado con las patas delanteras en tu cuello. Lo mira por encima de tu espalda durante media cuadra. Ves en el reflejo de una vidriera lo que él ve: Sung Jinwoo parado en el mismo lugar, ahora de frente, con las manos fuera de los bolsillos, mirándote irte. Ya no tiene la cara de alguien que hace preguntas. Tiene la cara de alguien que acaba de descubrir que no es el único que ve lo que ve.
-
-Doblas la esquina.
-
-Cuando Kase vuelve a mirar, en la vereda frente a la sede ya no hay nadie. Solo la columna de cemento y, en el piso, junto a ella, una sombra un poco más oscura que las demás, que se encoge y desaparece entre las baldosas como agua que se escurre.
-
-Kase se acomoda otra vez en tu hombro, satisfecho, y cierra los ojos.
-
-Sigues caminando. Las calles de Yeouido se abren hacia el río: torres de vidrio, oficinistas comiendo de pie en los puestos callejeros, un parque largo junto al agua, con cerezos sin hojas y bancos de madera. El viento del Han te pega en la cara, frío, con olor a agua y a hojas mojadas. A lo lejos, cruzando el río, se ve la montaña de Namsan con la torre blanca en la punta, chiquita, entre las nubes.
-
-Son las once y media. Cha Hae-in sale a las siete.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1832 · SOLO LEVELING · DÍA 11 · 11:31  ║
-║ Seúl, Corea del Sur                          ║
-║ Yeouido · parque junto al río Han            ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: dormido en el hombro                   ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Jeju (Día 22)                      ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1833)
+## COMANDO 1 (T1833)
 
 simula hasta jeju
 
-## RESPUESTA 2 (T1833)
+## RESPUESTA 1 (T1833)
 
 > simula hasta jeju
 
@@ -111,11 +64,11 @@ Se queda ahí un segundo, en el umbral, sin abrir la puerta.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1834)
+## COMANDO 2 (T1834)
 
 le doy un beso, te espero aquí, cuídate mucho amor
 
-## RESPUESTA 3 (T1834)
+## RESPUESTA 2 (T1834)
 
 > le doy un beso, te espero aquí, cuídate mucho amor
 
@@ -162,6 +115,63 @@ Sobre la mesita de luz, al lado del teléfono blanco, sigue la tarjetita del hot
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1835)
+
+me teletransporto a jeju sin que nadie me vea
+
+## RESPUESTA 3 (T1835)
+
+> me teletransporto a jeju sin que nadie me vea
+
+Kase deja de mirar la puerta y salta a tu hombro antes de que termines de pensarlo.
+
+La habitación 2207 desaparece.
+
+...
+
+Viento. Sal. Un olor espeso, ácido, como de hormiguero aplastado multiplicado por mil, que se te mete en la garganta.
+
+Aparecen sobre una saliente de roca negra, volcánica, porosa, en la ladera de una montaña. Nadie los ve llegar: no hay nadie que pueda ver. Abajo y alrededor, hasta donde llega la vista en la luz gris del amanecer, está la isla de Jeju.
+
+O lo que queda de ella.
+
+Las ciudades de la costa son esqueletos: edificios sin ventanas, calles cubiertas de tierra removida, autos volcados y oxidados, con plantas creciendo por dentro. Los campos de mandarinas que la señora Kang recordaba son una alfombra seca y gris. Y por todas partes, en el suelo, en las laderas, en los techos, hay agujeros. Miles. Bocas negras en la tierra, de dos o tres metros de diámetro, con montículos de tierra alrededor, como cráteres. Algunos humean.
+
+Y entre los agujeros, se mueven.
+
+Hormigas. Del tamaño de un caballo, algunas más grandes. Caparazones negros y rojizos que brillan con el rocío, mandíbulas como tijeras de jardín, patas que golpean la tierra con un ruido seco, constante, como lluvia. Patrullan en filas. Entran y salen de los agujeros. Cientos a la vista. Miles debajo.
+
+Kase se aplasta contra tu cuello, con las orejas hacia atrás y el pelo erizado. No hace ruido.
+
+En la costa sur, lejos, en el mar todavía oscuro, se ven las luces de un barco grande, inmóvil. El buque de la Asociación. Todavía no llegaron los helicópteros. Faltan horas.
+
+Abres el ki, y el Ojo del Eclipse, y miras hacia abajo, hacia dentro de la montaña.
+
+La isla entera está hueca. Túneles, cámaras, galerías, como las venas de un cuerpo enorme, y en ellas el maná de las hormigas, miles de puntos chicos, rojizos, moviéndose. En el centro, muy abajo, debajo de la montaña, una masa grande, pesada, quieta, rodeada de puntos más fuertes que la protegen: la reina, y su guardia.
+
+Y algo más.
+
+No está en el nido. Está afuera, en los túneles del este, moviéndose rápido, solo. Un punto que no es como los demás. Que no es rojizo, sino oscuro, casi negro, denso como una piedra caliente, mucho más fuerte que la reina, mucho más fuerte que cualquier cazador que viste en Seúl. Se detiene. Gira. Sigue. Como algo que acaba de nacer y está probando el mundo por primera vez.
+
+Un huevo ya roto, en una cámara vacía del fondo del nido, te lo confirma.
+
+El Rey ya está despierto.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1835 · SOLO LEVELING · DÍA 22 · 05:37  ║
+║ Isla de Jeju                                 ║
+║ Ladera del Hallasan · saliente de roca negra ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: aplastado contra tu cuello, erizado    ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: El Rey hormiga ya nació            ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 05:36, 2207. Beso de despedida. Facundo: "Te espero aquí. Cuídate mucho, amor." Cha: "Voy a volver. Te lo prometo. Igual que tú me lo prometiste a mí." "Entro." Se fue en la camioneta de la Asociación hacia el helipuerto. Facundo y Kase solos en la habitación (Kase mira la puerta). La tarjetita con su número en la mesita.
+ESTADO AL CIERRE: Día 22 05:37, isla de Jeju, saliente de roca negra en la ladera del Hallasan. Facundo y Kase se teletransportaron sin ser vistos. Isla en ruinas, miles de agujeros, hormigas del tamaño de caballos patrullando. Buque de la Asociación en la costa sur; los helicópteros no llegaron (faltan horas). Con ki y Ojo del Eclipse: la isla hueca de túneles; la reina y su guardia en el centro bajo la montaña; el REY HORMIGA ya nació (huevo roto) y se mueve solo, rápido, por los túneles del este, más fuerte que la reina y que cualquier cazador de Seúl.

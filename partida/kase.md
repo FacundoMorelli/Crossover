@@ -191,3 +191,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1811 · Hotel de Gangnam: destruye un cisne de toalla de la mucama con una pata, sin remordimiento, y se echa encima.
 - T1816 · Le parpadea despacio una vez a la señora Kang Mi-sook (señal de confianza): "Ah, ¿ahora sí te caigo bien?"
 - T1833 · Día 14: se come una lata de atún que apareció en la 2207 (la dejó Jinwoo por las sombras; Kase mira la sombra de la cortina). Día 22: se queda sentado frente a Cha desde que se levanta; la deja acariciarlo.
+- T1835 · Jeju: se aplasta contra el cuello de Facundo, erizado, orejas atrás, sin hacer ruido.
