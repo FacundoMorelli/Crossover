@@ -1,8 +1,8 @@
 {
-  "turno": 1825,
+  "turno": 1826,
   "mundo_actual": "sololeveling",
   "fecha_local": "Solo Leveling: Día 1 (arco de la Reevaluación / Puerta del Gremio de Cazadores)",
-  "hora": "Día 9, 18:10 (Seúl)",
+  "hora": "Día 11, 10:48 (Seúl)",
   "edad": 18,
   "nivel": 34,
   "exp": 486130,
@@ -1762,6 +1762,20 @@
       "mision": "Pelear con Baek Yoonho transformado, sin usar ninguna transformación propia, hasta que él vuelva a su forma humana.",
       "dificultad": "MEDIA",
       "emitida": "T1823"
+    },
+    {
+      "poder": "Esgrima de Minoru Hoshino",
+      "mundo": "sololeveling",
+      "mision": "Que Minoru Hoshino te pida un consejo de esgrima.",
+      "dificultad": "BAJA",
+      "emitida": "T1826"
+    },
+    {
+      "poder": "Velocidad de Kenzo Tanaka",
+      "mundo": "sololeveling",
+      "mision": "Que Kenzo Tanaka salga vivo de la isla de Jeju.",
+      "dificultad": "MEDIA",
+      "emitida": "T1826"
     }
   ],
   "misiones_de_copia_rechazadas": [],

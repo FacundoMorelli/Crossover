@@ -11,3 +11,4 @@
 - Día 4 mañana · Noticiero: cazador de 17 años, apellido Han, reevaluado de rango E a rango A en Mapo: "segundo despertar", segundo caso en menos de un mes. No hizo declaraciones.
 - Día 7 · La prensa se olvida de Facundo (actor casado, Puerta B en un shopping de Busan). Nota: Sung Jinwoo habría comprado un edificio en el centro; su madre despertó de la Enfermedad del Sueño Eterno.
 - Día 8 · (interno, a los S) La Asociación convoca la 4.ª incursión a Jeju para dentro de dos semanas, con Japón.
+- Día 10 · Fotos borrosas de algo enorme, negro, con alas, cruzando el cielo de Seúl de madrugada (¿dron, monstruo, montaje?).

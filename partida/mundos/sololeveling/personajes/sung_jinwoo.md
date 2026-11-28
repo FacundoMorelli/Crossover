@@ -21,3 +21,5 @@ TASACIÓN (T1770): Sombras (extracción y mando), dagas; origen: sin datos; amen
 QUÉ SABE DE FACUNDO (T1770): se llama Facundo (lo dijo Cha Hae-in), dice ser viajero, no sabía qué son cazadores ni Puertas (por Cha Hae-in), no huele mal según Cha Hae-in, se quedó en la cinta toda la incursión (deducción: lo ve ahí al salir).
 - T1771 · Oye que Facundo quería ver a Cha de nuevo; casi sonríe: "Ya veo." Mira a Kase (lo único que no le cierra) y se va a la camioneta de la Asociación.
 - T1818 · (noticia, Día 7) Habría comprado un edificio entero en el centro de Seúl; su madre despertó de la Enfermedad del Sueño Eterno (canon: fin del Castillo del Demonio).
+- T1826 · Día 11 · Balcón del gimnasio de la Asociación (invitado por Go Gunhee). Mira a Facundo y a Kase un segundo largo sin decir nada. Saca una mano del bolsillo cuando Cha desarma a Kanae; se mueve cuando Kumamoto se lanza contra ella.
+QUÉ SABE DE FACUNDO (T1826): lo público (nombre, viajero, sin maná, novio de Cha, "es un secreto"); que es "el chico de afuera" de Gangnam (lo vio en la cinta y por Cha).
