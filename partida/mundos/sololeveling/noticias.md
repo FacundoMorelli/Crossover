@@ -7,3 +7,5 @@
 - Día 3 12:03 · EN VIVO: el novio se presenta: "Soy Facundo Morelli. Un viajero. Y el novio de Hae-in." Cha Hae-in: "No es cazador. No tiene maná. La Asociación lo midió hoy."
 - Día 3 12:04 · EN VIVO: "¿Cómo la conquistó?" Facundo Morelli: "Es un secreto." Cha Hae-in se ríe (primera foto suya riéndose en seis años) y repite: "Es un secreto." Se van en una camioneta del gremio.
 - Día 3 ~12:30 · Pantallas de Gangnam: video en vivo, cartel "FACUNDO MORELLI: 'ES UN SECRETO'". Fotógrafos frente al hotel de Gangnam (alguien filtró el hotel).
+- Día 3 · "Es un secreto" se vuelve meme.
+- Día 4 mañana · Noticiero: cazador de 17 años, apellido Han, reevaluado de rango E a rango A en Mapo: "segundo despertar", segundo caso en menos de un mes. No hizo declaraciones.

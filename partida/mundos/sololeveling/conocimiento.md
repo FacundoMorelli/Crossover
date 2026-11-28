@@ -36,3 +36,4 @@
 - T1808 · PÚBLICO (en vivo): Cha Hae-in confirmó que Facundo es su novio. Se le ve la cara a Facundo en televisión.
 - T1809 · PÚBLICO (en vivo): nombre Facundo Morelli, "viajero", novio de Cha Hae-in, sin maná medido por la Asociación. Lo puede saber cualquiera en Corea (Jinwoo, Dong-su, etc.).
 - T1811 · PRENSA: sabe (filtración, probablemente del hotel) que Facundo se aloja en el hotel de Gangnam: dos fotógrafos en la puerta. MADRE DE CHA vio el noticiero; invita a cenar.
+- T1812 · ASOCIACIÓN: Facundo registrado con foto, huellas y residencia provisoria (garante Cha). Nadie relaciona a Facundo con el segundo despertar de Dong-su (solo Dong-su sabe que Facundo lo tocó).

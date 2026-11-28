@@ -12,3 +12,4 @@ Llegada: Día 1, 21:40 (T1764).
 - Día 1 23:10 · (T1769) Sale el Gremio de Cazadores de la Puerta de Gangnam; la Puerta se apaga.
 - Día 2 · Mañana: (canon en paralelo) Cha Hae-in entrega el informe en la oficina del Gremio de Cazadores. Han Dong-su con maná de rango A (no se sabe aún si fue a reevaluarse).
 - Día 3 · (por Facundo) Noticia viral de Cha Hae-in con un novio misterioso. Prensa en la puerta del Gremio de Cazadores.
+- Día 4 · Han Dong-su reevaluado rango A (por Facundo). (Canon en paralelo: Jinwoo, próximo arco: Castillo del Demonio.)

@@ -24,3 +24,5 @@ RANGO REAL DESDE T1783: maná de rango A (credencial todavía dice E).
 QUÉ SABE DE FACUNDO (T1783): que lo tocó y en ese momento su maná cambió (lo sintió; deduce que fue Facundo); que le dijo que se reevaluara.
 QUÉ PODERES DE FACUNDO VIO: ninguno visible; sintió el efecto de la Transfiguración Ociosa.
 - T1784 · Facundo: "Solo te ayudé un poco. Suerte." Le grita "¡Gracias!" dos veces; se queda mirándose las manos bajo la luz de la tienda.
+- T1812 · Día 4 mañana · Reevaluado de rango E a rango A en el centro de evaluación de Mapo. Noticia nacional: "segundo despertar", segundo caso en menos de un mes (tras Jinwoo). Sale tapándose la cara con la mano vendada; no hace declaraciones.
+RANGO OFICIAL DESDE DÍA 4: A.

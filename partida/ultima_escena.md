@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1809)
-
-soy Facundo Morelli, un viajero, y el novio de Hae-in
-
-## RESPUESTA 1 (T1809)
-
-> soy Facundo Morelli, un viajero, y el novio de Hae-in
-
-> —Soy Facundo Morelli. Un viajero. Y el novio de Hae-in.
-
-Por medio segundo hay silencio. Después, el ruido vuelve todo junto.
-
-—¡¿Facundo?! ¡¿Cómo se escribe?!
-
-—¡¿Un viajero?! ¡¿De dónde?!
-
-—¡¿Hae-in?! ¡La llamó Hae-in!
-
-Los fotógrafos se empujan para conseguir el mejor ángulo. Uno casi se cae encima de la valla y uno de los guardias lo sostiene del brazo. La presentadora de traje rojo no se mueve: sigue con el micrófono estirado hacia ti, y en la cara tiene la expresión de quien acaba de conseguir la noticia del año y lo sabe.
-
-A tu lado, Cha Hae-in aprieta tu mano. Cuando la miras de reojo, está colorada hasta el cuello, delante de todas las cámaras del país, y no le importa. Mira hacia adelante, con la barbilla levantada, como si estuviera parada frente a la boca de una Puerta de rango S.
-
-Un periodista de anteojos, de la segunda fila, grita más fuerte que todos:
-
-—¡Señor Morelli! ¡¿Es usted cazador?! ¡¿De qué rango?!
-
-—No es cazador —contesta Cha Hae-in antes de que puedas decir nada. Seca, firme—. No tiene maná. La Asociación lo midió hoy.
-
-Otro murmullo, más grande todavía. Alguien dice "¿sin maná?" en voz alta, incrédulo. Alguien se ríe. Una chica joven, detrás de los periodistas, entre los curiosos que se juntaron en la vereda, grita "¡qué romántico!" y otras dos se ríen con ella.
-
-La presentadora de rojo aprovecha el segundo de confusión. Se estira todavía más, con medio cuerpo por encima de la valla.
-
-—Señor Morelli, una última pregunta. —Sonríe, profesional, con todos los dientes—. La "Princesa de la Espada" no deja que nadie se le acerque. Todos los cazadores de Corea lo saben. Lleva seis años rechazando a todo el mundo. —Te acerca el micrófono casi a la cara—. ¿Cómo la conquistó?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1809 · SOLO LEVELING · DÍA 3 · 12:03   ║
-║ Seúl, Corea del Sur                          ║
-║ Vereda del Gremio de Cazadores · la prensa   ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, ofendido por los flashes ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: La prensa: ¿cómo la conquistaste?  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1810)
+## COMANDO 1 (T1810)
 
 es un secreto
 
-## RESPUESTA 2 (T1810)
+## RESPUESTA 1 (T1810)
 
 > es un secreto
 
@@ -111,11 +62,11 @@ Cha Hae-in te mira a ti.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1811)
+## COMANDO 2 (T1811)
 
 al hotel, quiero estar tranquilo contigo
 
-## RESPUESTA 3 (T1811)
+## RESPUESTA 2 (T1811)
 
 > al hotel, quiero estar tranquilo contigo
 
@@ -168,6 +119,75 @@ Hace una pausa. La oyes tragar.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1812)
+
+si, voy con gusto, quiero conocer a tu mamá.  simula
+
+## RESPUESTA 3 (T1812)
+
+> si, voy con gusto, quiero conocer a tu mamá.  simula
+
+> —Sí, voy con gusto. Quiero conocer a tu mamá.
+
+Cha Hae-in se queda mirándote. Después sonríe, despacio, y vuelve a apoyar la frente en tu hombro.
+
+—Le voy a avisar —dice, contra tu sobretodo—. Va a cocinar para veinte.
+
+...
+
+Llueve toda la tarde. Cha Hae-in le manda un mensaje a su mamá y apaga el celular. Piden comida a la habitación: sopa de fideos y pollo frito. Kase recibe un plato de pollo sin piel que pide el servicio sin que nadie lo encargue. En la televisión, en todos los canales, pasan el video de la vereda una y otra vez. "Es un secreto" ya es un meme. Cha Hae-in cambia de canal hasta encontrar uno de documentales de animales y lo deja ahí, con el volumen bajo, y se duerme a tu lado a las nueve, con el pelo en tu cara.
+
+El cuarto día amanece con sol.
+
+A las diez en punto están en la sede de la Asociación de Cazadores: un edificio gris enorme con el techo azul que viste desde Namsan. Entran por una puerta lateral. Woo Jinchul los espera en persona en un pasillo y los lleva a una oficina chica, sin ventanas. Un funcionario de anteojos te saca una foto contra una pared blanca, te toma las huellas de los diez dedos en una maquinita y te hace firmar cuatro hojas. Cha Hae-in firma otras cuatro como garante, con letra prolija y apretada. Woo Jinchul pone un sello rojo en cada una.
+
+Cuarenta minutos después te dan una tarjeta plástica, celeste, con tu foto, tu nombre en letras latinas y coreanas, un número largo y las palabras "RESIDENCIA PROVISORIA — PERSONA SIN NACIONALIDAD REGISTRADA". En el casillero de "garante" dice "Cha Hae-in (Cazadora, Rango S)".
+
+—Un año, renovable —dice Woo Jinchul, y te da la mano. Firme, corta—. No se meta en problemas, señor Morelli.
+
+Al salir, en la sala de espera de la Asociación, hay un televisor. En la pantalla, un noticiero. Cha Hae-in se detiene a mirarlo y tú también.
+
+"...segundo caso en menos de un mes. Esta mañana, en el centro de evaluación de Mapo, un cazador de diecisiete años, registrado como rango E desde hace un año, fue reevaluado como rango A. Los especialistas de la Asociación hablan de un 'segundo despertar'. El joven, de apellido Han, no quiso hacer declaraciones..."
+
+En la pantalla, una imagen borrosa: un chico flaco con capucha saliendo de un edificio, con la cabeza gacha, empujado por un mar de micrófonos. Se tapa la cara con una mano vendada.
+
+—Otro segundo despertar —murmura Cha Hae-in—. Dos en un mes. Nunca pasó algo así. —Mueve la cabeza, sin entender, y sigue caminando.
+
+A la tarde, Cha Hae-in te lleva a una frutería del barrio de su mamá y elige una caja de madera con seis peras enormes, doradas, envueltas una por una en papel. "Siempre se lleva fruta", te explica, y la paga antes de que puedas sacar la plata.
+
+A las siete, el taxi los deja en un barrio tranquilo del este de Seúl, de edificios de departamentos bajos, de ladrillo, con plantas en los balcones y bicicletas atadas a las rejas. Cha Hae-in se arregla el pelo tres veces en el ascensor. Se pone y se saca los aros. Te mira de arriba abajo, te acomoda el cuello del sobretodo, le saca un pelo de gato.
+
+Cuarto piso. Puerta verde, con un cartelito de cerámica pintado a mano.
+
+Cha Hae-in toca el timbre.
+
+Del otro lado se escuchan pasos rápidos, un "¡ya voy, ya voy!", una olla que se tapa. La puerta se abre.
+
+La señora que aparece es bajita, de unos cincuenta y pico, con el pelo corto entrecano, un delantal con flores amarillas y los mismos ojos de Cha Hae-in. Tiene las manos todavía húmedas. Mira a su hija. Después te mira a ti, de abajo para arriba, porque le llevas casi dos cabezas: los borceguíes, el sobretodo, los tatuajes del cuello, la cicatriz, el pelo blanco y azul. Y por último a Kase, que está sentado en tu hombro mirándola con los dos ojos.
+
+Se queda callada un segundo largo.
+
+—Así que tú eres el del secreto —dice al fin, seria, con los brazos cruzados sobre el delantal.
+
+Cha Hae-in se pone pálida.
+
+—Mamá...
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1812 · SOLO LEVELING · DÍA 4 · 19:02   ║
+║ Seúl, Corea del Sur                          ║
+║ Casa de la mamá de Cha · puerta verde, 4.º   ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirando a la señora      ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Cena con la mamá de Hae-in         ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 3 13:05, 2207, llovizna. Facundo: "Al hotel. Quiero estar tranquilo contigo." Pantalla gigante: "FACUNDO MORELLI: 'ES UN SECRETO'". Dos fotógrafos en la puerta del hotel; entraron por el garaje. Habitación ordenada; Kase destruyó un cisne de toalla. Cha descalza, pelo suelto, acostada junto a Facundo, frente en su hombro. "Mi mamá vio el noticiero... Quiere conocerte. Nos invitó a cenar. Mañana. No tienes que ir si no quieres... Pero ella insistió."
+ESTADO AL CIERRE: Día 4 19:02, puerta verde del 4.º piso, casa de la mamá de Cha (este de Seúl). Día 3: tarde de lluvia en el hotel ("Es un secreto" es meme). Día 4 10:00: Asociación, Woo Jinchul; Facundo recibe tarjeta de residencia provisoria (1 año, garante Cha). Noticiero: Han Dong-su (17, apellido Han) reevaluado de E a A esta mañana en Mapo, "segundo despertar", segundo caso en menos de un mes; Cha no entiende. Cha compró seis peras doradas en caja. La mamá abre (bajita, ~50 y pico, pelo corto entrecano, delantal de flores amarillas, los ojos de Cha), seria, brazos cruzados: "Así que tú eres el del secreto." Cha, pálida: "Mamá..."
