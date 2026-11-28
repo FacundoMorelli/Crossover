@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1714)
-
-si, uso el ki para buscarla
-
-## RESPUESTA 1 (T1714)
-
-> si, uso el ki para buscarla
-
-> —Sí.
-
-Cierras los ojos y abres el ki. Esta vez no te quedas en una habitación, ni en un edificio. Lo dejas ir.
-
-La casa de té, primero. El chofer en la vereda, fumando, aburrido. La carpa roja en el estanque, una chispa mínima.
-
-Y Makima, enfrente, a un metro.
-
-No es lo que esperabas. No es una persona. Es algo muy grande y muy quieto, sentado sobre los talones con la espalda derecha, tan grande que la forma de mujer parece una tapa sobre un pozo. Y de ese pozo salen hilos. Finísimos, casi invisibles, cientos, miles, que se van por la ventana, por las paredes, por el piso, hacia toda la ciudad. Algunos terminan en palomas, en los techos de Ginza. Otros en ratas, en las alcantarillas. Otros en perros. Otros, muchos, en personas. Ella no mueve ninguno. Están ahí, quietos, tensos, como las cuerdas de un instrumento que nadie está tocando.
-
-Sigues de largo.
-
-Tokio se abre debajo de ti como un mapa iluminado. Millones de presencias, chicas, tibias, apuradas: el tren de la mañana, las oficinas, las escuelas, los mercados. Las dejas pasar como agua.
-
-Y entre ellas, de a poco, aparecen las que no son como las demás.
-
-Al norte, en Kanda, en el sexto piso del hotel viejo: una brasa con un perro dormido adentro, una presencia roja que huele a sangre, un fuego chiquito que tiembla, una cuerda de arco tensa. Están bien.
-
-Al oeste, cerca de la torre de Tokio, en el piso alto de un edificio de oficinas: cinco juntas. Una es humana, fría, afilada como una flecha, quieta como un tirador que espera. Las otras cuatro, alrededor de ella, son fiends, y todas la miran a ella.
-
-Al sur, en un departamento chico de Shinagawa, dos más: un muchacho joven, nervioso, y un hombre viejo al lado, con algo pegado encima tan denso y tan oscuro que se te eriza la nuca. Una maldición. Clavos.
-
-Y al este.
-
-Del otro lado del río Sumida, en un barrio de fábricas viejas, hay un punto donde la ciudad se pone rara. Cientos de presencias humanas, quietas, sin pensamiento propio, sentadas en filas en algún lugar cerrado, como muñecas en una vitrina. Todas sostenidas por el mismo hilo. Y los hilos van todos hacia el mismo lugar, como las cuerdas de una marioneta hacia la mano: una fábrica de juguetes abandonada, junto al agua, con una chimenea de ladrillo. En el sótano, sentada sola en una silla, hay una mujer. Vieja. Tranquila. Con las manos en el regazo, tejiendo algo. Y debajo de la mujer, por debajo de todo, como un pozo más hondo todavía, algo que no es de este mundo de arriba. Algo que espera que lo llamen.
-
-Abres los ojos.
-
-Pasaron unos pocos segundos. El sol todavía le ilumina media cara a Makima. Te mira con los anillos amarillos muy quietos, las manos juntas sobre la mesa, sin apurarte.
-
-—¿Y? —dice, apenas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1714 · CHAINSAW MAN · DÍA 2 · 08:38    ║
-║ Tokio, otoño de 1997                         ║
-║ Ginza, casa de té (cerrada para ustedes)     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.903 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus rodillas                        ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Encontrar a Santa Claus            ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1715)
+## COMANDO 1 (T1715)
 
 la encontré, está en una fábrica de juguetes junto al río
 
-## RESPUESTA 2 (T1715)
+## RESPUESTA 1 (T1715)
 
 > la encontré, está en una fábrica de juguetes junto al río
 
@@ -113,11 +56,11 @@ Y se queda esperando, sin parpadear, con los anillos amarillos quietos sobre tu 
 
 ---
 
-## COMANDO 3 (T1716)
+## COMANDO 2 (T1716)
 
 hay otros asesinos en la ciudad, pero no se donde
 
-## RESPUESTA 3 (T1716)
+## RESPUESTA 2 (T1716)
 
 > hay otros asesinos en la ciudad, pero no se donde
 
@@ -170,4 +113,59 @@ Toma la tetera y te vuelve a llenar la taza, que no habías tocado.
 
 ---
 
-ESTADO AL CIERRE: Día 2 08:43, casa de té. Facundo le dijo que hay otros asesinos pero que no sabe dónde (no es verdad: sabe; Makima no puede leerlo, pero le miró un segundo de más: "Claro. Tokio es muy grande."). Plan: Kishibe va a la fábrica a mediodía con la División 4 y un equipo grande; Makima quiere que Facundo vaya "como un viajero al que le gusta ayudar"; pide que Denji vuelva entero. Ella "viaja esta tarde" (no estará). Le sirve más té: "El pescado de aquí es muy bueno."
+## COMANDO 3 (T1717)
+
+si quiere puedo ir ahora, a mi solo no me espera, pero tantas personas se lo puede esperar
+
+## RESPUESTA 3 (T1717)
+
+> si quiere puedo ir ahora, a mi solo no me espera, pero tantas personas se lo puede esperar
+
+> —Si quiere, puedo ir ahora. A mí solo no me espera. Pero a tantas personas se las puede esperar.
+
+Makima deja la tetera sobre la mesa. Te mira con algo que, en cualquier otra persona, sería sorpresa.
+
+—Solo. —Lo repite despacio—. A una fábrica con cientos de muñecos y una asesina que conoce su cara.
+
+Lo piensa. No mucho. Un segundo, dos, con los ojos fijos en ti y los dedos apoyados en el borde de la taza.
+
+—Tiene razón —dice al final—. Si va Kishibe con treinta hombres, ella los va a ver venir desde el puente. Va a tener tiempo de preparar algo. —Una pausa—. Y tengo la impresión de que usted no hace ruido cuando camina.
+
+Se le escapa una sonrisa.
+
+—Está bien. Vaya.
+
+Se pone de pie con un solo movimiento, sin apoyar las manos, y se acomoda la falda del saco. Kase la sigue con la cabeza.
+
+—El chofer lo lleva hasta el puente de Kototoi. Desde ahí son diez minutos caminando. —Saca del bolsillo del pantalón una tarjeta blanca, sin nombre, con un número de teléfono escrito a mano, y la deja sobre la mesa, al lado de tu taza—. Cuando termine, llame a este número. Va a atender Kishibe. Le va a mandar gente para los muñecos. Y para ella.
+
+Camina hacia la puerta de la casa de té. Se detiene en el umbral, de espaldas, con la mano en el marco de madera.
+
+—Una cosa más, señor Morelli. —No se da vuelta—. Si puede, tráigamela viva.
+
+La voz es igual de suave que siempre. Igual de amable.
+
+—Me gustaría hablar con ella.
+
+Y sale. El chofer, en la vereda, ya está abriendo la puerta de atrás del sedán, para ti.
+
+En el jardín, la carpa roja da otra vuelta lenta en el estanque. En la mesa quedan los dos desayunos, el tuyo casi intacto, el platito de leche de Kase intacto, la tarjeta blanca con el número, y la taza de té que te sirvió dos veces.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1717 · CHAINSAW MAN · DÍA 2 · 08:45    ║
+║ Tokio, otoño de 1997                         ║
+║ Ginza, casa de té (cerrada para ustedes)     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.903 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tus rodillas                        ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Ir solo a la fábrica de juguetes   ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 2 08:45, casa de té de Ginza. Makima aceptó que Facundo vaya SOLO ya: "Tengo la impresión de que usted no hace ruido cuando camina." El chofer lo lleva al puente de Kototoi (10 min a pie de la fábrica). Dejó una tarjeta blanca con un número (atiende Kishibe) para llamar al terminar. "Si puede, tráigamela viva. Me gustaría hablar con ella." Makima se fue. El chofer espera con la puerta del sedán abierta.

@@ -1715,3 +1715,4 @@ T1713 · CHAINSAW MAN · Ginza · "Me gusta ayudar, no me gusta matar; solo mat�
 T1714 · CHAINSAW MAN · Ginza · Barre Tokio con el ki: siente a Makima (pozo con miles de hilos), Quanxi (Torre de Tokio), Tolka (Shinagawa) y a Santa (fábrica de juguetes junto al Sumida). Makima: "¿Y?"
 T1715 · CHAINSAW MAN · Ginza · "Está en una fábrica de juguetes junto al río." Makima deduce cuál. "¿Sintió a alguien más que yo debería conocer?"
 T1716 · CHAINSAW MAN · Ginza · "Hay otros asesinos, pero no sé dónde." Makima: "Claro. Tokio es muy grande." Plan: fábrica a mediodía con Kishibe y la División 4. Makima viaja esta tarde.
+T1717 · CHAINSAW MAN · Ginza · "Puedo ir ahora, solo." Makima acepta; tarjeta con el número de Kishibe. "Si puede, tráigamela viva."
