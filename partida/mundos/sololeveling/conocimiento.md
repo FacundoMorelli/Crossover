@@ -53,3 +53,4 @@
 - T1839 · PÚBLICO (EN VIVO): Facundo detiene la garra del Rey hormiga con una mano sin moverse; el piso se raja. QUIÉN VIO QUÉ PODERES: fuerza física descomunal — coreanos presentes, camarógrafo, toda la audiencia en vivo. El Velo sigue: nadie le siente maná.
 - T1840 · PÚBLICO (EN VIVO): Facundo destroza el pecho del Rey hormiga de un puñetazo y lo manda contra la pared del fondo.
 - T1841 · PÚBLICO (EN VIVO, Corea y el mundo): Facundo mata al Rey hormiga a puñetazos y una onda suya (chispas azules y blancas) derriba a todas las hormigas de la isla. QUIÉN VIO QUÉ PODERES: fuerza y velocidad descomunales; Haki del Rey (interpretado como "una onda", desconocido) — coreanos presentes, camarógrafo, audiencia en vivo, Jinwoo (por su sombra y en persona). Ninguna medición le siente maná (Velo).
+- T1842 · PÚBLICO (EN VIVO): Facundo saca de la nada "semillas" verdes que curan todo y llenan el maná de 16 cazadores (Min: "no es curación, es todo de vuelta").

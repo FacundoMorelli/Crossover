@@ -12,3 +12,4 @@ QUÉ SABE DE FACUNDO: lo público
 ESTADO: irá a Jeju
 - T1839 · A medio transformar, queda quieto a mitad de un gruñido mirando a Facundo detener al Rey.
 - T1841 · Ve a Facundo matar al Rey hormiga a puñetazos y derribar a todas las hormigas con una onda (Haki del Rey) sin que a los coreanos les pase nada. Vivo/a. Ve a Jinwoo salir de la sombra de Cha.
+- T1842 · Come una semilla del ermitaño de Facundo: heridas cerradas, maná lleno.

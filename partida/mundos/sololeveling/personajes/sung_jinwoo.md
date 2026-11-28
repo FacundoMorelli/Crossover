@@ -33,3 +33,4 @@ QUÉ SABE DE FACUNDO (T1832): que Facundo sabe de sus sombras y de su capacidad 
 - T1833 · No vuelve a aparecer. Día 14: deja una lata de atún para gatos en la mesita de la 2207 (nadie subió; por las sombras).
 - T1841 · Día 22 11:33 · Sale de la sombra de Cha Hae-in (Intercambio de Sombras), ojos azules encendidos, listo para pelear. Ve al Rey hormiga muerto, miles de hormigas caídas, a todos los coreanos vivos y a Min entero. Mira a Facundo. (Llegó por el Rey; su sombra en Cha le avisó.)
 QUÉ SABE DE FACUNDO (T1841): todo lo que se vio en vivo (y lo que le contó su sombra): paró la garra con una mano, mató al Rey a puñetazos, la onda que derribó a todas las hormigas.
+- T1842 · Facundo: "Te dije que no hacía falta que vinieras." No contesta; se le apaga la luz de los ojos. Cara de quien llegó tarde a algo que creía que solo él podía resolver. Mira al Rey muerto con el interés del "Levántate": "¿Me lo dejas?"

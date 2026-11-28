@@ -20,3 +20,4 @@ QUÉ SABE DE FACUNDO: lo público; novio de Cha.
 - T1837 · Día 22 · Cura sin parar en la cámara de la reina; curando a Baek envenenado cuando entra el Rey.
 - T1839 · De rodillas curando a Ma Dongwook, mira a Facundo sin parpadear. (VIVO gracias a Facundo: el puño del Rey se detuvo a mitad de camino.)
 - T1841 · Ve a Facundo matar al Rey hormiga a puñetazos y derribar a todas las hormigas con una onda (Haki del Rey) sin que a los coreanos les pase nada. Vivo/a. Ve a Jinwoo salir de la sombra de Cha.
+- T1842 · Recibe una semilla del ermitaño: maná lleno. "¿Qué... es esto? Esto no es curación. Esto es... todo. Todo de vuelta."

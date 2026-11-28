@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1839)
-
-le agarro la garra con una mano y lo miro
-
-## RESPUESTA 1 (T1839)
-
-> le agarro la garra con una mano y lo miro
-
-Levantas una mano.
-
-La garra del Rey baja con todo su peso, con toda la furia de haber visto a su madre partida en dos, con una fuerza que habría atravesado la armadura de Cha Hae-in como papel y la habría clavado contra la pared de la caverna.
-
-Y se detiene en tu palma.
-
-Los dedos se te cierran alrededor de las tres uñas negras, curvas, largas como cuchillos de cocina. El impacto suena como un martillazo contra un yunque. Una onda de aire sale de tu mano hacia todos lados: apaga la mitad de las llamas de Choi, le vuela el pelo a Cha Hae-in hacia atrás, levanta polvo blanco de las paredes. El piso de roca debajo de tus borceguíes se raja en una telaraña de grietas.
-
-Tu brazo no se mueve. Ni un centímetro. Ni el codo, ni el hombro.
-
-Kase, en tu hombro, ni parpadea.
-
-El Rey se queda congelado en el aire, con todo el cuerpo detenido de golpe por una sola mano. El puño derecho, el que iba hacia Min, se le queda a medio camino, colgando, sin terminar el movimiento. Las alas dejan de vibrar.
-
-Lo miras.
-
-Te devuelve la mirada desde cientos de ojos rojos que te reflejan a ti, a ti, a ti, cientos de veces, con el pelo blanco y azul, con un ojo rojo y otro azul, mirándolo. Tan cerca que sientes su aliento, ácido, caliente, saliéndole entre las mandíbulas cerradas.
-
-Tira. Una vez. Con fuerza. Los músculos del brazo negro se le tensan como cables de acero bajo el caparazón.
-
-La garra no se mueve de tu mano.
-
-Tira otra vez. Más fuerte. Las patas se le clavan en el piso y lo rajan. Nada.
-
-Y algo cambia en él. Lo sientes antes de verlo: el maná negro, que hasta hace un segundo era pura furia, se arruga, se encoge, se repliega hacia adentro como una mano que toca algo caliente. Es la primera vez en su vida, en su vida de pocas horas, que el Rey hormiga siente lo que sienten todas las cosas que él mata.
-
-Detrás de ti, nadie respira.
-
-Choi Jong-In tiene las manos todavía levantadas, con el fuego apagado, y la boca abierta. Baek Yoonho, a medio transformar, se quedó quieto a mitad de un gruñido. Min Byung-Gyu, de rodillas, con las manos verdes sobre el pecho de Ma Dongwook, te mira sin parpadear.
-
-—Facundo... —susurra Cha Hae-in, a tu espalda.
-
-Arriba, en la saliente, la luz roja de la cámara sigue encendida. El camarógrafo tiembla, pero no deja de filmar.
-
-En el túnel de entrada de la caverna se escucha un ruido creciente, seco, constante, como lluvia sobre un techo de chapa. Miles de patas. Las hormigas que volvían al grito de la reina están llegando.
-
-El Rey abre las mandíbulas. Entre ellas, en el fondo de la garganta, se le junta algo violeta, espeso, que brilla.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1839 · SOLO LEVELING · DÍA 22 · 11:31  ║
-║ Isla de Jeju                                 ║
-║ Nido bajo el Hallasan · cámara de la reina   ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, sin parpadear            ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Tienes la garra del Rey en la mano ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1840)
+## COMANDO 1 (T1840)
 
 le pego un puño en el pecho
 
-## RESPUESTA 2 (T1840)
+## RESPUESTA 1 (T1840)
 
 > le pego un puño en el pecho
 
@@ -139,11 +78,11 @@ Va a huir.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1841)
+## COMANDO 2 (T1841)
 
 mato al rey hormiga y despues uso el haki del rey con el resto de las hormigas restantes
 
-## RESPUESTA 3 (T1841)
+## RESPUESTA 2 (T1841)
 
 > mato al rey hormiga y despues uso el haki del rey con el resto de las hormigas restantes
 
@@ -240,6 +179,65 @@ Y te mira a ti.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1842)
+
+te dije que no hacía falta que vengas, le doy una semilla del ermitaño a cada uno
+
+## RESPUESTA 3 (T1842)
+
+> te dije que no hacía falta que vengas, le doy una semilla del ermitaño a cada uno
+
+> —Te dije que no hacía falta que vinieras.
+
+Jinwoo no contesta.
+
+Se queda quieto, con los ojos todavía encendidos de azul, mirándote. Después mira otra vez al Rey muerto a tus pies. La luz de los ojos se le apaga despacio. Baja los hombros, apenas. Abre la boca, la cierra.
+
+Sacas del inventario un puñado de semillas. Pequeñas, verdes, del tamaño de un frijol.
+
+A la vista de todos, para los que miran, simplemente aparecen en tu mano.
+
+Caminas entre los coreanos y les das una a cada uno. Le pones una en la mano a Choi Jong-In, que la mira sin entender, con los anteojos torcidos. Otra a Baek Yoonho, que se queda mirándola en su garra gigante de bestia. A Ma Dongwook, tirado en el piso con el veneno en la sangre y la cara gris, se la pones directamente entre los labios. A Lim Taegyu. A cada uno de los demás, uno por uno, dieciséis en total. Min Byung-Gyu, de rodillas, la recibe con las manos verdes todavía encendidas, mirándote como si estuviera viendo algo imposible.
+
+La última es para Cha Hae-in.
+
+Ella la mira en tu palma. Después te mira a ti.
+
+Muerden.
+
+Lo que pasa a continuación pasa en todos al mismo tiempo. El color gris se le va de la cara a Ma Dongwook en un segundo; abre los ojos de golpe, respira hondo y se sienta en el piso, tocándose el pecho donde el veneno le había abierto la piel, que ahora está cerrada. Baek Yoonho vuelve a su forma humana sin querer, con un suspiro largo, y se mira las manos, sin una sola herida. Los cortes de Choi se cierran. El maná de todos, que estaba casi vacío después de la reina, se llena entero, de golpe, como un vaso bajo la llave del agua. Lo sientes en el Ojo del Eclipse: dieciséis luces que se vuelven a encender, brillantes, como al principio del día.
+
+Cha Hae-in se queda quieta con la mano en el pecho. La armadura sigue manchada, rota en un hombro. Pero ella ya no está rota.
+
+—¿Qué... es esto? —murmura Min Byung-Gyu, mirándose las manos. Es sanador. Sabe exactamente lo que acaba de pasar, y sabe que él no puede hacerlo—. Esto no es curación. Esto es... todo. Todo de vuelta.
+
+Nadie le contesta.
+
+En la saliente de arriba, el camarógrafo sigue grabando. La luz roja parpadea.
+
+Jinwoo, al fondo, sigue mirándote. Ya no tiene la cara de alguien listo para pelear. Tiene la de alguien que acaba de llegar tarde a algo que creía que solo él podía resolver, y que lo encontró resuelto.
+
+Después baja la vista al Rey hormiga muerto, a tus pies. Lo mira largo. Algo se mueve en su cara: un interés que conoces, el mismo con el que miraba al chamán orco en la Puerta de Gangnam antes de decir "Levántate".
+
+Levanta la vista hacia ti.
+
+—¿Me lo dejas? —pregunta, en voz baja, señalando al Rey con la barbilla.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1842 · SOLO LEVELING · DÍA 22 · 11:36  ║
+║ Isla de Jeju                                 ║
+║ Nido bajo el Hallasan · cámara de la reina   ║
+║ NIVEL 34 · EXP 524.130/530.000               ║
+║ FRAGMENTOS 340.805 · 1.282.800 won           ║
+║ Energía 97% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Jinwoo pide la sombra del Rey      ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 11:33, cámara de la reina. Facundo cruzó la caverna corriendo, agarró el ala sana del Rey, paró su puño con el antebrazo (se le partió), golpe bajo la mandíbula y puño final en el pecho: REY HORMIGA MUERTO (cuerpo a cuerpo, en vivo). Copia del Rey cumplida (poder entero). Después HAKI DEL REY sobre toda la isla (onda, chispas azules y blancas): caen todas las hormigas de Jeju (~8.200), no se mueven más; los coreanos intactos. +42.000 Frag, +38.000 EXP. Jeju en silencio. El camarógrafo sigue grabando, sentado. Sung Jinwoo sale de la sombra de Cha Hae-in (Intercambio de Sombras), listo para pelear; ve al Rey muerto, las hormigas caídas, a todos los coreanos vivos (Min entero) y mira a Facundo.
+ESTADO AL CIERRE: Día 22 11:36, cámara de la reina. A Jinwoo: "Te dije que no hacía falta que vinieras." (no contesta). Facundo da 16 semillas del ermitaño (aparecen en su mano, en vivo): todos los coreanos curados del todo y maná lleno (Ma Dongwook sin veneno, Baek humano sin heridas, Cha entera). Quedan 3 semillas. Min: "Esto no es curación. Esto es... todo. Todo de vuelta." Jinwoo mira al Rey muerto con el interés del "Levántate": "¿Me lo dejas?" (pide la sombra del Rey).
