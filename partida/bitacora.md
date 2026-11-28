@@ -1850,3 +1850,4 @@ T1847 · SOLO LEVELING · Buque · A Gunhee: "Nada, solo quería ayudar." Protec
 T1848 · SOLO LEVELING · Buque · A Goto: "Estaban dispuestos a dejar morir a sus compañeros." Reverencia de los japoneses. Cha quiere ver a su mamá.
 T1849 · SOLO LEVELING · Casa de la señora Kang · Lleva a Cha con su mamá. "Todo lo que tenga en mis manos. Eso me dijiste." "¿Comiste algo?"
 T1850 · SOLO LEVELING · Casa de la señora Kang · Almuerzo. "¿Y ahora? ¿Qué vas a hacer?"
+T1851 · SOLO LEVELING · Casa de la señora Kang · "En unos días me voy, pero voy a volver." Cha: "¿Podría ir contigo?"

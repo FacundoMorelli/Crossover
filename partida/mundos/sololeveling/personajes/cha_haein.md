@@ -80,3 +80,4 @@ QUÉ SABE DE FACUNDO (T1797): nombre; viajero; sin papeles; no sabía qué son c
 - T1848 · Mira irse a los japoneses con ojos brillantes. "Facundo. Quiero ir a ver a mamá. Ahora. Seguro estuvo mirando la tele. Seguro se desmayó cuando apareciste."
 - T1849 · En casa de su mamá: le suelta la mano a Facundo por primera vez desde la caverna; abraza a su mamá, llora con la cara en el delantal.
 - T1850 · Se saca la armadura en el living (queda con la ropa negra de abajo y la cadenita). Apaga el celular (cientos de mensajes: Choi, Min, la Asociación, desconocidos). Come apoyada en el hombro de Facundo. Deja de comer cuando su mamá pregunta "¿qué vas a hacer?".
+- T1851 · Facundo: "En unos días me voy a ir..." Lo sabía; le toma la mano bajo la mesa. "Semanas o meses. Cuando te vayas... ¿a dónde vas?" "¿Podría ir contigo?"

@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1848)
-
-no queria dejarlos morir, pero ustedes estaban dispuestos a dejar morir a los compañeros
-
-## RESPUESTA 1 (T1848)
-
-> no queria dejarlos morir, pero ustedes estaban dispuestos a dejar morir a los compañeros
-
-> —No quería dejarlos morir. Pero ustedes estaban dispuestos a dejar morir a sus compañeros.
-
-Goto Ryuji no se mueve.
-
-Te sostiene la mirada. Las manos se le cierran sobre la empuñadura de la katana, tan fuerte que la vaina cruje contra el piso de metal de la cubierta. Detrás de él, Hoshino baja la vista. Kanae se muerde el labio. Kumamoto, con una venda en la cabeza, mira hacia el mar.
-
-El viento del estrecho le mueve el pelo largo a Goto sobre la cara. No se lo aparta.
-
-—Sí —dice, al fin. En coreano. Torpe, con acento, pero en coreano, para que lo escuchen todos—. Estábamos dispuestos.
-
-Se queda callado un rato largo. Los marineros de alrededor dejaron de moverse. Los médicos, con las camillas, también.
-
-Después, despacio, Goto Ryuji suelta la katana. La deja apoyada contra la baranda. Da un paso atrás. Junta los pies.
-
-Y se inclina.
-
-No es la inclinación corta de los saludos en la arena. Es una reverencia profunda, de la cintura, con la espalda recta y la cabeza baja, las manos a los costados, sostenida. Delante de ti. Delante de los coreanos. Delante de los suyos.
-
-Hoshino se inclina detrás de él. Después Kanae. Después los demás japoneses, uno por uno. Hasta Kumamoto, último, con la venda en la cabeza.
-
-—Mis hombres murieron por una orden que yo obedecí —dice Goto, con la cabeza baja, hacia el piso—. No por las hormigas. Por mí. —Una pausa—. No lo voy a olvidar. Y Matsumoto tampoco va a olvidarlo, cuando vuelva a Tokio.
-
-Se endereza. Te mira. La cara cansada, sucia de polvo, sin la sonrisa de lobo.
-
-—Gracias por enseñarle a un viejo lo que significa la palabra "compañero", novio sin maná.
-
-Recoge la katana, se la vuelve a poner en la cintura, y se va caminando hacia el helicóptero con sus cazadores detrás, en silencio.
-
-En la cubierta, por un momento, nadie dice nada. Después los médicos vuelven a moverse, los marineros también. Alguien empieza a repartir mantas y botellas de agua.
-
-Cha Hae-in te aprieta la mano. La miras: está mirando a los japoneses irse, con los ojos brillantes. Después te mira a ti.
-
-—Facundo —dice, bajito, con la voz cansada—. Quiero ir a ver a mamá. Ahora. —Se le escapa una risita que se le quiebra a la mitad—. Seguro estuvo mirando la tele. Seguro se desmayó cuando apareciste.
-
-Kase, en su nuca, le da un golpecito con la cabeza en la oreja.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1848 · SOLO LEVELING · DÍA 22 · 11:56  ║
-║ Estrecho de Jeju                             ║
-║ Buque de la Asociación · cubierta            ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 1.282.800 won           ║
-║ Energía 95% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la nuca de Cha Hae-in               ║
-║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
-║ OBJETIVO: Cha quiere ir a ver a su mamá      ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1849)
+## COMANDO 1 (T1849)
 
 esta bien, me teletransporto con cha con su mama
 
-## RESPUESTA 2 (T1849)
+## RESPUESTA 1 (T1849)
 
 > esta bien, me teletransporto con cha con su mama
 
@@ -129,11 +70,11 @@ Después te da las dos palmadas en el brazo, fuertes. Se seca la cara con el del
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1850)
+## COMANDO 2 (T1850)
 
 no, tienes razón no comi nada
 
-## RESPUESTA 3 (T1850)
+## RESPUESTA 2 (T1850)
 
 > no, tienes razón no comi nada
 
@@ -178,6 +119,61 @@ Te sostiene la mirada.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1851)
+
+en unos dias me voy a ir, pero voy a volver a verla, capaz me voy por semanas o algun mes
+
+## RESPUESTA 3 (T1851)
+
+> en unos dias me voy a ir, pero voy a volver a verla, capaz me voy por semanas o algun mes
+
+> —En unos días me voy a ir. Pero voy a volver a verla. Tal vez me vaya por semanas, o algún mes.
+
+La señora Kang no dice nada enseguida. Mira a su hija.
+
+Cha Hae-in tiene los palillos quietos sobre el cuenco. No levanta la vista. Pero no está sorprendida: lo sabía. Se lo dijiste la primera noche, en la cama del hotel, con la cabeza sobre tu pecho. Respira hondo por la nariz, despacio. Una vez.
+
+Debajo de la mesa, te busca la mano y te la agarra.
+
+—Semanas —repite la señora Kang—. O algún mes.
+
+Se queda callada. Mira la foto de la pared, la del hombre de uniforme con el casco bajo el brazo. Después vuelve a ti.
+
+—Mi marido, cuando lo llamaban para un incendio grande, se iba días enteros. A veces una semana. —Se encoge de hombros, despacio—. Yo me quedaba aquí. Cocinando para veinte. Esperando que sonara el teléfono. —Te mira—. Y siempre volvía. Hasta la última.
+
+Agarra los palillos otra vez. Te pone otro huevo en el arroz, aunque ya no queda lugar.
+
+—Así que vas a volver. —No es una pregunta. Es una orden—. Y cuando vuelvas, vas a venir a comer. Primero aquí. Después a donde quieras.
+
+—Mamá... —murmura Cha Hae-in.
+
+—Y mientras tanto —sigue la señora Kang, sin hacerle caso—, estos días que te quedan, no te vas a pasar comiendo comida de hotel. Vas a comer aquí. Los dos. Todos los días.
+
+Se levanta con los platos vacíos y se va a la cocina, sin esperar respuesta, antes de que se le note en la cara lo que siente.
+
+Cha Hae-in se queda sentada a tu lado. Te aprieta la mano bajo la mesa. Por un rato no dice nada. En la tele, sin volumen, vuelven a pasar el video de la caverna: tú, el Rey, la garra en tu mano. Ella lo mira.
+
+—Semanas o meses —dice, bajito—. Cuando te vayas... ¿a dónde vas?
+
+Gira la cabeza. Te mira. Los ojos cansados, brillantes, sin miedo.
+
+—¿Podría ir contigo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1851 · SOLO LEVELING · DÍA 22 · 12:34  ║
+║ Seúl, Corea del Sur                          ║
+║ Casa de la señora Kang · mesa del living     ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 1.282.800 won           ║
+║ Energía 95% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el piso, lamiéndose una pata        ║
+║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
+║ OBJETIVO: Cha: "¿Podría ir contigo?"         ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 12:25, mesa del living de la señora Kang. "No. Tiene razón. No comí nada." La señora Kang cocina hablando sola (se desmayó al verlo en la tele; la vecina del tercero le echó agua). Cha se saca la armadura (pila en la alfombra), apaga el celular (cientos de mensajes). Almuerzo: arroz, guiso, huevos fritos, algas, sopa de algas; pescado para Kase. Señora Kang: "Ya no le puedo decir a nadie en el barrio que el novio de mi hija no trabaja de nada." "Mi hija me contó que eres un viajero. Que algún día te vas a ir. Y ahora todo el país sabe tu nombre. ¿Y ahora? ¿Qué vas a hacer?" Cha deja de comer.
+ESTADO AL CIERRE: Día 22 12:34, mesa de la señora Kang. Facundo: "En unos días me voy a ir. Pero voy a volver a verla. Tal vez me vaya por semanas, o algún mes." Cha lo sabía; le toma la mano bajo la mesa. Señora Kang: su marido se iba días por incendios y siempre volvía, "hasta la última". "Así que vas a volver. Y cuando vuelvas, vas a venir a comer." Estos días comerán ahí, los dos, todos los días. Se va a la cocina. Cha: "Cuando te vayas... ¿a dónde vas? ¿Podría ir contigo?"

@@ -61,3 +61,4 @@
 - T1847 · GOTO vio la transmisión desde el helicóptero; deduce que Facundo pudo haber salvado a los japoneses (puede aparecer donde quiere).
 - T1849 · KANG MI-SOOK vio a Facundo aparecer de la nada en su living con Hae-in.
 - T1850 · KANG MI-SOOK sabe por Hae-in que Facundo es viajero y algún día se irá.
+- T1851 · CHA y KANG MI-SOOK saben (por Facundo) que se irá en unos días, por semanas o algún mes, y que volverá.
