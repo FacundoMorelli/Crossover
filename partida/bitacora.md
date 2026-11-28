@@ -1765,3 +1765,4 @@ T1762b · CORRECCIÓN DEL JUGADOR · Fullmetal se resolvió en ~1 mes: Día Prom
 T1763 · FULLMETAL · Resembool · SIM: despedidas de todos. Hughes: formulario 17-B, "En todas partes". Colina de Trisha: falta abrir la puerta.
 T1764 · DRAGON BALL → SOLO LEVELING · 3 días en DB con Erasa (novios; imán de la vaca). Puerta a un mundo nuevo: Solo Leveling, Gangnam, Puerta de rango A. Don: Llave de las Puertas. Misión: cazadores de Jeju vivos. Cha Hae-in lo mira.
 T1765 · SOLO LEVELING · Gangnam · La saluda. Cha Hae-in se acerca: "¿Eres cazador? No hueles a nada."
+T1766 · SOLO LEVELING · Gangnam · "No sé qué son los cazadores. Soy un viajero." Cha Hae-in explica. Choi la llama; Jinwoo mira. "¿Cómo te llamas?"

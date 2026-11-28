@@ -3,69 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1763)
-
-simula unos días y despidiéndome de todos
-
-## RESPUESTA 1 (T1763)
-
-> simula unos días y despidiéndome de todos
-
-Día 33, a la noche. Cenan todos en la casa Rockbell: los Hughes, los Elric, Winry, Pinako y tú, apretados alrededor de una mesa de madera que se queda chica. Gracia hace el quiche. Pinako saca una botella de algo que guardaba desde antes de que nacieran los chicos. Ed come como si le debieran algo. Al come despacio, mirando la comida, oliéndola, probando cada cosa con los ojos cerrados, y a mitad de la cena se le caen las lágrimas en el plato sin que se dé cuenta. Nadie dice nada. Winry le pasa una servilleta.
-
-Kase pasa la cena en las rodillas de Elicia, que no lo suelta ni para comer.
-
-Día 34. Ed te lleva a caminar por el campo, solo, con las manos en los bolsillos. Ya no puede hacer alquimia. Lo dice en voz alta por primera vez, mirando el cielo, y se ríe, y dice que está bien, que tiene dos piernas y dos brazos y un hermano con cuerpo, y que con eso alcanza. Después te pregunta, de reojo, adónde vas cuando te vas. Antes de que contestes, dice que no importa. Que si algún día ve a un tipo con el pelo pintado y un gato en un tren, va a saber que eres tú.
-
-Día 35. Ciudad Central. Mustang y Hawkeye te esperan en una oficina nueva, más grande, con olor a pintura fresca. Mustang tiene un ascenso en camino y lo dice con una cara de fastidio que no engaña a nadie. Te da la mano. Después, sin soltarte, te dice que si algún día vuelves y él es Führer, no vas a necesitar papeles. Hawkeye no dice nada. Te hace el saludo militar, la mano en la sien, más derecha que nunca, y lo sostiene hasta que sales por la puerta.
-
-En el pasillo, el mayor Armstrong te abraza sin aviso, sin camisa, llorando a mares, y te levanta del piso. "¡Una gratitud transmitida en la familia Armstrong por generaciones!". Ross y Brosh te despiden en la escalera. Brosh le pide a Kase que le deje tocarle la cola, una vez. Kase lo deja. Brosh casi llora.
-
-Esa tarde vas solo a la iglesia del norte. Bajas al sótano. La celda de granito sigue ahí, sin puertas, sin costuras. Con el ki, adentro: Lust y Envy, dormidos, con las piedras latiendo despacio. Nadie más sabe que la celda tiene algo adentro. Solo tú puedes abrirla.
-
-Día 36. Resembool otra vez, al atardecer.
-
-Pinako te da un abrazo corto, huesudo, con olor a tabaco, y te dice que si se te rompe algo de metal, ya sabes dónde está el taller. Winry te da una llave inglesa chiquita, "por las dudas". Al te abraza fuerte con su cuerpo de carne, flaco, cálido, y le da un beso a Kase en la cabeza, y Kase lo deja, y Al se ríe llorando.
-
-Gracia te pone en las manos un paquete envuelto en tela: pan de manteca, todavía tibio.
-
-Hughes te acompaña hasta la tranquera, al final del camino de tierra. Lleva a Elicia en brazos, dormida, con el conejo de trapo colgando. Antes de despedirse, saca del bolsillo de la camisa un papel doblado. Lo abres. Es el formulario 17-B. Abajo, en el casillero de la dirección, donde decía "A confirmar", hay algo tachado y, al lado, escrito con su letra rápida y prolija:
-
-"En todas partes."
-
-—Lo terminé anoche —dice, con la sonrisa de siempre—. Lo archivo cuando vuelva a la oficina. Para que conste.
-
-Elicia se despierta un segundo. Ve a Kase en tu hombro. Le estira la mano. Kase le apoya la frente en la palma, como la primera noche. Elicia sonríe, dormida, y se vuelve a dormir.
-
-—Gracias, Facundo. —Hughes te pone la mano libre en el hombro, firme—. Por esto. —Mira a su hija—. Por todo esto.
-
-Se da vuelta y camina hacia la casa, despacio, con Elicia en brazos, por el camino de tierra, con la luz naranja del atardecer en la espalda. En el porche, Gracia lo espera con un farol prendido.
-
-La colina detrás de la casa Rockbell, donde está la tumba de Trisha y, al lado, una más nueva, con un nombre recién tallado: Van Hohenheim. El sol baja sobre los campos de Resembool. Kase está en tu hombro. En las manos tienes un pan tibio, una llave inglesa chiquita y un formulario que dice "En todas partes".
-
-Solo falta abrir la puerta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1763 · FULLMETAL · DÍA 36 · 1914       ║
-║ Resembool, colina de la tumba de Trisha      ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.815 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (Fullmetal)        ║
-║ OBJETIVO: Abrir la puerta (viaje libre)      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1764)
+## COMANDO 1 (T1764)
 
 me voy a dragon ball, paso un par de dias con erasa, y los demás y me voy a un nuevo mundo
 
-## RESPUESTA 2 (T1764)
+## RESPUESTA 1 (T1764)
 
 > me voy a dragon ball, paso un par de días con erasa, y los demás y me voy a un nuevo mundo
 
@@ -182,11 +124,11 @@ Y se queda mirándote, con una expresión de no entender.
 
 ---
 
-## COMANDO 3 (T1765)
+## COMANDO 2 (T1765)
 
 la saludo con la mano
 
-## RESPUESTA 3 (T1765)
+## RESPUESTA 2 (T1765)
 
 > la saludo con la mano
 
@@ -244,4 +186,53 @@ Hace una pausa. Vuelve a respirar por la nariz, discretamente, y vuelve a frunci
 
 ---
 
-ESTADO AL CIERRE: Día 1 21:42, cinta del cordón de la Puerta de Gangnam. Cha Hae-in (llamada "vicemaestra Cha"; entran en 5 min; Jinwoo ya está en la zona) se acercó a la cinta, a 3 m de Facundo. La multitud la reconoce. "Disculpa. ¿Eres cazador? Es que no... No hueles a nada. A nada en absoluto." Tasación.
+## COMANDO 3 (T1766)
+
+ehh no se que son los cazadores, soy un viajero
+
+## RESPUESTA 3 (T1766)
+
+> ehh no se que son los cazadores, soy un viajero
+
+> —Eh... no sé qué son los cazadores. Soy un viajero.
+
+Cha Hae-in se queda mirándote como si le hubieras dicho que no sabes qué es el agua.
+
+—¿No sabes... qué son los cazadores?
+
+A tu lado, una chica de la multitud con un celular se ríe por la nariz, incrédula. Un señor de traje te mira de reojo, como si estuvieras loco. Cha Hae-in no se ríe. Sigue seria. Pero algo en la cara se le afloja, apenas, como si la respuesta, por rara que sea, le cayera mejor que cualquier otra.
+
+—Los cazadores somos... —Busca las palabras, con cuidado, como quien le explica algo a un chico—. Hace diez años empezaron a aparecer estas Puertas. —Señala con la barbilla el óvalo violeta que gira en el medio de la avenida—. Adentro hay monstruos. Si nadie entra a matarlos a tiempo, la Puerta se rompe y salen. —Una pausa—. Algunas personas despertaron un poder al mismo tiempo. Maná. Con eso podemos entrar. A esos los llaman cazadores.
+
+Te mira el pelo. Los ojos. Los tatuajes del cuello.
+
+—Hasta los chicos de primaria lo saben —dice, más bajo, sin reproche, con curiosidad—. En todo el mundo hay Puertas. No hay un país donde no las haya.
+
+Kase, en tu hombro, bosteza.
+
+—¡Vicemaestra! —El grandote del escudo, otra vez, desde la camioneta, con la voz más urgente—. ¡El maestro Choi está entrando!
+
+Del otro lado de las vallas, junto a la Puerta, un hombre de traje gris claro, alto, de pelo engominado hacia atrás, con unos anteojos finos de marco dorado y una expresión de impaciencia elegante, levanta la mano y hace un gesto seco, llamándola. Detrás de él, un poco apartado de todos, con las manos en los bolsillos de una campera negra sencilla, hay un chico de pelo negro despeinado que mira la Puerta sin ninguna expresión. Por un segundo, el chico de la campera gira la cabeza. Mira hacia la cinta. Hacia Cha Hae-in. Hacia ti. Después vuelve a mirar la Puerta.
+
+Cha Hae-in lo ve. Vuelve a ti. Le cuesta irse, se le nota en los pies, que no se deciden.
+
+—Tengo que entrar. —Se acomoda la correa de la espada—. Pero... —Duda, y se le colorean un poco las orejas, como si estuviera haciendo algo que nunca hace—. ¿Cómo te llamas?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1766 · SOLO LEVELING · DÍA 1 · 21:44   ║
+║ Seúl, Corea del Sur                          ║
+║ Gangnam, cinta del cordón de la Puerta       ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.815 · 0 won                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 21:44, cinta de la Puerta. Cha Hae-in, sorprendida ("¿No sabes qué son los cazadores?"), explica las Puertas y los cazadores ("hasta los chicos de primaria lo saben"). La llaman: el maestro CHOI JONG-IN (traje gris claro, pelo engominado, anteojos dorados) la llama con un gesto; SUNG JINWOO (campera negra, pelo negro despeinado) miró un segundo hacia la cinta, a Cha Hae-in y a Facundo. Ella, orejas coloradas: "Tengo que entrar. Pero... ¿Cómo te llamas?"

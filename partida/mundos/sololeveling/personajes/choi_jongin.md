@@ -11,3 +11,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: dirige la incursión de Gangnam.
+ENCUENTROS:
+- T1766 · Junto a la Puerta: traje gris claro, alto, pelo engominado hacia atrás, anteojos finos de marco dorado, impaciencia elegante. Llama a Cha Hae-in con un gesto seco.
