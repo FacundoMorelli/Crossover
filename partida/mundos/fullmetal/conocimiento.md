@@ -30,3 +30,4 @@
 - T1758 · MUSTANG y HAWKEYE saben (por Hughes) lo de anoche y lo que Facundo hizo. ENVY se despertó dos veces un instante y vio a Facundo.
 - T1759 · MUSTANG, HAWKEYE y HUGHES saben (por Facundo) que lo hace porque le gusta ayudar. HAWKEYE notó que Kase tiene los mismos ojos que Facundo.
 - T1760 · MUSTANG, HAWKEYE y HUGHES saben (por Facundo) que Lust y Envy son homúnculos y que los creó alguien muy arriba en el Ejército.
+- T1761 · MUSTANG, HAWKEYE y HUGHES saben (por Facundo) que el FÜHRER KING BRADLEY ES UN HOMÚNCULO.

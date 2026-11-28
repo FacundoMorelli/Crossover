@@ -9,3 +9,4 @@ VELO: nadie siente su poder (tampoco la alkahestria, ni Padre, ni Pride, ni los 
 (ninguno todavía)
 - T1751 · Lust neutralizada (inconsciente) en el archivo del cuartel general (canon: hiere a Hughes y escapa).
 - T1753 · Envy neutralizado (inconsciente) antes de matar a Hughes. Lust y Envy inconscientes juntos en el archivo del 2.º piso del cuartel general. HUGHES VIVO esta noche (canon: muere).
+- T1761 · GRAN CAMBIO: Mustang, Hawkeye y Hughes saben que Bradley es un homúnculo (canon: lo descubren mucho más tarde).

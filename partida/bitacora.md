@@ -1759,3 +1759,4 @@ T1757 · FULLMETAL · casa de los Hughes · Mira: Hughes abraza a su familia llo
 T1758 · FULLMETAL · iglesia abandonada · Vigila a Lust y Envy toda la noche (los vuelve a dormir). Llegan Hughes, Mustang y Hawkeye. Mustang: "¿Por qué arriesgas la vida por el amigo más pesado que tengo?"
 T1759 · FULLMETAL · iglesia · "Me gusta ayudar." Mustang desconfía. Hawkeye: "El gato tiene sus mismos ojos." Mustang: "¿Qué son?"
 T1760 · FULLMETAL · iglesia · "Son homúnculos, creados por alguien muy arriba en el Ejército." Mustang: "¿Cuánto de arriba, viajero?"
+T1761 · FULLMETAL · iglesia · "El Führer Bradley es uno de ellos." Mustang lo cree. "Hughes no puede volver. ¿Hay más?"

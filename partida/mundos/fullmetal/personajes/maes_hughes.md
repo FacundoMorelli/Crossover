@@ -29,3 +29,4 @@ ENCUENTROS:
 - T1758 · Sabe (por Facundo) que se lleva a los homúnculos y los vigila. Le dibuja un mapa a la iglesia abandonada al norte (pasando el canal; cerrada hace diez años): "Mañana a las siete y media llega el tren de Roy. Lo busco en la estación y lo llevo directo ahí. Nadie más va a saber." Día 2 08:12: llega con Mustang y Hawkeye, sin dormir.
 - T1759 · "Te lo dije. Te dije que iba a contestar algo así." "Esto es lo raro, Roy."
 - T1760 · Sabe (por Facundo): homúnculos. "Eso es un cuento de alquimistas, Roy. Un ejercicio teórico."
+- T1761 · Sabe (por Facundo) que Bradley es un homúnculo. "Me felicitó por Elicia. La semana pasada. En el pasillo del tercer piso. Me preguntó cuántos años tenía. Me dijo que los hijos son lo más importante. Me puso la mano en el hombro." Teme por Gracia y Elicia.
