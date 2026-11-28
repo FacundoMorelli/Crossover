@@ -1763,3 +1763,4 @@ T1761 · FULLMETAL · iglesia · "El Führer Bradley es uno de ellos." Mustang l
 T1762 · FULLMETAL · Resembool · SIMULACIÓN hasta el fin del Día Prometido. Hughes vivo. Padre derrotado. Fu, Buccaneer, quimeras, Lan Fan salvados. Ojos de Mustang curados. Lust y Envy sellados vivos. MISIÓN CUMPLIDA. NIVEL 34.
 T1762b · CORRECCIÓN DEL JUGADOR · Fullmetal se resolvió en ~1 mes: Día Prometido el Día 31 de 1914; ahora Día 33. Otros mundos: ~6 semanas.
 T1763 · FULLMETAL · Resembool · SIM: despedidas de todos. Hughes: formulario 17-B, "En todas partes". Colina de Trisha: falta abrir la puerta.
+T1764 · DRAGON BALL → SOLO LEVELING · 3 días en DB con Erasa (novios; imán de la vaca). Puerta a un mundo nuevo: Solo Leveling, Gangnam, Puerta de rango A. Don: Llave de las Puertas. Misión: cazadores de Jeju vivos. Cha Hae-in lo mira.

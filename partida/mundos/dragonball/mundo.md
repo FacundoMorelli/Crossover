@@ -28,3 +28,4 @@ DON DE MUNDO: Forma Cenit (ver sistema.json).
 - T1568 · Goku esquiva por instinto, una vez, sin pensar (primer atisbo del Ultra Instinto, mucho antes que en el canon), peleando contra Facundo en azul.
 - T1603 · Idea del Ultra Ego plantada en Vegeta por Facundo (año 778, muy antes del canon). Vegeta va hacia Bills.
 - T1613 · Llamada de Bulma a Whis: Milk enojada con Goku (5 días fuera); Vegeta prometió a Trunks el parque (sábado). Bills, Whis, Goku y Vegeta vuelven mañana a la Tierra.
+- T1764 · Erasa y Facundo, novios (lo dijo ella en la panquequería). Imán de la vaca "para que vuelvas".

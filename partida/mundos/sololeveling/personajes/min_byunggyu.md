@@ -1,0 +1,13 @@
+NOMBRE: Min Byung-Gyu
+AFILIACIÓN: —
+RANGO: rango S; sanador
+PODER VISTO POR FACUNDO: ninguno todavía
+EDAD EN ESTE MOMENTO DEL CANON: sin dato (adulto)
+FÍSICO: —
+PERSONALIDAD Y FORMA DE HABLAR: —
+RELACIÓN CON FACUNDO: no lo conoce.
+ENCUENTROS:
+DIÁLOGOS CLAVE:
+QUÉ SABE DE FACUNDO: nada.
+QUÉ PODERES DE FACUNDO VIO: ninguno.
+ESTADO: CANON: muere en Jeju comido por el Rey Hormiga. MISIÓN DE MUNDO.

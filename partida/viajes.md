@@ -275,3 +275,11 @@
 
 ## FULLMETAL — SALIDA (T1763)
 - Salida Día 36, atardecer, colina de la tumba de Trisha en Resembool. Misión CUMPLIDA (Hughes vive). Lust y Envy sellados vivos.
+
+## DRAGON BALL — VUELTA (T1764)
+- ~6,5 semanas después de la salida; 3 días con Erasa (novios) y los demás. Salida otra vez desde la colina del parque central.
+
+| 15 | Solo Leveling | Día 1, 21:40, Gangnam | Reevaluación / Puerta del Gremio de Cazadores (caps. 76-92) | Que todos los cazadores coreanos de la incursión a Jeju vuelvan vivos. | ACTIVA |
+### Solo Leveling
+- MISIÓN: Que todos los cazadores coreanos de la incursión a la Isla de Jeju vuelvan vivos. RECOMPENSA: 25.000 EXP · 600 Fragmentos. VENCE: nunca.
+- DON: Llave de las Puertas (30).

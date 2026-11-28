@@ -3,71 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1761)
-
-el führer bradley es uno de ellos
-
-## RESPUESTA 1 (T1761)
-
-> el führer bradley es uno de ellos
-
-> —El Führer Bradley es uno de ellos.
-
-La pistola de Hawkeye baja un centímetro. Solo uno. Es lo más cerca que la viste de perder el control.
-
-Hughes se suelta del respaldo del banco. El banco cruje, se inclina, y él ni lo nota.
-
-Mustang no se mueve. Se queda exactamente donde estaba, a dos metros de ti, con la mano derecha desnuda colgando al costado del cuerpo. No pregunta "¿estás seguro?". No pregunta "¿cómo lo sabes?". Te mira a los ojos, primero al rojo, después al azul, durante un rato muy largo, como quien mira el fondo de un pozo para calcular cuánto hay.
-
-Después cierra los ojos.
-
-—King Bradley —dice, muy bajo—. El Führer.
-
-Abre los ojos. Gira la cabeza hacia Lust, dormida sobre la piedra del altar. Al tatuaje.
-
-—El que ganó Ishval. El que nos mandó a todos allá. —Se le mueve la mandíbula—. El que visitó a Fullmetal en el hospital ayer, a la tarde, con flores, para decirle que no se metiera en lo que no le importa.
-
-—Me felicitó por Elicia —dice Hughes, de golpe, con la voz rara—. La semana pasada. En el pasillo del tercer piso. Me preguntó cuántos años tenía. Me dijo que los hijos son lo más importante. —Se lleva la mano al bolsillo de la foto—. Me puso la mano en el hombro.
-
-Nadie le contesta.
-
-Hawkeye guarda la pistola en la funda. Despacio. Con las dos manos. Después se queda quieta, con la vista en el piso, y respira hondo una vez, como quien se obliga a hacerlo.
-
-Mustang camina hasta el primer banco, el tuyo, y se sienta en la otra punta. Se pasa la mano desnuda por la cara. Se queda mirando la cruz torcida del altar.
-
-—Entonces no hay a quién denunciarlo. —Lo dice para nadie—. No hay tribunal. No hay general limpio. Si el que está arriba de todo es uno de ellos, todo lo que está debajo es suyo.
-
-Se queda callado mucho rato. Después habla otra vez, y la voz ya es otra: más fría, más rápida, la del que ya empezó a pensar.
-
-—Si es verdad, Hughes no puede volver a su oficina. Ni a su casa, por ahora. Bradley sabe que estos dos fueron por él anoche. —Señala a Lust y a Envy—. Y cuando no vuelvan, va a saber que algo salió mal. Va a mandar a otros. —Te mira—. ¿Hay más? ¿Además de estos dos y de él?
-
-Hughes da un paso hacia el banco.
-
-—Roy, Gracia y Elicia...
-
-—Ya sé. —Mustang no aparta los ojos de ti—. Por eso pregunto.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1761 · FULLMETAL · DÍA 2 · 08:21       ║
-║ Afueras de Central, iglesia abandonada       ║
-║ NIVEL 33 · EXP 461.130/480.000               ║
-║ FRAGMENTOS 289.428 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus rodillas                        ║
-║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
-║ OBJETIVO: Lust y Envy, con Mustang           ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1762)
+## COMANDO 1 (T1762)
 
 simula el resto de este arco hasta que complete la misión ayudando en todo
 
-## RESPUESTA 2 (T1762)
+## RESPUESTA 1 (T1762)
 
 > simula el resto de este arco hasta que complete la misión ayudando en todo
 
@@ -166,11 +106,11 @@ Toma un sorbo de café.
 
 ---
 
-## COMANDO 3 (T1763)
+## COMANDO 2 (T1763)
 
 simula unos días y despidiéndome de todos
 
-## RESPUESTA 3 (T1763)
+## RESPUESTA 2 (T1763)
 
 > simula unos días y despidiéndome de todos
 
@@ -224,4 +164,125 @@ Solo falta abrir la puerta.
 
 ---
 
-ESTADO AL CIERRE: Fullmetal Día 36, atardecer, colina de la tumba de Trisha (y la nueva de Hohenheim) en Resembool. Despedidas hechas (cena en lo de los Rockbell; Ed sin alquimia; Mustang y Hawkeye en Central; Armstrong; Ross y Brosh; Pinako; Winry: llave inglesa; Al; Gracia: pan de manteca; Hughes: formulario 17-B con dirección "En todas partes"). Lust y Envy siguen sellados vivos en la celda de granito bajo la iglesia del norte (solo Facundo puede abrirla; nadie más sabe). Falta abrir la puerta.
+## COMANDO 3 (T1764)
+
+me voy a dragon ball, paso un par de dias con erasa, y los demás y me voy a un nuevo mundo
+
+## RESPUESTA 3 (T1764)
+
+> me voy a dragon ball, paso un par de días con erasa, y los demás y me voy a un nuevo mundo
+
+Abres la puerta en la colina de Resembool. Del otro lado, al cruzarla, ya no hay campos ni ovejas: hay una ciudad de edificios redondos encendiéndose en el atardecer, y una colina detrás de un parque, con el pasto alto, que ya conoces.
+
+Capital del Oeste. Seis semanas y media después.
+
+La Calle de los Tilos huele igual: a jazmín, a asfalto tibio, a algo frito de algún puesto. El rosal de la entrada tiene tres flores nuevas. El buzón con forma de pato tiene el ojo pintado de nuevo, otra vez torcido, pero distinto.
+
+Tocas el timbre una vez.
+
+La puerta se abre de golpe, como si alguien hubiera estado esperando con la mano en el picaporte. No es la madre. Es Erasa. Tiene puesto tu sobretodo negro encima de un pijama con estampado de vacas, el pelo recogido en un rodete torcido y un lápiz atrás de la oreja, y se queda en el umbral, con la boca abierta, mirándote.
+
+Mira a Kase. Te mira a ti. Vuelve a mirar a Kase.
+
+Después baja la vista a tu mano. A lo que traes en la mano. Un imán. Un pato amarillo con un ojo torcido.
+
+No dice nada. Se le llenan los ojos de lágrimas, de golpe, y se te tira encima con tanta fuerza que retrocedes un paso en la vereda. Te abraza del cuello. Se ríe y llora al mismo tiempo, con la cara escondida en tu camisa, y dice algo que no se entiende, y después lo dice de nuevo, y es "volviste", y después "¡MAMÁ! ¡VOLVIÓ!", y desde adentro de la casa se oye una cacerola que se cae al piso.
+
+Esa noche, la madre de Erasa hace pollo al horno. No pregunta dónde estuviste. Te sirve la pechuga primero.
+
+Los dos días siguientes son de Erasa.
+
+Panqueques con la dueña que pregunta otra vez, a los gritos, si "este es el novio", y esta vez Erasa contesta que sí, muy roja, mirando el plato, y la dueña aplaude. El mirador de la torre de la estación. Los botes con forma de cisne. Erasa te cuenta todo lo que pasó en seis semanas, sin parar, en orden y en desorden: que su papá volvió de viaje con un imán de un oso; que empezó un curso de fotografía; que le sacó dos rollos enteros de fotos a la ventana de su cuarto, al atardecer, esperando; que durmió todas las noches con el sobretodo puesto, y que su mamá dice que huele a perro mojado y que lo va a lavar, y que ella no la deja.
+
+La Corporación Cápsula. Bulma te grita "¡LLEGASTE TARDE!" desde la cocina antes de abrazarte. Goku y Vegeta siguen en el planeta de Bills, entrenando con Whis. Goten y Trunks te muestran el Remolino Gemelo en el patio, perfecto, y rompen la pared del garaje. Videl tiene una panza enorme y te amenaza otra vez, por las dudas. Gohan te da la mano. Milk te da un táper.
+
+La tercera noche, en la reja de la Calle de los Tilos, junto al buzón del pato, le dices a Erasa que tienes que irte otra vez.
+
+Ella no llora. Te mira mucho rato. Después entra corriendo a la casa y vuelve con algo en la mano. Otro imán. Una vaca. Pintada por ella, con manchas que parecen un mapa.
+
+—Para que vuelvas —dice. Te lo cierra en la mano—. Otra vez. Siempre otra vez.
+
+Te da un beso. Entra. Saluda desde la ventana del segundo piso con la manga del sobretodo.
+
+La colina del parque central, de noche. Abres la puerta. No sabes adónde. Kase te clava las uñas en el hombro.
+
+Cruzas.
+
+[Destino fijado.]
+
+Lo primero es la luz.
+
+Blanca, artificial, fría, a montones: pantallas gigantes en las fachadas de los edificios, carteles de neón en un alfabeto de círculos y líneas que entiendes perfectamente, faros de autos modernos, ventanas de rascacielos de vidrio encendidas hasta el cielo. Es de noche, pero la ciudad no se entera.
+
+Después el ruido. Bocinas. Sirenas. Un helicóptero. Una multitud que murmura detrás de una cinta amarilla.
+
+Abres los ojos en una vereda ancha de una avenida de Seúl, entre una tienda de conveniencia abierta las veinticuatro horas y una parada de autobús con publicidad de un cosmético. Hace frío. La gente tiene el celular en la mano, levantado, filmando algo.
+
+Lo que filman está en el medio de la avenida.
+
+Es un agujero en el aire. Un óvalo vertical, de unos cinco metros de alto, flotando a medio metro del asfalto, con los bordes que giran despacio como un remolino de agua, de un azul oscuro, casi violeta, con destellos eléctricos. Del otro lado no se ve la avenida: se ve oscuridad. Alrededor hay un cordón de vallas metálicas, camionetas blindadas con un logo de un escudo con alas y, detrás de las vallas, gente con chalecos que dicen ASOCIACIÓN DE CAZADORES.
+
+En la pantalla gigante del edificio de enfrente, un noticiero muestra la misma escena, en vivo, con un zócalo rojo:
+
+"PUERTA DE RANGO A EN EL DISTRITO DE GANGNAM — EL GREMIO DE CAZADORES SE HACE CARGO DE LA INCURSIÓN".
+
+Y más abajo, más chico, otro zócalo que pasa:
+
+"SUNG JINWOO, EL CAZADOR REEVALUADO COMO RANGO S, PARTICIPARÁ COMO COLABORADOR".
+
+Kase, en tu hombro, mira el agujero en el aire con las pupilas dilatadas.
+
+Detrás de las vallas, una camioneta negra frena. Bajan cinco o seis personas con armas de verdad: espadas, un escudo, un báculo. La última en bajar es una mujer joven, de pelo rubio cortado a la altura de la mandíbula, con una armadura ligera blanca y una espada larga a la espalda. Se detiene. Levanta la nariz, como si oliera algo. Frunce la cara.
+
+Gira la cabeza, despacio, hacia la vereda. Hacia la multitud. Hacia ti.
+
+Y se queda mirándote, con una expresión de no entender.
+
+```
+╔══════════════════════════════════════════════╗
+║ DON DE MUNDO                                 ║
+║ Mundo: Solo Leveling                         ║
+║ LLAVE DE LAS PUERTAS                         ║
+║ Despertar de clase única. Sientes y ves el   ║
+║ rango real de cualquier Puerta, aunque       ║
+║ mienta. Entras y sales de cualquier Puerta,  ║
+║ también de las Rojas. Con la mano en el      ║
+║ borde, la cierras (los de adentro salen      ║
+║ antes) o la sellas para que no rompa nunca.  ║
+║ Maestría 30                                  ║
+║ 50: abrir Puertas propias (atajos)           ║
+║ 70: absorber una ruptura entera              ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ MISIÓN DE MUNDO                              ║
+║ Mundo: Solo Leveling                         ║
+║                                              ║
+║ MISIÓN: Que todos los cazadores coreanos de  ║
+║ la incursión a la Isla de Jeju vuelvan       ║
+║ vivos.                                       ║
+║ RECOMPENSA: 25.000 EXP · 600 Fragmentos      ║
+║ VENCE: nunca                                 ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1764 · SOLO LEVELING · DÍA 1 · 21:40   ║
+║ Seúl, Corea del Sur                          ║
+║ Gangnam, vereda frente a una Puerta rango A  ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.815 · 0 won                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: SOLO LEVELING, Día 1, 21:40, vereda de una avenida de Gangnam (Seúl) frente a una Puerta de rango A cercada por la Asociación de Cazadores. Pantalla gigante: el Gremio de Cazadores se hace cargo; Sung Jinwoo (rango S reevaluado) participa como colaborador. CHA HAE-IN bajó de una camioneta del Gremio, olió el aire y se quedó mirando a Facundo sin entender (no le huele nada). Antes: 3 días en Dragon Ball con Erasa (novios; imán de la vaca). Don: Llave de las Puertas. Misión: que todos los cazadores coreanos de Jeju vuelvan vivos.

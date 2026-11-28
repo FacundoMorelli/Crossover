@@ -38,3 +38,4 @@ DIÁLOGOS CLAVE:
 - T1657 · Lunes: almuerza en la Corporación con Gohan; a Facundo: "Me contó todo. Todo." (Erasa le contó lo de las citas.)
 - T1666 · (declarado por el jugador) Antes de la cena del sábado, le dijo a Facundo la edad de Erasa (22). Le había dicho a Erasa: "no te preocupes por nada, tú sé tú misma".
 - T1680 · Sábado: "Si Erasa llora, yo también te encuentro. Mi papá es el campeón del mundo, ¿sabes?" Después sonríe.
+- T1764 · (sim) Panza enorme; vuelve a amenazar a Facundo "por las dudas".

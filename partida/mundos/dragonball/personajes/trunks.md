@@ -28,3 +28,4 @@ ESTADO: activo
 - T1657 · Domingo: Remolino Gemelo con Goten bajo Vegeta; les sale al cuarto intento.
 - T1659 · Nota en la taza: "Mi mamá no durmió esperándote". Entrena con Vegeta; Bulma lo manda a la escuela.
 - T1680 · Sábado: le da la mano a Facundo como un adulto y después lo abraza a escondidas.
+- T1764 · (sim) Remolino Gemelo perfecto con Goten.

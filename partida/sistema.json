@@ -1,8 +1,8 @@
 {
-  "turno": 1763,
-  "mundo_actual": "fullmetal",
-  "fecha_local": "Fullmetal Alchemist: Día 36, 1914",
-  "hora": "atardecer (Resembool)",
+  "turno": 1764,
+  "mundo_actual": "sololeveling",
+  "fecha_local": "Solo Leveling: Día 1 (arco de la Reevaluación / Puerta del Gremio de Cazadores)",
+  "hora": "21:40 (Seúl)",
   "edad": 18,
   "nivel": 34,
   "exp": 486130,
@@ -83,6 +83,11 @@
       "moneda": "cenz",
       "cantidad": 0,
       "cambio": "1 Fragmento = 10.000 cenz (fijado T1738)"
+    },
+    "sololeveling": {
+      "moneda": "won",
+      "cantidad": 0,
+      "cambio": "1 Fragmento = 130.000 won (fijado T1764)"
     }
   },
   "puntos_de_stat_sin_asignar": 190,
@@ -427,11 +432,24 @@
         "Maestría 50: transmutación a distancia por marcas (como la alkahestria, con su mirada). Maestría 70: \"La Puerta propia\": ve la Verdad de un material o estructura sin pagar nada."
       ],
       "primer_uso": "T1762 (simulación: celda de granito, curaciones de Buccaneer y de los ojos de Mustang)"
+    },
+    "sololeveling": {
+      "nombre": "Llave de las Puertas",
+      "tipo": "despertar de clase única",
+      "maestria": 30,
+      "reglas": [
+        "Siente y ve el rango real de cualquier Puerta, aunque la medición mienta (doble mazmorra, Puerta Roja oculta).",
+        "Entra y sale de cualquier Puerta cuando quiera, también de las Puertas Rojas.",
+        "Con la mano en el borde de una Puerta, la cierra (lo de adentro que sea humano sale antes) o la sella para que nunca rompa.",
+        "Maestría 50: abre Puertas propias, como atajos entre dos lugares de este mundo.",
+        "Maestría 70: absorbe una ruptura entera (los monstruos vuelven adentro y la Puerta se cierra)."
+      ],
+      "primer_uso": null
     }
   },
   "velo": {
     "activo": true,
-    "poder_mostrado": "Fullmetal: persona común, sin alquimia visible (desde T1738)"
+    "poder_mostrado": "Solo Leveling: persona común, no despertada; sin olor de maná (desde T1764)"
   },
   "armas": [
     {
@@ -724,11 +742,6 @@
       "detalle": "T1680, 'para el viaje'."
     },
     {
-      "objeto": "Imán de pato amarillo con un ojo torcido (regalo de Erasa)",
-      "cantidad": 1,
-      "detalle": "T1680, pintado por ella, igual al buzón. 'Es para que vuelvas.'"
-    },
-    {
       "objeto": "Chicle aplastado (de Denji)",
       "cantidad": 1,
       "detalle": "T1697, a cambio de una semilla. \"No está masticado. Bueno, casi no.\""
@@ -767,6 +780,16 @@
       "objeto": "Formulario 17-B de Hughes (copia), dirección: \"En todas partes.\"",
       "cantidad": 1,
       "detalle": "T1763, Hughes lo terminó; archivará el original."
+    },
+    {
+      "objeto": "Imán de una vaca con manchas como un mapa (regalo de Erasa)",
+      "cantidad": 1,
+      "detalle": "T1764, Dragon Ball: \"Para que vuelvas. Otra vez. Siempre otra vez.\" (El del pato se lo devolvió a ella al volver.)"
+    },
+    {
+      "objeto": "Táper de Milk (T1764)",
+      "cantidad": 1,
+      "detalle": "Dragon Ball."
     }
   ],
   "copias": [
@@ -2475,7 +2498,8 @@
       "tokyoghoul",
       "naruto",
       "chainsawman",
-      "fullmetal"
+      "fullmetal",
+      "sololeveling"
     ],
     "mundos_completados": [
       "jujutsu",
@@ -2495,12 +2519,12 @@
     ],
     "viaje_libre": true,
     "mision_de_mundo_actual": {
-      "mundo": "fullmetal",
-      "mision": "Que Maes Hughes siga vivo cuando termine el Día Prometido.",
+      "mundo": "sololeveling",
+      "mision": "Que todos los cazadores coreanos de la incursión a la Isla de Jeju vuelvan vivos.",
       "recompensa": "25.000 EXP · 600 Fragmentos",
       "vence": "nunca",
       "cambiada": false,
-      "estado": "CUMPLIDA (T1762, simulación): Maes Hughes vivo al terminar el Día Prometido."
+      "estado": "activa (T1764)"
     },
     "relojes": {
       "jujutsu": "Salida 29/04/2019 10:21, portón de la sede de los altos mandos (Kioto). Prometió a Nanami avisar al volver. Corre.",
@@ -2529,7 +2553,9 @@
       "naruto_salida": "Día 10 ~00:00 (T1440).",
       "dragonball_salida_T1680": "Salida sábado año 778 19:40, colina del parque central. Corre al ritmo de Facundo.",
       "chainsawman": "Llegada Día 1 (fines de oct. 1997) 19:30. Salida Día 9 18:40 (T1737), azotea del edificio de Aki, Tokio. Corre al ritmo de Facundo. MISIÓN DE MUNDO NO CUMPLIDA (Aki vivo tras el Pistola; el ataque del Pistola es en nov-dic 1997).",
-      "fullmetal": "Llegada Día 1, 1914 (T1738). Día Prometido Día 31. Salida Día 36, atardecer, colina de la tumba de Trisha en Resembool (T1763). Corre al ritmo de Facundo."
+      "fullmetal": "Llegada Día 1, 1914 (T1738). Día Prometido Día 31. Salida Día 36, atardecer, colina de la tumba de Trisha en Resembool (T1763). Corre al ritmo de Facundo.",
+      "dragonball_vuelta_T1764": "Vuelta ~6,5 semanas después de la salida (3 días con Erasa y los demás). Salida otra vez de noche desde la colina del parque central. Corre al ritmo de Facundo. Freezer: Sorbet llega ~3,5 meses después de esta salida; ataque ~7,5 meses después.",
+      "sololeveling": "Llegada Día 1, 21:40, Gangnam, Seúl (T1764). Arco 6 (Reevaluación/Puerta del Gremio de Cazadores). Corre al ritmo de Facundo."
     },
     "puerta_abierta": true,
     "historial_misiones": {
@@ -2567,8 +2593,7 @@
       }
     },
     "mundos_disponibles_sin_visitar": [
-      "demonslayer",
-      "sololeveling"
+      "demonslayer"
     ],
     "nota_mundos_nuevos": "T1657 (R16): se suman Demon Slayer, Fullmetal Alchemist, Chainsaw Man y Solo Leveling. /viajar nuevo elige al azar entre ellos. Dragon Ball Super es parte del mundo Dragon Ball (canon/dragonballsuper/)."
   },
@@ -2580,7 +2605,8 @@
     "tokyoghoul": "El Panadero (entre los ghouls del Distrito 20 y alrededores; oído T1215, Koma lo grita en el callejón)",
     "naruto": "",
     "chainsawman": "",
-    "fullmetal": ""
+    "fullmetal": "",
+    "sololeveling": ""
   },
   "tienda": {
     "catalogo_permanente": {
@@ -2671,19 +2697,19 @@
       "Plato de carne al punto con puré (caliente, con cubiertos)": "1 Fragmento (fijado T1554)"
     },
     "stock_rotativo": {
-      "mundo": "fullmetal",
+      "mundo": "sololeveling",
       "slots": [
         {
-          "item": "Tiza alquímica que no se borra con la lluvia (x10)",
-          "precio": 2
-        },
-        {
-          "item": "Reloj de bolsillo de plata sin grabar (estilo Alquimista Estatal, sin licencia)",
+          "item": "Celular moderno con línea surcoreana a nombre de nadie",
           "precio": 6
         },
         {
-          "item": "Kit de reparación de automail de campaña",
-          "precio": 12
+          "item": "Pocion de maná (recupera 30% de energía)",
+          "precio": 8
+        },
+        {
+          "item": "Licencia de cazador falsa pero perfecta (rango E)",
+          "precio": 20
         }
       ]
     },
@@ -2866,13 +2892,15 @@
     "alba_voz": "T1408: al revivir, cada revivido \"oyó\" una voz (Alba) que les dijo que quien los trajo de vuelta tiene un gato. (Fuente válida para que los revividos sepan del gato.)",
     "sim_dias_1_5_naruto": "T1428 (simulación Día 1 noche – Día 5 amanecer): Tsunade renuncia a interrogarlo. Kisame preso bajo Ibiki (Samehada en baúl de hierro); pregunta por Itachi. Zetsu blanco estudiado en cuarto sellado. Kumo: Bee apareció libre; Raikage: \"Que el Uchiha no vuelva a pisar mi país.\" Cumbre suspendida; cartas: Gaara (Shukaku de vuelta), Mei Terumī (Yagura revivido en su despacho con el Tres Colas), Ōnoki (Rōshi y Han de vuelta). Día 3: Gaara visita a Facundo y se inclina. Taka vive con los Uchiha. Naruto vive con Minato y Kushina; Jiraiya al lado. Obito barre el barrio Uchiha (Rin y Kakashi lo acompañan). Día 4: JUICIO: Danzō, prisión de por vida sin chakra; ojos devueltos al clan; Homura y Koharu fuera del consejo; Raíz disuelta; Obito sellado al servicio de la aldea; Uchiha reintegrados (policía y consejo); Fugaku confiesa el golpe. Noche del Día 4: acuerdo de paz de los cinco Kages → no habrá Cuarta Guerra.",
     "sim_dias_5_9_naruto": "T1437 (simulación Día 5–9): duelo con Sasuke (Susanoo completo, Amaterasu, Kirin; Facundo deshace el Susanoo con la mano). Kakashi llega a horario por primera vez. Obito barre; un nene le lleva agua; Rin le venda las manos. Jiraiya escribe \"El Viajero del Gato\" (Tsunade lo tira por la ventana; Kakashi lo rescata). Sakura investiga las semillas. Lee y Gai: carreras diarias perdidas. Día 7-8: Killer Bee visita Konoha (carta del Raikage, disculpa de Karui); amistad con Naruto; Kurama y Gyūki se insultan. Neji se sienta junto a Facundo en un techo una noche. Ayame alimenta a Kase. Día 9 noche: Naruto pregunta cuándo se va.",
-    "dragonball_resurreccion_freezer": "Fijado T1680: Sorbet y Tagoma llegan a la Tierra y reviven a Freezer ~5 meses después de este sábado (comienzo del año 779); Freezer entrena ~4 meses y ataca la Tierra ~9 meses después de este sábado. Goku y Vegeta en el planeta de Bills con Whis.",
+    "dragonball_resurreccion_freezer": "Actualizado T1764: Sorbet llega ~3,5 meses después de la salida de T1764; Freezer ataca ~7,5 meses después.",
     "chainsawman_llegada": "Mundo elegido al azar (T1681) entre demonslayer/fullmetal/chainsawman/sololeveling: chainsawman. Momento al azar: arco 5 (Asesinos Internacionales), Día 1.",
     "apodo_pendiente_chainsawman": "'Dragon Man' (los medios y Seguridad Pública, si lo ven transformado); 'el del gato de dos ojos' entre civiles.",
     "fullmetal_llegada": "Elegido al azar (T1738) entre demonslayer/fullmetal/sololeveling: fullmetal. Momento al azar: arco 3 (Quinto Laboratorio), cerca de caps. 14-15: noche en que Hughes descubre el patrón; Lust lo ataca esta noche ~22:00 cerca del Cuartel; Envy lo mata en una cabina telefónica ~22:30 (cerca de la plaza del hospital).",
     "chainsawman_aki": "T1738 (declarado por el jugador): Aki sobrevive al ataque del Demonio Pistola. Al volver, el motor narra cómo (lo que pasó mientras Facundo no estaba).",
     "apodo_pendiente_fullmetal": "'El Alquimista de los Ojos' (rumores militares, si lo ven transmutar con la mirada).",
-    "tiempo_otros_mundos_T1762": "Desde la salida de DB (T1680): 9 días en CSM + 33 días en FMA ≈ 6 semanas. Sorbet todavía no llegó (≈5 meses). Desde la salida de CSM (Día 9, nov. 1997): ≈33 días → principios de diciembre de 1997 (arco del Pistola en curso o recién terminado; Aki vive por declaración)."
+    "tiempo_otros_mundos_T1762": "Desde la salida de DB (T1680): 9 días en CSM + 33 días en FMA ≈ 6 semanas. Sorbet todavía no llegó (≈5 meses). Desde la salida de CSM (Día 9, nov. 1997): ≈33 días → principios de diciembre de 1997 (arco del Pistola en curso o recién terminado; Aki vive por declaración).",
+    "sololeveling_llegada": "Elegido al azar (T1764) entre demonslayer/sololeveling: sololeveling. Momento al azar: arco 6 (caps. 76-92), noche de la incursión del Gremio de Cazadores (Puerta de rango A en Gangnam; orcos altos; Kargalgan → Tusk). Después: Jeju (arco 8).",
+    "apodo_pendiente_sololeveling": "'El cazador sin olor' (entre cazadores, por Cha Hae-in) / 'el Cerrajero' (si lo ven cerrar Puertas)."
   },
   "recompensa_onepiece": {
     "monto": 400000000,
