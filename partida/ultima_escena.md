@@ -3,56 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1852)
-
-No se puede, no por que no quiera, pero ven conmigo afuera, te voy a mostrar a donde me voy
-
-## RESPUESTA 1 (T1852)
-
-> No se puede, no por que no quiera, pero ven conmigo afuera, te voy a mostrar a donde me voy
-
-> —No se puede. No porque no quiera. Pero ven conmigo afuera. Te voy a mostrar a dónde me voy.
-
-Cha Hae-in te mira. No pregunta nada. Asiente.
-
-Se levanta. Kase deja de lamerse la pata, mira a los dos, y salta a tu hombro.
-
-—¡Mamá, salimos un momento! —dice Cha Hae-in hacia la cocina.
-
-—¡Abríguense! —contesta la señora Kang, sin asomarse, con la voz un poco rara, entre el ruido del agua y los platos.
-
-Cha Hae-in agarra de la entrada una chamarra vieja de su mamá, color mostaza, demasiado ancha para ella, y se la pone encima de la ropa negra de combate. Se pone los tenis sin atarlos. Bajan por la escalera, no por el ascensor, cuatro pisos, en silencio, de la mano.
-
-Afuera, la calle del barrio está tranquila. Es mediodía, pero casi no hay nadie: todo el mundo está adentro, mirando la tele. Por las ventanas abiertas de los departamentos se escucha la misma voz de presentador, repitiendo lo mismo en todos los pisos. Una bicicleta pasa despacio, con un repartidor que mira el celular. Al fondo de la calle, detrás de los edificios bajos de ladrillo, hay una plaza chiquita, con dos bancos de madera, un tobogán despintado y un árbol de ginkgo enorme, amarillo, que tira hojas como monedas cada vez que sopla el viento.
-
-Cha Hae-in camina contigo hasta la plaza sin preguntar. Está vacía. Las hojas amarillas cubren el piso como una alfombra.
-
-Se detiene debajo del ginkgo. Se mete las manos en los bolsillos de la chamarra mostaza de su mamá. Se da vuelta hacia ti.
-
-Te mira. Tranquila. Con la cara seria de antes de entrar a una Puerta, pero con los ojos abiertos de par en par, como una nena que espera ver algo que le prometieron.
-
-—Aquí no hay nadie —dice, bajito—. Muéstrame.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1852 · SOLO LEVELING · DÍA 22 · 12:46  ║
-║ Seúl, Corea del Sur                          ║
-║ Plaza del barrio de la señora Kang · ginkgo  ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 1.282.800 won           ║
-║ Energía 95% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
-║ OBJETIVO: Cha: "Muéstrame."                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1853)
+## COMANDO 1 (T1853)
 
 abro un portal al mundo de dragon ball
 
-## RESPUESTA 2 (T1853)
+## RESPUESTA 1 (T1853)
 
 > abro un portal al mundo de dragon ball
 
@@ -105,11 +60,11 @@ Gira la cabeza. Te mira. Con los ojos llenos de un cielo que no es el suyo.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1854)
+## COMANDO 2 (T1854)
 
 es otro mundo, de ahí vengo y a otros como ese voy
 
-## RESPUESTA 3 (T1854)
+## RESPUESTA 2 (T1854)
 
 > es otro mundo, de ahí vengo y a otros como ese voy
 
@@ -162,6 +117,53 @@ Mira la pradera del otro lado. Hay flores entre el pasto, cerca del borde de la 
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1855)
+
+esta bien amor, la agarro de la cintura y le doy un beso
+
+## RESPUESTA 3 (T1855)
+
+> esta bien amor, la agarro de la cintura y le doy un beso
+
+> —Está bien, amor.
+
+La agarras de la cintura, por encima de la chamarra mostaza, y la besas.
+
+Cha Hae-in te pasa los brazos por el cuello y se pone en puntas de pie. Las hojas amarillas del ginkgo caen alrededor de los dos, despacio, y algunas se quedan enredadas en su pelo. El viento del otro mundo, por la puerta abierta, sigue soplando, tibio, con olor a pasto y a tormenta, y le levanta el borde de la chamarra.
+
+Kase, en tu hombro, mira hacia otro lado. Hacia la pradera. Con mucha dignidad.
+
+Cuando se separan, ella se queda con la frente apoyada en tu mentón, los ojos cerrados, respirando hondo. Se ríe bajito.
+
+—Una flor —dice—. Lo prometiste.
+
+Abre los ojos. Mira la puerta por encima de tu hombro, el cielo azul, las cúpulas blancas a lo lejos. Algo enorme, de cuello largo, asoma la cabeza por detrás de unas rocas en la pradera, a lo lejos, mastica pasto, y vuelve a esconderse.
+
+Cha Hae-in parpadea.
+
+—Facundo. —Lo dice muy seria—. Cierra eso antes de que entre algo.
+
+Y se ríe. Con la cabeza hacia atrás, de verdad, las hojas amarillas cayéndole del pelo. La misma risa que su mamá.
+
+Se seca los ojos con la manga, todavía riéndose. Te agarra la mano.
+
+—Vamos. Mamá nos va a matar si se enfría el té. —Te tira suave de la mano hacia la calle—. Y quiero que me cuentes. No todo. Algo. Del lugar de ese cielo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1855 · SOLO LEVELING · DÍA 22 · 12:51  ║
+║ Seúl, Corea del Sur                          ║
+║ Plaza del barrio · puerta abierta            ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 1.282.800 won           ║
+║ Energía 95% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirando la pradera       ║
+║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 12:49, plaza del ginkgo, puerta a Dragon Ball abierta. Facundo: "Es otro mundo. De ahí vengo. Y a otros como ese voy." Cha entiende sola: por eso no huele, no sabía de cazadores ni Puertas, la Asociación no lo encontraba, "Llegué caminando"; "Y por eso no puedo ir contigo." "¿Cuántos hay? No me contestes. No importa." "Prométeme una cosa... Cuando vuelvas, tráeme una flor de algún lugar donde estuviste. De uno que te haya gustado. Para saber que existe." (Flores violeta-naranja cerca del borde, del lado de Dragon Ball.)
+ESTADO AL CIERRE: Día 22 12:51, plaza del ginkgo, puerta a Dragon Ball todavía abierta. "Está bien, amor." Beso bajo el ginkgo. Cha: "Una flor. Lo prometiste." Un dinosaurio de cuello largo asoma a lo lejos en la pradera. Cha, seria: "Cierra eso antes de que entre algo." y se ríe (la risa de su mamá). "Vamos. Mamá nos va a matar si se enfría el té. Y quiero que me cuentes. No todo. Algo. Del lugar de ese cielo."
