@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1754)
-
-espero a hughes
-
-## RESPUESTA 1 (T1754)
-
-> espero a hughes
-
-Esperas.
-
-La lámpara verde zumba sobre la mesa del fondo. Las estanterías crujen de vez en cuando, como cruje la madera vieja de noche. Afuera, lejos, pasa un carro con caballos. Kase termina de lamerse una pata y empieza con la otra.
-
-Lust y Envy no se mueven. Respiran. Las piedras rojas que llevan adentro laten despacio, cada una con sus miles de voces apretadas, quietas, como un enjambre dormido.
-
-Con el ki sigues a Hughes. Está en la cabina mucho tiempo. Diez minutos. Doce. La presencia se le mueve dentro del cubículo de vidrio: se apoya en la pared, se endereza, se agacha, se vuelve a apoyar. Habla. Mucho. Después menos. Después se queda quieto, con el tubo en la mano, un buen rato. Después cuelga.
-
-Vuelve. Rápido. Cruza la calle, sube la escalinata, pasa entre los guardias, sube la escalera de mármol de dos en dos. Lo sientes llegar al segundo piso. Por el pasillo. A la puerta.
-
-Entra al archivo con el mapa todavía apretado contra el pecho y la respiración agitada.
-
-—Ya está. Hablé con Roy. Viene en el primer tren de mañana, con Hawkeye y dos de los suyos. No le dije todo por teléfono, pero entendió. Siempre entiende. —Se acomoda los anteojos—. Me dijo que soy un idiota por quedarme solo en el cuartel de noche y que, si me pasaba algo, me iba a matar él mismo...
-
-Se detiene.
-
-Mira el piso. Mira a Lust, donde la dejaste. Y mira, al lado de ella, al otro.
-
-Al ser de pelo verde negro, larguísimo, desparramado sobre los papeles. La ropa negra. La cara afilada, sin edad, dormida. El tatuaje rojo en el muslo.
-
-Hughes da un paso atrás, sin darse cuenta. Se lleva la mano al cinturón, a los cuchillos. No los saca.
-
-—¿Y ese? —La voz le sale muy baja—. ¿Ese de dónde salió?
-
-Se acerca, despacio, y se agacha al lado de Envy, como hizo antes con Lust. Le mira el tatuaje. La cara. El pelo. Frunce el ceño, buscando algo en la memoria.
-
-—No lo vi nunca. —Levanta la vista hacia ti—. No estaba acá cuando me fui. ¿Dónde estaba?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1754 · FULLMETAL · DÍA 1 · 22:10       ║
-║ Ciudad Central, Amestris, 1914               ║
-║ Cuartel general, archivo del 2.º piso        ║
-║ NIVEL 33 · EXP 461.130/480.000               ║
-║ FRAGMENTOS 289.428 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: sentado de espaldas a los homúnculos   ║
-║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
-║ OBJETIVO: Vigilar a Lust y a Envy            ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1755)
+## COMANDO 1 (T1755)
 
 estaba en la cabina esperándote disfrazado de tu esposa
 
-## RESPUESTA 2 (T1755)
+## RESPUESTA 1 (T1755)
 
 > estaba en la cabina esperándote disfrazado de tu esposa
 
@@ -109,11 +56,11 @@ Se le quiebra un poco la voz.
 
 ---
 
-## COMANDO 3 (T1756)
+## COMANDO 2 (T1756)
 
 me teletransporto con hughes y los dos homúnculos a su casa
 
-## RESPUESTA 3 (T1756)
+## RESPUESTA 2 (T1756)
 
 > me teletransporto con hughes y los dos homúnculos a su casa
 
@@ -160,4 +107,75 @@ Se le doblan las rodillas.
 
 ---
 
-ESTADO AL CIERRE: Día 1 22:12, sala de la casa de los Hughes (barrio de casas bajas al oeste de Central). Facundo teletransportó a Hughes, a Kase y a Lust y Envy (inconscientes, ahora sobre la alfombra de flores). GRACIA (delantal, harina en la mejilla; mismo rostro que imitó Envy) rompió un plato: "¿Maes?" ELICIA (3, pijama, conejo de trapo) baja la escalera: "¡Papi! ¡Un gatito gigante!" Hughes ve a las dos enteras y se le doblan las rodillas.
+## COMANDO 3 (T1757)
+
+miro
+
+## RESPUESTA 3 (T1757)
+
+> miro
+
+Miras.
+
+Hughes cae de rodillas en la alfombra de flores y abre los brazos. Elicia baja el último escalón y corre hacia él, con el conejo de trapo volando detrás de ella, y se le tira encima. Él la abraza. La aprieta contra el pecho, contra el mapa doblado, contra la foto de ella que lleva en el bolsillo, y esconde la cara en su pelo despeinado, y se queda así.
+
+No dice nada. Le tiemblan los hombros.
+
+—Papi, me aprietas —se queja Elicia, sin soltarlo.
+
+—Ya sé, mi amor. Ya sé. Perdón.
+
+No afloja.
+
+Gracia cruza la sala despacio. Pasa al lado de los dos cuerpos de negro sin mirarlos, como si no existieran. Se arrodilla al lado de su marido, en la alfombra, y le pone una mano en la nuca. Él levanta la cara. Se miran. Los anteojos torcidos, la cara pálida, los ojos mojados. Ella no pregunta nada. Le endereza los anteojos con dos dedos, con mucho cuidado, como quien acomoda un cuadro.
+
+—Llegaste tarde a la cena —le dice, bajito. La voz le tiembla apenas.
+
+—Perdón.
+
+—Ya me pediste perdón por eso cien veces este año.
+
+—Esta vez... —A Hughes se le quiebra la voz. Se ríe, llorando—. Esta vez es en serio, Gracia.
+
+Ella lo abraza a él, y a Elicia en el medio, y se quedan los tres así en el piso de la sala, entre la mesa puesta para tres y los dos homúnculos dormidos.
+
+Kase te mira desde el hombro. Parpadea despacio.
+
+Elicia es la primera en soltarse. Saca la cabeza de entre los brazos de sus padres, con el pelo todavía más despeinado, y te mira a ti. Después a Kase. Se le olvida todo lo demás.
+
+Camina hacia ti, descalza, con el conejo de trapo arrastrando, y se para delante, con la cabeza echada para atrás para verte entero. Llega a la altura de tus rodillas.
+
+—Hola —dice—. ¿El gatito es tuyo? ¿Muerde?
+
+Kase baja de tu hombro. Solo. Se sienta en la alfombra, frente a ella, con la cola enroscada en las patas. Es casi del mismo tamaño que Elicia. La mira. Ella lo mira. Le acerca la mano con el conejo, despacito. Kase huele el conejo. Después le olfatea los dedos. Después, sin apuro, le apoya la frente en la palma de la mano.
+
+Elicia se ríe. Una risa enorme, de nena, que llena la sala.
+
+Hughes la mira reírse. Se seca la cara con la manga del uniforme, se pone de pie, despacio, ayudado por Gracia. Se acomoda la chaqueta. Respira hondo, una, dos veces, y cuando te mira otra vez, ya es el teniente coronel de nuevo, aunque con los ojos todavía rojos.
+
+—Gracia, este es el señor Facundo Morelli. —Lo dice con la voz ronca—. Esta noche me salvó la vida. Dos veces. —Hace una pausa—. Y la tuya, creo. Y la de Elicia.
+
+Gracia te mira con los ojos muy abiertos. Se lleva las dos manos a la boca.
+
+Hughes mira a los dos cuerpos dormidos en la alfombra de su sala. Después a ti.
+
+—Roy llega en el primer tren de la mañana. —Se pasa la mano por la barba—. Pero no podemos tenerlos acá hasta entonces. Ni llevarlos a ninguna celda del Ejército, porque no sé quién los mandó. Y no sé cuánto tiempo duermen. —Baja la voz, mirando de reojo a Elicia, que acaricia a Kase—. Señor Morelli, usted los durmió. ¿Sabe cuándo se despiertan? ¿Y qué hacemos con ellos?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1757 · FULLMETAL · DÍA 1 · 22:20       ║
+║ Ciudad Central, Amestris, 1914               ║
+║ Casa de los Hughes, sala                     ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.428 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la alfombra, con Elicia             ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: Hughes y su familia                ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 22:20, sala de los Hughes. Hughes abrazó a Elicia y a Gracia llorando ("Esta vez es en serio, Gracia"). Elicia se acercó a Kase ("¿Muerde?"); Kase bajó solo y le apoyó la frente en la palma; ella se ríe. Hughes presentó a Facundo a Gracia: "Esta noche me salvó la vida. Dos veces. Y la tuya, creo. Y la de Elicia." Gracia, manos en la boca. Hughes: Roy llega mañana; no pueden tenerlos ahí ni llevarlos a una celda del Ejército. "Usted los durmió. ¿Sabe cuándo se despiertan? ¿Y qué hacemos con ellos?"

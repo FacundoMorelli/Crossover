@@ -11,3 +11,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: aspecto; que apareció de la nada en su sala con Maes.
 QUÉ PODERES DE FACUNDO VIO: aparición repentina (Teletransportación).
 ESTADO: en casa, bien. (Envy imitó su cara en la cabina.)
+- T1757 · Cruza la sala sin mirar a los cuerpos; se arrodilla junto a Maes, le endereza los anteojos. "Llegaste tarde a la cena." "Ya me pediste perdón por eso cien veces este año." Abraza a Maes y a Elicia. Sabe (por Maes): Facundo Morelli le salvó la vida a Maes dos veces, y quizá la suya y la de Elicia. Se lleva las manos a la boca.

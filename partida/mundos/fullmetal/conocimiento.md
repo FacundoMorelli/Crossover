@@ -26,3 +26,4 @@
 - T1754 · MUSTANG sabe (por Hughes, teléfono) parte del hallazgo del círculo. HUGHES vio a Envy inconsciente (forma real).
 - T1755 · HUGHES sabe (por Facundo) que Envy se disfrazó de Gracia y lo esperaba en la cabina. Deduce que los homúnculos saben dónde vive.
 - T1756 · GRACIA y ELICIA vieron a Facundo aparecer de la nada en su sala con Maes, el gato y dos inconscientes. HUGHES vio a Facundo llevarlos a todos a su casa al instante.
+- T1757 · GRACIA sabe (por Maes) que Facundo le salvó la vida a Maes dos veces esta noche.
