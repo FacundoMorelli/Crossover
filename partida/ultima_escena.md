@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1800)
-
-si, vamos al hotel
-
-## RESPUESTA 1 (T1800)
-
-> si, vamos al hotel
-
-> —Sí, vamos al hotel.
-
-En el taxi, de vuelta al sur, cruzando el Han iluminado, Cha Hae-in no te suelta el brazo. Mira por la ventanilla las luces de los puentes pasar una detrás de otra, y de vez en cuando se ríe sola, bajito, sin motivo, y se tapa la boca. Kase va en tu falda, con los ojos cerrados.
-
-El portero de guantes blancos les abre la puerta del hotel. El chico de recepción levanta la vista, ve a la chica de gorra negra colgada de tu brazo y la reconoce de golpe, esta vez sí: abre mucho los ojos y vuelve a bajar la vista al monitor tan rápido que casi se golpea la frente.
-
-En el ascensor de espejos, Cha Hae-in se saca la gorra y los anteojos. Se mira en el espejo, se acomoda el pelo, y después te mira a ti en el reflejo. No dice nada. Los números suben. Ocho. Doce. Dieciséis.
-
-Veintidós.
-
-Lucecita verde. Clic.
-
-La habitación está a oscuras, solo con la luz de la ciudad entrando por el ventanal, dorada y azul. Kase salta de tu hombro, cruza la habitación sin mirar a nadie y se va al sillón de cuero, donde se acomoda de espaldas a ustedes, con la cola enroscada, como quien entiende perfectamente cuándo sobra.
-
-Cha Hae-in deja la gorra sobre la mesita, al lado de la tarjetita con su número. Se queda de pie en el medio de la habitación, frente a ti, con las manos juntas delante del suéter. Respira hondo por la nariz, despacio.
-
-—No hueles a nada —dice, en un susurro—. Y es lo más lindo que olí en mi vida.
-
-Da un paso hacia ti.
-
-...
-
-Más tarde, mucho más tarde, la ciudad sigue encendida al otro lado del vidrio.
-
-Cha Hae-in está acostada a tu lado, con la cabeza sobre tu pecho, el pelo desparramado sobre tu piel, la sábana blanca hasta los hombros. Con un dedo recorre despacio el dragón tatuado que te sube por el pecho, siguiendo cada escama, sin apuro. La cadenita de plata con su placa de cazadora y la llavecita del candado le cuelga del cuello y te toca el costado, fría.
-
-En algún momento Kase volvió del sillón y ahora duerme a los pies de la cama, sobre las piernas de los dos, pesado, ronroneando muy bajito.
-
-Cha Hae-in deja el dedo quieto sobre la cabeza del dragón, encima de tu corazón.
-
-—Facundo —dice, muy bajito, sin levantar la cabeza—. Dijiste que te vas a quedar un tiempo.
-
-Se queda callada un rato. Escuchas su respiración.
-
-—Algún día te vas a ir, ¿verdad?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1800 · SOLO LEVELING · DÍA 3 · 02:14   ║
-║ Seúl, Corea del Sur                          ║
-║ Hotel de Gangnam · habitación 2207           ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: dormido a los pies de la cama          ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1801)
+## COMANDO 1 (T1801)
 
 asi es, pero voy a volver
 
-## RESPUESTA 2 (T1801)
+## RESPUESTA 1 (T1801)
 
 > asi es, pero voy a volver
 
@@ -111,11 +52,11 @@ Afuera, Seúl sigue brillando.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1802)
+## COMANDO 2 (T1802)
 
 me duermo con ella y simula
 
-## RESPUESTA 3 (T1802)
+## RESPUESTA 2 (T1802)
 
 > me duermo con ella y simula
 
@@ -170,6 +111,55 @@ Baja el celular a la sábana. Te mira. Está pálida, pero no asustada. Más bie
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1803)
+
+si
+
+## RESPUESTA 3 (T1803)
+
+> si
+
+> —Sí.
+
+Cha Hae-in suelta el aire que tenía guardado. Asiente una vez, rápido.
+
+—Gracias.
+
+Después se mueve como una cazadora antes de entrar a una Puerta: rápida, ordenada, sin perder tiempo. Se baña en siete minutos. Se viste con la ropa de ayer, el suéter crema y el pantalón oscuro. Se ata el pelo atrás, alto, apretado. Mientras se pone los zapatos, llama a su mamá y habla con ella en voz baja, de espaldas a ti, junto al ventanal: "Sí, mamá. Sí. No, estoy bien. Sí, es él. No, no es cazador. Mamá. Mamá. Te llamo a la noche." Cuelga y se queda un segundo con la frente apoyada en el vidrio.
+
+Después se da vuelta y ya está otra vez entera.
+
+Bajan a desayunar. En el restaurante del hotel hay un televisor grande en la pared, con el sonido apagado, y en la pantalla, en un canal de noticias, aparece la foto del mercado, ampliada, con un círculo rojo alrededor de la cara de ella. Cha Hae-in le da la espalda al televisor y come arroz con sopa sin levantar la vista. Las dos mozas del restaurante cuchichean junto a la cocina. Kase se come media salchicha de tu plato sin pedir permiso.
+
+A las once, un taxi los lleva al norte de Gangnam, a una avenida ancha de edificios de oficinas. El edificio del Gremio de Cazadores es una torre de vidrio azulado, alta, con el emblema del gremio grabado en metal sobre la entrada.
+
+Frente a la puerta, en la vereda, hay unas cuarenta personas. Cámaras de televisión en trípodes, fotógrafos con lentes enormes, periodistas con micrófonos y tarjetas colgadas al cuello. Dos guardias de seguridad del gremio los mantienen detrás de una valla. Cuando el taxi frena en la esquina, uno de los fotógrafos mira hacia el auto, entrecierra los ojos, y le toca el hombro al de al lado.
+
+Cha Hae-in se pone tensa a tu lado. Mira la multitud por la ventanilla. Respira por la nariz, despacio.
+
+—Hay una entrada por el estacionamiento de atrás —dice, bajito—. Los empleados entran por ahí. Nadie nos vería. —Se queda callada un segundo, mirando la puerta principal, las cámaras—. O podemos entrar por adelante.
+
+Te mira.
+
+—Como tú quieras.
+
+El taxista espera, con las manos en el volante, mirándolos por el espejo retrovisor.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1803 · SOLO LEVELING · DÍA 3 · 11:04   ║
+║ Seúl, Corea del Sur                          ║
+║ Gangnam norte · taxi, esquina del gremio     ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Choi quiere conocerte (mediodía)   ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 3 08:14, 2207. Kase tiró el celular de Cha. 23 llamadas perdidas (Choi 9, oficina del gremio 6, mamá 4, otros). Noticia viral: foto del beso en Gwangjang: "¿CHA HAE-IN ENAMORADA? La 'Princesa de la Espada'... captada con un misterioso joven" (+4.000 comentarios; se ve a Facundo, pelo blanco y azul, y a Kase). Mensaje de Choi: prensa en la puerta del gremio, la Asociación preguntó por ella, ir antes del mediodía "Y traiga a ese chico. Quiero conocerlo." Cha: "Facundo... ¿Vendrías conmigo?"
+ESTADO AL CIERRE: Día 3 11:04. Facundo: "Sí." Cha se baña y viste rápido (pelo atado alto); llama a su mamá ("Sí, es él. No, no es cazador. Te llamo a la noche."). Desayuno en el hotel: la foto en la tele con un círculo rojo. Taxi al edificio del Gremio de Cazadores (torre de vidrio azulado, norte de Gangnam). ~40 periodistas en la puerta tras una valla; un fotógrafo mira el taxi. Cha: entrada por el estacionamiento de atrás (nadie los vería) "o podemos entrar por adelante. Como tú quieras."
