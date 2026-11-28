@@ -1887,3 +1887,4 @@ T1884 · ONE PIECE · Momoiro · Fiesta hasta la luna. Kuma: "Cuando quieras ir 
 T1885 · ONE PIECE · Baltigo · Vuelve con Dragon ("Gracias, Ojos de Eclipse"). Robin, con el diario: "Akainu quemó Ohara... ¿Qué vas a hacer?"
 T1886 · ONE PIECE · Baltigo · "Voy a hablar con Akainu." Robin: "Llévame contigo."
 T1887 · ONE PIECE · Nuevo Cuartel General · Aparece con Robin en la oficina de Akainu y se sienta en su sillón. Akainu: "Nico Robin. La última sobreviviente de Ohara."
+T1888 · ONE PIECE · Oficina de Akainu · "Vengo a hablar contigo." Akainu: "No te ataqué porque sé lo que puedes hacer. Habla."

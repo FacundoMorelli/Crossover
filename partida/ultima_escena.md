@@ -3,84 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1885)
-
-gracias kuma, me teletransporto con dragon a baltigo
-
-## RESPUESTA 1 (T1885)
-
-> gracias kuma, me teletransporto con dragon a baltigo
-
-> —Gracias, Kuma.
-
-Kuma asiente, despacio. Baja la mano. Se endereza, haciendo crujir las baldosas, y vuelve junto al almohadón donde duerme su hija, y se sienta a su lado, y le acomoda la manta.
-
-Kase, en la mesa, abre un ojo. Se estira encima de la servilleta de encaje, sacudiéndose las migas, y salta a tu hombro.
-
-Sanji te levanta la copa desde la mesa, sin decir nada, con el cigarro en la boca. Ivankov te manda un beso con la mano enorme, desde la escalera.
-
-Le pones la mano en el brazo a Dragon. Esta vez no está tenso.
-
-Momoiro desaparece.
-
-...
-
-Viento frío. Polvo blanco. El ruido del mar contra los acantilados, abajo, de noche.
-
-La torre de Dragon, a oscuras, iluminada solo por una lámpara de aceite sobre la mesa de mapas y por la luna que entra por las cuatro ventanas.
-
-No hay nadie. Koala, Corvin, Hack, Sabo: se fueron hace horas. Solo queda una persona.
-
-Robin está sentada en la silla de Dragon, junto a la mesa, con las piernas cruzadas, el cuaderno cerrado sobre las rodillas, y un diario abierto delante, sobre los mapas, bajo la lámpara. El diario de hoy. La primera plana. Tu cara dibujada, el gato, el carruaje vacío. Y el cartel.
-
-Levanta la vista cuando aparecen.
-
-Mira a Dragon. Mira a Kase. Te mira a ti.
-
-Dragon se queda un segundo quieto, junto a la mesa. Mira a Robin. Mira el diario. Después se da vuelta, sin decir nada, y camina hacia la escalera de caracol. Antes de bajar se detiene un instante en el umbral, de espaldas.
-
-—Gracias, Ojos de Eclipse —dice.
-
-Y baja. Lo escuchas descender, escalón por escalón, hasta que sus pasos se pierden en la fortaleza.
-
-Te quedas solo con Robin, en la torre, bajo la luna.
-
-Ella no se levanta. Te mira largo, serena, con la luz amarilla de la lámpara en la cara. Después baja los ojos al diario y pasa un dedo, despacio, por la cifra del cartel, como pasó el dedo por las alas de la capa de la Legión.
-
-—Tres mil doscientos millones —dice, bajito.
-
-Una pausa.
-
-—Movilización del Almirante de Flota. —Levanta la vista—. Koala me trajo el diario a la tarde. Y Sabo me contó que el nuevo Almirante de Flota es Sakazuki.
-
-No le tiembla la voz. Pero las manos, sobre el cuaderno cerrado, se aprietan un poco.
-
-—Yo tenía ocho años —dice—. Estaba en un barco, en el mar, mirando hacia atrás. Y vi a ese hombre quemar mi isla. Los libros. La biblioteca. A mi madre. —Una pausa—. Ese mismo hombre ahora tiene toda la Marina. Y tu cara en la mesa.
-
-Se pone de pie, despacio. Se acerca. Se detiene delante de ti, muy cerca, y te mira a los ojos, de abajo.
-
-—Dragon te dijo que vinieras a contarme —dice—. Lo conozco. —Una media sonrisa, sin alegría—. Así que cuéntame. ¿Qué vas a hacer?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1885 · ONE PIECE · DÍA ~227 · 23:05    ║
-║ Baltigo · torre de Dragon                    ║
-║ Junto a la mesa de mapas, con Robin          ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 99% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Robin: "¿Qué vas a hacer?"         ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1886)
+## COMANDO 1 (T1886)
 
 ehh, voy a ir a hacer algo, voy a ir a hablar con akainu
 
-## RESPUESTA 2 (T1886)
+## RESPUESTA 1 (T1886)
 
 > ehh, voy a ir a hacer algo, voy a ir a hablar con akainu
 
@@ -131,11 +58,11 @@ Lo dice tranquila. Firme. Sin que le tiemble la voz.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1887)
+## COMANDO 2 (T1887)
 
 esta bien, vamos entonces te digo que mis entradas suelen ser, llamativas solo para el. Nos teletransportamos a la sala de akainu y me siento en su lugar de almirante de flota
 
-## RESPUESTA 3 (T1887)
+## RESPUESTA 2 (T1887)
 
 > esta bien, vamos entonces te digo que mis entradas suelen ser, llamativas solo para el. Nos teletransportamos a la sala de akainu y me siento en su lugar de almirante de flota
 
@@ -216,6 +143,65 @@ Del puño derecho, cerrado a un costado del cuerpo, empieza a gotear magma. Una 
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1888)
+
+hola akainu, vengo a hablar contigo
+
+## RESPUESTA 3 (T1888)
+
+> hola akainu, vengo a hablar contigo
+
+> —Hola, Akainu. Vengo a hablar contigo.
+
+Akainu no contesta.
+
+Te mira. Sentado en su sillón. Con la pierna cruzada. Con el gato encima de sus informes. Con la arqueóloga de Ohara de pie a tu lado, derecha, mirándolo a los ojos sin bajar la vista.
+
+El magma sigue goteando de su puño. La alfombra humea en tres agujeros negros.
+
+—Hablar —repite, despacio.
+
+Da un paso hacia el escritorio. El piso de madera cruje bajo la bota y se le marca, oscuro, quemado, la forma de la suela.
+
+—Le sacaste a Puño de Fuego del cadalso, delante del mundo. Le arrancaste a la Marina el día más importante de su historia. —Otro paso—. Hoy entraste a Mary Geoise, la tierra sagrada, y te llevaste la propiedad de un Dragón Celestial delante de sus ojos. —Otro paso—. Y ahora te apareces en mi oficina, en el Cuartel General de la Marina, sentado en mi sillón, con la mujer que el Gobierno Mundial busca desde hace veinte años.
+
+Se detiene del otro lado del escritorio. Apoya las dos manos sobre la madera. La madera empieza a chamuscarse debajo de sus palmas, a humear, a ennegrecerse.
+
+—Y me dices que vienes a "hablar".
+
+Se inclina hacia adelante. La cara, a un metro de la tuya. El calor que sale de él te seca los ojos.
+
+Kase, sobre los informes, no se mueve. Lo mira.
+
+—En Marineford me paraste el magma con algo que nadie vio —dice, bajo—. Me quitaste a Puño de Fuego de la punta de los dedos. Me dejaste solo en la orilla. —Le tiembla un músculo de la mejilla, junto a la cicatriz—. No lo olvidé. Ni un día.
+
+Los ojos se le mueven, un segundo, hacia Robin. Después vuelven a ti.
+
+—Sé lo que eres capaz de hacer. Por eso todavía no te ataqué.
+
+Se endereza. Se quita las manos del escritorio: quedan dos huellas negras, quemadas, en la madera.
+
+—La justicia no negocia con criminales —dice—. Pero tampoco es estúpida.
+
+Se cruza de brazos. El magma deja de gotear.
+
+—Habla, Ojos de Eclipse. Tienes hasta que se me acabe la paciencia. —Una pausa—. Y te advierto que tengo muy poca.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1888 · ONE PIECE · DÍA ~227 · 23:11    ║
+║ Nuevo Cuartel General de la Marina           ║
+║ Oficina del Almirante de Flota · su sillón   ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 99% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: sobre los informes, mirando a Akainu   ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Akainu: "Habla."                   ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 23:10, oficina del Almirante de Flota en el Nuevo Cuartel General de la Marina (Nuevo Mundo). Facundo: "Está bien. Vamos, entonces. Te aviso que mis entradas suelen ser... llamativas. Solo para él." Robin: "Fufu. Lo sé. Vi Marineford." Teletransporte con Robin y Kase. Facundo sentado en el sillón rojo de Akainu, pierna cruzada; Kase sobre los informes del escritorio; Robin de pie a su lado. Akainu de espaldas en el ventanal (puerto con buques; nueva fortaleza); el calor sube; el diario con la cara de Facundo arde en su mano. Se da vuelta. Tasación (x50; ya copiado). Cicatriz de quemadura de Marineford. Ve a Robin: "Nico Robin. La última sobreviviente de Ohara." Gotea magma del puño derecho sobre la alfombra.
+ESTADO AL CIERRE: Día ~227 23:11, oficina de Akainu. "Hola, Akainu. Vengo a hablar contigo." Akainu enumera: Puño de Fuego del cadalso, Mary Geoise, la propiedad de un Dragón Celestial, sentado en su sillón con la mujer buscada hace veinte años; manos sobre el escritorio (huellas quemadas). "En Marineford me paraste el magma con algo que nadie vio... No lo olvidé. Ni un día." "Sé lo que eres capaz de hacer. Por eso todavía no te ataqué." "La justicia no negocia con criminales. Pero tampoco es estúpida." "Habla, Ojos de Eclipse. Tienes hasta que se me acabe la paciencia. Y te advierto que tengo muy poca."
