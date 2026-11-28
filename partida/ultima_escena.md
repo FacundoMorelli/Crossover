@@ -3,78 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1816)
-
-si, claro que la voy a traer otra vez
-
-## RESPUESTA 1 (T1816)
-
-> si, claro que la voy a traer otra vez
-
-> —Sí, claro que la voy a traer otra vez.
-
-La señora Kang sonríe. Esta vez sin cansancio, entera.
-
-—Bien —dice, y se endereza en el almohadón justo cuando su hija aparece en el pasillo con un plato de peras cortadas en gajos perfectos, peladas, con palitos de madera clavados.
-
-Cha Hae-in las mira a los dos, alternando, con los ojos entrecerrados.
-
-—¿Qué le dijiste?
-
-—Nada —dice la señora Kang, inocente, agarrando un gajo—. Le pregunté si le gustaba el guiso.
-
-—Mamá.
-
-—Siéntate, que se oxidan.
-
-Comen las peras. Están frías, dulces, crujientes, con mucho jugo. La señora Kang dice que son las mejores que comió en el año y que la próxima vez traigas mandarinas de Jeju, de antes, "de cuando todavía se podía ir a Jeju", y se queda un segundo callada mirando la ventana. Después se levanta a hacer té de cebada.
-
-Son casi las diez cuando se ponen los zapatos en la entrada. La señora Kang aparece por el pasillo con una bolsa de tela cargada de recipientes de plástico apilados, todos llenos: guiso, costillas, banchan, panqueques, arroz.
-
-—Para el hotel —te dice, y te la pone en las manos sin dejarte opción—. Y para el gato, el pescado que sobró, el de la tapa azul.
-
-Kase, en tu hombro, la mira. Por primera vez en toda la noche, parpadea despacio. Una vez.
-
-La señora Kang le sostiene la mirada al gato y después se ríe por la nariz.
-
-—Ah, ¿ahora sí te caigo bien?
-
-Abraza a su hija en la puerta, fuerte, largo, sin decir nada. Le acomoda un mechón detrás de la oreja. Después, cuando le toca a ti, duda un segundo, te mira desde abajo, desde casi dos cabezas más abajo, y te da dos palmadas firmes en el brazo, como a un hijo.
-
-—Cuídense. Los dos.
-
-La puerta verde se cierra.
-
-Bajan en el ascensor en silencio, con la bolsa de comida entre los dos. Afuera, en la calle tranquila del barrio, hace frío y huele a leña de alguna chimenea. Las bicicletas atadas a las rejas, las ventanas encendidas de los departamentos.
-
-Cha Hae-in camina a tu lado unos pasos, mirando el piso. Después se detiene debajo de un farol. Se da vuelta. Tiene los ojos un poco rojos y una sonrisa que le tiembla.
-
-—Nunca la había visto así —dice—. Riéndose así. Desde lo de papá.
-
-Se te acerca. Te agarra de la solapa del sobretodo con las dos manos.
-
-—¿Qué te dijo? —pregunta, bajito—. Cuando me mandó a la cocina. Dime la verdad.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1816 · SOLO LEVELING · DÍA 4 · 21:54   ║
-║ Seúl, Corea del Sur                          ║
-║ Calle del barrio de la señora Kang · farol   ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1817)
+## COMANDO 1 (T1817)
 
 que me preguntó si te iba a traer otra vez
 
-## RESPUESTA 2 (T1817)
+## RESPUESTA 1 (T1817)
 
 > que me preguntó si te iba a traer otra vez
 
@@ -107,11 +40,11 @@ Respira hondo. Una vez. Dos. Se seca los ojos con la manga del suéter, rápido,
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1818)
+## COMANDO 2 (T1818)
 
 que si. simula unos dias
 
-## RESPUESTA 3 (T1818)
+## RESPUESTA 2 (T1818)
 
 > que si. simula unos dias
 
@@ -164,6 +97,59 @@ Te mira.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1819)
+
+esta bien amor
+
+## RESPUESTA 3 (T1819)
+
+> esta bien amor
+
+> —Está bien, amor.
+
+Cha Hae-in parpadea.
+
+Se queda quieta, con las manos sobre las rodillas, mirándote. No por lo de Jeju. Por la otra palabra. Se le colorean las orejas despacio, desde la punta, como siempre, y después las mejillas, aunque está pálida de la reunión.
+
+—Me dijiste "amor" —dice, muy bajito.
+
+Se le escapa una risa corta, nerviosa, que se tapa con la mano. Después la risa se le apaga, y se queda mirándote en serio.
+
+—Pensé que me ibas a pedir que no fuera.
+
+Mira la carpeta azul sobre la mesa.
+
+—Mamá me lo va a pedir. Llorando. —Respira hondo—. Choi me miró en la reunión como preguntándome si estaba segura. Hasta Go Gunhee me dijo que lo pensara, que nadie me iba a juzgar si decía que no. —Se encoge un poco de hombros—. Todos me dicen que no vaya. Tú no.
+
+Se gira hacia ti en el borde de la cama. Te agarra la mano con las dos suyas, y te la aprieta, fuerte, con los dedos todavía fríos de la lluvia.
+
+—Gracias.
+
+Afuera, la lluvia golpea contra el ventanal. Kase baja del sillón, cruza la habitación sin apuro y se sube a la cama. Se sienta pegado a la cadera de Cha Hae-in, muy derecho, mirando la carpeta azul con los ojos entrecerrados, como si supiera lo que hay adentro.
+
+Cha Hae-in mira al gato. Después a ti.
+
+—Son dos semanas de preparación. Entrenamientos con los japoneses, reuniones, planes. Voy a estar muy ocupada. —Hace una pausa. Te aprieta más la mano—. Y después... después es Jeju.
+
+Te mira a los ojos.
+
+—Prométeme que vas a estar aquí cuando vuelva.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1819 · SOLO LEVELING · DÍA 8 · 16:12   ║
+║ Seúl, Corea del Sur                          ║
+║ Hotel de Gangnam · habitación 2207           ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: pegado a Cha, mirando la carpeta       ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Incursión a Jeju en dos semanas    ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 8 16:10, 2207, llueve. (Simulado Días 5-8: Cha vuelve a las Puertas, B en Incheon, A en Suwon, sin heridas; mensajes "Entro."/"Salí." al teléfono de la habitación; duerme en el hotel. La señora Kang llamó al hotel. La prensa se cansó. Noticia: Jinwoo compró un edificio y su madre despertó.) Cha vuelve de una reunión con carpeta azul de la Asociación: Go Gunhee reunió a los S; 4.ª incursión a Jeju en dos semanas (Día 22) con Japón; la última: 14 muertos A y S; 18 convocados, Choi también. "Voy a ir, Facundo."
+ESTADO AL CIERRE: Día 8 16:12, 2207. Facundo: "Está bien, amor." Cha, colorada: "Me dijiste 'amor'." Pensó que le pediría no ir; todos (mamá, Choi, Go Gunhee) se lo piden; él no: "Gracias." Kase pegado a ella mirando la carpeta. Dos semanas de preparación con los japoneses, después Jeju. "Prométeme que vas a estar aquí cuando vuelva."

@@ -1818,3 +1818,4 @@ T1815 · SOLO LEVELING · Casa de la señora Kang · "Todo lo que tenga en mis m
 T1816 · SOLO LEVELING · Barrio de la señora Kang · "La voy a traer otra vez." "Cuídense. Los dos." Cha: "¿Qué te dijo?"
 T1817 · SOLO LEVELING · Barrio de la señora Kang · Le cuenta a Cha lo que preguntó su mamá; ella llora y ríe. "¿Y qué le dijiste?"
 T1818 · SOLO LEVELING · Seúl · (simulados Días 5-8) Vida con Cha. Día 8: anuncian la 4.ª incursión a Jeju en dos semanas; Cha va.
+T1819 · SOLO LEVELING · Hotel de Gangnam · "Está bien, amor." Cha agradece que no le pida no ir. "Prométeme que vas a estar aquí cuando vuelva."
