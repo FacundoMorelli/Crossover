@@ -21,3 +21,4 @@
 ## QUIÉN VIO QUÉ PODERES
 - Han Dong-su: efecto de la Transfiguración Ociosa (sintió, no vio). T1783.
 - T1786 · CHOI JONG-IN percibe a Facundo como "chico sin maná" (lo vio en la cinta; Velo: no despertado). Cha Hae-in le dijo que es "un amigo".
+- T1794 · Turistas en la plaza de Namsan vieron a Cha Hae-in (con gorra) besar a un chico de pelo blanco y azul; nadie parece haberla reconocido (sin confirmar).

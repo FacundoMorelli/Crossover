@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1791)
-
-compro un candado y le digo que pongamos uno juntos
-
-## RESPUESTA 1 (T1791)
-
-> compro un candado y le digo que pongamos uno juntos
-
-Caminas hasta el kiosco. El señor de los candados te mira, mira a Kase, mira a la chica de gorra negra que se quedó en la baranda, y sonríe como quien ya vio esta escena mil veces.
-
-—Diez mil won. La lapicera va de regalo.
-
-Eliges uno. Pagas. Te da el candado con dos llavecitas atadas con un hilo y una lapicera negra de punta gruesa.
-
-Vuelves a la baranda y le dices a Cha Hae-in que pongan uno juntos.
-
-Cha Hae-in se queda quieta. Mira el candado en tu mano. Después a ti. Después otra vez el candado. Abre la boca y no le sale nada. Los anteojos de sol se le resbalan de los dedos; los atrapa antes de que caigan, sin mirar.
-
-Está roja. Las orejas, las mejillas, el cuello, todo.
-
-Detrás de ustedes, la pareja joven que estaba eligiendo el candado rojo los mira y la chica le da un codazo al novio, emocionada. Cha Hae-in los ve y se pone todavía más roja.
-
-—Yo... —dice, bajito—. Nunca... nadie...
-
-Respira hondo por la nariz, despacio, como hace siempre. Cierra los ojos un segundo. Cuando los abre, ya no mira el candado: te mira a ti, directo, aunque le tiembla un poco la boca.
-
-—Está bien —dice. Casi no se le oye—. Juntos.
-
-Te saca la lapicera de la mano, despacio, rozándote los dedos. Le quita la tapa con los dientes, sin darse cuenta de lo que hace, y se queda con la punta sobre el metal del candado, sin escribir.
-
-Levanta la vista.
-
-—¿Qué... qué escribimos?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1791 · SOLO LEVELING · DÍA 2 · 14:28   ║
-║ Seúl, Corea del Sur                          ║
-║ Monte Namsan · plaza de la torre, candados   ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirándola                ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1792)
+## COMANDO 1 (T1792)
 
 lo que quieras
 
-## RESPUESTA 2 (T1792)
+## RESPUESTA 1 (T1792)
 
 > lo que quieras
 
@@ -103,11 +54,11 @@ Cha Hae-in desata el hilo de las dos llavecitas. Se queda con una en la palma de
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1793)
+## COMANDO 2 (T1793)
 
 cada uno nos quedamos con la nuestra
 
-## RESPUESTA 3 (T1793)
+## RESPUESTA 2 (T1793)
 
 > cada uno nos quedamos con la nuestra
 
@@ -148,6 +99,57 @@ Te mira de reojo.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1794)
+
+ya que estamos aquí mientras se pone el sol, perdon si voy rapido, la agarro de la cintura y la beso
+
+## RESPUESTA 3 (T1794)
+
+> ya que estamos aquí mientras se pone el sol, perdon si voy rapido, la agarro de la cintura y la beso
+
+Te quedas con ella en la baranda, esperando a que se ponga el sol. Cha Hae-in lo entiende sin que digas nada, y se queda, contenta.
+
+Esperan. Ella compra dos cafés calientes en latita en una máquina junto a la torre, te da uno, y los toman apoyados en la baranda, con el viento en la cara. Kase se duerme un rato en tu hombro. Ella te va señalando la ciudad con el dedo: ahí está el palacio, ahí el estadio, ahí el edificio de la Asociación de Cazadores, con un techo azul; ahí, más allá del río, cerca de Gangnam, la oficina de su gremio. Por allá, dice, vive su familia. Por allá estaba la primera Puerta en la que entró, hace años, cuando tenía miedo de todo.
+
+El sol baja. El cielo se vuelve naranja, después rosado, después violeta. Las montañas del oeste se ponen negras contra el último resplandor. Y entonces, como si alguien hubiera bajado una palanca, Seúl se enciende: primero una avenida, después un barrio entero, después los puentes del Han, uno detrás del otro, como collares, después las torres de Gangnam, después todo, hasta el horizonte. Un mar de luces doradas y blancas, debajo de ustedes.
+
+Cha Hae-in contiene la respiración.
+
+—Ahí —dice, bajito—. Esto.
+
+Se da vuelta para mirarte, con la cara iluminada por la ciudad.
+
+> —Perdón si voy rápido.
+
+Le pones la mano en la cintura, por encima del suéter de lana, y la acercas. Ella abre un poco los ojos. No se aparta.
+
+La besas.
+
+Por un instante se queda quieta, sorprendida, con la lata de café vacía todavía en la mano. Después la lata hace un ruidito al caer al piso, y sientes su mano en tu pecho, sobre el sobretodo, no para empujarte sino para agarrarse de la tela. Se pone en puntas de pie. Te devuelve el beso.
+
+El viento sopla. Abajo, la ciudad brilla. Alguien en la plaza silba, lejos, y otra persona aplaude, y a ninguno de los dos le importa.
+
+Cuando se separan, Cha Hae-in no se aleja. Se queda ahí, con la frente casi pegada a la tuya, la mano todavía agarrada a tu sobretodo, respirando rápido. Tiene los ojos brillantes. Por primera vez desde que la conociste no está colorada: está pálida, y sonríe, temblando.
+
+—No vas rápido —dice, en un susurro—. Yo... —Traga saliva—. Yo quería que lo hicieras desde anoche. Desde la cinta.
+
+Kase, que se despertó con el movimiento, los mira desde tu hombro con los ojos entrecerrados, como quien ya lo sabía.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1794 · SOLO LEVELING · DÍA 2 · 17:52   ║
+║ Seúl, Corea del Sur                          ║
+║ Monte Namsan · plaza de la torre, candados   ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirándolos               ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 14:36, Namsan. Cada uno se queda con su llavecita (Facundo la tiene en la mano/bolsillo). Cha pasa la suya por su cadenita de plata, junto a su placa de cazadora, debajo del suéter. Sonríe sin taparse. Kase huele el candado y estornuda; Cha se ríe de verdad. Hombro casi pegado al brazo de Facundo. "Cuando se ponga el sol, toda la ciudad se enciende... Podemos esperar. O podemos bajar y ir al mercado a comer. Lo que tú quieras."
+ESTADO AL CIERRE: Día 2 17:52, Namsan, la ciudad recién encendida. Esperaron el atardecer (cafés en lata; Cha le señaló la Asociación de techo azul, su gremio cerca de Gangnam, dónde vive su familia, su primera Puerta). Facundo: "Perdón si voy rápido." La toma de la cintura y la besa; ella le devuelve el beso (en puntas de pie, agarrada a su sobretodo). Alguien silba y aplaude en la plaza. Cha, frente con frente, pálida y sonriendo: "No vas rápido. Yo quería que lo hicieras desde anoche. Desde la cinta."

@@ -1793,3 +1793,4 @@ T1790 · SOLO LEVELING · Namsan · Con Cha en la torre: toda la ciudad. Los can
 T1791 · SOLO LEVELING · Namsan · Compra un candado y le propone a Cha ponerlo juntos. "Está bien. Juntos." "¿Qué escribimos?"
 T1792 · SOLO LEVELING · Namsan · Candado: "Facundo ♥ Hae-in". Lo cierran juntos. Cha ofrece una llave.
 T1793 · SOLO LEVELING · Namsan · Cada uno se queda con su llave. Cha la cuelga junto a su placa de cazadora.
+T1794 · SOLO LEVELING · Namsan · Al encenderse Seúl, besa a Cha Hae-in. Ella: "Quería que lo hicieras desde anoche."
