@@ -3,78 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1730)
-
-me teletransporto a las celdas con makima
-
-## RESPUESTA 1 (T1730)
-
-> me teletransporto a las celdas con makima
-
-Le devuelves el teléfono a Denji. Cierras los ojos, buscas el pozo enorme y quieto con miles de hilos. Está bajo tierra, muy cerca de la central, muy abajo.
-
-Dos dedos en la frente.
-
-Denji se queda con el tubo en la mano, mirando el lugar vacío donde estabas.
-
-Un pasillo de cemento. Largo, angosto, con el techo bajo, iluminado por tubos fluorescentes enjaulados que zumban y parpadean. Huele a humedad, a desinfectante y a algo debajo del desinfectante, viejo, que el desinfectante no alcanza a tapar. El piso está mojado. Gotea en algún lado. A los dos costados hay puertas de hierro con mirillas, cerradas, numeradas. Al fondo del pasillo, muy lejos, junto a la escalera, una silueta alta con una petaca que no se mueve: Kishibe.
-
-Y en el medio del pasillo, de espaldas a ti, Makima.
-
-Está parada frente a la única celda que no tiene puerta de hierro, sino barrotes, de piso a techo, gruesos como muñecas. Tiene las manos juntas delante del cuerpo. La trenza sobre el hombro. El abrigo negro todavía puesto, con gotas de lluvia en los hombros.
-
-Del otro lado de los barrotes, sentada en el piso de cemento con las piernas cruzadas y la espalda contra la pared, hay una mujer. Pelo blanco corto, despeinado. Un parche negro sobre un ojo. Traje negro, sin corbata. Las manos esposadas sobre las rodillas. No tiene miedo en la cara. No tiene nada. Mira a Makima como quien mira la lluvia.
-
-A su alrededor, apretadas contra ella, hay cuatro chicas. Fiends. Una con orejas de animal. Una con la cara llena de costuras. Una alta, con cuernos chiquitos. Y una más baja, con un gorrito y los ojos en espiral, que se ríe sola, bajito, y repite una palabra que no entiendes. Las cuatro miran a Makima. Una está llorando.
-
-Makima levanta la mano derecha. Despacio. Los dedos juntos, el índice y el mayor estirados, el pulgar arriba. Como un chico que juega a los pistoleros. La apunta hacia los barrotes.
-
-Y en ese momento te siente llegar. No con el ki, no con nada que pueda medir: la oye. El ruido mínimo de tu pie apoyándose en el cemento mojado detrás de ella.
-
-No baja la mano. Gira solo la cabeza, por encima del hombro.
-
-—Señor Morelli. —La voz es suave. No hay sorpresa en ella. Hay otra cosa, como una sonrisa que llega tarde—. Me encontró otra vez.
-
-Del otro lado de los barrotes, la mujer del parche desvía la mirada de Makima por primera vez. Te mira a ti. Al pelo, a los ojos, al gato que no traes.
-
-—Ah —dice Quanxi, en un japonés con acento, ronco, tranquilo—. Así que eres tú.
-
-```
-╔══════════════════════════════════════════════╗
-║ QUANXI                                       ║
-║ China · la primera cazadora de demonios      ║
-║ PODER: híbrida (Ballesta) · esgrima ·        ║
-║        velocidad extrema                     ║
-║ AMENAZA: BAJA                                ║
-║ Diferencia estimada: x0,011 sobre ti         ║
-║ Rendida. No le teme a morir. Le teme a que   ║
-║ ellas mueran.                                ║
-║ COPIABLE · MISIÓN: ALTA                      ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1730 · CHAINSAW MAN · DÍA 4 · 21:41    ║
-║ Tokio, otoño de 1997                         ║
-║ Central de Seguridad Pública, celdas         ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.078 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el departamento, con Power          ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1731)
+## COMANDO 1 (T1731)
 
 hola
 
-## RESPUESTA 2 (T1731)
+## RESPUESTA 1 (T1731)
 
 > hola
 
@@ -129,11 +62,11 @@ Espera.
 
 ---
 
-## COMANDO 3 (T1732)
+## COMANDO 2 (T1732)
 
 no la mate
 
-## RESPUESTA 3 (T1732)
+## RESPUESTA 2 (T1732)
 
 > no la mate
 
@@ -188,4 +121,65 @@ Otro paso. Queda a un metro. Huele a lluvia y a algo dulce, como el aire antes d
 
 ---
 
-ESTADO AL CIERRE: Día 4 21:43, celdas. Facundo: "No la mates." MAKIMA BAJÓ LA MANO: "Está bien. No la voy a matar. A ninguna de ellas." ("Es la primera cosa que me pide... y me la pide para una mujer que vino a matar a uno de los míos.") Condición: "Si ella vive, alguien tiene que responder por ella. Si vuelve a tocar a Denji, si sus chicas vuelven a matar a alguien en mi ciudad. ¿Va a ser usted?" Quanxi cerró el ojo un segundo; la de las costuras llora. Kishibe se enderezó al fondo.
+## COMANDO 3 (T1733)
+
+si, voy a ser yo
+
+## RESPUESTA 3 (T1733)
+
+> si, voy a ser yo
+
+> —Sí. Voy a ser yo.
+
+Makima te sostiene la mirada un segundo más. Después sonríe. Una sonrisa chica, cerrada, satisfecha, como quien termina de escribir algo en la última página de un cuaderno.
+
+—Bien.
+
+Se da vuelta hacia el fondo del pasillo, sin levantar la voz.
+
+—Kishibe.
+
+La silueta de la petaca se despega de la pared y viene caminando por el pasillo mojado, despacio, encorvado, con las manos en los bolsillos. Se detiene al lado de ustedes. No te mira. Mira a Quanxi, del otro lado de los barrotes. Quanxi lo mira a él.
+
+—Ábreles —dice Makima—. Sácales las esposas. A ella y a las cuatro.
+
+Kishibe no se mueve enseguida.
+
+—¿Así nomás?
+
+—Así nomás. —Makima se acomoda la trenza sobre el hombro—. Ahora son responsabilidad del señor Morelli. Lo que hagan, lo hace él. Si una de ellas le toca un pelo a Denji, o a cualquiera de mis agentes, o a cualquier persona de esta ciudad —te mira, sin dejar de sonreír—, no voy a ir a buscarla a ella.
+
+Lo dice con la misma suavidad de siempre. Como si te pasara la sal.
+
+Kishibe saca un llavero del bolsillo del saco. Abre la reja con una llave larga, oxidada, que chirría. Entra. Se agacha frente a Quanxi y le abre las esposas, sin apuro. Después a las cuatro fiends, una por una. Cosmo le da las gracias con un "¡Halloween!" y le toca la nariz con un dedo. Kishibe la deja.
+
+Quanxi se pone de pie. Se frota las muñecas. Mira la reja abierta. Mira a Kishibe, que se aparta de la puerta. Mira a Makima, un segundo, con el ojo único, frío como una flecha.
+
+Y te mira a ti.
+
+Camina hasta los barrotes abiertos. Las cuatro fiends la siguen, pegadas a ella, como patitos. Se detiene en el umbral de la celda, a dos pasos de ti. Es más baja de lo que parecía sentada. Te mira desde abajo, con la cara seria, sin agradecimiento y sin miedo.
+
+—No te conozco —dice, en ese japonés ronco, con acento—. No te debo nada. Vine a tu país a matar a un chico.
+
+Una pausa.
+
+—¿Por qué?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1733 · CHAINSAW MAN · DÍA 4 · 21:45    ║
+║ Tokio, otoño de 1997                         ║
+║ Central de Seguridad Pública, celdas         ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.078 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el departamento, con Power          ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Responder por Quanxi y sus fiends  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 4 21:45, celdas. Facundo responde por Quanxi y sus fiends. Makima: "Bien." Ordena a Kishibe abrir la reja y quitar las esposas a las cinco. "Ahora son responsabilidad del señor Morelli. Lo que hagan, lo hace él. Si una de ellas le toca un pelo a Denji, o a cualquiera... no voy a ir a buscarla a ella." Kishibe las libera (Cosmo le toca la nariz). Quanxi, en el umbral, con sus 4 fiends pegadas: "No te conozco. No te debo nada. Vine a tu país a matar a un chico. ¿Por qué?"

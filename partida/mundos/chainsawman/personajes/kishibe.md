@@ -19,3 +19,4 @@ ENCUENTROS:
 - T1729 · 21:40, llama al departamento de Aki desde un pasillo de cemento con eco (las celdas), susurrando: "Morelli. Llegó. Hace diez minutos. Ni siquiera fue a su oficina. Está bajando a las celdas. Sola. No sé por qué te llamo. Supongo que pensé que querías saberlo." RELACIÓN: confía algo en Facundo; aprecia a Quanxi.
 - T1728 (registro de fuente) · En la rendición de Quanxi, ella le preguntó quién se tragó la mano del Infierno; él le dijo: "un muchacho de pelo blanco y azul, con un gato". T1730 · Al fondo del pasillo de las celdas, junto a la escalera, quieto.
 - T1731 · Makima deduce que él avisó a Facundo.
+- T1733 · "¿Así nomás?" Abre la reja con una llave oxidada y le quita las esposas a Quanxi y a las cuatro fiends. Cosmo le toca la nariz ("¡Halloween!"); él la deja.

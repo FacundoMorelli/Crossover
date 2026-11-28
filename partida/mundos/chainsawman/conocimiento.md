@@ -63,3 +63,4 @@ Quién sabe qué de Facundo en este mundo.
 - T1729 · Facundo sabe (por Kishibe) que Makima volvió y bajó sola a las celdas.
 - T1730 · QUANXI sabe (por Kishibe, T1728) que quien se tragó la mano del Infierno es un muchacho de pelo blanco y azul con un gato; lo reconoce. DENJI vio a Facundo desaparecer del departamento.
 - T1732 · MAKIMA deduce (rumor de la mano del Infierno + captura de Santa) que fue Facundo quien se tragó la mano del Infierno en el sótano.
+- T1733 · KISHIBE, QUANXI y las fiends oyeron el acuerdo: Facundo responde por ellas ante Makima.

@@ -18,3 +18,4 @@ VELO: Facundo no huele a demonio ni a nada raro para ningún demonio, fiend ni h
 - T1726 · Santa Claus prisionera de Makima (restricciones de grado especial).
 - T1728 · Quanxi y sus 4 fiends presos en la central (se entregaron). Tolka y su maestro y los americanos se van de Japón. 387 personas rescatadas vivas de la fábrica. Facundo vive en el departamento de Aki.
 - T1732 · CAMBIO: Makima NO mata a Quanxi ni a sus fiends (canon: las mata) por pedido de Facundo. Exige que alguien responda por ellas.
+- T1733 · Quanxi y sus 4 fiends LIBERADAS bajo responsabilidad de Facundo (pacto verbal con Makima).
