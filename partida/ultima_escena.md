@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1736)
-
-simula un par de dias
-
-## RESPUESTA 1 (T1736)
-
-> simula un par de días
-
-Quanxi se queda esperando una respuesta que no llega esa noche.
-
-Es Kishibe el que rompe el silencio. Se despega de los barrotes, se guarda la petaca y saca del bolsillo del saco otro llavero, uno viejo, con una sola llave de bronce.
-
-—Hasta que el viajero decida adónde las manda —dice, sin mirar a nadie—, tengo un departamento en Nerima. Era de un compañero. Nadie va desde hace años. Tiene agua, luz y una puerta que cierra. —Le tira la llave a Quanxi, que la ataja en el aire sin mirarla—. No es un favor. Es para que no anden por la calle asustando a la gente de Makima.
-
-Quanxi lo mira un rato largo. Después se guarda la llave.
-
-Día 4, medianoche. Las acompañas hasta Nerima en un taxi que maneja un viejo que no hace preguntas, con Long y Cosmo apretadas atrás contigo y Tsugihagi y la de los cuernitos en el baúl abierto, cubiertas con una manta, porque no entran. El departamento es chico, en un segundo piso, con olor a encierro, fotos de alguien que ya no está boca abajo sobre un estante y un futón por persona en un placard. Quanxi revisa todas las ventanas antes de sacarse los zapatos.
-
-Después vuelves al departamento de Aki. Kase te está esperando sentado en la puerta, de espaldas a Power, que duerme en el tatami con un brazo estirado hacia donde estaba él.
-
-Día 5. Aki no pregunta dónde estuviste. Denji sí, en el desayuno, con la boca llena de tostadas: les cuenta a todos, a gritos, que anoche desapareciste en el medio del living con el teléfono en la mano. Power dice que ella lo vio también y que fue mucho más impresionante de lo que dice Denji. Aki les dice que coman.
-
-A la tarde, Aki se sienta a tu lado en el balcón, por primera vez desde que llegaste. Fuma. Mira los techos. Dice, sin mirarte, que Kishibe le contó lo de las celdas. Que nunca vio a nadie hacer que Makima bajara la mano. Y no dice nada más.
-
-Día 5, a la noche. En el noticiero, un periodista dice que en la última semana los ataques de demonios en Tokio bajaron a la mitad, y que nadie en Seguridad Pública sabe explicar por qué. Denji dice que es por él. Power dice que es por ella.
-
-Día 6. Kase pasa la mañana entera durmiendo con Miau en el balcón, al sol. A la tarde, Power intenta bañarlo. Power pierde.
-
-Día 6, a la noche, suena el teléfono del departamento. Es Kishibe.
-
-—Tus chicas están bien —dice, sin saludar—. Fui a llevarles comida. La de la cara cosida me hizo un dibujo. La de las orejas pregunta todos los días por el mar. —Una pausa—. Y Quanxi me pidió que te diga una cosa. Textual.
-
-Se le oye respirar.
-
-—"Dos días. No tengo más paciencia que esta. Si el viajero tiene un plan, que venga a decírmelo a la cara. Si no tiene, nos vamos solas."
-
-Clic.
-
-En la cocina, Aki deja de lavar un plato y te mira por encima del hombro.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1736 · CHAINSAW MAN · DÍA 6 · 21:10    ║
-║ Tokio, otoño de 1997                         ║
-║ Departamento de Aki, living                  ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.078 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el balcón, con Miau                 ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Un plan para Quanxi y sus fiends   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1737)
+## COMANDO 1 (T1737)
 
 simula tambien llevándolas a otro lado y despidiéndome de todos
 
-## RESPUESTA 2 (T1737)
+## RESPUESTA 1 (T1737)
 
 > simula también llevándolas a otro lado y despidiéndome de todos
 
@@ -135,11 +78,11 @@ Solo falta abrir la puerta.
 
 ---
 
-## COMANDO 3 (T1738)
+## COMANDO 2 (T1738)
 
 cumplo la misión de mundo y aki vive igual. me voy al nuevo mundo
 
-## RESPUESTA 3 (T1738)
+## RESPUESTA 2 (T1738)
 
 > cumplo la misión de mundo y aki vive igual. me voy al nuevo mundo
 
@@ -237,4 +180,74 @@ Por la vereda de enfrente pasa un hombre corriendo. Uniforme azul, sin gorra, an
 
 ---
 
-ESTADO AL CIERRE: FULLMETAL ALCHEMIST, Día 1, 1914, ~17:30. Plaza empedrada de Ciudad Central cerca del hospital militar, detrás de un quiosco de diarios (titulares: incendio de la Biblioteca Estatal; explosión del Quinto Laboratorio "accidente"; cartel de búsqueda de Scar). Soldados de azul. Al fondo, el cuartel general. HUGHES pasó corriendo por la vereda de enfrente con una carpeta y dobló hacia el cuartel general (canon: esta noche Lust lo ataca y Envy lo mata en una cabina). Chainsaw Man completada (Aki vive; +20.000 EXP, +500 Frag). Don: Alquimia del Iris. Misión: que Hughes viva al terminar el Día Prometido.
+## COMANDO 3 (T1739)
+
+voy a caminar
+
+## RESPUESTA 3 (T1739)
+
+> voy a caminar
+
+Caminas.
+
+Ciudad Central se abre a tu paso como un libro viejo. Calles empedradas, angostas, que suben y bajan. Vidrieras con letras doradas pintadas a mano: una relojería, una sastrería con maniquíes de uniforme, una farmacia con frascos de colores, una panadería que ya está cerrando y deja salir el último olor a pan dulce. Un vendedor de diarios grita los titulares en una esquina. Dos chicos corren detrás de un aro de hierro. Una señora con sombrero de plumas mira a Kase y se lleva la mano al pecho.
+
+La gente te mira. Mucho. El pelo, los ojos, los aros, los tatuajes que asoman por el cuello de la camisa blanca. Acá nadie se viste así. Un soldado de azul, en una esquina, te sigue con los ojos hasta que doblas.
+
+Kase va tranquilo en tu hombro. Mira las palomas.
+
+Las calles te llevan, sin querer, hacia el edificio blanco de la cruz. El hospital militar ocupa una manzana entera: tres pisos de ladrillo claro, ventanas altas con marcos verdes, una reja de hierro con lanzas doradas y dos soldados de guardia en la puerta principal, aburridos, con los fusiles al hombro. En el jardín de adelante hay bancos y un árbol grande que empieza a perder las hojas.
+
+Pasas por la vereda, junto a la reja.
+
+En el segundo piso, una ventana está abierta. Las cortinas blancas se mueven con el viento. Y del otro lado, sentado en una silla que cruje bajo su peso, mirando hacia afuera, hay una armadura.
+
+Enorme. De más de dos metros, aunque esté sentada. Gris acero, abollada, con un casco con un penacho y dos puntas, y una placa de pecho llena de rayones. En las ranuras del casco, donde deberían estar los ojos, hay dos puntitos de luz. No se mueve. Está apoyada en el marco de la ventana, con los codos de hierro sobre el alféizar, como un chico que mira llover.
+
+Los dos puntitos de luz bajan hacia la calle.
+
+Hacia ti.
+
+Hacia Kase.
+
+La armadura se endereza de golpe. La silla cruje. Se inclina tanto hacia afuera que medio torso de metal asoma por la ventana, y una voz sale del casco. Una voz que no corresponde a semejante cuerpo: suave, joven, casi de chico, llena de una emoción que no puede disimular.
+
+—¡Un gato! —Se tapa la boca de hierro con una mano enorme, como si se le hubiera escapado—. Perdón. Perdón, perdón. Es que... ¡qué gato tan grande! ¡Y qué pelo tan lindo! —Los puntitos de luz van de Kase a ti, y de ti a Kase—. ¿Es suyo, señor? ¿Cómo se llama?
+
+Detrás de la armadura, adentro de la habitación, se oye otra voz, más aguda, más irritada:
+
+—¡Al! ¡Cierra esa ventana, que entra frío! ¿Con quién hablas?
+
+—¡Con nadie, hermano! —La armadura no se aparta de la ventana—. ¡Bueno, con un señor! ¡Tiene un gato!
+
+```
+╔══════════════════════════════════════════════╗
+║ ALPHONSE ELRIC                               ║
+║ Alquimista · alma ligada a una armadura      ║
+║ PODER: alquimia (con círculo); cuerpo de     ║
+║        armadura (no siente dolor, no duerme) ║
+║ AMENAZA: ÍNFIMA                              ║
+║ Diferencia estimada: x0,006 sobre ti         ║
+║ Lo que hay adentro es un chico.              ║
+║ COPIABLE · MISIÓN: MEDIA                     ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1739 · FULLMETAL · DÍA 1 · 17:50       ║
+║ Ciudad Central, Amestris, 1914               ║
+║ Vereda del hospital militar                  ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.378 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 17:50, vereda del hospital militar de Ciudad Central. La gente mira a Facundo (pelo, ojos, tatuajes); un soldado lo sigue con la vista. En una ventana abierta del 2.º piso, ALPHONSE (armadura) ve a Kase: "¡Un gato! ¡Qué gato tan grande! ¿Es suyo, señor? ¿Cómo se llama?" Desde adentro, ED: "¡Al! ¡Cierra esa ventana! ¿Con quién hablas?" Al: "¡Con un señor! ¡Tiene un gato!"

@@ -11,3 +11,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: en el hospital militar de Central. MENOR.
+ENCUENTROS:
+- T1739 · Día 1 17:50 · Desde adentro de la habitación del hospital (no visto): "¡Al! ¡Cierra esa ventana, que entra frío! ¿Con quién hablas?"
