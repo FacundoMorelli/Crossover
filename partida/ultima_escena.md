@@ -3,76 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1808)
-
-vayamos por adelante nosotros 2
-
-## RESPUESTA 1 (T1808)
-
-> vayamos por adelante nosotros 2
-
-> —Vayamos por adelante. Nosotros dos.
-
-Cha Hae-in te mira un segundo. Después asiente. Respira hondo por la nariz, como antes de entrar a una Puerta.
-
-—Está bien.
-
-Choi Jong-In se recuesta en el sillón y se acomoda los anteojos. Por primera vez, sonríe de verdad: corto, de costado.
-
-—Valiente —dice—. O loco. —Hace un gesto hacia la puerta—. Vayan. Les mando dos guardias para que no los aplasten.
-
-Cha Hae-in toma la tarjeta blanca de la Asociación del escritorio, la mira, y se la guarda en el bolsillo del pantalón. Después te agarra la mano.
-
-En el ascensor principal, de espejos, bajando treinta y ocho pisos, no se suelta. Se mira en el espejo, se acomoda el pelo atado, se baja el suéter. No se pone la gorra ni los anteojos de sol. Los deja guardados.
-
-—Nunca hablé con la prensa de algo que no fuera una Puerta —dice, mirando los números—. Nunca.
-
-Planta baja. El vestíbulo del gremio es enorme, de mármol blanco y vidrio, con el emblema en el piso. Dos guardias de traje negro los esperan junto a las puertas giratorias. Del otro lado del vidrio, en la vereda, la valla, las cámaras, los fotógrafos. Uno de ellos los ve a través del vidrio y grita algo. Todos se dan vuelta al mismo tiempo, como una ola.
-
-Los flashes empiezan antes de que crucen la puerta.
-
-Afuera, el ruido es una pared. Clics de cámaras, decenas, como granizo. Micrófonos con logos de canales que se estiran por encima de la valla. Gente que grita el nombre de ella. Los dos guardias se ponen adelante y abren un pequeño espacio en la vereda, frente a la valla.
-
-—¡Vicemaestra Cha! ¡Vicemaestra Cha, por aquí!
-
-—¡¿Es verdad que es su novio?!
-
-—¡¿Desde cuándo están juntos?!
-
-—¡¿Es cazador?! ¡¿De qué gremio?!
-
-Kase, en tu hombro, mira los flashes con los ojos entrecerrados y las orejas aplastadas hacia atrás, profundamente ofendido.
-
-Cha Hae-in se queda quieta frente a la valla, con tu mano agarrada. Levanta la otra mano, despacio, con la palma abierta, como pidiendo silencio. Y por algún motivo, funciona: el ruido baja, poco a poco, hasta que solo quedan los clics.
-
-—Sí —dice ella, clara, con la voz que usa en las incursiones—. Es mi novio.
-
-Un murmullo enorme. Más flashes.
-
-Una periodista de la primera fila, de traje rojo —la misma presentadora del noticiero de la pantalla gigante—, se estira por encima de la valla con el micrófono, directo hacia ti, no hacia ella.
-
-—¡Señor! ¡Señor, una pregunta! —Las cámaras te apuntan todas a la vez—. ¡Toda Corea quiere saberlo! ¿Quién es usted?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1808 · SOLO LEVELING · DÍA 3 · 12:02   ║
-║ Seúl, Corea del Sur                          ║
-║ Vereda del Gremio de Cazadores · la prensa   ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, ofendido por los flashes ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: La prensa pregunta quién eres      ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1809)
+## COMANDO 1 (T1809)
 
 soy Facundo Morelli, un viajero, y el novio de Hae-in
 
-## RESPUESTA 2 (T1809)
+## RESPUESTA 1 (T1809)
 
 > soy Facundo Morelli, un viajero, y el novio de Hae-in
 
@@ -117,11 +52,11 @@ La presentadora de rojo aprovecha el segundo de confusión. Se estira todavía m
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1810)
+## COMANDO 2 (T1810)
 
 es un secreto
 
-## RESPUESTA 3 (T1810)
+## RESPUESTA 2 (T1810)
 
 > es un secreto
 
@@ -176,6 +111,63 @@ Cha Hae-in te mira a ti.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1811)
+
+al hotel, quiero estar tranquilo contigo
+
+## RESPUESTA 3 (T1811)
+
+> al hotel, quiero estar tranquilo contigo
+
+> —Al hotel. Quiero estar tranquilo contigo.
+
+Cha Hae-in deja de reírse. Te mira un segundo, con los ojos todavía húmedos, y sonríe de otra manera, más despacio.
+
+—Al hotel —le dice al conductor, y le da el nombre.
+
+El conductor asiente.
+
+—Seguro que en la puerta hay alguno con cámara, vicemaestra. Los entro por el garaje.
+
+La camioneta cruza Gangnam bajo el cielo gris. En una esquina, en la pantalla gigante, ya está tu cara: el video de hace diez minutos, tú frente a la valla con Kase en el hombro, y un cartel abajo en letras amarillas: "FACUNDO MORELLI: 'ES UN SECRETO'". Cha Hae-in lo ve pasar por la ventanilla y se tapa la cara con las dos manos, riéndose otra vez sin sonido.
+
+Frente al hotel, dos fotógrafos esperan junto al toldo dorado, fumando. La camioneta pasa de largo, dobla en la esquina y baja por la rampa del garaje del hotel. Un ascensor de servicio los deja directo en el piso veintidós.
+
+Lucecita verde. Clic.
+
+La habitación está ordenada: la mucama pasó por fin. La cama hecha, sábanas nuevas, toallas dobladas en forma de cisne sobre la colcha. Un platito nuevo con agua para el gato junto a la ventana. Afuera, el cielo gris sobre Seúl, y una llovizna fina que empieza a pegar contra el ventanal.
+
+Kase salta de tu hombro, va directo a la cama y destruye un cisne de toalla con una sola pata, sin ningún remordimiento. Después se echa encima de los restos.
+
+Cha Hae-in se saca los zapatos en la entrada. Se suelta el pelo, que le cae sobre los hombros. Se queda un momento parada junto al ventanal, mirando la lluvia, con los brazos cruzados sobre el suéter.
+
+—Silencio —dice, bajito, casi para ella—. Por fin.
+
+Se da vuelta. Cruza la habitación, se sube a la cama, al lado de Kase, y se acuesta de costado, con la cabeza sobre la almohada, mirándote. Da dos golpecitos en el colchón, a su lado, sin decir nada.
+
+Cuando te acuestas, se te acerca, despacio, hasta que tiene la frente apoyada en tu hombro. Afuera llueve. Kase ronronea entre los dos. Por un rato largo no dice nada nadie.
+
+—Facundo —dice al fin, sin levantar la cabeza—. Mañana, después de lo de la Asociación...
+
+Hace una pausa. La oyes tragar.
+
+—Mi mamá vio el noticiero. Me llamó otra vez mientras salíamos. —Se le escapa una risita nerviosa contra tu hombro—. Quiere conocerte. Nos invitó a cenar. Mañana. —Levanta la cabeza, por fin, y te mira, colorada—. No tienes que ir si no quieres. Es... es mucho, ya sé. Pero ella... insistió.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1811 · SOLO LEVELING · DÍA 3 · 13:05   ║
+║ Seúl, Corea del Sur                          ║
+║ Hotel de Gangnam · habitación 2207           ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la cama, sobre un cisne de toalla   ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Su mamá los invita a cenar mañana  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 3 12:06. Facundo: "Es un secreto." Cha se ríe ante las cámaras (primera foto riendo en seis años) y repite "Es un secreto." Se van en una camioneta negra del gremio (la mandó Choi; conductor mayor de gorra). Cha se ríe hasta llorar: "Les dijiste a todos los canales de Corea que es un secreto." Conductor: "¿A dónde los llevo?" Cha: "No sé. ¿A dónde quieres ir?" Mañana 10:00: residencia provisoria.
+ESTADO AL CIERRE: Día 3 13:05, 2207, llovizna. Facundo: "Al hotel. Quiero estar tranquilo contigo." Pantalla gigante: "FACUNDO MORELLI: 'ES UN SECRETO'". Dos fotógrafos en la puerta del hotel; entraron por el garaje. Habitación ordenada; Kase destruyó un cisne de toalla. Cha descalza, pelo suelto, acostada junto a Facundo, frente en su hombro. "Mi mamá vio el noticiero... Quiere conocerte. Nos invitó a cenar. Mañana. No tienes que ir si no quieres... Pero ella insistió."

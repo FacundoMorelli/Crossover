@@ -188,3 +188,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1786 · Seúl: Cha Hae-in le trae comida húmeda premium (preguntó en una tienda de mascotas cuál era la mejor). Le roza los tobillos con la cola al entrar.
 - T1787 · Se sube al brazo del sillón junto a Cha Hae-in y se sienta a su lado.
 - T1799 · Gwangjang: se echa entre Facundo y Cha Hae-in con la cabeza sobre la pierna de ella.
+- T1811 · Hotel de Gangnam: destruye un cisne de toalla de la mucama con una pata, sin remordimiento, y se echa encima.

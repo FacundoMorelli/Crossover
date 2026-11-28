@@ -1810,3 +1810,4 @@ T1807 · SOLO LEVELING · Gremio de Cazadores · "Llegué caminando." Woo deja p
 T1808 · SOLO LEVELING · Gremio de Cazadores · Salen por adelante. Cha a la prensa: "Sí. Es mi novio." "¿Quién es usted?"
 T1809 · SOLO LEVELING · Gremio de Cazadores · En vivo: "Soy Facundo Morelli, un viajero, el novio de Hae-in." Cha: "No tiene maná." "¿Cómo la conquistó?"
 T1810 · SOLO LEVELING · Gremio de Cazadores · "¿Cómo la conquistó?" "Es un secreto." Cha se ríe en cámara. Se van en la camioneta del gremio.
+T1811 · SOLO LEVELING · Hotel de Gangnam · Tarde tranquila con Cha bajo la lluvia. Su mamá los invita a cenar mañana.

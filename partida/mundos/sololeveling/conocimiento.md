@@ -35,3 +35,4 @@
 - T1807 · WOO JINCHUL, CHOI, CHA saben (por Facundo) que dice venir "de muy lejos, caminando". Woo lo deja pasar. CHA es su garante para residencia provisoria.
 - T1808 · PÚBLICO (en vivo): Cha Hae-in confirmó que Facundo es su novio. Se le ve la cara a Facundo en televisión.
 - T1809 · PÚBLICO (en vivo): nombre Facundo Morelli, "viajero", novio de Cha Hae-in, sin maná medido por la Asociación. Lo puede saber cualquiera en Corea (Jinwoo, Dong-su, etc.).
+- T1811 · PRENSA: sabe (filtración, probablemente del hotel) que Facundo se aloja en el hotel de Gangnam: dos fotógrafos en la puerta. MADRE DE CHA vio el noticiero; invita a cenar.
