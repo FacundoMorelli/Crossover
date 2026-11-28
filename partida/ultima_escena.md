@@ -3,50 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1778)
-
-si, le doy el atún a kase
-
-## RESPUESTA 1 (T1778)
-
-> si, le doy el atún a kase
-
-> —Sí.
-
-El chico asiente despacio, como si eso le confirmara algo, y vuelve a mirar al gato.
-
-Dejas el platito de cartón en el piso, junto a la pata de la mesa de plástico, y abres una de las latas. El ruido del abrelatas es suficiente: Kase ya está ahí antes de que termines de volcarla. Huele el atún una vez, con la nariz pegada, te mira de reojo como diciendo que podría ser mejor, y después se pone a comer sin parar, con la cola enroscada y las orejas hacia atrás, haciendo un ruidito suave con la garganta.
-
-El chico de la capucha lo mira comer. Por primera vez se le afloja un poco la cara.
-
-—Mi abuela tenía un gato —dice, más para el gato que para ti—. Gris. Comía así, como si alguien se lo fuera a robar.
-
-Se le ve el borde de un buzo gastado debajo de la campera, y un vendaje sucio en los nudillos de la mano derecha. En la mesa, al lado del vaso de ramyeon, hay una credencial de plástico boca abajo, con una cinta azul. Y unas zapatillas viejas, con la suela despegada en la punta.
-
-Te mira de nuevo. Mira el sobretodo negro, la cicatriz, los tatuajes del cuello.
-
-—¿Eres cazador? —pregunta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1778 · SOLO LEVELING · DÍA 2 · 00:11   ║
-║ Seúl, Corea del Sur                          ║
-║ Parque junto al río Han · tienda 24 horas    ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.292.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: comiendo atún en el platito            ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Cha Hae-in vuelve a la una         ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1779)
+## COMANDO 1 (T1779)
 
 no, soy un viajero, ¿y tú?
 
-## RESPUESTA 2 (T1779)
+## RESPUESTA 1 (T1779)
 
 > no, soy un viajero, ¿y tú?
 
@@ -85,11 +46,11 @@ Lo dice sin enojo, cansado, mirando el río. Kase levanta la cabeza del platito,
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1780)
+## COMANDO 2 (T1780)
 
 y con el rango que despertás es con el que te quedas?
 
-## RESPUESTA 3 (T1780)
+## RESPUESTA 2 (T1780)
 
 > y con el rango que despertás es con el que te quedas?
 
@@ -132,6 +93,51 @@ Mira sus zapatillas rotas.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1781)
+
+creo que si, nadie se queda igual para siempre
+
+## RESPUESTA 3 (T1781)
+
+> creo que si, nadie se queda igual para siempre
+
+> —Creo que sí. Nadie se queda igual para siempre.
+
+Dong-su no contesta enseguida. Mira el vaso de ramyeon, que ya está frío, y lo hace girar despacio sobre la mesa.
+
+—Nadie se queda igual para siempre —repite, bajito, como si probara cómo suena dicho por él.
+
+Se le mueve algo en la cara. No es alegría. Es más chico que eso, como cuando alguien que venía cargando una bolsa pesada la apoya un momento en el piso para cambiarla de mano.
+
+Kase, que terminó de lamerse los bigotes, se levanta del platito, camina hasta la silla de plástico del chico y se le sienta al lado del pie, muy derecho, mirando el río con él. No lo toca. Solo se sienta ahí.
+
+Dong-su lo mira. Después te mira a ti, sorprendido.
+
+—¿Hace esto con todos?
+
+Kase no hace esto con nadie.
+
+El chico estira la mano vendada, despacio, a medio camino, como pidiendo permiso. Kase no se mueve. Dong-su no llega a tocarlo: deja la mano ahí, cerca, en el aire, y sonríe por primera vez de verdad.
+
+Después se acomoda la capucha y se aclara la garganta, un poco avergonzado.
+
+—Perdón. Te conté toda mi vida y ni siquiera sé cómo te llamas.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1781 · SOLO LEVELING · DÍA 2 · 00:21   ║
+║ Seúl, Corea del Sur                          ║
+║ Parque junto al río Han · tienda 24 horas    ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.292.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: sentado junto al pie de Dong-su        ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Cha Hae-in vuelve a la una         ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 00:18. Facundo: "¿Y con el rango que despiertas es con el que te quedas?" Dong-su: el maná no sube; "segundo despertar" una vez en muchos años. Le muestra en su celular la nota pública: Sung Jinwoo reevaluado de E a S, primer caso en Corea ("el cazador más débil del mundo"). Pregunta: "¿Tú crees que la gente puede cambiar lo que es? ¿O lo que te toca, te toca?" Kase terminó el atún.
+ESTADO AL CIERRE: Día 2 00:21. Facundo: "Creo que sí. Nadie se queda igual para siempre." Dong-su lo repite, se alivia. Kase se sienta junto a su pie, mirando el río (no lo hace con nadie). Dong-su acerca la mano sin tocarlo y sonríe de verdad. "Perdón. Te conté toda mi vida y ni siquiera sé cómo te llamas."
