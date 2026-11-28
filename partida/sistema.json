@@ -1,13 +1,13 @@
 {
-  "turno": 1737,
-  "mundo_actual": "chainsawman",
-  "fecha_local": "Chainsaw Man: Día 9, noviembre de 1997",
-  "hora": "18:40 (Tokio)",
+  "turno": 1738,
+  "mundo_actual": "fullmetal",
+  "fecha_local": "Fullmetal Alchemist: Día 1, 1914",
+  "hora": "17:30 (Ciudad Central)",
   "edad": 18,
   "nivel": 33,
-  "exp": 441130,
+  "exp": 461130,
   "exp_siguiente_nivel": 480000,
-  "fragmentos": 288878,
+  "fragmentos": 289378,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -78,6 +78,11 @@
       "moneda": "yenes",
       "cantidad": 0,
       "cambio": "1 Fragmento = 11.000 yenes (fijado T1681)"
+    },
+    "fullmetal": {
+      "moneda": "cenz",
+      "cantidad": 0,
+      "cambio": "1 Fragmento = 10.000 cenz (fijado T1738)"
     }
   },
   "puntos_de_stat_sin_asignar": 185,
@@ -407,11 +412,26 @@
         "Maestría 50: Forma Dragón Completa (dragón de 15 metros). Maestría 70: Rugido del Miedo (los demonios menores huyen al oírlo)."
       ],
       "primer_uso": "T1720 (sótano de la fábrica del Sumida, ante Santa Claus)"
+    },
+    "fullmetal": {
+      "nombre": "Alquimia del Iris",
+      "tipo": "alquimia innata (ojos como círculo de transmutación)",
+      "maestria": 30,
+      "reglas": [
+        "Los ojos de Facundo son su círculo de transmutación: transmuta lo que mira, sin dibujar círculos ni juntar las manos. Alcance: hasta donde ve con claridad (unos 30 m en maestría 30; +15 m cada 10 de maestría).",
+        "Intercambio equivalente alterado: puede pagar la diferencia de masa o de valor con su propia energía en vez de con materia (crear de la nada cuesta energía, proporcional a la masa).",
+        "Fuente propia: no usa el flujo de la Piedra de Padre bajo Amestris; Padre no puede anularla. Tampoco depende del pulso de la tierra.",
+        "Comprende al instante la composición de lo que mira (fase de comprensión inmediata).",
+        "Puede curar y reparar cuerpos vivos (heridas, huesos, órganos), pero no revivir muertos ni crear vida ni almas. No toca almas.",
+        "Al usarla, el iris rojo y el azul brillan con un anillo de símbolos alquímicos que giran (se ve).",
+        "Maestría 50: transmutación a distancia por marcas (como la alkahestria, con su mirada). Maestría 70: \"La Puerta propia\": ve la Verdad de un material o estructura sin pagar nada."
+      ],
+      "primer_uso": null
     }
   },
   "velo": {
     "activo": true,
-    "poder_mostrado": "Chainsaw Man: persona común; sin olor a demonio, fiend ni híbrido (desde T1681)"
+    "poder_mostrado": "Fullmetal: persona común, sin alquimia visible (desde T1738)"
   },
   "armas": [
     {
@@ -2402,7 +2422,8 @@
       "bokunohero",
       "tokyoghoul",
       "naruto",
-      "chainsawman"
+      "chainsawman",
+      "fullmetal"
     ],
     "mundos_completados": [
       "jujutsu",
@@ -2416,16 +2437,17 @@
       "danmachi",
       "bokunohero",
       "tokyoghoul",
-      "naruto"
+      "naruto",
+      "chainsawman"
     ],
     "viaje_libre": true,
     "mision_de_mundo_actual": {
-      "mundo": "chainsawman",
-      "mision": "Que Aki Hayakawa siga vivo cuando termine el ataque del Demonio Pistola.",
-      "recompensa": "20.000 EXP · 500 Fragmentos",
+      "mundo": "fullmetal",
+      "mision": "Que Maes Hughes siga vivo cuando termine el Día Prometido.",
+      "recompensa": "25.000 EXP · 600 Fragmentos",
       "vence": "nunca",
       "cambiada": false,
-      "estado": "activa (T1681)"
+      "estado": "activa (T1738)"
     },
     "relojes": {
       "jujutsu": "Salida 29/04/2019 10:21, portón de la sede de los altos mandos (Kioto). Prometió a Nanami avisar al volver. Corre.",
@@ -2453,7 +2475,8 @@
       "naruto": "Llegada Día 1 07:40 (T1305). SALIDA Día 10 ~00:00 (medianoche) (T1440), por una puerta en la calle de Ichiraku, ante todos. Prometió a Naruto volver. Corre.",
       "naruto_salida": "Día 10 ~00:00 (T1440).",
       "dragonball_salida_T1680": "Salida sábado año 778 19:40, colina del parque central. Corre al ritmo de Facundo.",
-      "chainsawman": "Llegada Día 1 (fines de oct. 1997) 19:30. Salida Día 9 18:40 (T1737), azotea del edificio de Aki, Tokio. Corre al ritmo de Facundo. MISIÓN DE MUNDO NO CUMPLIDA (Aki vivo tras el Pistola; el ataque del Pistola es en nov-dic 1997)."
+      "chainsawman": "Llegada Día 1 (fines de oct. 1997) 19:30. Salida Día 9 18:40 (T1737), azotea del edificio de Aki, Tokio. Corre al ritmo de Facundo. MISIÓN DE MUNDO NO CUMPLIDA (Aki vivo tras el Pistola; el ataque del Pistola es en nov-dic 1997).",
+      "fullmetal": "Llegada Día 1, 1914, Ciudad Central ~17:30 (T1738). Corre al ritmo de Facundo."
     },
     "puerta_abierta": true,
     "historial_misiones": {
@@ -2492,7 +2515,6 @@
     },
     "mundos_disponibles_sin_visitar": [
       "demonslayer",
-      "fullmetal",
       "sololeveling"
     ],
     "nota_mundos_nuevos": "T1657 (R16): se suman Demon Slayer, Fullmetal Alchemist, Chainsaw Man y Solo Leveling. /viajar nuevo elige al azar entre ellos. Dragon Ball Super es parte del mundo Dragon Ball (canon/dragonballsuper/)."
@@ -2504,7 +2526,8 @@
     "shingeki": "'El Emisario del Gato' (prensa del continente, diarios del día 41) | \"El del gato\" (pueblo de Paradis, plaza de Shiganshina, T969)",
     "tokyoghoul": "El Panadero (entre los ghouls del Distrito 20 y alrededores; oído T1215, Koma lo grita en el callejón)",
     "naruto": "",
-    "chainsawman": ""
+    "chainsawman": "",
+    "fullmetal": ""
   },
   "tienda": {
     "catalogo_permanente": {
@@ -2595,19 +2618,19 @@
       "Plato de carne al punto con puré (caliente, con cubiertos)": "1 Fragmento (fijado T1554)"
     },
     "stock_rotativo": {
-      "mundo": "chainsawman",
+      "mundo": "fullmetal",
       "slots": [
         {
-          "item": "Encendedor de bencina con combustible infinito (estilo 1997)",
+          "item": "Tiza alquímica que no se borra con la lluvia (x10)",
           "precio": 2
         },
         {
-          "item": "Ampolla de sangre de repuesto x5 (regenera a un híbrido)",
-          "precio": 10
+          "item": "Reloj de bolsillo de plata sin grabar (estilo Alquimista Estatal, sin licencia)",
+          "precio": 6
         },
         {
-          "item": "Teléfono celular de tapa (1997) con línea a nombre de nadie",
-          "precio": 4
+          "item": "Kit de reparación de automail de campaña",
+          "precio": 12
         }
       ]
     },
@@ -2792,7 +2815,10 @@
     "sim_dias_5_9_naruto": "T1437 (simulación Día 5–9): duelo con Sasuke (Susanoo completo, Amaterasu, Kirin; Facundo deshace el Susanoo con la mano). Kakashi llega a horario por primera vez. Obito barre; un nene le lleva agua; Rin le venda las manos. Jiraiya escribe \"El Viajero del Gato\" (Tsunade lo tira por la ventana; Kakashi lo rescata). Sakura investiga las semillas. Lee y Gai: carreras diarias perdidas. Día 7-8: Killer Bee visita Konoha (carta del Raikage, disculpa de Karui); amistad con Naruto; Kurama y Gyūki se insultan. Neji se sienta junto a Facundo en un techo una noche. Ayame alimenta a Kase. Día 9 noche: Naruto pregunta cuándo se va.",
     "dragonball_resurreccion_freezer": "Fijado T1680: Sorbet y Tagoma llegan a la Tierra y reviven a Freezer ~5 meses después de este sábado (comienzo del año 779); Freezer entrena ~4 meses y ataca la Tierra ~9 meses después de este sábado. Goku y Vegeta en el planeta de Bills con Whis.",
     "chainsawman_llegada": "Mundo elegido al azar (T1681) entre demonslayer/fullmetal/chainsawman/sololeveling: chainsawman. Momento al azar: arco 5 (Asesinos Internacionales), Día 1.",
-    "apodo_pendiente_chainsawman": "'Dragon Man' (los medios y Seguridad Pública, si lo ven transformado); 'el del gato de dos ojos' entre civiles."
+    "apodo_pendiente_chainsawman": "'Dragon Man' (los medios y Seguridad Pública, si lo ven transformado); 'el del gato de dos ojos' entre civiles.",
+    "fullmetal_llegada": "Elegido al azar (T1738) entre demonslayer/fullmetal/sololeveling: fullmetal. Momento al azar: arco 3 (Quinto Laboratorio), cerca de caps. 14-15: noche en que Hughes descubre el patrón; Lust lo ataca esta noche ~22:00 cerca del Cuartel; Envy lo mata en una cabina telefónica ~22:30 (cerca de la plaza del hospital).",
+    "chainsawman_aki": "T1738 (declarado por el jugador): Aki sobrevive al ataque del Demonio Pistola. Al volver, el motor narra cómo (lo que pasó mientras Facundo no estaba).",
+    "apodo_pendiente_fullmetal": "'El Alquimista de los Ojos' (rumores militares, si lo ven transmutar con la mirada)."
   },
   "recompensa_onepiece": {
     "monto": 400000000,

@@ -1,0 +1,10 @@
+# CONOCIMIENTO — FULLMETAL ALCHEMIST
+
+## QUIÉN SABE QUÉ
+(nadie lo conoce)
+
+## QUIÉN VIO QUÉ PODERES
+(nadie)
+
+## QUIÉN SABE QUE VIENE DE OTRO LADO
+(nadie)

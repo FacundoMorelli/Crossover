@@ -3,76 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1735)
-
-les gustaría ir a otro país a empezar de nuevo?
-
-## RESPUESTA 1 (T1735)
-
-> les gustaría ir a otro país a empezar de nuevo?
-
-> —¿Les gustaría ir a otro país a empezar de nuevo?
-
-Cosmo deja de dar vueltas.
-
-Las otras tres levantan la cabeza al mismo tiempo, como gatos que oyeron abrirse una lata. La de las costuras, sentada en el piso, se queda con la boca abierta. La de los cuernitos mira a Quanxi. La de las orejas de animal te mira a ti, sin parpadear, con los ojos todavía rojos.
-
-Quanxi no se mueve. Pero el ojo se le entrecierra.
-
-—Otro país. —Lo dice despacio, probando las palabras—. Empezar de nuevo.
-
-Kishibe, apoyado en los barrotes, deja la petaca a medio camino de la boca.
-
-—A China no podemos volver —sigue Quanxi, con la voz seca, sin queja, como quien enumera munición—. Fallamos. Allá, a los que fallan, no los esperan con flores. Acá, ya oíste a tu jefa. Y en cualquier otro lado, somos una híbrida y cuatro fiends sin papeles. —Mira a las cuatro, una por una—. A ellas las matan en cualquier frontera. No tienen cara de personas.
-
-—Yo tengo cara de persona —protesta la de las costuras, bajito, desde el piso.
-
-—Tú tienes la cara cosida en once partes, Tsugihagi.
-
-—Doce.
-
-Quanxi casi sonríe. Casi.
-
-La de las orejas de animal da un paso adelante, por primera vez sin esconderse detrás de ella. Te mira de cerca. Es joven, o lo parece, con el pelo negro y lacio y dos orejas puntiagudas de zorro asomándole entre el pelo.
-
-—¿Un lugar con mar? —pregunta. La voz le sale chiquita, con un acento más fuerte que el de Quanxi—. Donde nadie... donde no haya cazadores. Ni demonios. Ni gente que mire raro.
-
-—Long —dice Quanxi.
-
-—Solo pregunto.
-
-Cosmo levanta la mano, como en la escuela, y grita:
-
-—¡Halloween!
-
-Nadie sabe si es un sí.
-
-Quanxi suspira. Se pasa una mano por el pelo blanco, corto, despeinado. Te vuelve a mirar, y esta vez hay algo distinto en el ojo, debajo del frío. Algo que no se anima a ser esperanza todavía.
-
-—Suponiendo que sí. —Cruza los brazos más fuerte—. ¿Adónde? ¿Y cómo, viajero? Cinco mujeres sin papeles, una con un parche y cuatro con cuernos, orejas y costuras, en un barco, cruzando una frontera. —Una pausa—. Explícame cómo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1735 · CHAINSAW MAN · DÍA 4 · 21:49    ║
-║ Tokio, otoño de 1997                         ║
-║ Central de Seguridad Pública, celdas         ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.078 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el departamento, con Power          ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Responder por Quanxi y sus fiends  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1736)
+## COMANDO 1 (T1736)
 
 simula un par de dias
 
-## RESPUESTA 2 (T1736)
+## RESPUESTA 1 (T1736)
 
 > simula un par de días
 
@@ -125,11 +60,11 @@ En la cocina, Aki deja de lavar un plato y te mira por encima del hombro.
 
 ---
 
-## COMANDO 3 (T1737)
+## COMANDO 2 (T1737)
 
 simula tambien llevándolas a otro lado y despidiéndome de todos
 
-## RESPUESTA 3 (T1737)
+## RESPUESTA 2 (T1737)
 
 > simula también llevándolas a otro lado y despidiéndome de todos
 
@@ -200,4 +135,106 @@ Solo falta abrir la puerta.
 
 ---
 
-ESTADO AL CIERRE: Día 9 18:40, azotea del edificio de Aki. Quanxi y sus 4 fiends (Long, Tsugihagi, Pingtsi, Cosmo) viven en una isla chica del sur del Pacífico (pueblo de pescadores, sin cazadores; casa de madera al final de la playa), con 200 Fragmentos en dólares. Quanxi: "Si algún día alguien te viene a matar, avísame. Llego en una semana." Despedidas: Makima ("ya no son de mi ciudad"; "la habitación de las cajas va a seguir ahí"; "Vuelva, señor Morelli"), Kishibe (compartió la petaca; primera semana en 30 años sin muertos de los suyos), Kobeni (reverencia y huye), Sato (saludo militar), Denji (chicle de menta; Pochita), Power (abrazó a Kase), Aki ("Denji duerme mejor... Power también... Y yo. Cuídate, Facundo."). Falta abrir la puerta. MISIÓN DE MUNDO NO CUMPLIDA.
+## COMANDO 3 (T1738)
+
+cumplo la misión de mundo y aki vive igual. me voy al nuevo mundo
+
+## RESPUESTA 3 (T1738)
+
+> cumplo la misión de mundo y aki vive igual. me voy al nuevo mundo
+
+Abajo, en la ventana del tercer piso, Aki deja el cuchillo sobre la tabla. Se queda quieto un segundo, de espaldas, con el delantal puesto. Después levanta la vista hacia el techo, hacia la azotea, como si hubiera oído algo. No puede haber oído nada. Vuelve a las cebollas.
+
+Una ventana del Sistema se abre delante de ti, fría, encima de las luces de Tokio:
+
+[Misión de Mundo cumplida: Aki Hayakawa sigue vivo cuando termina el ataque del Demonio Pistola.]
+
+[EXP +20.000 · Fragmentos +500.]
+
+[Mundos completados: 13.]
+
+No dice cómo. No hace falta. En la cocina del tercer piso, Aki se ríe de algo que le grita Power desde el cuarto. Es la primera vez que lo oyes reírse.
+
+Abres la puerta. El rectángulo de luz blanca y azul se recorta en el aire de la azotea, zumbando bajito. Kase te clava las uñas en el hombro, como cada vez. Allá abajo, en el balcón, Miau levanta la cabeza.
+
+Cruzas.
+
+Oscuridad. Ni arriba ni abajo.
+
+[Destino fijado.]
+
+Lo primero es el sonido.
+
+Un tranvía. Pero no como los de Tokio: más lento, más pesado, con campanilla de bronce, chirriando sobre rieles de hierro. Cascos de caballo sobre piedra. Una bocina de auto, ronca, de las de pera de goma. Y debajo de todo, un murmullo de ciudad grande, de esas que todavía no conocen la electricidad del todo.
+
+Después el olor. Carbón. Pan recién horneado. Lluvia sobre adoquines. Bosta de caballo. Tinta de diario.
+
+Abres los ojos detrás de un quiosco de diarios de madera verde, en el borde de una plaza empedrada. Atardece. El cielo es naranja y gris sobre los techos de pizarra. Los edificios son de piedra clara, de cuatro y cinco pisos, con balcones de hierro forjado y relojes en las fachadas. Hay faroles de gas que un hombre con una pértiga va prendiendo uno por uno. En el centro de la plaza, una fuente seca con una estatua de un hombre a caballo, con uniforme y sable.
+
+Por la plaza pasan soldados. Muchos. Uniformes azules, de cuello alto, con botones dorados y gorras. Caminan en pareja, sin apuro, con las manos atrás. Nadie se cruza con ellos de frente.
+
+Kase se sacude la llovizna y mira a su alrededor con desconfianza.
+
+En el quiosco, colgados con broches, hay diarios. Los titulares están en un idioma que nunca viste, de letras angulosas, y que entiendes perfectamente:
+
+"INCENDIO EN LA PRIMERA RAMA DE LA BIBLIOTECA ESTATAL. SE PERDIERON MILES DE VOLÚMENES."
+
+"EXPLOSIÓN EN INSTALACIÓN MILITAR ABANDONADA JUNTO A LA PRISIÓN CENTRAL. EL EJÉRCITO HABLA DE ACCIDENTE."
+
+Y en la pared de piedra del quiosco, pegado con engrudo, un cartel de búsqueda con un dibujo a lápiz. Un hombre de piel morena y ojos rojos, con una cicatriz enorme en forma de X en la frente:
+
+"BUSCADO: ASESINO DE ALQUIMISTAS ESTATALES. EXTREMADAMENTE PELIGROSO. RECOMPENSA DEL EJÉRCITO DE AMESTRIS."
+
+A dos cuadras, sobre los techos, se ve un edificio blanco grande, con una cruz pintada y una bandera militar: un hospital. Y más allá, al fondo de la avenida, dominando todo, una mole de piedra con columnas, escalinatas y docenas de banderas verdes y negras con un dragón alado: el cuartel general.
+
+Por la vereda de enfrente pasa un hombre corriendo. Uniforme azul, sin gorra, anteojos rectangulares, barba corta, una carpeta apretada contra el pecho. No corre como quien llega tarde. Corre como quien acaba de entender algo terrible. Dobla la esquina hacia el cuartel general y desaparece.
+
+```
+╔══════════════════════════════════════════════╗
+║ DON DE MUNDO                                 ║
+║ Mundo: Fullmetal Alchemist                   ║
+║ ALQUIMIA DEL IRIS                            ║
+║ Tus ojos son tu círculo de transmutación.    ║
+║ Transmutas lo que miras, sin círculo y sin   ║
+║ manos. Pagas la diferencia del intercambio   ║
+║ con tu energía. Comprendes al instante lo    ║
+║ que ves. Curas y reparas cuerpos vivos;      ║
+║ no revives ni tocas almas. Nadie puede       ║
+║ anularla. Al usarla, tus iris brillan con    ║
+║ un anillo de símbolos.                       ║
+║ Maestría 30                                  ║
+║ 50: transmutación a distancia por marcas     ║
+║ 70: La Puerta propia                         ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ MISIÓN DE MUNDO                              ║
+║ Mundo: Fullmetal Alchemist                   ║
+║                                              ║
+║ MISIÓN: Que Maes Hughes siga vivo cuando     ║
+║ termine el Día Prometido.                    ║
+║ RECOMPENSA: 25.000 EXP · 600 Fragmentos      ║
+║ VENCE: nunca                                 ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1738 · FULLMETAL · DÍA 1 · 17:30       ║
+║ Ciudad Central, Amestris, 1914               ║
+║ Plaza cerca del hospital militar             ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.378 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: FULLMETAL ALCHEMIST, Día 1, 1914, ~17:30. Plaza empedrada de Ciudad Central cerca del hospital militar, detrás de un quiosco de diarios (titulares: incendio de la Biblioteca Estatal; explosión del Quinto Laboratorio "accidente"; cartel de búsqueda de Scar). Soldados de azul. Al fondo, el cuartel general. HUGHES pasó corriendo por la vereda de enfrente con una carpeta y dobló hacia el cuartel general (canon: esta noche Lust lo ataca y Envy lo mata en una cabina). Chainsaw Man completada (Aki vive; +20.000 EXP, +500 Frag). Don: Alquimia del Iris. Misión: que Hughes viva al terminar el Día Prometido.

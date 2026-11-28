@@ -34,3 +34,4 @@ ENCUENTROS:
 - T1729 · (sim) Va a la central a las 8; le pone la bufanda a Power. Vuelve 19:30, cocina curry (4 platos + platitos para los gatos), no habla en toda la cena ("nada"). A las 21 fuma solo en el balcón bajo la lluvia. Al llamar Kishibe, apaga el cigarrillo sin darse vuelta (sabe o intuye lo de Quanxi).
 - T1736 · (sim) No pregunta dónde estuvo Facundo. Día 5, en el balcón, primera vez a su lado: Kishibe le contó lo de las celdas; "nunca vi a nadie hacer que Makima bajara la mano". RELACIÓN: respeto; empieza a abrirse.
 - T1737 · En la vereda, fuma un cigarrillo encendido: "No sé qué eres. Y no te lo voy a preguntar. Denji duerme mejor desde que llegaste. Power también, aunque no lo admita. Y yo. Cuídate, Facundo." RELACIÓN: afecto, confianza. ESTADO: vivo; se acerca el arco del Pistola (canon: muere poseído por el Pistola).
+- T1738 · (declarado por el jugador) Sobrevive al ataque del Demonio Pistola. MISIÓN DE MUNDO CUMPLIDA.

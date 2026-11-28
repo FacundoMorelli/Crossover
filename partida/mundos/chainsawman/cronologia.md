@@ -23,3 +23,4 @@ Fuente: canon/chainsawman/ (manga). Llegada: Día 1, fines de octubre de 1997, 1
 - Día 4-6 · (T1736) Quanxi y fiends en Nerima bajo responsabilidad de Facundo. Ataques de demonios a la mitad. Plazo de Quanxi: Día 8 noche.
 - Día 7-8 · (T1737) Quanxi y fiends trasladadas por Facundo (vuelo de Dragón) a una isla del Pacífico.
 - Día 9 18:40 · (T1737) Facundo se va de Chainsaw Man (viaje libre). El canon sigue: Pistola en noviembre-diciembre.
+- (T1738, declarado) Aki Hayakawa sobrevive al arco del Demonio Pistola.

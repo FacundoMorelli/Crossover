@@ -263,3 +263,10 @@
 
 ## CHAINSAW MAN — SALIDA (T1737)
 - Salida Día 9 (noviembre de 1997) 18:40, azotea del edificio de Aki. Misión de Mundo NO cumplida (Aki vivo tras el Pistola). La habitación de las cajas queda reservada. El reloj corre al ritmo de Facundo.
+- T1738 · CHAINSAW MAN: MISIÓN DE MUNDO CUMPLIDA (declarada): Aki vive. +20.000 EXP, +500 Fragmentos. Completados 13/16.
+
+| 14 | Fullmetal Alchemist | Día 1, 1914, Ciudad Central ~17:30 | Quinto Laboratorio (caps. ~14-15) | Que Maes Hughes siga vivo cuando termine el Día Prometido. | ACTIVA |
+### Fullmetal Alchemist
+- MISIÓN: Que Maes Hughes siga vivo cuando termine el Día Prometido.
+- RECOMPENSA: 25.000 EXP · 600 Fragmentos · VENCE: nunca · CAMBIADA: no
+- DON: Alquimia del Iris, maestría 30.

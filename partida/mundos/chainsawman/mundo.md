@@ -20,3 +20,4 @@ VELO: Facundo no huele a demonio ni a nada raro para ningún demonio, fiend ni h
 - T1732 · CAMBIO: Makima NO mata a Quanxi ni a sus fiends (canon: las mata) por pedido de Facundo. Exige que alguien responda por ellas.
 - T1733 · Quanxi y sus 4 fiends LIBERADAS bajo responsabilidad de Facundo (pacto verbal con Makima).
 - T1737 · Quanxi y sus 4 fiends viven en una isla del sur del Pacífico (canon: Makima mata a Quanxi; Quanxi revive en la Parte 2 como arma de la Iglesia). Facundo se va de Chainsaw Man el Día 9 sin cumplir la Misión de Mundo. La habitación de las cajas queda reservada. Canon por venir: arco del Pistola (Hokkaido; Aki pacta con Makima; el Pistola posee a Aki).
+- T1738 · MISIÓN DE MUNDO CUMPLIDA (declarada por el jugador): Aki Hayakawa vive; sobrevivirá al ataque del Demonio Pistola. Facundo se va por la puerta desde la azotea del edificio de Aki.

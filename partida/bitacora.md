@@ -1736,3 +1736,4 @@ T1734 · CHAINSAW MAN · celdas · "Me gusta ayudar." Quanxi: "Un chico decía e
 T1735 · CHAINSAW MAN · celdas · "¿Les gustaría ir a otro país a empezar de nuevo?" Long: "¿Un lugar con mar?" Quanxi: "¿Adónde? ¿Y cómo? Explícame cómo."
 T1736 · CHAINSAW MAN · departamento de Aki · SIM 2 días. Quanxi y las fiends en Nerima (depto de Kishibe). Aki: "Nunca vi a nadie hacer que Makima bajara la mano." Quanxi: "Dos días. Que venga a decírmelo a la cara."
 T1737 · CHAINSAW MAN · Tokio · SIM: lleva a Quanxi y sus fiends volando a una isla del Pacífico; despedidas de todos. Azotea de lo de Aki, falta abrir la puerta. Misión de mundo sin cumplir.
+T1738 · CHAINSAW MAN → FULLMETAL · Misión de Chainsaw Man cumplida (Aki vive). Viaje libre: Ciudad Central, 1914. Don: Alquimia del Iris. Misión: que Hughes viva tras el Día Prometido. Hughes pasa corriendo.
