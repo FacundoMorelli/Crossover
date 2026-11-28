@@ -29,3 +29,4 @@
 - T1802 · PÚBLICO: foto del beso de Cha Hae-in con un "misterioso joven" de pelo blanco y azul con gato (sin nombre). La ve todo Corea: incluye a Choi, la Asociación, la madre de Cha, Jinwoo (posible), Dong-su (posible).
 - T1802 · CHOI JONG-IN: vio la noticia; ya sabía que Cha se quedó con "un chico sin maná" (T1772/T1786); quiere conocerlo. LA ASOCIACIÓN preguntó por Cha.
 - T1803 · MADRE DE CHA HAE-IN sabe (por Cha) que el de la foto es su novio y que no es cazador.
+- T1804 · CHOI JONG-IN no le siente maná a Facundo; dice que no figura en ningún registro de la Asociación (lo hizo averiguar esa mañana) y que no tiene documentos (deducción/averiguación).

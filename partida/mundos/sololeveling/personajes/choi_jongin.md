@@ -1,10 +1,10 @@
 NOMBRE: Choi Jong-In
 AFILIACIÓN: Gremio de Cazadores
 RANGO: rango S; maestro del gremio; mago de fuego
-PODER VISTO POR FACUNDO: ninguno todavía
+PODER VISTO POR FACUNDO: magia de fuego (meteoritos) en la Puerta de Gangnam (T1768)
 EDAD EN ESTE MOMENTO DEL CANON: sin dato (adulto)
-FÍSICO: —
-PERSONALIDAD Y FORMA DE HABLAR: orgulloso
+FÍSICO: alto (casi como Facundo), pelo engominado hacia atrás, anteojos finos de marco dorado, traje gris claro impecable
+PERSONALIDAD Y FORMA DE HABLAR: orgulloso, elegante, cortesía perfecta que corta; se acomoda los anteojos con un dedo; trata de "usted"
 RELACIÓN CON FACUNDO: no lo conoce.
 ENCUENTROS:
 DIÁLOGOS CLAVE:
@@ -19,3 +19,6 @@ ENCUENTROS:
 - T1786 · (por Cha Hae-in) En la oficina le preguntó por qué se quedó con "un chico sin maná". Ella: "un amigo". QUÉ SABE: que Facundo no tiene maná (deducción de la Asociación/su propia percepción: Velo), que es amigo de Cha.
 - T1799 · Día 2 ~20:00 · Llama dos veces a Cha Hae-in; ella no contesta. (Motivo: pendiente.)
 - T1802 · Desde las 6:30 llama 9 veces a Cha. Mensaje: prensa en la puerta del gremio; la Asociación preguntó por ella; "Venga a la oficina antes del mediodía. Y traiga a ese chico. Quiero conocerlo."
+- T1804 · Día 3 11:12 · Su oficina, piso 38 (ventanal, escritorio de madera negra, piedra de maná en vitrina). Intenta medir el maná de Facundo y no encuentra nada ("como una pared"). "Así que usted es el joven que tiene a toda Corea hablando desde las seis de la mañana. Mi vicemaestra rechazó durante seis años todas las propuestas de todos los cazadores, actores y empresarios de este país. Y en dos días, un chico sin maná, sin nombre en ningún registro de la Asociación, sin documentos... aparece en la portada de todos los portales, besándola en un mercado." "Así que voy a preguntarlo una sola vez, con todo respeto. ¿Quién es usted?"
+TASACIÓN (T1804): magia de fuego (meteoritos, lanzas, muros); amenaza BAJA; tú x75 sobre él; copiable, misión MEDIA.
+QUÉ SABE DE FACUNDO (T1804): aspecto; foto pública; sin maná (Velo); sin registro en la Asociación ni documentos (lo averiguó / deducción); novio de Cha Hae-in (público).

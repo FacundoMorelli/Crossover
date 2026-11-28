@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1801)
-
-asi es, pero voy a volver
-
-## RESPUESTA 1 (T1801)
-
-> asi es, pero voy a volver
-
-> —Así es. Pero voy a volver.
-
-Cha Hae-in no dice nada durante un rato largo. El dedo sigue quieto sobre la cabeza del dragón. Sientes cómo respira contra tu pecho, despacio, hondo, como si estuviera guardando algo adentro para después.
-
-—Está bien —dice al final.
-
-Lo dice tranquila. No suena triste. Suena como alguien que ya pensó en eso, sola, en algún momento del día, y que ya decidió qué hacer con eso.
-
-—Los cazadores también nos vamos —sigue, muy bajito—. Todos los días. Entramos a una Puerta y no sabemos si vamos a salir. Mi mamá me lo dice cada vez que me ve: que algún día no voy a volver. —Mueve un poco la cabeza sobre tu pecho, acomodándose—. Así que aprendí a no pensar en "algún día". Pienso en hoy.
-
-Levanta la cabeza, por fin, apoyando el mentón sobre tu pecho para mirarte. Tiene el pelo revuelto, los ojos cansados y brillantes, y una marca roja en la mejilla de la sábana.
-
-—Hoy estás aquí. —Sonríe—. Y dijiste que vas a volver.
-
-Se estira un poco hacia arriba y te da un beso corto, suave, en la boca.
-
-Después vuelve a acostarse, con la oreja sobre tu corazón, como si quisiera escucharlo.
-
-—Tu corazón late muy despacio —murmura, ya medio dormida—. Como si nada te diera miedo.
-
-A los pies de la cama, Kase se estira sin despertarse y suelta un suspiro largo.
-
-La respiración de Cha Hae-in se vuelve lenta, pareja. Se duerme ahí, sobre ti, con la mano abierta encima del dragón.
-
-Afuera, Seúl sigue brillando.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1801 · SOLO LEVELING · DÍA 3 · 02:21   ║
-║ Seúl, Corea del Sur                          ║
-║ Hotel de Gangnam · habitación 2207           ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: dormido a los pies de la cama          ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1802)
+## COMANDO 1 (T1802)
 
 me duermo con ella y simula
 
-## RESPUESTA 2 (T1802)
+## RESPUESTA 1 (T1802)
 
 > me duermo con ella y simula
 
@@ -111,11 +62,11 @@ Baja el celular a la sábana. Te mira. Está pálida, pero no asustada. Más bie
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1803)
+## COMANDO 2 (T1803)
 
 si
 
-## RESPUESTA 3 (T1803)
+## RESPUESTA 2 (T1803)
 
 > si
 
@@ -160,6 +111,75 @@ El taxista espera, con las manos en el volante, mirándolos por el espejo retrov
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1804)
+
+vayamos por atrás por ahora
+
+## RESPUESTA 3 (T1804)
+
+> vayamos por atrás por ahora
+
+> —Vayamos por atrás, por ahora.
+
+Cha Hae-in asiente y le dice al taxista que dé la vuelta a la manzana. El taxi se mete por una calle lateral, angosta, y baja por una rampa de cemento hasta un estacionamiento subterráneo con luces blancas y olor a aceite de motor. El fotógrafo de la esquina se queda mirando el taxi doblar, con la cámara a medio levantar, demasiado tarde.
+
+Un guardia de seguridad, en la cabina de la barrera, reconoce a Cha Hae-in y levanta la barrera sin preguntar. A ti te mira dos veces. A Kase, tres.
+
+Ascensor de servicio, de metal, sin espejos. Cha Hae-in aprieta el último botón. Va callada, derecha, con las manos juntas delante, como una soldado. A mitad de camino, sin mirarte, te busca la mano y te la aprieta una vez, fuerte. Después la suelta.
+
+Piso treinta y ocho. Las puertas se abren a un pasillo de alfombra gris y paredes blancas, silencioso, con fotos enmarcadas de incursiones famosas del gremio. Dos empleadas de traje, junto a una fotocopiadora, dejan de hablar de golpe cuando los ven pasar.
+
+Al fondo, una puerta doble de madera oscura. Cha Hae-in golpea dos veces.
+
+—Adelante.
+
+La oficina es enorme, con una pared entera de vidrio que da a la avenida, a la ciudad gris, a la valla con los periodistas allá abajo, chiquitos como hormigas. Un escritorio largo de madera negra. Estantes con trofeos, libros, una piedra de maná del tamaño de una pelota dentro de una vitrina.
+
+Choi Jong-In está de pie frente al ventanal, de espaldas, con las manos detrás. Traje gris claro impecable, pelo engominado hacia atrás. Se da vuelta despacio. Se acomoda los anteojos de marco dorado con un dedo.
+
+Lo miras, y el Sistema hace lo suyo.
+
+```
+╔════════════════════════════════════════╗
+║ CHOI JONG-IN                           ║
+║ Maestro del Gremio de Cazadores        ║
+║ PODER: Magia de fuego (meteoritos,     ║
+║        lanzas y muros de fuego)        ║
+║ AMENAZA: BAJA                          ║
+║ Diferencia estimada: tú x75 sobre él   ║
+║ COPIABLE · MISIÓN: MEDIA               ║
+╚════════════════════════════════════════╝
+```
+
+Choi te mira de arriba abajo. El pelo blanco y azul. La cicatriz. Los tatuajes del cuello. El sobretodo negro. El gato. Se toma su tiempo. Entrecierra los ojos detrás de los cristales, y algo en su cara cambia, apenas: la cara de un mago de rango S que intenta medir el maná de alguien y no encuentra nada. Nada en absoluto. Como si mirara una pared.
+
+—Vicemaestra —dice, sin dejar de mirarte—. Siéntese, por favor.
+
+Cha Hae-in no se sienta. Se queda de pie, a tu lado.
+
+Choi la mira un segundo, y vuelve a ti. Se acomoda otra vez los anteojos.
+
+—Así que usted es el joven que tiene a toda Corea hablando desde las seis de la mañana. —Lo dice tranquilo, educado, con una cortesía tan perfecta que corta—. Mi vicemaestra rechazó durante seis años todas las propuestas de todos los cazadores, actores y empresarios de este país. Y en dos días, un chico sin maná, sin nombre en ningún registro de la Asociación, sin documentos... —hace una pausa— aparece en la portada de todos los portales, besándola en un mercado.
+
+Rodea el escritorio, despacio, y se detiene frente a ti, a un paso. Es casi tan alto como tú.
+
+—Así que voy a preguntarlo una sola vez, con todo respeto. —Te mira a los ojos, al rojo, al azul—. ¿Quién es usted?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1804 · SOLO LEVELING · DÍA 3 · 11:12   ║
+║ Seúl, Corea del Sur                          ║
+║ Gremio de Cazadores · piso 38, oficina Choi  ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirando a Choi           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Choi quiere saber quién eres       ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 3 11:04. Facundo: "Sí." Cha se baña y viste rápido (pelo atado alto); llama a su mamá ("Sí, es él. No, no es cazador. Te llamo a la noche."). Desayuno en el hotel: la foto en la tele con un círculo rojo. Taxi al edificio del Gremio de Cazadores (torre de vidrio azulado, norte de Gangnam). ~40 periodistas en la puerta tras una valla; un fotógrafo mira el taxi. Cha: entrada por el estacionamiento de atrás (nadie los vería) "o podemos entrar por adelante. Como tú quieras."
+ESTADO AL CIERRE: Día 3 11:12, oficina de Choi Jong-In (piso 38 del Gremio de Cazadores). Entraron por el estacionamiento (un fotógrafo vio doblar el taxi, tarde). Tasación de Choi (fuego; amenaza BAJA; tú x75; misión MEDIA). Choi intenta medir el maná de Facundo: nada. Cha de pie al lado de Facundo (no se sentó). Choi: Cha rechazó seis años todas las propuestas; "un chico sin maná, sin nombre en ningún registro de la Asociación, sin documentos"... "¿Quién es usted?"
