@@ -1812,3 +1812,4 @@ T1809 · SOLO LEVELING · Gremio de Cazadores · En vivo: "Soy Facundo Morelli, 
 T1810 · SOLO LEVELING · Gremio de Cazadores · "¿Cómo la conquistó?" "Es un secreto." Cha se ríe en cámara. Se van en la camioneta del gremio.
 T1811 · SOLO LEVELING · Hotel de Gangnam · Tarde tranquila con Cha bajo la lluvia. Su mamá los invita a cenar mañana.
 T1812 · SOLO LEVELING · Seúl · (simulado) Residencia provisoria con Cha como garante. Dong-su reevaluado rango A en las noticias. La mamá de Cha: "Así que tú eres el del secreto."
+T1813 · SOLO LEVELING · Casa de la señora Kang · Peras; la mamá de Cha se ríe y lo hace pasar. "¿Y qué haces de la vida?"

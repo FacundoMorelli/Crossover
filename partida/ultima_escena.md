@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1810)
-
-es un secreto
-
-## RESPUESTA 1 (T1810)
-
-> es un secreto
-
-> —Es un secreto.
-
-La presentadora se queda con el micrófono en el aire y la sonrisa congelada. Detrás de ella, alguien suelta una carcajada. Los curiosos de la vereda gritan "¡uuuh!" todos juntos, como en un estadio.
-
-A tu lado, Cha Hae-in se tapa la boca con la mano libre. Se le escapa una risa. Clara, corta, delante de cuarenta cámaras. Los fotógrafos se vuelven locos: es la primera vez en seis años que la fotografían riéndose.
-
-—¡Vicemaestra! ¡Vicemaestra Cha, ¿usted nos lo puede decir?!
-
-Cha Hae-in baja la mano. Te mira a ti, no a las cámaras, y sonríe.
-
-—Es un secreto —repite.
-
-Y se da vuelta, sin soltarte la mano.
-
-Los dos guardias entienden la señal antes que nadie. Se ponen a los costados y abren camino por la vereda, entre los fotógrafos que retroceden caminando de espaldas sin dejar de disparar. Una camioneta negra con el emblema del gremio en la puerta frena junto al cordón, con el motor prendido; Choi debe haberla mandado desde arriba. Uno de los guardias abre la puerta de atrás.
-
-Cha Hae-in sube primero. Subes detrás, con Kase. La puerta se cierra y el ruido de afuera se corta de golpe, como si alguien hubiera bajado el volumen. Los vidrios son oscuros. Del otro lado, los flashes siguen, mudos, como relámpagos lejanos.
-
-La camioneta arranca.
-
-Durante una cuadra, ninguno de los dos dice nada. Cha Hae-in mira hacia adelante, con la mano todavía agarrada a la tuya, respirando rápido. Después se apoya contra el respaldo, cierra los ojos y suelta todo el aire de golpe.
-
-Y se ríe. Se ríe de verdad, con la cabeza hacia atrás, tapándose la cara con la otra mano, hasta que se le saltan las lágrimas.
-
-—Es un secreto —dice, entre risas—. Les dijiste a todos los canales de Corea que es un secreto.
-
-Se seca los ojos con el dorso de la mano. Te mira, todavía riéndose, con las mejillas rojas.
-
-El conductor del gremio, un hombre mayor de gorra, mira por el espejo retrovisor.
-
-—¿A dónde los llevo, vicemaestra?
-
-Cha Hae-in te mira a ti.
-
-—No sé —dice—. ¿A dónde quieres ir?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1810 · SOLO LEVELING · DÍA 3 · 12:06   ║
-║ Seúl, Corea del Sur                          ║
-║ Camioneta del gremio, saliendo de la avenida ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tu falda                            ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1811)
+## COMANDO 1 (T1811)
 
 al hotel, quiero estar tranquilo contigo
 
-## RESPUESTA 2 (T1811)
+## RESPUESTA 1 (T1811)
 
 > al hotel, quiero estar tranquilo contigo
 
@@ -119,11 +60,11 @@ Hace una pausa. La oyes tragar.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1812)
+## COMANDO 2 (T1812)
 
 si, voy con gusto, quiero conocer a tu mamá.  simula
 
-## RESPUESTA 3 (T1812)
+## RESPUESTA 2 (T1812)
 
 > si, voy con gusto, quiero conocer a tu mamá.  simula
 
@@ -188,6 +129,65 @@ Cha Hae-in se pone pálida.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1813)
+
+si, soy yo, mucho gusto señora, le traje peras
+
+## RESPUESTA 3 (T1813)
+
+> si, soy yo, mucho gusto señora, le traje peras
+
+> —Sí, soy yo. Mucho gusto, señora. Le traje peras.
+
+Cha Hae-in te pasa la caja de madera, rápido, casi sin mirarte. Se la ofreces a la señora.
+
+La mamá de Cha Hae-in mira la caja. Las seis peras doradas, envueltas una por una. Después te mira a ti otra vez.
+
+Y de golpe se le desarma la cara. Los brazos se le descruzan, los ojos se le achican, y se ríe: una risa fuerte, abierta, de las que salen del estómago, exactamente la misma risa que soltó su hija ayer en la camioneta.
+
+—¡Peras! —Agarra la caja con las dos manos, todavía riéndose—. ¡Un chico de dos metros con dragones en el cuello y un gato en el hombro, que le dice a toda la televisión que es un secreto, y me trae peras! —Mira a su hija—. ¡Hae-in! ¡Te las eligió él o se las elegiste tú?
+
+Cha Hae-in se tapa la cara.
+
+—Mamá, por favor.
+
+—Ya, ya. —La señora se seca los ojos con el dorso de la mano y se hace a un lado—. Pasen, pasen. Se sacan los zapatos ahí. —Te mira, todavía con media sonrisa—. Kang Mi-sook. La mamá de esta chica tan seria que nunca me trajo a nadie a casa. —Mira a Kase—. Y el gato también pasa. Pero si me rompe algo, lo cocino.
+
+Kase la mira con desprecio absoluto y no se mueve de tu hombro.
+
+El departamento es chico, cálido, lleno de cosas: plantas en todas las ventanas, un sofá con una manta tejida, fotos enmarcadas en todas las paredes. En casi todas está Cha Hae-in: de bebé, de nena con uniforme escolar, de adolescente con una medalla, el día que recibió su primera credencial de cazadora, seria, mirando a la cámara. En ninguna sonríe mucho.
+
+Huele a ajo, a sésamo, a caldo, a arroz recién hecho.
+
+La mesa baja del living está llena hasta los bordes. Literalmente para veinte: una olla de guiso de kimchi burbujeando, costillas de cerdo marinadas, un pescado entero a la plancha, panqueques de cebolla de verdeo, huevos al vapor, y más de una docena de platitos de banchan. Tres almohadones en el piso alrededor.
+
+La señora Kang te sienta en el almohadón de la cabecera, el lugar de los invitados. Su hija, a tu lado. Ella, enfrente. Le sirve a Kase, en un platito aparte en el piso, un pedazo de pescado sin espinas, y Kase baja de tu hombro a comerlo sin dejar de mirarla con desconfianza.
+
+Te sirve arroz. Te sirve guiso. Te pone una costilla encima del arroz con sus propios palillos, y otra, y otra.
+
+—Come —dice—. Estás muy flaco para lo alto que eres.
+
+Cha Hae-in mira el techo.
+
+La señora Kang espera a que pruebes el primer bocado. Después apoya los palillos sobre el cuenco, junta las manos sobre la mesa, y te mira directo, de la misma forma que te mira su hija cuando quiere saber algo en serio.
+
+—Bueno, Facundo. —Lo pronuncia bien, despacio, como si lo hubiera practicado—. Mi hija me dice que no eres cazador, que no tienes maná, que no tienes papeles, que viajas, y que te conoció anteayer. —Hace una pausa—. ¿Y qué haces de la vida?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1813 · SOLO LEVELING · DÍA 4 · 19:15   ║
+║ Seúl, Corea del Sur                          ║
+║ Casa de la señora Kang · mesa del living     ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el piso, comiendo pescado           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Cena con la mamá de Hae-in         ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 4 19:02, puerta verde del 4.º piso, casa de la mamá de Cha (este de Seúl). Día 3: tarde de lluvia en el hotel ("Es un secreto" es meme). Día 4 10:00: Asociación, Woo Jinchul; Facundo recibe tarjeta de residencia provisoria (1 año, garante Cha). Noticiero: Han Dong-su (17, apellido Han) reevaluado de E a A esta mañana en Mapo, "segundo despertar", segundo caso en menos de un mes; Cha no entiende. Cha compró seis peras doradas en caja. La mamá abre (bajita, ~50 y pico, pelo corto entrecano, delantal de flores amarillas, los ojos de Cha), seria, brazos cruzados: "Así que tú eres el del secreto." Cha, pálida: "Mamá..."
+ESTADO AL CIERRE: Día 4 19:15, casa de la señora KANG MI-SOOK (mamá de Cha). "Sí, soy yo. Mucho gusto, señora. Le traje peras." Ella se ríe (misma risa que Hae-in): "¡me trae peras!" Departamento chico, plantas, fotos de Hae-in (casi nunca sonríe). Cena enorme (guiso de kimchi, costillas, pescado, panqueques de cebolla, huevos al vapor, banchan). Facundo en la cabecera; Kase con pescado en el piso. "Come. Estás muy flaco para lo alto que eres." "Mi hija me dice que no eres cazador, que no tienes maná, que no tienes papeles, que viajas, y que te conoció anteayer. ¿Y qué haces de la vida?"
