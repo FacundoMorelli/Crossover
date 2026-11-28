@@ -1801,3 +1801,4 @@ T1798 · SOLO LEVELING · Gwangjang · "Muy en serio." Beso, aplausos, una foto 
 T1799 · SOLO LEVELING · Gwangjang · Brindis "por nosotros", cena. Choi llama a Cha (no contesta). "¿Vamos? Al hotel."
 T1800 · SOLO LEVELING · Hotel de Gangnam · Primera noche con Cha Hae-in (fundido). Madrugada: "Algún día te vas a ir, ¿verdad?"
 T1801 · SOLO LEVELING · Hotel de Gangnam · "Algún día me voy, pero voy a volver." Cha: "Hoy estás aquí." Se duerme sobre él.
+T1802 · SOLO LEVELING · Hotel de Gangnam · La foto del beso es viral. Choi: "Traiga a ese chico." Cha: "¿Vendrías conmigo?"

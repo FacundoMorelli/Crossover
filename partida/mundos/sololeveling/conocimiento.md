@@ -26,3 +26,5 @@
 - T1798 · Un turista sacó una foto del beso de Facundo y Cha Hae-in (con gorra y anteojos) en Gwangjang. Si se publica y alguien la reconoce, sería público (pendiente).
 - T1800 · RECEPCIONISTA (chico del turno noche) reconoció a Cha Hae-in entrando al hotel de la mano de Facundo. CHA HAE-IN vio los tatuajes de dragones del pecho/espalda y las cicatrices de Facundo.
 - T1801 · CHA HAE-IN sabe (por Facundo) que algún día se va a ir y que va a volver. No sabe a dónde ni que hay otros mundos.
+- T1802 · PÚBLICO: foto del beso de Cha Hae-in con un "misterioso joven" de pelo blanco y azul con gato (sin nombre). La ve todo Corea: incluye a Choi, la Asociación, la madre de Cha, Jinwoo (posible), Dong-su (posible).
+- T1802 · CHOI JONG-IN: vio la noticia; ya sabía que Cha se quedó con "un chico sin maná" (T1772/T1786); quiere conocerlo. LA ASOCIACIÓN preguntó por Cha.

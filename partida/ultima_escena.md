@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1799)
-
-brindó con ella, por nosotros
-
-## RESPUESTA 1 (T1799)
-
-> brindó con ella, por nosotros
-
-Levantas el vasito.
-
-> —Por nosotros.
-
-Los vasitos chocan con un tintineo chiquito. Cha Hae-in se toma el suyo de un trago, girando un poco la cara hacia el costado, como manda la costumbre, y lo deja sobre el banco con un golpecito. Se le escapa una tos corta. Se ríe.
-
-—Es fuerte —dice—. Siempre me olvido.
-
-La señora aplaude otra vez y vuelve a llenar los vasitos sin preguntar.
-
-Comen. Los panqueques están crujientes por afuera y suaves por adentro, con gusto a frijol tostado, a cerdo, a kimchi y a cebolla de verdeo. Cha Hae-in te enseña a mojarlos en la salsa con cebolla, a cortarlos con los palillos, a doblarlos. Come con hambre, despacio pero sin parar, y entre bocado y bocado te cuenta cosas, en voz baja, con la gorra hasta las cejas: que viene a este puesto desde que tenía dieciséis años; que la primera vez que vino lloró porque había salido de una Puerta muy fea y no quería volver a casa así; que la señora le dio un panqueque gratis y le dijo que comiera primero y llorara después.
-
-—Desde entonces vengo siempre que algo sale mal —dice—. O muy bien.
-
-Te mira de reojo.
-
-—Hoy es la primera vez que vengo porque algo sale muy bien.
-
-Kase termina el pescado frito, se lava la cara con una pata en el banco y después se mete entre los dos, apretado, calentito, y se echa ahí, con la cabeza sobre la pierna de Cha Hae-in. Ella se queda quieta, con los palillos en el aire, y lo mira como si le hubieran dado un regalo.
-
-En el bolsillo del pantalón le vibra el celular. Una vez. Dos. Ella lo saca, mira la pantalla un segundo —ves de reojo el logo de un gremio y un nombre: "Maestro Choi"— y lo vuelve a guardar sin contestar.
-
-—Es del gremio —dice—. Puede esperar a mañana.
-
-Cuando terminan, no queda nada en los platitos. La señora no les deja pagar ni un won, y cuando Cha Hae-in intenta dejarle plata escondida debajo del plato, la señora se la devuelve en la mano con un golpe de espátula en los nudillos.
-
-Salen del túnel del mercado a la calle. Es de noche, hace frío, y el aire huele a castañas y a escape. Cha Hae-in tiene las mejillas rojas, pero esta vez es el licor. Te agarra del brazo con las dos manos, apoyando el costado de la cabeza en tu hombro, del lado que no ocupa Kase.
-
-—¿Vamos? —dice, bajito—. Al hotel.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1799 · SOLO LEVELING · DÍA 2 · 20:05   ║
-║ Seúl, Corea del Sur                          ║
-║ Calle frente al mercado de Gwangjang         ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Volver al hotel con Cha            ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1800)
+## COMANDO 1 (T1800)
 
 si, vamos al hotel
 
-## RESPUESTA 2 (T1800)
+## RESPUESTA 1 (T1800)
 
 > si, vamos al hotel
 
@@ -115,11 +62,11 @@ Se queda callada un rato. Escuchas su respiración.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1801)
+## COMANDO 2 (T1801)
 
 asi es, pero voy a volver
 
-## RESPUESTA 3 (T1801)
+## RESPUESTA 2 (T1801)
 
 > asi es, pero voy a volver
 
@@ -164,6 +111,65 @@ Afuera, Seúl sigue brillando.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1802)
+
+me duermo con ella y simula
+
+## RESPUESTA 3 (T1802)
+
+> me duermo con ella y simula
+
+Te duermes con ella encima, con su respiración pareja contra tu pecho y el peso tibio de Kase en los pies.
+
+...
+
+Seúl amanece gris otra vez, con nubes bajas que tapan la punta de las torres. A las siete pasa el primer tren elevado sobre el Han. A las siete y media una mucama empuja el carrito por el pasillo del piso veintidós y vuelve a pasar de largo frente al cartelito de "no molestar".
+
+Sobre la mesita de luz, el celular de Cha Hae-in vibra. Y vuelve a vibrar. Y otra vez. Cada pocos minutos, desde las seis y media, la pantalla se enciende sola en la penumbra, ilumina el techo un segundo y se apaga.
+
+Kase es el primero en hartarse. A las ocho y diez se levanta de los pies de la cama, camina por encima de los dos, se sienta junto al celular y lo mira mientras vibra, con las orejas hacia atrás. Después le da un golpecito con la pata. El celular se cae de la mesita al piso con un ruido seco.
+
+Cha Hae-in se despierta de golpe, con un reflejo de cazadora: la mano ya buscando una espada que no está. Ve la habitación, el ventanal, a ti. Se le afloja todo el cuerpo y se le escapa una sonrisa dormida, chiquita, con el pelo pegado en la cara.
+
+—Buen día —dice, ronca.
+
+Abajo, en el piso, el celular vuelve a vibrar.
+
+Ella se estira por encima del borde de la cama, lo levanta y mira la pantalla. La sonrisa se le congela.
+
+Ves la pantalla por encima de su hombro: veintitrés llamadas perdidas. "Maestro Choi" (nueve). "Gremio - Oficina" (seis). "Mamá" (cuatro). Varios números sin nombre. Y decenas de mensajes, uno encima del otro.
+
+Cha Hae-in abre uno. Es un enlace de un portal de noticias. Una foto, un poco movida, tomada con un celular bajo las lamparitas amarillas del mercado de Gwangjang: una chica de gorra negra y anteojos de sol besando a un chico alto de pelo blanco y azul, con un gato enorme en el hombro. Se le ve la mitad de la cara a ella. Es suficiente.
+
+El titular dice:
+
+"¿CHA HAE-IN ENAMORADA? La 'Princesa de la Espada' del Gremio de Cazadores, captada con un misterioso joven en el mercado de Gwangjang"
+
+Debajo, ya hay más de cuatro mil comentarios.
+
+Cha Hae-in se queda mirando la pantalla mucho rato, sin parpadear. Después abre el último mensaje, del Maestro Choi, enviado hace diez minutos. Lo lee en voz baja, despacio:
+
+—"Vicemaestra. La prensa está en la puerta del gremio. La Asociación preguntó por usted. Venga a la oficina antes del mediodía." —Traga—. "Y traiga a ese chico. Quiero conocerlo."
+
+Baja el celular a la sábana. Te mira. Está pálida, pero no asustada. Más bien parece alguien que se cayó de una nube y todavía no sabe si se lastimó.
+
+—Facundo... —dice—. ¿Vendrías conmigo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1802 · SOLO LEVELING · DÍA 3 · 08:14   ║
+║ Seúl, Corea del Sur                          ║
+║ Hotel de Gangnam · habitación 2207           ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: sentado en la mesita de luz            ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Choi quiere conocerte (mediodía)   ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 3 02:21, 2207. Facundo: "Así es. Pero voy a volver." Cha: "Está bien." Los cazadores también se van cada día; su mamá le dice que algún día no va a volver; aprendió a pensar en hoy. "Hoy estás aquí. Y dijiste que vas a volver." Beso corto. "Tu corazón late muy despacio. Como si nada te diera miedo." Se duerme sobre su pecho. Kase a los pies.
+ESTADO AL CIERRE: Día 3 08:14, 2207. Kase tiró el celular de Cha. 23 llamadas perdidas (Choi 9, oficina del gremio 6, mamá 4, otros). Noticia viral: foto del beso en Gwangjang: "¿CHA HAE-IN ENAMORADA? La 'Princesa de la Espada'... captada con un misterioso joven" (+4.000 comentarios; se ve a Facundo, pelo blanco y azul, y a Kase). Mensaje de Choi: prensa en la puerta del gremio, la Asociación preguntó por ella, ir antes del mediodía "Y traiga a ese chico. Quiero conocerlo." Cha: "Facundo... ¿Vendrías conmigo?"
