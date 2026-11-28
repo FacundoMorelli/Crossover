@@ -3,78 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1723)
-
-no importa eso, la dejo inconsciente y me teletransporto con makino con ella
-
-## RESPUESTA 1 (T1723)
-
-> no importa eso, la dejo inconsciente y me teletransporto con makima con ella
-
-> —No importa eso.
-
-Un toque, con la punta de una garra, en la nuca de la vieja. Suave. Justo donde va.
-
-Santa Claus se afloja entera, de golpe, como un ovillo que se desenrolla. La cabeza le cae sobre el pecho. Los anteojos redondos se le resbalan de la nariz; los atajas con la otra garra antes de que toquen el piso.
-
-Y en todo el edificio, a la vez, se oye un ruido sordo.
-
-Los muñecos de los estantes se desploman. Cientos. Soldaditos, bailarinas, payasos, bebés de porcelana, caen de costado, de cabeza, se resbalan de las tablas y rebotan en el cemento escarchado, y se quedan quietos, como juguetes de verdad. Arriba, en la escalera del sótano, en la nave grande de la fábrica, cientos de cuerpos se derrumban al mismo tiempo, con un golpe largo y blando, como un aplauso al revés. Después, silencio. A través del techo abierto se oye a alguien, uno solo, empezar a toser. Después otro. Después un llanto.
-
-[Santa Claus: vencida. Fragmentos +25.]
-
-[Demonio del Infierno: vencido. Fragmentos +150.]
-
-Le pones los anteojos en el bolsillo del chal. Te la acomodas sobre el hombro, del lado que no ocupa Kase, liviana como un abrigo.
-
-Cierras los ojos. Buscas, con el ki, el pozo enorme y quieto con miles de hilos.
-
-Lo encuentras enseguida. No está lejos.
-
-Dos dedos en la frente.
-
-Una oficina. Grande, silenciosa, ordenada al extremo. Paredes de madera oscura, un escritorio enorme sin un papel fuera de lugar, una ventana alta que da a Tokio desde un piso muy alto, con el cielo gris detrás. Un perchero con un abrigo negro. Un teléfono negro de disco. En el piso, sobre la alfombra, tres perros grandes, dormidos, que levantan la cabeza al mismo tiempo cuando apareces y no ladran.
-
-Makima está detrás del escritorio, de pie, con el teléfono en la mano, a mitad de una frase.
-
-Te ve.
-
-Te ve entero: las escamas negras con vetas rojas y azules, las garras, las alas plegadas que rozan el techo, la cola que barre la alfombra, los cuernos curvados entre el pelo blanco y azul, las pupilas de dragón. El gato en un hombro. Y en el otro, colgando como un chal, una viejita inconsciente con una bufanda roja larguísima.
-
-Makima no suelta el teléfono. No se mueve. Por un segundo, uno solo, los anillos amarillos de sus ojos se abren más de lo que nunca los viste abrirse.
-
-Después cuelga, despacio, sin decir adiós a quien estuviera del otro lado.
-
-—Señor Morelli. —La voz es igual de suave que siempre. Un poquito más baja—. Llegó temprano.
-
-Mira a Santa Claus. Mira tus alas. Mira tus ojos.
-
-Sonríe.
-
-—Y la trajo viva.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1723 · CHAINSAW MAN · DÍA 2 · 08:50    ║
-║ Tokio, otoño de 1997                         ║
-║ Seguridad Pública, oficina de Makima         ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.078 · 0 yenes                 ║
-║ Energía 97% · Ojos: bien                     ║
-║ Transformado: Dragón · Velo: persona común   ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Entregar a Santa Claus a Makima    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1724)
+## COMANDO 1 (T1724)
 
 me destransformo
 
-## RESPUESTA 2 (T1724)
+## RESPUESTA 1 (T1724)
 
 > me destransformo
 
@@ -121,11 +54,11 @@ Después vuelve a mirarte.
 
 ---
 
-## COMANDO 3 (T1725)
+## COMANDO 2 (T1725)
 
 no vi la verdad
 
-## RESPUESTA 3 (T1725)
+## RESPUESTA 2 (T1725)
 
 > no vi la verdad
 
@@ -170,4 +103,57 @@ Kase, en tu otro hombro, mira las correas del carrito y aplasta las orejas.
 
 ---
 
-ESTADO AL CIERRE: Día 2 08:53, oficina de Makima. Makima llamó a Kishibe: a la fábrica del Sumida con todos los médicos y la División 1; "no hace falta cortar a nadie; creo que ya no son muñecos; avísame cuántos se despiertan". Entraron cuatro agentes de negro (dos con máscaras blancas lisas): carrito con correas, cadenas y mordaza de hierro; caja de madera alargada con candado. Makima: "Con cuidado. Es una invitada." Uno le tiende los brazos a Facundo para recibir a Santa. Kase aplasta las orejas mirando las correas.
+## COMANDO 3 (T1726)
+
+se los doy
+
+## RESPUESTA 3 (T1726)
+
+> se los doy
+
+Le pasas a Santa Claus al agente de los guantes.
+
+La recibe con cuidado, como le dijeron, con los dos brazos, como quien recibe a un bebé dormido. La viejita no se despierta. La bufanda roja larguísima se le escurre del hombro y queda colgando hasta la alfombra.
+
+Los otros tres se mueven en silencio. La acuestan en el carrito de metal. Le pasan las correas de cuero por los tobillos, por las rodillas, por la cintura, por el pecho, y las ajustan con hebillas de hierro. Le ponen la mordaza, con mucho cuidado, sin lastimarle la boca. Uno de los de máscara abre la caja de madera alargada con una llave chiquita: adentro hay un cuchillo de hoja negra y un frasco con algo oscuro. La cierra de nuevo sin sacar nada. Le quitan la bufanda roja y la doblan en cuatro, prolija, y la ponen encima de la caja.
+
+Kase sigue el procedimiento entero sin parpadear, con las orejas aplastadas.
+
+El carrito sale por la puerta, empujado por dos, con los otros dos detrás. Las ruedas chirrían por el pasillo hasta que dejan de oírse.
+
+La oficina queda en silencio. Los tres perros vuelven a apoyar la cabeza en la alfombra.
+
+Makima te mira. Mira la camisa rota en la espalda, el desgarro largo por donde salieron las alas.
+
+—Le debo una camisa, señor Morelli. —Lo dice con una sonrisa chica—. Además de todo lo demás.
+
+Rodea el escritorio y se sienta en su silla, despacio, con la espalda derecha y las manos juntas sobre la madera.
+
+—Santa Claus era la peor. Pero no era la única. —La voz baja, suave—. Usted mismo me lo dijo: hay otros. Y siguen buscando a Denji. Así que esto no terminó.
+
+Mira por la ventana, hacia Tokio, un momento. Después vuelve a ti.
+
+—Le voy a pedir algo que no es trabajo. —Inclina la cabeza—. Aki tiene un departamento. Denji y Power viven con él. Es chico, hay una habitación que no usa nadie, llena de cajas. —Una pausa—. Me gustaría que se quede ahí. Con ellos. Hasta que esto termine, como usted dijo.
+
+Lo dice como si te ofreciera una taza de té.
+
+—Usted no quiere dinero. No quiere nada. —Sonríe—. Pero me parece que no tiene dónde dormir en esta ciudad. Y a Denji le hizo bien. Aki me lo dijo esta mañana: que anoche se durmió sonriendo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1726 · CHAINSAW MAN · DÍA 2 · 08:56    ║
+║ Tokio, otoño de 1997                         ║
+║ Seguridad Pública, oficina de Makima         ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.078 · 0 yenes                 ║
+║ Energía 97% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 2 08:56, oficina de Makima. Santa Claus entregada: atada al carrito (correas, mordaza), caja con cuchillo negro y frasco; bufanda roja doblada encima; se la llevaron. Makima: "Le debo una camisa." "Santa Claus era la peor. Pero no era la única. Esto no terminó." PROPUESTA: quedarse en el departamento de Aki (con Denji y Power), en la habitación de las cajas, hasta que esto termine. "No tiene dónde dormir en esta ciudad. Y a Denji le hizo bien." (Aki se lo dijo esta mañana).

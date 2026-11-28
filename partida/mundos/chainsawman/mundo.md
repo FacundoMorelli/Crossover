@@ -15,3 +15,4 @@ VELO: Facundo no huele a demonio ni a nada raro para ningún demonio, fiend ni h
 - T1720 · Mano del Demonio del Infierno emerge en la fábrica del Sumida, rompe el techo del sótano (vigas levantadas).
 - T1722 · GRAN CAMBIO: el Eclipse de Facundo tragó el brazo del Demonio del Infierno que cruzó a la Tierra; el pacto de Santa con el Infierno quedó roto. Canon: Santa llevaba a todos al Infierno, la Oscuridad les arrancaba los brazos, Santa pactaba con la Oscuridad, Makima bajaba, Tolka se sacrificaba. NADA DE ESO PASA. Techo del sótano de la fábrica abierto (vigas levantadas).
 - T1723 · Santa Claus capturada viva y entregada a Makima (canon: Denji la mata con fuego). Todos sus muñecos se desploman; las personas de la fábrica empiezan a reaccionar (tos, llanto).
+- T1726 · Santa Claus prisionera de Makima (restricciones de grado especial).

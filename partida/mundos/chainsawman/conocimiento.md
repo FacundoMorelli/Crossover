@@ -57,3 +57,4 @@ Quién sabe qué de Facundo en este mundo.
 - T1722 · SANTA CLAUS VIO el Eclipse tragar el brazo del Demonio del Infierno. El DEMONIO DEL INFIERNO "conoce" a Facundo (sintió el Eclipse).
 - T1723 · MAKIMA VIO a Facundo TRANSFORMADO EN DRAGÓN y aparecer de la nada en su oficina (Teletransportación). Sabe que la encontró sin saber dónde estaba.
 - T1724 · MAKIMA vio la destransformación y los tatuajes de dragones; deduce que Facundo tiene el corazón de un demonio Dragón (híbrido).
+- T1726 · MAKIMA sabe (por Aki, llamada de esta mañana) que Denji se durmió sonriendo gracias a Facundo. Deduce que Facundo no tiene dónde dormir en Tokio.
