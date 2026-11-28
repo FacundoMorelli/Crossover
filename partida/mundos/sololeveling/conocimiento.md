@@ -9,3 +9,4 @@
 ## QUIÉN SABE QUE VIENE DE OTRO LADO
 (nadie)
 - T1764 · CHA HAE-IN lo mira desde las vallas: no le siente ningún olor de maná (Velo).
+- T1765 · CHA HAE-IN vio a Facundo (aspecto, gato) y nota que no huele a nada. La MULTITUD lo vio hablar con ella (filman).

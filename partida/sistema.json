@@ -1,8 +1,8 @@
 {
-  "turno": 1764,
+  "turno": 1765,
   "mundo_actual": "sololeveling",
   "fecha_local": "Solo Leveling: Día 1 (arco de la Reevaluación / Puerta del Gremio de Cazadores)",
-  "hora": "21:40 (Seúl)",
+  "hora": "21:42 (Seúl)",
   "edad": 18,
   "nivel": 34,
   "exp": 486130,
@@ -2704,7 +2704,7 @@
           "precio": 6
         },
         {
-          "item": "Pocion de maná (recupera 30% de energía)",
+          "item": "Poción de maná (recupera 30% de energía)",
           "precio": 8
         },
         {
