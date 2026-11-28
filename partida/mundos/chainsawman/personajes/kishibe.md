@@ -22,3 +22,4 @@ ENCUENTROS:
 - T1733 · "¿Así nomás?" Abre la reja con una llave oxidada y le quita las esposas a Quanxi y a las cuatro fiends. Cosmo le toca la nariz ("¡Halloween!"); él la deja.
 - T1734 · Quanxi cuenta que hace veinte años él decía que le gustaba ayudar. Toma un trago largo; no dice nada.
 - T1735 · Deja la petaca a medio camino al oír la propuesta de Facundo.
+- T1736 · Les presta a Quanxi y sus fiends un departamento en Nerima (de un compañero muerto; llave de bronce): "No es un favor. Es para que no anden por la calle asustando a la gente de Makima." Les lleva comida. Le cuenta a Aki lo de las celdas. Día 6: llama a Facundo: "Tus chicas están bien. La de la cara cosida me hizo un dibujo. La de las orejas pregunta todos los días por el mar." Pasa el mensaje textual de Quanxi.

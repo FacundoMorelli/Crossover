@@ -30,3 +30,4 @@ ENCUENTROS:
 - T1728 · (sim) Sigue a Facundo por el departamento: si en los lugares donde estuvo hay pan con mermelada, chicas lindas, si tuvo novia, si se puede tener una vida normal y ser Chainsaw Man. Sube el volumen del noticiero de los desaparecidos.
 - T1729 · (sim) Se come medio frasco de mermelada de frutilla; le enseña a Facundo un juego de cartas inventado con reglas que cambian cuando pierde. Atiende a Kishibe: "Es para ti. El viejo de la petaca. Dice que es urgente."
 - T1730 · VIO a Facundo desaparecer del living con el teléfono en la mano.
+- T1736 · (sim) Cuenta a gritos que Facundo desapareció del living. Dice que los ataques bajaron "por él".

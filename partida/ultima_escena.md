@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1733)
-
-si, voy a ser yo
-
-## RESPUESTA 1 (T1733)
-
-> si, voy a ser yo
-
-> —Sí. Voy a ser yo.
-
-Makima te sostiene la mirada un segundo más. Después sonríe. Una sonrisa chica, cerrada, satisfecha, como quien termina de escribir algo en la última página de un cuaderno.
-
-—Bien.
-
-Se da vuelta hacia el fondo del pasillo, sin levantar la voz.
-
-—Kishibe.
-
-La silueta de la petaca se despega de la pared y viene caminando por el pasillo mojado, despacio, encorvado, con las manos en los bolsillos. Se detiene al lado de ustedes. No te mira. Mira a Quanxi, del otro lado de los barrotes. Quanxi lo mira a él.
-
-—Ábreles —dice Makima—. Sácales las esposas. A ella y a las cuatro.
-
-Kishibe no se mueve enseguida.
-
-—¿Así nomás?
-
-—Así nomás. —Makima se acomoda la trenza sobre el hombro—. Ahora son responsabilidad del señor Morelli. Lo que hagan, lo hace él. Si una de ellas le toca un pelo a Denji, o a cualquiera de mis agentes, o a cualquier persona de esta ciudad —te mira, sin dejar de sonreír—, no voy a ir a buscarla a ella.
-
-Lo dice con la misma suavidad de siempre. Como si te pasara la sal.
-
-Kishibe saca un llavero del bolsillo del saco. Abre la reja con una llave larga, oxidada, que chirría. Entra. Se agacha frente a Quanxi y le abre las esposas, sin apuro. Después a las cuatro fiends, una por una. Cosmo le da las gracias con un "¡Halloween!" y le toca la nariz con un dedo. Kishibe la deja.
-
-Quanxi se pone de pie. Se frota las muñecas. Mira la reja abierta. Mira a Kishibe, que se aparta de la puerta. Mira a Makima, un segundo, con el ojo único, frío como una flecha.
-
-Y te mira a ti.
-
-Camina hasta los barrotes abiertos. Las cuatro fiends la siguen, pegadas a ella, como patitos. Se detiene en el umbral de la celda, a dos pasos de ti. Es más baja de lo que parecía sentada. Te mira desde abajo, con la cara seria, sin agradecimiento y sin miedo.
-
-—No te conozco —dice, en ese japonés ronco, con acento—. No te debo nada. Vine a tu país a matar a un chico.
-
-Una pausa.
-
-—¿Por qué?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1733 · CHAINSAW MAN · DÍA 4 · 21:45    ║
-║ Tokio, otoño de 1997                         ║
-║ Central de Seguridad Pública, celdas         ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.078 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el departamento, con Power          ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Responder por Quanxi y sus fiends  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1734)
+## COMANDO 1 (T1734)
 
 porque me gusta ayudar, nada más
 
-## RESPUESTA 2 (T1734)
+## RESPUESTA 1 (T1734)
 
 > porque me gusta ayudar, nada más
 
@@ -119,11 +58,11 @@ Quanxi no se relaja. Pero algo, en los hombros, baja un centímetro.
 
 ---
 
-## COMANDO 3 (T1735)
+## COMANDO 2 (T1735)
 
 les gustaría ir a otro país a empezar de nuevo?
 
-## RESPUESTA 3 (T1735)
+## RESPUESTA 2 (T1735)
 
 > les gustaría ir a otro país a empezar de nuevo?
 
@@ -184,4 +123,61 @@ Quanxi suspira. Se pasa una mano por el pelo blanco, corto, despeinado. Te vuelv
 
 ---
 
-ESTADO AL CIERRE: Día 4 21:49, celdas. Facundo propone ir a otro país a empezar de nuevo. Quanxi: a China no pueden volver (fallaron); en Japón Makima; en cualquier frontera matan a las fiends ("no tienen cara de personas"). Tsugihagi (costuras, "doce partes"). LONG (orejas de zorro, pelo negro lacio): "¿Un lugar con mar? Donde no haya cazadores. Ni demonios. Ni gente que mire raro." Cosmo: "¡Halloween!" Quanxi: "Suponiendo que sí. ¿Adónde? ¿Y cómo, viajero? Explícame cómo."
+## COMANDO 3 (T1736)
+
+simula un par de dias
+
+## RESPUESTA 3 (T1736)
+
+> simula un par de días
+
+Quanxi se queda esperando una respuesta que no llega esa noche.
+
+Es Kishibe el que rompe el silencio. Se despega de los barrotes, se guarda la petaca y saca del bolsillo del saco otro llavero, uno viejo, con una sola llave de bronce.
+
+—Hasta que el viajero decida adónde las manda —dice, sin mirar a nadie—, tengo un departamento en Nerima. Era de un compañero. Nadie va desde hace años. Tiene agua, luz y una puerta que cierra. —Le tira la llave a Quanxi, que la ataja en el aire sin mirarla—. No es un favor. Es para que no anden por la calle asustando a la gente de Makima.
+
+Quanxi lo mira un rato largo. Después se guarda la llave.
+
+Día 4, medianoche. Las acompañas hasta Nerima en un taxi que maneja un viejo que no hace preguntas, con Long y Cosmo apretadas atrás contigo y Tsugihagi y la de los cuernitos en el baúl abierto, cubiertas con una manta, porque no entran. El departamento es chico, en un segundo piso, con olor a encierro, fotos de alguien que ya no está boca abajo sobre un estante y un futón por persona en un placard. Quanxi revisa todas las ventanas antes de sacarse los zapatos.
+
+Después vuelves al departamento de Aki. Kase te está esperando sentado en la puerta, de espaldas a Power, que duerme en el tatami con un brazo estirado hacia donde estaba él.
+
+Día 5. Aki no pregunta dónde estuviste. Denji sí, en el desayuno, con la boca llena de tostadas: les cuenta a todos, a gritos, que anoche desapareciste en el medio del living con el teléfono en la mano. Power dice que ella lo vio también y que fue mucho más impresionante de lo que dice Denji. Aki les dice que coman.
+
+A la tarde, Aki se sienta a tu lado en el balcón, por primera vez desde que llegaste. Fuma. Mira los techos. Dice, sin mirarte, que Kishibe le contó lo de las celdas. Que nunca vio a nadie hacer que Makima bajara la mano. Y no dice nada más.
+
+Día 5, a la noche. En el noticiero, un periodista dice que en la última semana los ataques de demonios en Tokio bajaron a la mitad, y que nadie en Seguridad Pública sabe explicar por qué. Denji dice que es por él. Power dice que es por ella.
+
+Día 6. Kase pasa la mañana entera durmiendo con Miau en el balcón, al sol. A la tarde, Power intenta bañarlo. Power pierde.
+
+Día 6, a la noche, suena el teléfono del departamento. Es Kishibe.
+
+—Tus chicas están bien —dice, sin saludar—. Fui a llevarles comida. La de la cara cosida me hizo un dibujo. La de las orejas pregunta todos los días por el mar. —Una pausa—. Y Quanxi me pidió que te diga una cosa. Textual.
+
+Se le oye respirar.
+
+—"Dos días. No tengo más paciencia que esta. Si el viajero tiene un plan, que venga a decírmelo a la cara. Si no tiene, nos vamos solas."
+
+Clic.
+
+En la cocina, Aki deja de lavar un plato y te mira por encima del hombro.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1736 · CHAINSAW MAN · DÍA 6 · 21:10    ║
+║ Tokio, otoño de 1997                         ║
+║ Departamento de Aki, living                  ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.078 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el balcón, con Miau                 ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Un plan para Quanxi y sus fiends   ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 6 21:10, living del departamento de Aki. Quanxi y sus 4 fiends viven en un departamento de Nerima (de un ex compañero de Kishibe; llave de bronce). Facundo las llevó en taxi el Día 4 y volvió a lo de Aki. Día 5: Aki, en el balcón: "nunca vi a nadie hacer que Makima bajara la mano". Noticiero: ataques de demonios bajaron a la mitad. Día 6: Power intentó bañar a Kase y perdió. Kishibe llamó: las chicas bien; Tsugihagi le hizo un dibujo; Long pregunta por el mar. Mensaje textual de Quanxi: "Dos días. No tengo más paciencia que esta. Si el viajero tiene un plan, que venga a decírmelo a la cara. Si no tiene, nos vamos solas." Aki mira a Facundo desde la cocina.

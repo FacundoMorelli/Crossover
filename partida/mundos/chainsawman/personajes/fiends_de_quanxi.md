@@ -15,3 +15,4 @@ ESTADO: presas. CANON: Makima mata a Quanxi y a dos de ellas.
 - T1733 · Liberadas; siguen a Quanxi "como patitos". Cosmo le toca la nariz a Kishibe. ESTADO: libres, bajo responsabilidad de Facundo.
 - T1734 · Al irse Makima sueltan el aire; la de las costuras se sienta en el piso; Cosmo da vueltas cantando "Halloween".
 - T1735 · Nombres confirmados en escena: TSUGIHAGI (la de las costuras: "Yo tengo cara de persona." "Doce [partes]."), LONG (pelo negro lacio, orejas puntiagudas de zorro, acento fuerte: "¿Un lugar con mar? Donde nadie... donde no haya cazadores. Ni demonios. Ni gente que mire raro."), COSMO (gorrito, ojos en espiral: "¡Halloween!"). La alta con cuernitos (¿Pingtsi?) mira a Quanxi. Todas se ilusionan con la idea.
+- T1736 · (sim) En Nerima. Tsugihagi le hace un dibujo a Kishibe. Long pregunta todos los días por el mar. Viajaron en taxi (Tsugihagi y la de los cuernitos en el baúl bajo una manta).
