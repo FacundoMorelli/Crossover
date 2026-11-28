@@ -15,3 +15,4 @@ ESTADO: presa.
 - T1880 · "Sí. Lo hiciste." (a Sanji, encantada)
 - T1881 · Come como Luffy en la rodilla de su padre; aprende a llamar a Sanji para verlo ondular. Abre el diario: "Tres mil doscientos millones... Nunca vi un cartel con tantos ceros."
 - T1882 · "¡'¿Tanto me van a poner?'! ¡Tres mil millones, y pregunta si es mucho!" (carcajada). Deja de reír al oír de Akainu.
+- T1884 · Se come medio pastel y se duerme en la rodilla de su padre con la cara llena de crema, roncando bajito.

@@ -3,80 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1881)
-
-si, me quedo a comer, simula la fiesta
-
-## RESPUESTA 1 (T1881)
-
-> si, me quedo a comer, simula la fiesta
-
-> —Sí. Me quedo a comer.
-
-Sanji sonríe con el cigarro entre los dientes, se da vuelta y entra al castillo a paso rápido, arremangado, gritándoles a las okamas que se aparten de su camino o las cocina a ellas.
-
-...
-
-La fiesta empieza al mediodía y no termina.
-
-Ponen mesas en el patio de baldosas rosas, largas, con manteles de encaje, una al lado de la otra, hasta llenarlo entero. Sanji sale de la cocina cada diez minutos con bandejas que no le caben en los brazos: carne asada con salsas de colores que no existen, pescados enteros rellenos de frutas, sopas en ollas del tamaño de un barril, panes que todavía humean, postres de crema en forma de corazón. Cada plato es una de las recetas del rey de Kamabakka. Cada vez que deja uno en la mesa, se queda mirando cómo lo comen, con los brazos cruzados y la cara seria, hasta que alguien dice que está bueno.
-
-Bonney come como no comió en meses. Come como Luffy. Se mete pedazos de carne enteros en la boca, con las dos manos, sentada en la rodilla de su padre, y le grita a Sanji que traiga más. Sanji, cada vez que ella le grita, se pone a ondular como un fideo, y cada vez que mira hacia arriba y ve la cara de Kuma, se endereza de golpe y vuelve a la cocina sin decir nada. Para la tercera hora, Bonney ya aprendió el truco, y lo llama solo para verlo hacerlo.
-
-A Kuma le traen ropa nueva: una camisa blanca enorme que las okamas cosieron uniendo cuatro manteles, y unos pantalones que tardaron dos horas en terminar. Se la pone despacio, con cuidado. Come poco. Mira mucho. Sobre todo a su hija. Cada tanto se toca el cuello, donde estaba el collar, como para comprobar que no está.
-
-Ivankov baila. Encima de las mesas, en la escalera, en el medio del patio. Canta. Llora. Vuelve a bailar. Les cambia el sexo a dos okamas que lo piden para la fiesta, con un dedo, y después se los vuelve a cambiar cuando se aburren. Le sirve vino a Dragon cada cinco minutos aunque Dragon no toma.
-
-Dragon y Kuma se van a un costado, al borde del patio, junto a los setos rosas, y hablan mucho rato. No los escuchas. Pero ves a Dragon reírse, una vez, bajito, con la cabeza gacha. Y ves a Kuma apoyarle la mano enorme en el hombro.
-
-A Kase le sirven en un plato de porcelana con borde dorado. Sanji le prepara personalmente un pescado sin espinas, cocido a la manteca, con hierbas. Kase lo huele. Lo come entero. Después mira a Sanji. Y por primera vez desde que lo conoce, se le acerca, le roza los tobillos con la cola, y se va. Sanji se queda quieto, con la bandeja vacía en la mano, mirando al gato irse, conmovido como si una dama le hubiera dado un beso.
-
-Cuando el sol empieza a bajar, el cielo de Momoiro se pone más rosa que nunca.
-
-Y entonces, desde el mar, llega volando un pájaro.
-
-Una gaviota grande, con una gorra y un bolso cruzado: un News Coo. Aterriza en el borde de la mesa principal, entre los platos de postre, y deja caer el diario del día. Ivankov le tira una moneda. El pájaro se va.
-
-El diario queda ahí, doblado, sobre el mantel de encaje. Bonney lo agarra con la mano llena de crema, lo despliega, y se queda quieta.
-
-En la primera plana, con letras negras enormes:
-
-"¡ATAQUE A MARY GEOISE! 'OJOS DE ECLIPSE' SECUESTRA AL EX SHICHIBUKAI KUMA DELANTE DE UN DRAGÓN CELESTIAL"
-
-Debajo, un dibujo hecho a mano, apurado, de un testigo: un hombre alto, de pelo de dos colores, con un gato en el hombro, al lado de un rubio de sombrero de copa. Y un carruaje dorado vacío, con las cadenas cortadas.
-
-Y debajo de todo, un recuadro con un cartel de recompensa nuevo, con tu cara:
-
-'OJOS DE ECLIPSE' FACUNDO — 3.200.000.000 BERRIES.
-
-"El Gobierno Mundial lo declara amenaza de primer orden. Se ordena la movilización del Almirante de Flota."
-
-Bonney levanta la vista del diario. Te mira por encima, con la boca llena de crema y los ojos violetas muy abiertos.
-
-Todo el patio se queda en silencio. Las okamas. Ivankov, con una copa en la mano. Sanji, con una bandeja. Kuma, al borde de los setos. Dragon, a su lado, ya mirándote.
-
-—Tres mil doscientos millones —dice Bonney, despacio—. Nunca... —Se le corta la voz—. Nunca vi un cartel con tantos ceros.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1881 · ONE PIECE · DÍA ~227 · 18:40    ║
-║ Isla Momoiro · Reino Kamabakka               ║
-║ Patio de la fiesta, mesa principal           ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la mesa, lamiéndose la manteca      ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Recompensa: 3.200.000.000 berries  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1882)
+## COMANDO 1 (T1882)
 
 eh, mierda, tanto me van a poner?
 
-## RESPUESTA 2 (T1882)
+## RESPUESTA 1 (T1882)
 
 > eh, mierda, tanto me van a poner?
 
@@ -131,11 +62,11 @@ Mira hacia el norte, hacia el mar, hacia donde queda Baltigo, y no dice el nombr
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1883)
+## COMANDO 2 (T1883)
 
 que puedo hacer?
 
-## RESPUESTA 3 (T1883)
+## RESPUESTA 2 (T1883)
 
 > que puedo hacer?
 
@@ -184,6 +115,65 @@ Se cruza de brazos.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1884)
+
+esta bien, cuando terminemos y te lleve a báltigo de nuevo hablo con ella
+
+## RESPUESTA 3 (T1884)
+
+> esta bien, cuando terminemos y te lleve a báltigo de nuevo hablo con ella
+
+> —Está bien. Cuando terminemos y te lleve a Baltigo de nuevo, hablo con ella.
+
+Dragon asiente una vez. Se descruza de brazos.
+
+—Bien.
+
+Y vuelve a los setos, a su lugar junto a Kuma, como si la conversación no hubiera pasado. Ivankov, que escuchó todo desde la escalera con la copa en la mano, aplaude dos veces, fuerte.
+
+—¡¡Basta de caras largas!! ¡¡Que el Almirante de Flota se vaya a quemar islas a otro lado esta noche!! ¡¡Música!! ¡¡Hee-haw!!
+
+Alguien empieza a tocar un tambor. Otra, un acordeón. Las okamas vuelven a bailar.
+
+...
+
+La fiesta sigue hasta que la luna sale sobre el mar.
+
+Sanji saca los postres: torres de crema con frutas que brillan, helados de colores servidos en caparazones de caracola, un pastel de seis pisos en forma de corazón que las okamas aplauden de pie. Bonney se come medio pastel ella sola y después se queda dormida sobre la rodilla de su padre, con la cara llena de crema, roncando bajito. Kuma no se mueve en toda la noche para no despertarla.
+
+Ivankov intenta enseñarle a Dragon a bailar. Dragon lo mira. Ivankov desiste.
+
+Sanji, ya sin bandejas, se sienta a tu lado en la mesa con un cigarro y una copa, mirando cómo las okamas bailan. No dice nada un buen rato. Después, sin mirarte, te cuenta en voz baja que aprendió setenta y tres de las noventa y nueve recetas, y que le faltan veintiséis, y que cuando las tenga todas va a poder alimentar a Luffy en cualquier isla del mundo con lo que encuentre. Que eso es lo único que importa. Que el día que se junten en Sabaody, el primer plato va a ser para él.
+
+Kase se duerme sobre la mesa, entre los platos vacíos, encima de una servilleta de encaje.
+
+Cerca de las once de la noche, Dragon se levanta. Se acomoda la capa verde. Te mira desde los setos y asiente. Es hora.
+
+Kuma lo ve levantarse. Con mucho cuidado, para no despertar a Bonney, la acomoda sobre un almohadón enorme que le trae una okama, la tapa con una manta, y se pone de pie despacio, haciendo crujir las baldosas.
+
+Camina hasta ti. Se agacha, como antes, hasta quedar a tu altura. La luna le ilumina la cara enorme, la marca clara en el cuello.
+
+—En Thriller Bark —dice, con la voz grave, muy baja— te pregunté a dónde te gustaría ir de vacaciones. Nunca me contestaste.
+
+Te mira a los ojos.
+
+—Cuando quieras ir a algún lado —dice—. A cualquier lugar de este mar. Lejos de todo. Donde nadie te busque. —Levanta la mano derecha, la de la almohadilla, despacio, y la deja abierta delante de ti, sin tocarte—. Pídemelo. Ahora sé por qué lo haría.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1884 · ONE PIECE · DÍA ~227 · 23:02    ║
+║ Isla Momoiro · Reino Kamabakka               ║
+║ Patio de la fiesta, bajo la luna             ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: dormido en la mesa, en una servilleta  ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Llevar a Dragon a Baltigo · Robin  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 18:47, patio de Momoiro. "¿Qué puedo hacer?" Dragon: dos caminos: esconder o hacer que tocarlo cueste más de lo que vale; esconder no sirve. Kuma recuerda dónde mandó a cada Sombrero de Paja: Sanji aquí; Zoro en Kuraigana con Mihawk; Nami en Weatheria; Usopp en Boin; Chopper en Torino; Franky en Karakuri; Brook en Namakura; Luffy con Rayleigh en Rusukaina. Robin en Baltigo (el CP tiene paciencia). Dragon: el Bankai sigue protegiendo la flota de Barbablanca ("si eso se puede hacer una vez, sobre una flota..."). "Hay una mujer en Baltigo que contó noventa y siete días en una pared. Antes de decidir nada, deberías ir a contarle lo que viene. Ella sabe más de Akainu que nadie en esta mesa. Él quemó Ohara."
+ESTADO AL CIERRE: Día ~227 23:02, patio de Momoiro bajo la luna. "Cuando terminemos y te lleve a Baltigo de nuevo, hablo con ella." Dragon: "Bien." Fiesta hasta la luna: postres de Sanji (pastel de seis pisos en forma de corazón); Bonney dormida en la rodilla de Kuma; Ivankov no logra hacer bailar a Dragon; Sanji le cuenta en voz baja: aprendió 73 de las 99 recetas, el primer plato en Sabaody será para Luffy. Kase dormido en una servilleta. 23:00: Dragon se levanta, listo. Kuma acuesta a Bonney en un almohadón, se agacha ante Facundo: "En Thriller Bark te pregunté a dónde te gustaría ir de vacaciones. Nunca me contestaste. Cuando quieras ir a algún lado... Lejos de todo. Donde nadie te busque. Pídemelo. Ahora sé por qué lo haría." (mano abierta delante, sin tocarlo)
