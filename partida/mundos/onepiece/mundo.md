@@ -33,3 +33,4 @@ DON DE MUNDO: Shio Shio no Mi (ver sistema.json).
 - T1869 · Día ~227 · Facundo y Sabo se llevan a Kuma de Mary Geoise delante de un Dragón Celestial (en el canon Kuma sigue esclavo hasta el Reverie).
 - T1870 · Día ~227 · Facundo le devuelve el alma, la memoria y la voluntad a Kuma con la Transfiguración Ociosa y le saca el rastreador de Vegapunk (en el canon Kuma no recupera la conciencia hasta mucho después, con Bonney). El collar explosivo de esclavo sigue activo.
 - T1871 · Collar explosivo de esclavo de Kuma destruido con el Hakai (sin explosión). Kuma, libre en Momoiro.
+- T1873 · Día ~227 · Facundo saca a Jewelry Bonney de un buque prisión de la Marina (rumbo a Mary Geoise) y la reúne con Kuma, consciente, en Momoiro.

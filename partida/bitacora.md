@@ -1872,3 +1872,4 @@ T1869 · ONE PIECE · Mary Geoise → Momoiro · Se lleva a Kuma del carruaje de
 T1870 · ONE PIECE · Momoiro · Transfiguración Ociosa: Kuma recupera su alma y su memoria; rastreador fuera. "¿Dónde está Bonney?" ¡El collar explosivo va a explotar!
 T1871 · ONE PIECE · Momoiro · Hakai en el collar explosivo: polvo. Kuma, libre: "Me buscaste." "¿Sabes dónde está mi hija?"
 T1872 · ONE PIECE · Momoiro · Busca a Bonney con ki: presa en un buque prisión de la Marina rumbo a Mary Geoise.
+T1873 · ONE PIECE · Buque prisión → Momoiro · Saca a Bonney de su celda. Reencuentro con Kuma. Bonney: "¿Quién demonios eres tú?"

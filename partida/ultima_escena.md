@@ -3,82 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1870)
-
-uso la técnica de mahito para recuperar a kuma y sacarle el rastreador
-
-## RESPUESTA 1 (T1870)
-
-> uso la técnica de mahito para recuperar a kuma y sacarle el rastreador
-
-La burbuja del Ursus Shock crece en la palma de Kuma. El aire del patio se curva a su alrededor, como el calor sobre el asfalto. Las baldosas rosas debajo de sus pies empiezan a rajarse.
-
-Te mueves.
-
-Un paso, y ya estás al lado de Kuma, junto a su pierna enorme. Saltas. Le pones la mano abierta en el pecho, sobre la ropa rota, sobre el lugar donde los informes de Dragon decían que ya no quedaba nada.
-
-La Transfiguración Ociosa entra.
-
-Y adentro sientes su alma.
-
-No está vacía. Eso es lo primero que entiendes. Vegapunk no la borró: la apretó. La dobló sobre sí misma, una y otra vez, hasta dejarla chiquita, aplastada en un rincón, como una carta arrugada y metida en el fondo de un cajón cerrado con llave. Alrededor, el metal y los cables y las órdenes de la máquina la tapan, la rodean, le crecen encima como una enredadera.
-
-Pero ahí está. Todavía caliente.
-
-La despliegas. Despacio. Con cuidado. Como Robin desplegó la capa de la Legión sobre la mesa. Doblez por doblez. Y a medida que se abre, salen cosas: un pueblo de montaña, nevado, en el reino de Sorbet; una iglesia chiquita; una Biblia gastada; una mujer de pelo largo que se ríe; una nena de pelo rosa, en brazos, que agarra un dedo enorme con su mano diminuta; un nombre. Bonney.
-
-Las órdenes de la máquina se apartan, una por una, como cortinas.
-
-Y después, con la otra parte de la técnica, la que moldea el cuerpo, buscas el resto. Lo encuentras rápido: un objeto chico, metálico, frío, del tamaño de una nuez, enterrado entre las costillas de metal del lado izquierdo, pegado al corazón, que late con una luz propia y manda señales hacia afuera, constantes, como un faro. El rastreador. Le das forma a la carne y al metal alrededor, y lo empujas. Lo sacas. Sale por la piel del costado como una espina que el cuerpo expulsa, sin sangre, y cae a las baldosas rosas con un ruidito seco.
-
-Lo aplastas con el pie. Se apaga.
-
-Bajas la mano del pecho de Kuma y caes al piso, de pie.
-
-La burbuja del Ursus Shock, en la palma levantada, tiembla. Se encoge. Se deshace en el aire, como una pompa de jabón, con un soplido tibio que le levanta la falda a media docena de okamas.
-
-Kuma se queda quieto. Con la mano todavía en el aire.
-
-Parpadea.
-
-Por primera vez en meses, parpadea. Una vez. Dos. Los ojos se le humedecen. Le vuelve algo, poco a poco, como la luz a una ventana cuando sale el sol. Baja la mano despacio. Se mira la palma. Se mira las cadenas cortadas que le cuelgan de los hombros. Se mira la ropa rota, los pies descalzos, el patio rosa, las okamas, el castillo con forma de corazón.
-
-Baja la vista hacia el chico de sombrero de copa que tiene delante, con los brazos todavía abiertos, temblando.
-
-—...Sabo —dice. La voz grave, ronca, oxidada, como una puerta que no se abrió en mucho tiempo.
-
-Sabo baja los brazos. Se le doblan las rodillas. Se le llenan los ojos.
-
-Kuma levanta la cabeza. Mira alrededor, buscando algo, alguien, con una desesperación que le cambia la cara entera.
-
-—Bonney —dice—. ¿Dónde está Bonney?
-
-Y en ese momento, el collar de hierro negro que todavía tiene en el cuello, el de los esclavos de Mary Geoise, deja de pitar despacio. La luz roja se queda fija. Y empieza a sonar un pitido continuo, agudo, que no para.
-
-Ivankov, en la escalera, abre los ojos de par en par.
-
-—¡¡EL COLLAR!! —grita—. ¡¡Es un collar explosivo de los Dragones Celestiales!! ¡¡Si el esclavo se aleja de Mary Geoise, explota!! ¡¡Vanaata, va a volar media isla!!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1870 · ONE PIECE · DÍA ~227 · 08:10    ║
-║ Isla Momoiro · Reino Kamabakka               ║
-║ Patio frente al castillo de Ivankov          ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 97% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirando el collar        ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: ¡El collar de Kuma va a explotar!  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1871)
+## COMANDO 1 (T1871)
 
 uso hakai en el collar
 
-## RESPUESTA 2 (T1871)
+## RESPUESTA 1 (T1871)
 
 > uso hakai en el collar
 
@@ -143,11 +72,11 @@ Te agarra con dos dedos enormes del borde del sobretodo, suave.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1872)
+## COMANDO 2 (T1872)
 
 uso el ki para buscar a bonney
 
-## RESPUESTA 3 (T1872)
+## RESPUESTA 2 (T1872)
 
 > uso el ki para buscar a bonney
 
@@ -194,6 +123,97 @@ Kase, en tu hombro, mira hacia el este. Hacia donde miraste tú.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1873)
+
+ya vengo, me teletransporto a bonney, la toco y me teletransporto con kuma de nuevo
+
+## RESPUESTA 3 (T1873)
+
+> ya vengo, me teletransporto a bonney, la toco y me teletransporto con kuma de nuevo
+
+> —Ya vengo.
+
+Kuma abre la boca. No llega a decir nada.
+
+El patio rosa desaparece.
+
+...
+
+Oscuridad. Olor a óxido, a agua salada estancada, a hierro mojado y a encierro. El balanceo lento de un barco enorme. El crujido del casco. Una lámpara amarilla en el pasillo, del otro lado de unos barrotes gruesos.
+
+Estás en una celda. Chica. De metal. Con una sola rejilla de ventilación en el techo.
+
+Y delante, a un metro, de espaldas a ti, una chica de pelo rosa largo, revuelto, sucio, con la ropa rota y los pies descalzos, está tomando carrera contra la puerta de barrotes, con el hombro adelante. Las muñecas y los tobillos atados con grilletes de una piedra gris azulada, pesada, que le tironean hacia abajo con cada movimiento.
+
+Golpea la puerta con el hombro. El metal suena. No cede. Ella gruñe, retrocede para volver a tomar carrera, y se da vuelta.
+
+Te ve.
+
+Se queda congelada. Los ojos violetas, enormes, furiosos, se le abren de par en par. Te mira el pelo blanco y azul. Los ojos. El gato.
+
+—¿Qué demonios...? —empieza.
+
+No le das tiempo.
+
+Le pones la mano en el hombro, el que tiene lastimado de golpear la puerta.
+
+La celda desaparece.
+
+...
+
+Rosa. Sol. Viento tibio. El patio de baldosas de Momoiro.
+
+Aparecen en el mismo lugar del que te fuiste, hace cinco segundos.
+
+Bonney se tambalea con los grilletes de kairoseki, desorientada por la luz, entrecerrando los ojos, buscando con qué pegarte. Abre la boca para gritar.
+
+Y ve a Kuma.
+
+De rodillas, sobre las baldosas rosas, a tres metros. Enorme. Con las cadenas cortadas colgándole de los hombros, la ropa rota, la marca clara en el cuello. Mirándola. Con los ojos vivos. Con la cara de su padre.
+
+Bonney se queda quieta.
+
+Se le cae la cara. Toda. La rabia, la furia, la brasa que no se apagaba: todo se le cae de golpe, como un vidrio que se rompe. Le tiembla la barbilla.
+
+—...¿Papá?
+
+Kuma no contesta. No puede. Extiende los dos brazos enormes hacia adelante, despacio, temblando.
+
+Bonney corre. Con los grilletes de piedra en los tobillos, tropezando, cayéndose, levantándose, sin dejar de correr. Choca contra su pecho. Kuma la envuelve con los dos brazos, entera, como si fuera otra vez la nena de pelo rosa que le agarraba un dedo, y se dobla sobre ella, y llora.
+
+Bonney llora más fuerte. A los gritos. Con la cara hundida en la ropa rota de su padre, golpeándole el pecho con los puños esposados, sin fuerza.
+
+—¡Idiota! ¡Idiota! ¡Te busqué por todo el mar, idiota! ¡Me dijeron que eras una máquina! ¡Que ya no...! ¡Que ya no te acordabas de...!
+
+—Me acuerdo —dice Kuma, con la voz rota, contra su pelo—. Me acuerdo de todo, Bonney. De todo.
+
+Alrededor, las okamas lloran. Todas. A los gritos, con el maquillaje corriéndose. Ivankov, en la escalera, se tapa la cara con la capa. Sabo, sentado en el piso, se ríe y llora a la vez, mirando el cielo rosa.
+
+Kase baja de tu hombro, camina hasta Kuma y Bonney, y se sienta al lado, mirándolos, con la cola enroscada alrededor de las patas.
+
+Pasa un rato largo.
+
+Después Bonney levanta la cabeza del pecho de su padre. Tiene la cara roja, hinchada, llena de mocos y de lágrimas. Se pasa el brazo esposado por la nariz. Y te busca con la mirada.
+
+Te encuentra. Te mira de arriba abajo, con los ojos violetas entrecerrados, todavía temblando.
+
+—Tú —dice, con la voz ronca—. ¿Quién demonios eres tú?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1873 · ONE PIECE · DÍA ~227 · 08:13    ║
+║ Isla Momoiro · Reino Kamabakka               ║
+║ Patio frente al castillo de Ivankov          ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 94% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: sentado junto a Kuma y Bonney          ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Bonney: "¿Quién demonios eres tú?" ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 08:12, patio de Momoiro. Facundo buscó con ki + Haki de observación + Ojo del Eclipse el eco del alma de Kuma: sintió a Barbablanca sano con su flota y el Bankai, Ace, y otras presencias enormes. ENCONTRÓ A BONNEY: en el Nuevo Mundo, al este de la Red Line, presa en la bodega de un buque prisión de la Marina escoltado por dos acorazados, rumbo oeste hacia la Red Line (Mary Geoise); esposas de kairoseki en muñecas y tobillos; golpea la puerta de la celda sin parar. Kuma: "¿Dónde?" Sabo e Ivankov atentos. Kase mira al este.
+ESTADO AL CIERRE: Día ~227 08:13, patio de Momoiro. "Ya vengo." Teletransporte a la celda del buque prisión: Bonney (pelo rosa largo y sucio, ropa rota, descalza, grilletes de kairoseki en muñecas y tobillos, hombro lastimado de golpear la puerta) lo ve: "¿Qué demonios...?" Facundo la toca y vuelve a Momoiro (5 s). Bonney ve a Kuma: "...¿Papá?" Corre con los grilletes y lo abraza; Kuma llora: "Me acuerdo de todo, Bonney." Bonney: "¡Idiota! ¡Te busqué por todo el mar!..." Okamas, Ivankov y Sabo lloran. Kase sentado junto a ellos. Bonney a Facundo: "Tú. ¿Quién demonios eres tú?" (Sigue con los grilletes de kairoseki.)

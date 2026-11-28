@@ -9,3 +9,4 @@ ESTADO: en Momoiro, esperando.
 - T1869 · Día ~227 08:10 · En la escalera del castillo, cara pintada completamente blanca: "Hee..." Kuma le apunta el Ursus Shock.
 - T1870 · Ve deshacerse el Ursus Shock y a Kuma volver en sí. "¡¡EL COLLAR!! ¡¡Es un collar explosivo de los Dragones Celestiales!! ¡¡Si el esclavo se aleja de Mary Geoise, explota!! ¡¡Vanaata, va a volar media isla!!" QUÉ VIO: Facundo tocar el pecho de Kuma y devolverle la conciencia; el rastreador expulsado.
 - T1871 · "¡NO LO TOQUES! ¡Si se lo sacan sin la llave, explota igual!" Ve el collar deshacerse en polvo violeta (Hakai): "...Hee-haw." (susurro)
+- T1873 · Se tapa la cara con la capa, llorando, en el reencuentro de Kuma y Bonney.
