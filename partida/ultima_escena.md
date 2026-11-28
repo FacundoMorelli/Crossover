@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1892)
-
-agarro a robin y me teletransporto a baltigo
-
-## RESPUESTA 1 (T1892)
-
-> agarro a robin y me teletransporto a baltigo
-
-Le agarras la mano a Robin.
-
-La oficina del Almirante de Flota desaparece, con el reloj de la pared, el ventanal rajado, las huellas negras en el escritorio y la espalda de Akainu mirando el mar.
-
-...
-
-Piedra blanca. Techo bajo. Una sola ventana angosta con la luna. Libros por todas partes. Mapas clavados con cuchillos. Noventa y siete marcas en la pared.
-
-El cuarto de Robin.
-
-Está igual a como lo dejaron a la mañana: la cama deshecha, la taza de café frío sobre la mesa, la capa verde de la Legión doblada encima de una pila de libros. El viento de Baltigo silba por la rendija de la ventana.
-
-Robin no te suelta la mano.
-
-Se queda quieta en el medio del cuarto. No dice nada. Mira la pared, las marcas. Mira la cama. Mira la capa. Te mira a ti.
-
-Y entonces le pasa algo que nunca le viste.
-
-Se le doblan las rodillas. Despacio. Se sienta en el borde de la cama, sin soltarte, como si las piernas le hubieran dejado de funcionar de golpe. Se tapa la boca con la mano libre. Los hombros le tiemblan.
-
-Al principio no sabes si llora o si se ríe. Después entiendes que es las dos cosas.
-
-—Veinte años —dice, con la voz rota, detrás de la mano—. Tenía ocho. Ocho años. Y desde ese día no dormí una sola noche sin pensar que alguien iba a tirar la puerta abajo.
-
-Se ríe. Llora. Se seca los ojos con el dorso de la muñeca.
-
-—Y tú entraste a su oficina. Te sentaste en su sillón. Le diste la mano. —Te mira, con los ojos mojados y brillantes—. Y él dijo "disfrútalo".
-
-Kase baja de tu hombro a la cama. Se le acerca. Se le sube a las piernas, despacio, y se echa ahí, enorme, pesado, ronroneando, con la cabeza contra su pecho.
-
-Robin le pone la mano encima. Se queda así un rato largo. Respirando. Escuchando el viento.
-
-—Un año —dice, más tranquila—. Un año sin capucha. Sin nombre falso. Sin cuchillo debajo de la almohada.
-
-Levanta la vista hacia ti. Ya no llora. Se le dibuja una sonrisa que no le habías visto nunca: no la de costado, ni la irónica, ni la serena. Una sonrisa entera. Como de nena.
-
-—¿Sabes qué quiero hacer? —dice—. Mañana. Quiero caminar por una ciudad. Una ciudad de verdad, llena de gente. A plena luz del día. Sin taparme la cara. —Hace una pausa—. Y entrar a una librería. Y comprar un libro. Y pagarlo con mi nombre.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1892 · ONE PIECE · DÍA ~227 · 23:18    ║
-║ Baltigo · cuarto de Robin                    ║
-║ De pie junto a la cama                       ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 99% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en las piernas de Robin, ronroneando   ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Robin quiere ir a una ciudad       ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1893)
+## COMANDO 1 (T1893)
 
 esta bien amor, mañana vamos, le doy un beso y despues voy a venir un poco menos, me voy a mantener entre otros mundos
 
-## RESPUESTA 2 (T1893)
+## RESPUESTA 1 (T1893)
 
 > esta bien amor, mañana vamos, le doy un beso y despues voy a venir un poco menos, me voy a mantener entre otros mundos
 
@@ -125,11 +64,11 @@ Se queda callada. Después, más bajito:
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1894)
+## COMANDO 2 (T1894)
 
 capaz cada 2 meses amor, cuanto queda para que terminen los dos años?
 
-## RESPUESTA 3 (T1894)
+## RESPUESTA 2 (T1894)
 
 > capaz cada 2 meses amor, cuanto queda para que terminen los dos años?
 
@@ -178,6 +117,55 @@ Te mira de costado, serena, pero con los dedos apretando el cuaderno.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1895)
+
+si lo pense, cuando queden 6 meses les voy a poner a todos la barrera que le puse a la flota de barba blanca, en toda la isla en la que estan
+
+## RESPUESTA 3 (T1895)
+
+> si lo pense, cuando queden 6 meses les voy a poner a todos la barrera que le puse a la flota de barba blanca, en toda la isla en la que estan
+
+> —Sí, lo pensé. Cuando queden seis meses, les voy a poner a todos la barrera que le puse a la flota de Barbablanca. En toda la isla en la que estén.
+
+Robin se queda quieta.
+
+Te mira un rato largo, con el cuaderno de cuero cerrado sobre las rodillas. Después baja la vista a la página que tenía abierta, a la columna de números, a la fecha marcada con un círculo: seis meses antes de Sabaody.
+
+—En toda la isla —repite, despacio.
+
+Abre el cuaderno otra vez. Moja la pluma. Y en el margen, al lado del círculo, escribe con su letra chiquita una sola palabra. No la ves. Pero la ves sonreír mientras la escribe.
+
+—Kuraigana. Weatheria. Boin. Torino. Karakuri. Namakura. Momoiro. Rusukaina. —Va tocando con la pluma cada nombre de la lista, sin mojarla—. Ocho islas. Y Baltigo.
+
+Cierra el cuaderno.
+
+—Akainu va a pasarse seis meses tirando volcanes contra paredes que nadie ve —dice—. Fufu. —Se ríe, bajito, con la cabeza gacha—. Veinte años escondiéndome, y lo más lindo que me pasó fue que alguien hiciera que el que no pueda entrar sea él.
+
+Deja el cuaderno en la mesa, encima del otro, el de "Los mundos de Facundo". Se queda un segundo mirando los dos, uno encima del otro.
+
+Después se da vuelta hacia ti. Se acomoda en la cama, despacio, para no despertar a Kase del todo, y apoya la cabeza en tu hombro.
+
+—Siempre tienes un plan —dice, bajito, contra tu cuello—. Y nunca lo cuentas hasta que alguien te lo pregunta.
+
+Se queda así. El viento de Baltigo golpea la ventana. Abajo, lejos, el mar.
+
+—Mañana —dice, con los ojos cerrados—. La ciudad. La librería. —Una pausa—. Hay una en Water 7, cerca del puerto, que tiene libros de todo el Grand Line. Una vez pasé por la puerta, con capucha, y no me animé a entrar. —Abre los ojos, te mira de reojo—. ¿Me llevas ahí?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1895 · ONE PIECE · DÍA ~227 · 23:29    ║
+║ Baltigo · cuarto de Robin                    ║
+║ Sentado en la cama, Robin en tu hombro       ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 99% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: dormido en las piernas de Robin        ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Robin: "¿Me llevas a Water 7?"     ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 23:25, cuarto de Robin. "Tal vez cada dos meses, amor. ¿Cuánto falta para que terminen los dos años?" Robin, con su cuaderno de cuero: Marineford fue hace 170 días; mensaje "3D2Y"; faltan ~560 días (~19 meses) para Sabaody. "El trato con Akainu dura un año. Desde esta noche. Termina seis meses antes de Sabaody." Cuando termine, Akainu podrá buscarlos a todos y seguirán separados: "Seis meses. Sin el trato. Sin ti en este mundo, si sigues escondiéndote." "Te lo digo porque soy la que lleva la cuenta. ¿Lo pensaste?"
+ESTADO AL CIERRE: Día ~227 23:29, cuarto de Robin. Facundo: cuando queden seis meses, la barrera (Bankai) sobre cada isla donde estén. Robin escribe una palabra junto al círculo de la fecha; enumera Kuraigana, Weatheria, Boin, Torino, Karakuri, Namakura, Momoiro, Rusukaina "Y Baltigo". "Akainu va a pasarse seis meses tirando volcanes contra paredes que nadie ve. Fufu." "Siempre tienes un plan. Y nunca lo cuentas hasta que alguien te lo pregunta." Cabeza en su hombro. Mañana: una librería en Water 7, cerca del puerto, con libros de todo el Grand Line (una vez pasó con capucha y no se animó a entrar). "¿Me llevas ahí?"

@@ -1,8 +1,8 @@
 {
-  "turno": 1894,
+  "turno": 1895,
   "mundo_actual": "onepiece",
   "fecha_local": "One Piece: Día ~227 (timeskip, ~5,5 meses)",
-  "hora": "Día ~227, 23:25 (Baltigo)",
+  "hora": "Día ~227, 23:29 (Baltigo)",
   "edad": 18,
   "nivel": 35,
   "exp": 549130,
@@ -2683,7 +2683,8 @@
       "dragonball_vuelta_T1764": "Vuelta ~6,5 semanas después de la salida (3 días con Erasa y los demás). Salida otra vez de noche desde la colina del parque central. Corre al ritmo de Facundo. Freezer: Sorbet llega ~3,5 meses después de esta salida; ataque ~7,5 meses después.",
       "sololeveling": "Llegada Día 1, 21:40, Gangnam (T1764). MISIÓN CUMPLIDA Día 22 (Jeju). SALIDA Día 24 ~18:05, plaza del ginkgo del barrio de la señora Kang (este de Seúl), testigo Cha Hae-in. Corre al ritmo de Facundo.",
       "onepiece_trato_akainu": "TRATO SELLADO (T1891): corre desde el Día ~228 00:00 un año (hasta Día ~593 00:00). Marina/CP/Gobierno buscan solo a Facundo; no tocan a Robin ni a la tripulación del Sombrero de Paja ni a los que caminan con ellos. Si atacan a un marine, la Marina se defiende. Si lo encuentran, Facundo se entrega en la oficina del Almirante de Flota sin pelear ni desaparecer.",
-      "onepiece_sabaody_reencuentro": "Reencuentro de los Sombrero de Paja en Sabaody: Día ~787 (dos años desde Marineford, ~Día 57). Al T1894 (Día ~227) faltan ~560 días (~19 meses). El trato con Akainu termina el Día ~593: seis meses antes de Sabaody."
+      "onepiece_sabaody_reencuentro": "Reencuentro de los Sombrero de Paja en Sabaody: Día ~787 (dos años desde Marineford, ~Día 57). Al T1894 (Día ~227) faltan ~560 días (~19 meses). El trato con Akainu termina el Día ~593: seis meses antes de Sabaody.",
+      "onepiece_plan_barreras": "PLAN DE FACUNDO (T1895): cuando queden seis meses para Sabaody (al terminar el trato con Akainu, Día ~593), poner la barrera del Bankai (como sobre la flota de Barbablanca) sobre cada isla donde estén: Kuraigana, Weatheria, Boin, Torino, Karakuri, Namakura, Momoiro, Rusukaina y Baltigo."
     },
     "puerta_abierta": true,
     "historial_misiones": {

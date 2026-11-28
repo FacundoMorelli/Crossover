@@ -1894,3 +1894,4 @@ T1891 · ONE PIECE · Oficina de Akainu · Trato sellado con la mano de magma (n
 T1892 · ONE PIECE · Baltigo · Vuelve con Robin. Ella llora y ríe. "Mañana quiero caminar por una ciudad sin taparme la cara y comprar un libro con mi nombre."
 T1893 · ONE PIECE · Baltigo · "Mañana vamos. Después vengo menos, me mantengo entre otros mundos." Robin: "Pobre Sakazuki." "¿Cuánto es un poco menos?"
 T1894 · ONE PIECE · Baltigo · "Cada dos meses." Robin: faltan 19 meses para Sabaody; el trato termina seis meses antes. "¿Lo pensaste?"
+T1895 · ONE PIECE · Baltigo · Plan: barreras sobre las islas de la tripulación a seis meses de Sabaody. Robin: "¿Me llevas a la librería de Water 7?"
