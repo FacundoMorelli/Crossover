@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1756)
-
-me teletransporto con hughes y los dos homúnculos a su casa
-
-## RESPUESTA 1 (T1756)
-
-> me teletransporto con hughes y los dos homúnculos a su casa
-
-Le pones una mano en el hombro a Hughes. Kase salta a tu otro hombro. Con el pie tocas el brazo de Lust; con la rodilla, el de Envy.
-
-Cierras los ojos y abres el ki hacia donde Hughes mira sin darse cuenta: el oeste, hacia un barrio de casas bajas, a veinte minutos de carro. Entre miles de presencias que se preparan para dormir encuentras dos juntas, en una casa de dos pisos con un jardín al frente. Una, tibia, tranquila, de mujer, que se mueve entre ollas y platos, cantando algo bajito. Otra, chiquita, brillante, inquieta como una chispa, que salta sobre algo blando, sin ganas de dormir. Las dos solas. Las dos bien. Nadie con una piedra roja cerca.
-
-Dos dedos en la frente.
-
-Una sala chica y cálida. Alfombra de flores. Un sillón con un almohadón bordado. Una mesa puesta para tres, con un mantel a cuadros, un plato tapado con otro plato para que no se enfríe y una vela que ya va por la mitad. En la pared, fotos enmarcadas: un casamiento, un bebé, una nena con un vestido rosa. Muchas. Huele a guiso, a pan y a jabón de lavar.
-
-Hughes queda parado en el medio de la sala, con el mapa contra el pecho. Lust y Envy quedan acostados sobre la alfombra de flores, a tus pies, dormidos.
-
-Desde la cocina se oye un plato que se cae y se rompe.
-
-Una mujer aparece en el marco de la puerta, con un repasador en la mano y un delantal puesto. Joven, de pelo castaño corto y ondulado, con una cara dulce. La misma cara que viste en la cabina, una hora atrás. Pero esta tiene los ojos abiertos de par en par, y harina en una mejilla, y está viva por dentro como la otra no lo estaba.
-
-Mira a su marido. Te mira a ti. Mira a Kase. Mira, en el piso de su sala, sobre su alfombra, a dos desconocidos de negro, inconscientes, uno con el pelo verde.
-
-—¿Maes? —dice. Se le cae el repasador.
-
-Y por la escalera, en pijama, con el pelo despeinado y un conejo de trapo arrastrado de una oreja, baja corriendo una nena de tres años. Se detiene en el último escalón. Ve a su papá.
-
-—¡Papi! —grita, feliz. Y después ve a Kase, en tu hombro, enorme, blanco y azul, mirándola—. ¡Papi! ¡Un gatito! ¡Un gatito gigante!
-
-Hughes se da vuelta. Ve a su hija. Ve a su mujer. Las dos enteras. Las dos ahí.
-
-Se le doblan las rodillas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1756 · FULLMETAL · DÍA 1 · 22:12       ║
-║ Ciudad Central, Amestris, 1914               ║
-║ Casa de los Hughes, sala                     ║
-║ NIVEL 33 · EXP 461.130/480.000               ║
-║ FRAGMENTOS 289.428 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
-║ OBJETIVO: Hughes y su familia                ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1757)
+## COMANDO 1 (T1757)
 
 miro
 
-## RESPUESTA 2 (T1757)
+## RESPUESTA 1 (T1757)
 
 > miro
 
@@ -125,11 +74,11 @@ Hughes mira a los dos cuerpos dormidos en la alfombra de su sala. Después a ti.
 
 ---
 
-## COMANDO 3 (T1758)
+## COMANDO 2 (T1758)
 
 los llevo conmigo y los vigilo hasta que llegue mustang
 
-## RESPUESTA 3 (T1758)
+## RESPUESTA 2 (T1758)
 
 > los llevo conmigo y los vigilo hasta que llegue mustang
 
@@ -205,4 +154,83 @@ Se saca un guante, despacio, dedo por dedo, sin dejar de mirarte.
 
 ---
 
-ESTADO AL CIERRE: Día 2 08:12, iglesia abandonada de ladrillo al norte de Central (pasando el canal; campanario caído). Facundo vigiló toda la noche a Lust y Envy (los volvió a dormir: Envy 02:15 y 05:30 —"gusan..."—; Lust 04:00). Comió el quiche y el pan de manteca de Gracia. Llegaron HUGHES, ROY MUSTANG (guantes con salamandra) y RIZA HAWKEYE (pistola apuntando al piso). Mustang: "Así que este es el viajero. Hughes me dijo que te ibas a ver raro. No me dijo cuánto." Se saca un guante. "Roy Mustang. Coronel. Ciudad del Este. ¿Por qué un extranjero sin papeles, que llegó a Central ayer, arriesga la vida por el amigo más pesado que tengo?"
+## COMANDO 3 (T1759)
+
+porque me gusta ayudar, nada más
+
+## RESPUESTA 3 (T1759)
+
+> porque me gusta ayudar, nada más
+
+> —Porque me gusta ayudar. Nada más.
+
+Mustang te mira sin pestañear. Se queda con el guante a medio sacar, colgando de dos dedos.
+
+—Porque te gusta ayudar —repite, con la misma voz seca—. Nada más.
+
+Mira a Hughes.
+
+—Te lo dije —dice Hughes, levantando las manos—. Te dije que iba a contestar algo así.
+
+—Me dijiste que era raro.
+
+—Esto es lo raro, Roy.
+
+Mustang suspira por la nariz. Termina de sacarse el guante, lo dobla, se lo mete en el bolsillo del abrigo. La mano que queda desnuda es la derecha: la de chasquear.
+
+—Mira, viajero. En mi trabajo, la gente que ayuda sin pedir nada termina de dos maneras: muerta o pidiendo algo muy grande después. —Te mira de arriba abajo—. Tú no tienes cara de estar muerto.
+
+Detrás de él, Hawkeye no se mueve. Tiene la pistola apuntando al piso, entre tú y los dos cuerpos del altar, y los ojos fijos en tus manos. No en tu cara. En tus manos.
+
+—Coronel —dice, en voz baja—. El gato.
+
+—¿Qué tiene el gato?
+
+—Tiene los mismos ojos que él.
+
+Mustang mira a Kase. Kase lo mira a él, desde tus rodillas, con un ojo rojo y otro azul, sin parpadear, con una expresión de aburrimiento absoluto. Mustang parpadea primero.
+
+—Bueno. —Se aclara la garganta—. Dejemos eso para después.
+
+Camina hacia el altar. Se detiene a dos metros de Lust y de Envy, sin acercarse más. Mira el tatuaje del pecho de ella. El del muslo de él. El pelo verde. La cara dormida, hermosa, de la mujer.
+
+—Hughes me contó que esta sacó las uñas como lanzas. —No te mira; mira a Lust—. Y que el otro tenía la cara de Gracia en la cabina. —Se le endurece la voz—. Y que los dos llevan la misma serpiente que había en el laboratorio donde casi matan a Fullmetal.
+
+Se da vuelta hacia ti.
+
+—Llevo quince años en el Ejército. Estuve en Ishval. Vi cosas que no tienen nombre. —Una pausa—. Nunca vi a nadie así. Ni gente, ni quimeras, ni almas en armaduras. —Señala a los dos con la barbilla—. Tú los durmiste. Tú los cuidaste toda la noche. Tú pareces saber muchas cosas que no dices.
+
+Junta las manos detrás de la espalda.
+
+—Así que, viajero que ayuda: ¿qué son?
+
+```
+╔══════════════════════════════════════════════╗
+║ RIZA HAWKEYE                                 ║
+║ Ejército de Amestris · primera teniente      ║
+║ PODER: tiradora de élite · nervios de hielo  ║
+║ AMENAZA: ÍNFIMA                              ║
+║ Diferencia estimada: x0,004 sobre ti         ║
+║ Lleva en la espalda un secreto que no es     ║
+║ suyo.                                        ║
+║ COPIABLE · MISIÓN: MEDIA (estilo)            ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1759 · FULLMETAL · DÍA 2 · 08:15       ║
+║ Afueras de Central, iglesia abandonada       ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.428 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tus rodillas                        ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: Lust y Envy, con Mustang           ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 2 08:15, iglesia abandonada. Mustang: "La gente que ayuda sin pedir nada termina muerta o pidiendo algo muy grande después. Tú no tienes cara de estar muerto." Hawkeye nota que Kase tiene los mismos ojos que Facundo. Mustang (mano derecha desnuda) frente a Lust y Envy: estuvo en Ishval, nunca vio nada así; los tatuajes como los del laboratorio. "Así que, viajero que ayuda: ¿qué son?"

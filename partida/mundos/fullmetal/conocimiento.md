@@ -28,3 +28,4 @@
 - T1756 · GRACIA y ELICIA vieron a Facundo aparecer de la nada en su sala con Maes, el gato y dos inconscientes. HUGHES vio a Facundo llevarlos a todos a su casa al instante.
 - T1757 · GRACIA sabe (por Maes) que Facundo le salvó la vida a Maes dos veces esta noche.
 - T1758 · MUSTANG y HAWKEYE saben (por Hughes) lo de anoche y lo que Facundo hizo. ENVY se despertó dos veces un instante y vio a Facundo.
+- T1759 · MUSTANG, HAWKEYE y HUGHES saben (por Facundo) que lo hace porque le gusta ayudar. HAWKEYE notó que Kase tiene los mismos ojos que Facundo.
