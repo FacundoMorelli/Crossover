@@ -24,3 +24,4 @@
 - T1751 · HUGHES VIO a Facundo dejar inconsciente a Lust en un instante (velocidad imperceptible).
 - T1752 · FACUNDO sabe (por Hughes) del círculo de transmutación nacional y de que hay alguien muy arriba en el Ejército detrás.
 - T1754 · MUSTANG sabe (por Hughes, teléfono) parte del hallazgo del círculo. HUGHES vio a Envy inconsciente (forma real).
+- T1755 · HUGHES sabe (por Facundo) que Envy se disfrazó de Gracia y lo esperaba en la cabina. Deduce que los homúnculos saben dónde vive.

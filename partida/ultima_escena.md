@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1752)
-
-soy un viajero, bueno por que te andan buscando?
-
-## RESPUESTA 1 (T1752)
-
-> soy un viajero, bueno por que te andan buscando?
-
-> —Soy un viajero. Bueno, ¿por qué te andan buscando?
-
-Hughes te mira un segundo largo. Después mira a Lust, dormida en el piso. Después la puerta del archivo, abierta, con el pasillo oscuro detrás.
-
-Se ríe. Bajito, sin ganas, por la nariz.
-
-—Un viajero. Claro. —Se pasa la mano por la cara—. Y yo soy un empleado de correo.
-
-Guarda el cuchillo en la funda del cinturón. Se agacha, junta del piso las hojas que se le cayeron cuando ella entró —un mapa doblado, una libreta con tapas negras, unos recortes de diario— y las aprieta contra el pecho, como antes la carpeta en la plaza.
-
-—Está bien. Me salvaste la vida. Eso te compra algunas respuestas. —Baja la voz, aunque no haya nadie más que una mujer dormida—. No todas.
-
-Se acerca a la mesa del fondo, bajo la lámpara verde, y desdobla el mapa. Amestris. El mismo círculo rojo que viste en la oficina, más prolijo, con más líneas.
-
-—Lior. —Pone el dedo sobre una marca—. Hace poco, una revuelta. Sangre. Ishval, hace quince años: la guerra, el exterminio. —Otra marca—. La masacre del Fuerte del Sur, la de Pendleton, la de Fisk. —Mueve el dedo de una a otra—. Todas, en los últimos cientos de años. Todas, en lugares donde murió mucha gente de golpe. Y todas, si las unes con una línea... —Pasa el dedo por el círculo entero— forman esto. Un círculo de transmutación del tamaño del país.
-
-Se queda mirando el mapa. Le tiembla un poco el dedo.
-
-—Alguien, desde hace siglos, está dibujando con sangre un círculo sobre Amestris. Y quien lo está dibujando está adentro del Ejército. Arriba. Muy arriba. —Levanta la vista hacia ti—. Por eso esa mujer vino por mí. No es una asesina común. Ya viste el tatuaje. Los chicos Elric me contaron de otro igual, en el Quinto Laboratorio.
-
-Dobla el mapa. Se lo guarda adentro de la chaqueta, contra el pecho, junto a la foto de Elicia.
-
-—No puedo contárselo a nadie de este edificio. No sé en quién confiar. Las líneas internas pueden estar escuchadas. —Mira hacia la puerta—. Hay una cabina telefónica pública en la calle lateral, a media cuadra. Tengo que llamar a Roy Mustang, en Ciudad del Este. Ahora. Antes de que manden a alguien más.
-
-Ya está caminando hacia la puerta. Se detiene en el umbral y se da vuelta, con la mano en el marco.
-
-—Gracias, señor Morelli. De verdad. —Mira a Lust una última vez—. ¿Puede quedarse con ella hasta que vuelva? Si se despierta... —No termina. Te mira de arriba abajo, y le sale una media sonrisa—. Bueno. Usted sabrá qué hacer.
-
-Y sale al pasillo oscuro, rápido, con el mapa apretado contra el pecho, hacia la escalera.
-
-Hacia la calle. Hacia la cabina verde.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1752 · FULLMETAL · DÍA 1 · 21:52       ║
-║ Ciudad Central, Amestris, 1914               ║
-║ Cuartel general, archivo del 2.º piso        ║
-║ NIVEL 33 · EXP 461.130/480.000               ║
-║ FRAGMENTOS 289.403 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tu brazo                            ║
-║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
-║ OBJETIVO: Hughes, esta noche                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1753)
+## COMANDO 1 (T1753)
 
 me teletransporto a la cabina y dejo inconsciente a envy y dejo a los dos juntos para mirar que no despierten
 
-## RESPUESTA 2 (T1753)
+## RESPUESTA 1 (T1753)
 
 > me teletransporto a la cabina y dejo inconsciente a envy y dejo a los dos juntos para mirar que no despierten
 
@@ -130,11 +73,11 @@ Marca un número largo. Con los dedos que todavía le tiemblan un poco.
 
 ---
 
-## COMANDO 3 (T1754)
+## COMANDO 2 (T1754)
 
 espero a hughes
 
-## RESPUESTA 3 (T1754)
+## RESPUESTA 2 (T1754)
 
 > espero a hughes
 
@@ -183,4 +126,57 @@ Se acerca, despacio, y se agacha al lado de Envy, como hizo antes con Lust. Le m
 
 ---
 
-ESTADO AL CIERRE: Día 1 22:10, archivo del 2.º piso. Hughes volvió de la cabina: habló con Mustang ~12 min; Roy viene en el primer tren de mañana con Hawkeye y dos de los suyos ("me dijo que soy un idiota por quedarme solo"). Ve a ENVY dormido junto a Lust; mano en los cuchillos sin sacarlos; se agacha, ve el uróboros en el muslo. "No lo vi nunca. No estaba acá cuando me fui. ¿Dónde estaba?"
+## COMANDO 3 (T1755)
+
+estaba en la cabina esperándote disfrazado de tu esposa
+
+## RESPUESTA 3 (T1755)
+
+> estaba en la cabina esperándote disfrazado de tu esposa
+
+> —Estaba en la cabina, esperándote. Disfrazado de tu esposa.
+
+Hughes no se mueve.
+
+Se queda agachado junto a Envy, con una rodilla en el piso y la mano todavía cerca del cuchillo, mirándote. No parpadea. Tarda en entender, y se le nota en la cara el momento exacto en que entiende, porque se le va todo el color de golpe.
+
+—De Gracia —dice. No es una pregunta.
+
+Baja la vista a la cara dormida de Envy. A la cara afilada, sin edad, que no se parece en nada a la de su mujer.
+
+—Me estaba esperando en la cabina con la cara de Gracia. —Lo repite despacio, como si las palabras pesaran—. Para que yo... para que yo bajara la guardia. Para que me acercara.
+
+Se pone de pie de golpe. Tan rápido que se le caen los anteojos y los ataja a medio camino, torcidos. Se los pone sin enderezarlos.
+
+—Saben cómo es Gracia. —Le tiembla la voz por primera vez en toda la noche—. Saben cómo es su cara. La vieron. Saben dónde... —Se lleva la mano al bolsillo del pecho, a la foto de Elicia, y la aprieta sin sacarla—. Saben dónde vivo.
+
+Da un paso hacia la puerta. Se detiene. Da otro. Mira a los dos homúnculos dormidos en el piso. Te mira a ti. Mira la puerta. Está partido en tres.
+
+—Elicia está en casa —dice, casi sin voz—. Con Gracia. Solas. A veinte minutos de acá. Les dije que volvía para la cena. —Mira el reloj de bolsillo, que saca con dedos torpes—. Son las diez y diez.
+
+Se guarda el reloj. Te mira. Y por primera vez desde que lo conoces, no hay máscara, ni sonrisa, ni deducción, ni oficio. Hay un padre.
+
+—Señor Morelli. No sé qué es usted. No sé de dónde viene. No me importa. —Traga saliva—. ¿Puede llevarme a mi casa así como apareció acá? ¿Ahora? —Mira a Lust y a Envy—. Y estos dos... no sé qué hacer con estos dos. No puedo dejarlos acá solos. No puedo llamar a nadie de este edificio.
+
+Se le quiebra un poco la voz.
+
+—Ayúdeme. Por favor.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1755 · FULLMETAL · DÍA 1 · 22:11       ║
+║ Ciudad Central, Amestris, 1914               ║
+║ Cuartel general, archivo del 2.º piso        ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.428 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: sentado de espaldas a los homúnculos   ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: Hughes y su familia                ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 22:11, archivo. Hughes sabe que Envy lo esperaba en la cabina con la cara de Gracia. Pálido: "Saben cómo es Gracia. Saben dónde vivo." Elicia y Gracia solas en casa, a 20 min; les dijo que volvía para la cena. Sin máscara, un padre: "¿Puede llevarme a mi casa así como apareció acá? ¿Ahora? Y estos dos... no puedo dejarlos solos ni llamar a nadie de este edificio. Ayúdeme. Por favor."
