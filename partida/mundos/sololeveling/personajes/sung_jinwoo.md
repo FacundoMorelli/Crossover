@@ -13,3 +13,4 @@ QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: tiene su propio Sistema (de este mundo). Esta noche entra a la Puerta de Gangnam.
 ENCUENTROS:
 - T1766 · Junto a la Puerta, apartado, manos en los bolsillos de una campera negra sencilla, pelo negro despeinado, sin expresión. Gira la cabeza un segundo hacia la cinta: Cha Hae-in y Facundo. Vuelve a mirar la Puerta. QUÉ SABE DE FACUNDO: aspecto (lo vio).
+- T1767 · Mira a Facundo otra vez, un segundo más largo. Entra último a la Puerta, con las manos en los bolsillos.

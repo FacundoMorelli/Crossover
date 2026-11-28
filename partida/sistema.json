@@ -1,8 +1,8 @@
 {
-  "turno": 1766,
+  "turno": 1767,
   "mundo_actual": "sololeveling",
   "fecha_local": "Solo Leveling: Día 1 (arco de la Reevaluación / Puerta del Gremio de Cazadores)",
-  "hora": "21:44 (Seúl)",
+  "hora": "21:47 (Seúl)",
   "edad": 18,
   "nivel": 34,
   "exp": 486130,
@@ -444,7 +444,7 @@
         "Maestría 50: abre Puertas propias, como atajos entre dos lugares de este mundo.",
         "Maestría 70: absorbe una ruptura entera (los monstruos vuelven adentro y la Puerta se cierra)."
       ],
-      "primer_uso": null
+      "primer_uso": "T1767 (lectura pasiva de la Puerta de Gangnam)"
     }
   },
   "velo": {

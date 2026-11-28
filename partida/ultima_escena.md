@@ -3,132 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1764)
-
-me voy a dragon ball, paso un par de dias con erasa, y los demás y me voy a un nuevo mundo
-
-## RESPUESTA 1 (T1764)
-
-> me voy a dragon ball, paso un par de días con erasa, y los demás y me voy a un nuevo mundo
-
-Abres la puerta en la colina de Resembool. Del otro lado, al cruzarla, ya no hay campos ni ovejas: hay una ciudad de edificios redondos encendiéndose en el atardecer, y una colina detrás de un parque, con el pasto alto, que ya conoces.
-
-Capital del Oeste. Seis semanas y media después.
-
-La Calle de los Tilos huele igual: a jazmín, a asfalto tibio, a algo frito de algún puesto. El rosal de la entrada tiene tres flores nuevas. El buzón con forma de pato tiene el ojo pintado de nuevo, otra vez torcido, pero distinto.
-
-Tocas el timbre una vez.
-
-La puerta se abre de golpe, como si alguien hubiera estado esperando con la mano en el picaporte. No es la madre. Es Erasa. Tiene puesto tu sobretodo negro encima de un pijama con estampado de vacas, el pelo recogido en un rodete torcido y un lápiz atrás de la oreja, y se queda en el umbral, con la boca abierta, mirándote.
-
-Mira a Kase. Te mira a ti. Vuelve a mirar a Kase.
-
-Después baja la vista a tu mano. A lo que traes en la mano. Un imán. Un pato amarillo con un ojo torcido.
-
-No dice nada. Se le llenan los ojos de lágrimas, de golpe, y se te tira encima con tanta fuerza que retrocedes un paso en la vereda. Te abraza del cuello. Se ríe y llora al mismo tiempo, con la cara escondida en tu camisa, y dice algo que no se entiende, y después lo dice de nuevo, y es "volviste", y después "¡MAMÁ! ¡VOLVIÓ!", y desde adentro de la casa se oye una cacerola que se cae al piso.
-
-Esa noche, la madre de Erasa hace pollo al horno. No pregunta dónde estuviste. Te sirve la pechuga primero.
-
-Los dos días siguientes son de Erasa.
-
-Panqueques con la dueña que pregunta otra vez, a los gritos, si "este es el novio", y esta vez Erasa contesta que sí, muy roja, mirando el plato, y la dueña aplaude. El mirador de la torre de la estación. Los botes con forma de cisne. Erasa te cuenta todo lo que pasó en seis semanas, sin parar, en orden y en desorden: que su papá volvió de viaje con un imán de un oso; que empezó un curso de fotografía; que le sacó dos rollos enteros de fotos a la ventana de su cuarto, al atardecer, esperando; que durmió todas las noches con el sobretodo puesto, y que su mamá dice que huele a perro mojado y que lo va a lavar, y que ella no la deja.
-
-La Corporación Cápsula. Bulma te grita "¡LLEGASTE TARDE!" desde la cocina antes de abrazarte. Goku y Vegeta siguen en el planeta de Bills, entrenando con Whis. Goten y Trunks te muestran el Remolino Gemelo en el patio, perfecto, y rompen la pared del garaje. Videl tiene una panza enorme y te amenaza otra vez, por las dudas. Gohan te da la mano. Milk te da un táper.
-
-La tercera noche, en la reja de la Calle de los Tilos, junto al buzón del pato, le dices a Erasa que tienes que irte otra vez.
-
-Ella no llora. Te mira mucho rato. Después entra corriendo a la casa y vuelve con algo en la mano. Otro imán. Una vaca. Pintada por ella, con manchas que parecen un mapa.
-
-—Para que vuelvas —dice. Te lo cierra en la mano—. Otra vez. Siempre otra vez.
-
-Te da un beso. Entra. Saluda desde la ventana del segundo piso con la manga del sobretodo.
-
-La colina del parque central, de noche. Abres la puerta. No sabes adónde. Kase te clava las uñas en el hombro.
-
-Cruzas.
-
-[Destino fijado.]
-
-Lo primero es la luz.
-
-Blanca, artificial, fría, a montones: pantallas gigantes en las fachadas de los edificios, carteles de neón en un alfabeto de círculos y líneas que entiendes perfectamente, faros de autos modernos, ventanas de rascacielos de vidrio encendidas hasta el cielo. Es de noche, pero la ciudad no se entera.
-
-Después el ruido. Bocinas. Sirenas. Un helicóptero. Una multitud que murmura detrás de una cinta amarilla.
-
-Abres los ojos en una vereda ancha de una avenida de Seúl, entre una tienda de conveniencia abierta las veinticuatro horas y una parada de autobús con publicidad de un cosmético. Hace frío. La gente tiene el celular en la mano, levantado, filmando algo.
-
-Lo que filman está en el medio de la avenida.
-
-Es un agujero en el aire. Un óvalo vertical, de unos cinco metros de alto, flotando a medio metro del asfalto, con los bordes que giran despacio como un remolino de agua, de un azul oscuro, casi violeta, con destellos eléctricos. Del otro lado no se ve la avenida: se ve oscuridad. Alrededor hay un cordón de vallas metálicas, camionetas blindadas con un logo de un escudo con alas y, detrás de las vallas, gente con chalecos que dicen ASOCIACIÓN DE CAZADORES.
-
-En la pantalla gigante del edificio de enfrente, un noticiero muestra la misma escena, en vivo, con un zócalo rojo:
-
-"PUERTA DE RANGO A EN EL DISTRITO DE GANGNAM — EL GREMIO DE CAZADORES SE HACE CARGO DE LA INCURSIÓN".
-
-Y más abajo, más chico, otro zócalo que pasa:
-
-"SUNG JINWOO, EL CAZADOR REEVALUADO COMO RANGO S, PARTICIPARÁ COMO COLABORADOR".
-
-Kase, en tu hombro, mira el agujero en el aire con las pupilas dilatadas.
-
-Detrás de las vallas, una camioneta negra frena. Bajan cinco o seis personas con armas de verdad: espadas, un escudo, un báculo. La última en bajar es una mujer joven, de pelo rubio cortado a la altura de la mandíbula, con una armadura ligera blanca y una espada larga a la espalda. Se detiene. Levanta la nariz, como si oliera algo. Frunce la cara.
-
-Gira la cabeza, despacio, hacia la vereda. Hacia la multitud. Hacia ti.
-
-Y se queda mirándote, con una expresión de no entender.
-
-```
-╔══════════════════════════════════════════════╗
-║ DON DE MUNDO                                 ║
-║ Mundo: Solo Leveling                         ║
-║ LLAVE DE LAS PUERTAS                         ║
-║ Despertar de clase única. Sientes y ves el   ║
-║ rango real de cualquier Puerta, aunque       ║
-║ mienta. Entras y sales de cualquier Puerta,  ║
-║ también de las Rojas. Con la mano en el      ║
-║ borde, la cierras (los de adentro salen      ║
-║ antes) o la sellas para que no rompa nunca.  ║
-║ Maestría 30                                  ║
-║ 50: abrir Puertas propias (atajos)           ║
-║ 70: absorber una ruptura entera              ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ MISIÓN DE MUNDO                              ║
-║ Mundo: Solo Leveling                         ║
-║                                              ║
-║ MISIÓN: Que todos los cazadores coreanos de  ║
-║ la incursión a la Isla de Jeju vuelvan       ║
-║ vivos.                                       ║
-║ RECOMPENSA: 25.000 EXP · 600 Fragmentos      ║
-║ VENCE: nunca                                 ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1764 · SOLO LEVELING · DÍA 1 · 21:40   ║
-║ Seúl, Corea del Sur                          ║
-║ Gangnam, vereda frente a una Puerta rango A  ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.815 · 0 won                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1765)
+## COMANDO 1 (T1765)
 
 la saludo con la mano
 
-## RESPUESTA 2 (T1765)
+## RESPUESTA 1 (T1765)
 
 > la saludo con la mano
 
@@ -186,11 +65,11 @@ Hace una pausa. Vuelve a respirar por la nariz, discretamente, y vuelve a frunci
 
 ---
 
-## COMANDO 3 (T1766)
+## COMANDO 2 (T1766)
 
 ehh no se que son los cazadores, soy un viajero
 
-## RESPUESTA 3 (T1766)
+## RESPUESTA 2 (T1766)
 
 > ehh no se que son los cazadores, soy un viajero
 
@@ -235,4 +114,61 @@ Cha Hae-in lo ve. Vuelve a ti. Le cuesta irse, se le nota en los pies, que no se
 
 ---
 
-ESTADO AL CIERRE: Día 1 21:44, cinta de la Puerta. Cha Hae-in, sorprendida ("¿No sabes qué son los cazadores?"), explica las Puertas y los cazadores ("hasta los chicos de primaria lo saben"). La llaman: el maestro CHOI JONG-IN (traje gris claro, pelo engominado, anteojos dorados) la llama con un gesto; SUNG JINWOO (campera negra, pelo negro despeinado) miró un segundo hacia la cinta, a Cha Hae-in y a Facundo. Ella, orejas coloradas: "Tengo que entrar. Pero... ¿Cómo te llamas?"
+## COMANDO 3 (T1767)
+
+me llamo Facundo Morelli, mucho gusto
+
+## RESPUESTA 3 (T1767)
+
+> me llamo Facundo Morelli, mucho gusto
+
+> —Me llamo Facundo Morelli. Mucho gusto.
+
+—Facundo Morelli. —Lo repite despacio, con un acento coreano que le ablanda las erres, como si quisiera acordarse—. Mucho gusto. Yo soy Cha Hae-in.
+
+Inclina la cabeza, una reverencia corta, formal, de las que se hacen a un desconocido. Pero cuando levanta la cara, tiene una media sonrisa que no le sale del todo, como si no estuviera acostumbrada a usarla.
+
+—Y tu gato...
+
+—¡VICEMAESTRA!
+
+Cha Hae-in cierra los ojos un segundo, con paciencia. Los abre.
+
+—Tengo que irme. —Da un paso atrás, sin darse vuelta todavía—. Si sigues por acá cuando salgamos... —Lo piensa. No termina la frase. Se le colorean otra vez las orejas—. Bueno. No sé cuánto vamos a tardar.
+
+Se da vuelta y camina rápido hacia la Puerta, con la espada larga golpeándole suave la espalda. El grandote del escudo la espera con cara de alivio. El hombre de los anteojos dorados le dice algo seco, sin mirarla. El chico de la chaqueta negra no dice nada; solo la mira pasar, y después, otra vez, por encima de su hombro, mira hacia la cinta. Hacia ti. Un segundo más largo que la primera vez.
+
+Después entran.
+
+Uno por uno, los cazadores del gremio cruzan el óvalo violeta, y la oscuridad del otro lado se los traga sin ruido, como si atravesaran una cortina de agua. El grandote del escudo. Dos magos con báculos. Un arquero. El hombre de los anteojos dorados, con una llama chiquita encendiéndose en la punta de los dedos. Cha Hae-in, que antes de cruzar gira la cabeza una vez hacia la vereda.
+
+El último es el chico de la chaqueta negra. Entra con las manos todavía en los bolsillos, como quien entra a un almacén.
+
+La multitud aplaude, filma, se dispersa de a poco. Los agentes de la Asociación ajustan las vallas. Una periodista con micrófono hace su nota delante de la cámara, de espaldas a la Puerta.
+
+Y tú, por primera vez, la miras de verdad.
+
+Algo en el pecho, en el lugar donde vive el Don de este mundo, se enciende solo. Ves la Puerta como si fuera transparente: el óvalo, los bordes que giran, y del otro lado, como en un plano dibujado con luz, una caverna enorme, de piedra húmeda, con decenas de figuras grandes y verdes que se mueven entre antorchas. Y en el fondo, en un trono de huesos, una más chica, encorvada, con un báculo, que brilla más que todas.
+
+[Puerta de Gangnam: rango A. Rango real: A. Sin trampas.]
+
+[Interior: 58 orcos altos · 1 chamán orco alto (jefe).]
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1767 · SOLO LEVELING · DÍA 1 · 21:47   ║
+║ Seúl, Corea del Sur                          ║
+║ Gangnam, cinta del cordón de la Puerta       ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.815 · 0 won                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 21:47, cinta de la Puerta. Cha Hae-in se presentó ("Yo soy Cha Hae-in"): "Si sigues por acá cuando salgamos..." (no terminó). Entraron todos a la Puerta (escudo, dos magos, arquero, Choi Jong-In con llama en los dedos, Cha Hae-in mirando atrás, Jinwoo último, que miró de nuevo a Facundo un segundo más). Multitud se dispersa; periodista en vivo. Don (pasivo): Puerta rango A real, sin trampas; interior: caverna, 58 orcos altos, 1 chamán orco alto jefe en un trono de huesos.
