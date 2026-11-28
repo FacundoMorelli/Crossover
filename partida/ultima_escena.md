@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1721)
-
-le congelo la mano con escarcha y agarro a santa
-
-## RESPUESTA 1 (T1721)
-
-> le congelo la mano con escarcha y agarro a santa
-
-Abres la boca.
-
-No sale fuego. Sale el lado blanco: un chorro de escarcha azul, denso, rugiente, que sale de entre tus dientes como el aliento de un invierno entero y le pega de lleno a la mano del Infierno, en el centro de la palma, justo en el ojo rojo.
-
-El ojo se cubre de hielo en un parpadeo que no puede dar.
-
-Y el hielo se extiende. Por la palma, por los dedos de piedra y de hueso, por la carne vieja. Cruje, se trepa, se abre en ramas blancas como las venas de una hoja, llega a las puntas de los dedos que ya se estaban cerrando y los traba. Los dedos se detienen a medio camino, curvados sobre ustedes como las costillas de una ballena, blancos de escarcha, humeando de frío en el aire caliente que sube del pozo. La luz roja de las grietas se apaga hasta quedar en un resplandor sordo, debajo del hielo.
-
-El sótano entero baja diez grados de golpe. El aliento de todos se vuelve vapor. Los muñecos de porcelana de los estantes se cubren de una capa fina de escarcha.
-
-Santa Claus, al borde del pozo, con los brazos todavía abiertos, mira la mano congelada encima de su cabeza. Es la primera vez que no tiene nada que decir.
-
-La agarras.
-
-Con la garra izquierda, la de las vetas rojas, que está tibia, la tomas de la bufanda y del chal a la vez, por la nuca, y la levantas del piso como a un gato. Pesa casi nada. Las pantuflas le quedan colgando a medio metro del cemento roto. Los anteojos se le resbalan hasta la punta de la nariz.
-
-Kase, en tus rodillas, la mira desde abajo. Ella lo mira a él.
-
-Por un momento no pasa nada. Solo el hielo crujiendo sobre ustedes y la respiración de la vieja, chiquita, rápida.
-
-Después Santa Claus sonríe. No como abuela. Es otra sonrisa, más vieja todavía, que no le cabe en la cara.
-
-—Ah, querido —dice, colgada de tu garra, sin forcejear—. Qué cosa más linda hiciste.
-
-Arriba, los dedos congelados crujen. Una grieta. Otra. Finas, largas, que recorren el hielo desde adentro, como si lo de abajo estuviera haciendo fuerza.
-
-—Pero eso no se congela. —Santa Claus levanta la vista hacia la mano, con los ojos celestes lechosos llenos de luz roja—. Eso es el Infierno. Y el Infierno ya aceptó.
-
-Del pozo, bajo el hielo, sube un ruido. Grave, enorme, larguísimo. Como una puerta del tamaño de una montaña abriéndose muy, muy lejos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1721 · CHAINSAW MAN · DÍA 2 · 08:48    ║
-║ Tokio, otoño de 1997                         ║
-║ Fábrica de juguetes del Sumida, sótano       ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.903 · 0 yenes                 ║
-║ Energía 99% · Ojos: bien                     ║
-║ Transformado: Dragón · Velo: persona común   ║
-║ Kase: en tus rodillas                        ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Santa Claus (viva, si se puede)    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1722)
+## COMANDO 1 (T1722)
 
 uso eclipse en el infierno, de que infierno hablabas?
 
-## RESPUESTA 2 (T1722)
+## RESPUESTA 1 (T1722)
 
 > uso eclipse en el infierno, de que infierno hablabas?
 
@@ -127,11 +72,11 @@ Te mira como si te viera por primera vez.
 
 ---
 
-## COMANDO 3 (T1723)
+## COMANDO 2 (T1723)
 
 no importa eso, la dejo inconsciente y me teletransporto con makino con ella
 
-## RESPUESTA 3 (T1723)
+## RESPUESTA 2 (T1723)
 
 > no importa eso, la dejo inconsciente y me teletransporto con makima con ella
 
@@ -194,4 +139,55 @@ Sonríe.
 
 ---
 
-ESTADO AL CIERRE: Día 2 08:50, oficina de Makima en Seguridad Pública (piso alto, madera oscura, tres perros grandes). Santa Claus inconsciente (viva) en el hombro de Facundo; al desmayarse, todos los muñecos de la fábrica (juguetes y cientos de personas) se desplomaron; algunos empiezan a toser y llorar (¿vuelven en sí?). Facundo llegó TRANSFORMADO EN DRAGÓN (Makima lo vio entero; los anillos de sus ojos se abrieron de más un segundo). Makima colgó el teléfono: "Señor Morelli. Llegó temprano. Y la trajo viva." +175 Frag (Santa 25, Demonio del Infierno 150).
+## COMANDO 3 (T1724)
+
+me destransformo
+
+## RESPUESTA 3 (T1724)
+
+> me destransformo
+
+Sueltas el segundo corazón.
+
+Las escamas se retiran como la marea. Bajan del cuello, de los hombros, de los brazos, se hunden en la piel sin dejar marca, y debajo vuelven a aparecer los tatuajes de dragones de siempre, como si nunca se hubieran ido. Las garras se acortan hasta ser dedos. Los cuernos se deshacen entre el pelo blanco y azul. Las alas se pliegan una última vez y desaparecen por el desgarro de la camisa, y la cola, antes de irse, barre la alfombra con un último movimiento perezoso que hace que uno de los perros levante la cabeza. Las pupilas, por último, vuelven a ser redondas.
+
+Queda un muchacho de dieciocho años, en una oficina en un piso alto, con la camisa blanca rota en la espalda, un gato en un hombro y una viejita dormida en el otro.
+
+Makima te mira hacer todo eso sin parpadear.
+
+—Un dragón —dice, al final, despacio. No es una pregunta—. No sabía que existiera un demonio Dragón. —Inclina la cabeza—. O que alguien tuviera su corazón.
+
+Lo dice como quien comenta una pieza rara en una colección ajena. Con cariño. Con codicia, muy en el fondo, tan en el fondo que casi no se nota.
+
+Rodea el escritorio. Camina hacia ti, sin apuro, sobre la alfombra, entre los perros, que bajan la cabeza a su paso. Se detiene a un metro. Mira a Santa Claus de cerca, la cara arrugada, la boca entreabierta, la bufanda roja colgando.
+
+—Así que esta es. —Le acomoda un mechón blanco detrás de la oreja con un dedo, con una delicadeza que da frío—. Tan chiquita. Y le causó tantas molestias a tanta gente.
+
+Se vuelve hacia la puerta de la oficina.
+
+—Déjela en el sillón, por favor. Ya mando a alguien.
+
+Levanta el teléfono negro de disco, marca dos números, dice "a mi oficina, ahora, cuatro, con restricciones de grado especial", y cuelga, todo en el mismo tono con el que pediría un café.
+
+Después vuelve a mirarte.
+
+—¿Y la fábrica, señor Morelli? —pregunta, con suavidad—. Las personas que ella había convertido. ¿Qué pasó con ellas cuando se durmió?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1724 · CHAINSAW MAN · DÍA 2 · 08:51    ║
+║ Tokio, otoño de 1997                         ║
+║ Seguridad Pública, oficina de Makima         ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.078 · 0 yenes                 ║
+║ Energía 97% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Entregar a Santa Claus a Makima    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 2 08:51, oficina de Makima. Facundo volvió a la forma humana (camisa blanca rota en la espalda). Makima: "Un dragón. No sabía que existiera un demonio Dragón. O que alguien tuviera su corazón." (cariño y codicia en el fondo). Acomoda el pelo de Santa. Pide dejarla en el sillón; llamó a "cuatro, con restricciones de grado especial". Pregunta: "¿Y la fábrica? Las personas que ella había convertido. ¿Qué pasó con ellas cuando se durmió?" Facundo todavía tiene a Santa al hombro.

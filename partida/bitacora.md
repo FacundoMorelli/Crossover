@@ -1722,3 +1722,4 @@ T1720 · CHAINSAW MAN · fábrica, sótano · Se tira del aro: primera transform
 T1721 · CHAINSAW MAN · fábrica, sótano · Congela la mano del Infierno con escarcha y agarra a Santa. Santa: "El Infierno ya aceptó." El hielo se agrieta.
 T1722 · CHAINSAW MAN · fábrica, sótano · ECLIPSE: el brazo del Demonio del Infierno tragado, el pozo cerrado, el pacto de Santa roto. "¿De qué infierno hablabas?" Santa: "¿Qué eres tú?"
 T1723 · CHAINSAW MAN · oficina de Makima · Santa inconsciente; los muñecos de la fábrica se desploman (+175 Frag). Se teletransporta con Santa a la oficina de Makima, todavía en forma de Dragón. Makima: "Y la trajo viva."
+T1724 · CHAINSAW MAN · oficina de Makima · Se destransforma. Makima: "Un dragón. No sabía que existiera." Pide a 4 agentes con restricciones. "¿Y la fábrica?"
