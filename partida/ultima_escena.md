@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1792)
-
-lo que quieras
-
-## RESPUESTA 1 (T1792)
-
-> lo que quieras
-
-> —Lo que quieras.
-
-Cha Hae-in te mira un segundo más, como si buscara en tu cara si es en serio. Después baja la vista al candado.
-
-Apoya el candado sobre la baranda, para que no se mueva, y escribe. Despacio, con la letra prolija de anoche, en coreano. Se tapa un poco con el hombro para que no veas mientras escribe, como una nena en el colegio.
-
-Cuando termina, sopla la tinta y lo da vuelta para mostrártelo.
-
-Arriba, en letras chiquitas, dice: "Facundo". Debajo, un poco más grande, como si se hubiera animado a mitad de camino: "Hae-in". No "Cha Hae-in". Solo "Hae-in". Y más abajo, la fecha de hoy.
-
-Entre los dos nombres, muy chiquito, casi escondido, hay un corazón. Lo dibujó y después, por lo que se ve, intentó taparlo con una raya, y después cambió de idea y lo repasó otra vez, así que quedó más oscuro que todo lo demás.
-
-Ella mira el corazón. Tú miras el corazón. Ella se da cuenta de que lo estás mirando.
-
-—Se me resbaló la lapicera —dice, muy rápido, sin ninguna convicción.
-
-Busca un lugar libre en la reja, entre un candado azul oxidado y uno con forma de corazón rosado. Pasa el arco del candado por el alambre y lo sostiene abierto, esperando, con la mano un poco temblorosa.
-
-—Hay que cerrarlo los dos —dice—. Así dicen.
-
-Pone dos dedos sobre el candado y deja espacio para los tuyos.
-
-Cuando lo cierran, hace un clic chiquito y firme.
-
-Cha Hae-in desata el hilo de las dos llavecitas. Se queda con una en la palma de la mano, mirándola, y la otra te la ofrece, extendida entre los dedos.
-
-—Antes la gente tiraba las llaves por la montaña, para que nadie pudiera abrirlo nunca. Ahora está prohibido. —Señala con la barbilla un buzón de metal en forma de corazón, junto al kiosco, donde se tiran las llaves—. Se pueden tirar ahí. —Duda—. O... cada uno se queda con la suya.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1792 · SOLO LEVELING · DÍA 2 · 14:32   ║
-║ Seúl, Corea del Sur                          ║
-║ Monte Namsan · plaza de la torre, candados   ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirando el candado       ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1793)
+## COMANDO 1 (T1793)
 
 cada uno nos quedamos con la nuestra
 
-## RESPUESTA 2 (T1793)
+## RESPUESTA 1 (T1793)
 
 > cada uno nos quedamos con la nuestra
 
@@ -99,11 +48,11 @@ Te mira de reojo.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1794)
+## COMANDO 2 (T1794)
 
 ya que estamos aquí mientras se pone el sol, perdon si voy rapido, la agarro de la cintura y la beso
 
-## RESPUESTA 3 (T1794)
+## RESPUESTA 2 (T1794)
 
 > ya que estamos aquí mientras se pone el sol, perdon si voy rapido, la agarro de la cintura y la beso
 
@@ -150,6 +99,55 @@ Kase, que se despertó con el movimiento, los mira desde tu hombro con los ojos 
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1795)
+
+la sigo besando, hoy podes quedarte en el hotel conmigo?
+
+## RESPUESTA 3 (T1795)
+
+> la sigo besando, hoy podes quedarte en el hotel conmigo?
+
+La vuelves a besar.
+
+Esta vez ella no se sorprende. Te pasa los brazos por detrás del cuello, despacio, como si tuviera miedo de hacerlo mal, y se queda así, pegada a ti, con el viento de la montaña moviéndole el pelo contra tu cara. Huele a lana limpia, a café, a algo dulce y suave que no sabes qué es.
+
+Kase, en tu hombro, suspira largo y se baja de un salto a la baranda, ofendido, para no estar en el medio.
+
+Cuando se separan otra vez, ella tiene los ojos cerrados todavía. Los abre despacio.
+
+> —Hoy, ¿puedes quedarte en el hotel conmigo?
+
+Cha Hae-in no contesta enseguida. Te mira. Se le van los ojos un segundo hacia la reja, hacia el candado con los dos nombres, y vuelven a ti. Se le colorean las orejas otra vez, de a poco, desde la punta.
+
+Baja la vista a tu pecho, a la mano que todavía tiene agarrada a tu sobretodo.
+
+—Sí —dice. Casi no se oye, pero lo dice—. Sí.
+
+Después respira hondo, como juntando coraje, y levanta la vista.
+
+—Pero... —Se le escapa una risita nerviosa, y se tapa la boca con el dorso de la mano—. Primero tenemos que comer algo. Desde el bulgogi no comí nada, y si me quedo sin comer me pongo de mal humor. —Te mira de reojo—. El mercado de Gwangjang está abierto hasta tarde. Hay unos panqueques de frijol que...
+
+Se calla. Se da cuenta de que está hablando muy rápido.
+
+—¿Vamos? —pregunta, más bajito.
+
+En la baranda, Kase bosteza enorme, con la ciudad iluminada detrás.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1795 · SOLO LEVELING · DÍA 2 · 17:55   ║
+║ Seúl, Corea del Sur                          ║
+║ Monte Namsan · plaza de la torre, candados   ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la baranda, bostezando              ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 17:52, Namsan, la ciudad recién encendida. Esperaron el atardecer (cafés en lata; Cha le señaló la Asociación de techo azul, su gremio cerca de Gangnam, dónde vive su familia, su primera Puerta). Facundo: "Perdón si voy rápido." La toma de la cintura y la besa; ella le devuelve el beso (en puntas de pie, agarrada a su sobretodo). Alguien silba y aplaude en la plaza. Cha, frente con frente, pálida y sonriendo: "No vas rápido. Yo quería que lo hicieras desde anoche. Desde la cinta."
+ESTADO AL CIERRE: Día 2 17:55, Namsan. Siguen besándose (ella le pasa los brazos por el cuello). Kase bajó a la baranda. Facundo: "Hoy, ¿puedes quedarte en el hotel conmigo?" Cha: "Sí. Sí." Pero primero comer: mercado de Gwangjang (panqueques de frijol), abierto hasta tarde. "¿Vamos?"
