@@ -1889,3 +1889,4 @@ T1886 · ONE PIECE · Baltigo · "Voy a hablar con Akainu." Robin: "Llévame con
 T1887 · ONE PIECE · Nuevo Cuartel General · Aparece con Robin en la oficina de Akainu y se sienta en su sillón. Akainu: "Nico Robin. La última sobreviviente de Ohara."
 T1888 · ONE PIECE · Oficina de Akainu · "Vengo a hablar contigo." Akainu: "No te ataqué porque sé lo que puedes hacer. Habla."
 T1889 · ONE PIECE · Oficina de Akainu · Trato: un año para que lo encuentre; si lo encuentra, se entrega; no toca a los suyos. Akainu acepta. "¿Ella entra?"
+T1890 · ONE PIECE · Oficina de Akainu · "Ella entra, y la tripulación de Luffy y sus amigos." Akainu fija sus condiciones y extiende la mano de magma.

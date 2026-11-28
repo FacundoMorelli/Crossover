@@ -3,96 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1887)
-
-esta bien, vamos entonces te digo que mis entradas suelen ser, llamativas solo para el. Nos teletransportamos a la sala de akainu y me siento en su lugar de almirante de flota
-
-## RESPUESTA 1 (T1887)
-
-> esta bien, vamos entonces te digo que mis entradas suelen ser, llamativas solo para el. Nos teletransportamos a la sala de akainu y me siento en su lugar de almirante de flota
-
-> —Está bien. Vamos, entonces. Te aviso que mis entradas suelen ser... llamativas. Solo para él.
-
-Robin te mira. Se le escapa una media sonrisa, de costado, la primera de la noche que tiene algo de alegría.
-
-—Fufu. Lo sé. Vi Marineford.
-
-Deja el cuaderno sobre la mesa de mapas, encima del diario. Se acomoda el pelo detrás de la oreja. Te agarra la mano. La aprieta fuerte, una vez.
-
-Kase, en tu hombro, se endereza.
-
-La torre de Baltigo desaparece.
-
-...
-
-Silencio. Olor a tinta, a cuero viejo, a papel, a ceniza de cigarro. Y debajo de todo, apenas, un calor seco, como el que sale de una estufa apagada hace poco.
-
-Una oficina enorme, de techo alto, a oscuras salvo por una lámpara de escritorio con pantalla verde. Las paredes, cubiertas de mapas del Nuevo Mundo clavados con chinches rojas, cientos, marcando islas. Una bandera de la Marina, gigante, colgada detrás. Estantes llenos de expedientes. Un ventanal enorme, de piso a techo, que da a un puerto lleno de buques de guerra iluminados bajo la luna, y más allá, la silueta de una fortaleza nueva, gris, recién construida: el nuevo Cuartel General de la Marina.
-
-Y en el centro, un escritorio de madera oscura, ancho como una mesa de guerra, cubierto de informes. Y detrás del escritorio, un sillón de respaldo alto, de cuero rojo oscuro, con el emblema de la gaviota grabado en el respaldo.
-
-Te sientas en él.
-
-Te recuestas. Cruzas una pierna sobre la otra. El cuero cruje. Kase se baja de tu hombro al escritorio y se sienta encima de una pila de informes, enroscando la cola, como si el lugar fuera suyo.
-
-Robin se queda de pie a tu lado, junto al sillón, derecha, con las manos juntas delante. Respira despacio. No le tiembla nada.
-
-Hay alguien más en la oficina.
-
-De pie frente al ventanal, de espaldas, con las manos detrás de la espalda, mirando el puerto, hay un hombre enorme. Traje rojo con flores. Capa blanca de la Marina sobre los hombros, con la palabra JUSTICIA en la espalda. Gorra con la gaviota. Y en la mano derecha, detrás de la espalda, el diario de hoy, arrugado, con tu cara.
-
-No se da vuelta enseguida.
-
-El calor seco de la oficina sube. De golpe. Como si alguien hubiera abierto la puerta de un horno. Los papeles del escritorio se ondulan en las puntas. El vidrio del ventanal se empaña.
-
-El diario de la mano de Akainu empieza a humear. Después a arder. Se le cae al piso hecho ceniza.
-
-Y se da vuelta.
-
-Lo miras, y el Sistema hace lo suyo.
-
-```
-╔════════════════════════════════════════╗
-║ SAKAZUKI "AKAINU"                      ║
-║ Almirante de Flota de la Marina        ║
-║ PODER: Magu Magu no Mi (magma),        ║
-║        Haki de armadura y observación  ║
-║ AMENAZA: BAJA                          ║
-║ Diferencia estimada: tú x50 sobre él   ║
-║ YA COPIADO                             ║
-╚════════════════════════════════════════╝
-```
-
-La cara cuadrada, dura, con la cicatriz de quemadura de Marineford todavía visible en el costado. Los ojos, chicos, negros, que te miran a ti sentado en su sillón. A Kase sobre sus informes.
-
-Y después, despacio, se mueven al costado. A la mujer de pelo negro de pie a tu lado.
-
-Se le contrae algo en la cara. Muy poco. Un músculo de la mandíbula.
-
-—Nico Robin —dice. La voz grave, baja, ronca, como piedra que se arrastra—. La última sobreviviente de Ohara.
-
-Del puño derecho, cerrado a un costado del cuerpo, empieza a gotear magma. Una gota. Dos. Agujerean la alfombra roja con un siseo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1887 · ONE PIECE · DÍA ~227 · 23:10    ║
-║ Nuevo Cuartel General de la Marina           ║
-║ Oficina del Almirante de Flota · su sillón   ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 99% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: sobre los informes del escritorio      ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Akainu, frente a ti y a Robin      ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1888)
+## COMANDO 1 (T1888)
 
 hola akainu, vengo a hablar contigo
 
-## RESPUESTA 2 (T1888)
+## RESPUESTA 1 (T1888)
 
 > hola akainu, vengo a hablar contigo
 
@@ -147,11 +62,11 @@ Se cruza de brazos. El magma deja de gotear.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1889)
+## COMANDO 2 (T1889)
 
 entonces es algo simple, no toques a los míos, tocas a mis compañeros y ya sabes lo que soy capaz de hacer, en cambio te doy un trato, te doy 1 año para que me encuentres, si me encontrás me entrego
 
-## RESPUESTA 3 (T1889)
+## RESPUESTA 2 (T1889)
 
 > entonces es algo simple, no toques a los míos, tocas a mis compañeros y ya sabes lo que soy capaz de hacer, en cambio te doy un trato, te doy 1 año para que me encuentres, si me encontrás me entrego
 
@@ -210,6 +125,67 @@ Mira a Robin.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1890)
+
+si, ella entra, y toda la tripulación de luffy y sus amigos, solo me podes buscar a mi, nadie que tenga que ver con la tripulación
+
+## RESPUESTA 3 (T1890)
+
+> si, ella entra, y toda la tripulación de luffy y sus amigos, solo me podes buscar a mi, nadie que tenga que ver con la tripulación
+
+> —Sí, ella entra. Y toda la tripulación de Luffy, y sus amigos. Solo me puedes buscar a mí. A nadie que tenga que ver con la tripulación.
+
+Akainu se queda quieto, con el dedo sobre la línea negra del escritorio.
+
+—Los Sombrero de Paja —dice, despacio—. Los que le declararon la guerra al Gobierno Mundial en Enies Lobby. Los que quemaron la bandera. Los que golpearon a un Dragón Celestial en Sabaody. —Levanta la vista—. Y el hijo de Dragon el revolucionario, como capitán.
+
+Se le contrae la mandíbula.
+
+—Y sus "amigos". —Se le escapa otra risa seca—. Ese chico hace amigos en cada isla donde pisa.
+
+Se endereza. El calor de la oficina sube tanto que el vidrio del ventanal cruje, una vez, una raja fina en una esquina.
+
+Robin no se mueve. No baja la vista. Lo mira.
+
+Akainu la mira a ella. Un rato largo. La arqueóloga de Ohara. La nena que se le escapó en un barco hace veinte años, mientras la biblioteca ardía.
+
+—Veinte años —dice, bajo, mirándola—. Veinte años buscándote. Y ahora me piden que te deje de buscar.
+
+Robin no contesta.
+
+Akainu vuelve a mirarte a ti.
+
+—Un año —dice—. Ni la Marina, ni el Cipher Pol, ni ningún brazo del Gobierno Mundial va a tocar a la tripulación del Sombrero de Paja ni a los que caminan con ellos. —Hace una pausa—. Pero escucha bien la condición de la Marina, Ojos de Eclipse.
+
+Levanta un dedo. Un hilo de humo le sale de la uña.
+
+—Si ellos atacan a un marine, la Marina se defiende. La justicia no pone la otra mejilla. —Levanta otro dedo—. Y cuando te encuentre, y te voy a encontrar, te entregas aquí, en esta oficina, sin pelear. Sin desaparecer. Sin nada de lo que hiciste en Marineford.
+
+Rodea el escritorio y se planta delante del sillón. Delante de ti.
+
+Extiende la mano derecha.
+
+La mano no es de carne. Es magma. Roja, naranja, brillante, chorreando gotas que agujerean la alfombra, con un calor que hace temblar el aire alrededor y que a Robin, a tu lado, le hace dar medio paso atrás sin querer. Una mano que derrite el acero.
+
+—La palabra de un Almirante de Flota no se rompe —dice Akainu—. ¿Y la tuya?
+
+Te sostiene la mano extendida, abierta, ardiendo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1890 · ONE PIECE · DÍA ~227 · 23:15    ║
+║ Nuevo Cuartel General de la Marina           ║
+║ Oficina del Almirante de Flota · su sillón   ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 99% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: sobre los informes, erizado            ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Akainu te ofrece su mano de magma  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 23:13, oficina de Akainu. Facundo: "No toques a los míos. Si tocas a mis compañeros, ya sabes de lo que soy capaz. A cambio, te doy un trato: te doy un año para que me encuentres. Si me encuentras, me entrego." Robin lo mira un segundo, ojos muy abiertos. Akainu ríe seco: "Me ofreces un juego." Junto al ventanal: "La justicia absoluta no juega. Pero tampoco desperdicia soldados... Si te persigo a ti, solo a ti, pierdo menos." "Un año. Toda la Marina. Todo el Cipher Pol. Toda la red del Gobierno Mundial... Contra un solo hombre con un gato. Acepto." Línea negra con el dedo en el escritorio. "¿Quiénes son 'los tuyos'? ¿Ella entra?" (mira a Robin)
+ESTADO AL CIERRE: Día ~227 23:15, oficina de Akainu. Facundo: "Sí, ella entra. Y toda la tripulación de Luffy, y sus amigos. Solo me puedes buscar a mí." Akainu enumera los crímenes de los Sombrero de Paja; el vidrio del ventanal se raja. A Robin: "Veinte años buscándote. Y ahora me piden que te deje de buscar." TÉRMINOS: un año; ni la Marina, ni el CP, ni ningún brazo del Gobierno toca a la tripulación del Sombrero de Paja ni a los que caminan con ellos. CONDICIONES DE AKAINU: si ellos atacan a un marine, la Marina se defiende; cuando encuentre a Facundo, se entrega en esa oficina, sin pelear ni desaparecer. Le extiende la mano de MAGMA (Robin da medio paso atrás): "La palabra de un Almirante de Flota no se rompe. ¿Y la tuya?"
