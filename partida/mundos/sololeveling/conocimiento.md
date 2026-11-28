@@ -16,3 +16,4 @@
 - T1770 · JINWOO sabe (por Cha Hae-in, T1769-T1770) el nombre Facundo, que dice ser viajero y que no sabía qué son cazadores ni Puertas. Deduce que estuvo dos horas en la cinta. Nota algo raro (sospecha que esconde algo), sin fuente de poder.
 - T1776 · FACUNDO vio el noticiero público sobre Jeju (fuente válida para mencionarlo).
 - T1780 · FACUNDO leyó (celular de Dong-su) la nota pública de Jinwoo reevaluado E→S, y sabe por Dong-su qué es el "segundo despertar".
+- T1782 · HAN DONG-SU sabe (por Facundo) su nombre, que es viajero y no cazador.

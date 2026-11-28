@@ -3,54 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1779)
-
-no, soy un viajero, ¿y tú?
-
-## RESPUESTA 1 (T1779)
-
-> no, soy un viajero, ¿y tú?
-
-> —No, soy un viajero. ¿Y tú?
-
-El chico se queda un segundo callado. Después da vuelta la credencial con dos dedos, sobre la mesa, para que la veas.
-
-Es una tarjeta de plástico con el logo de la Asociación de Cazadores, una foto suya de frente, más chico y sin ojeras, y una letra grande, en un recuadro gris:
-
-E.
-
-Debajo, el nombre: Han Dong-su.
-
-—Rango E —dice, como quien pide perdón—. Lo más bajo que hay. —Vuelve a dar vuelta la tarjeta, boca abajo—. Desperté hace un año. Todos en el colegio pensaron que iba a ser algo. Mi abuela hizo una fiesta.
-
-Mueve los fideos con los palillos, sin comerlos.
-
-—Los de rango E no sirven para pelear. Sirven para cargar cosas en las Puertas de rango D y C, para los gremios chicos. Te pagan por día. —Se mira el vendaje de los nudillos—. Hoy un goblin se metió por atrás de la fila y me tocó a mí ponerme adelante, porque el que tenía que hacerlo se escondió. Casi me muero. Me pagaron cuarenta mil won y me dijeron que no vuelva si me voy a quejar.
-
-Lo dice sin enojo, cansado, mirando el río. Kase levanta la cabeza del platito, lo mira con la boca llena de atún y vuelve a comer.
-
-—Un viajero... —repite Dong-su, con media sonrisa triste—. Suena bien. ¿Y a dónde viaja uno, si se va de aquí?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1779 · SOLO LEVELING · DÍA 2 · 00:14   ║
-║ Seúl, Corea del Sur                          ║
-║ Parque junto al río Han · tienda 24 horas    ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.292.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: comiendo atún en el platito            ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Cha Hae-in vuelve a la una         ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1780)
+## COMANDO 1 (T1780)
 
 y con el rango que despertás es con el que te quedas?
 
-## RESPUESTA 2 (T1780)
+## RESPUESTA 1 (T1780)
 
 > y con el rango que despertás es con el que te quedas?
 
@@ -93,11 +50,11 @@ Mira sus zapatillas rotas.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1781)
+## COMANDO 2 (T1781)
 
 creo que si, nadie se queda igual para siempre
 
-## RESPUESTA 3 (T1781)
+## RESPUESTA 2 (T1781)
 
 > creo que si, nadie se queda igual para siempre
 
@@ -138,6 +95,47 @@ Después se acomoda la capucha y se aclara la garganta, un poco avergonzado.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1782)
+
+me llamo Facundo Morelli
+
+## RESPUESTA 3 (T1782)
+
+> me llamo Facundo Morelli
+
+> —Me llamo Facundo Morelli.
+
+—Pa... —Dong-su lo intenta y se traba—. Pa-kun-do.
+
+Se ríe solo de lo mal que le salió, con una risa corta, de verdad, que le dura un segundo más de lo que esperaba.
+
+—Perdón. Fa-cun-do. —Lo repite despacio, con cuidado, como si no quisiera romperlo—. Facundo. No es de aquí, ¿verdad? Suena a lejos.
+
+Se pone de pie. Junta el vaso de ramyeon y los palillos, los tira en el tacho de basura de la tienda y se guarda la credencial en el bolsillo de adentro de la campera, con cuidado, aunque diga que no sirve.
+
+—Yo me llamo Han Dong-su. Bueno, ya lo viste en la tarjeta. —Mira la hora en el celular rajado—. Tengo que volver. Mi abuela se despierta si llego muy tarde, y después no se vuelve a dormir y se preocupa.
+
+Kase se levanta de al lado de su pie y vuelve a ti.
+
+Dong-su se queda parado junto a la mesa, con las manos en los bolsillos, mirando el río una vez más. Después te mira, un poco incómodo, como si no supiera bien cómo se despide uno de alguien así.
+
+—Yo vengo aquí casi todas las noches, después de las Puertas. —Se encoge de hombros—. Si sigues por la ciudad... no sé. Por si quieres hablar otra vez.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1782 · SOLO LEVELING · DÍA 2 · 00:24   ║
+║ Seúl, Corea del Sur                          ║
+║ Parque junto al río Han · tienda 24 horas    ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.292.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: a tus pies                             ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Cha Hae-in vuelve a la una         ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 00:21. Facundo: "Creo que sí. Nadie se queda igual para siempre." Dong-su lo repite, se alivia. Kase se sienta junto a su pie, mirando el río (no lo hace con nadie). Dong-su acerca la mano sin tocarlo y sonríe de verdad. "Perdón. Te conté toda mi vida y ni siquiera sé cómo te llamas."
+ESTADO AL CIERRE: Día 2 00:24. Facundo se presenta. Dong-su: "Pa-kun-do", se ríe, lo corrige. "Suena a lejos." Se levanta, tira el vaso, guarda la credencial. Tiene que volver: su abuela se despierta y se preocupa. "Yo vengo aquí casi todas las noches, después de las Puertas. Si sigues por la ciudad... Por si quieres hablar otra vez." Kase volvió a los pies de Facundo.

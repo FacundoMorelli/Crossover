@@ -17,3 +17,5 @@ ESTADO: personaje no canónico.
 QUÉ SABE DE FACUNDO (T1779): que dice ser viajero, no cazador.
 - T1780 · Explica: el maná que despiertas es para siempre; salvo el "segundo despertar" (lotería). Celular viejo de pantalla rajada: nota pública de Sung Jinwoo reevaluado E→S ("el cazador más débil del mundo"); "Todos los de rango E del país lo leímos cien veces." "¿Tú crees que la gente puede cambiar lo que es? ¿O lo que te toca, te toca?"
 - T1781 · Facundo: "Creo que sí. Nadie se queda igual para siempre." Lo repite bajito; se alivia. Kase se le sienta al lado; acerca la mano vendada sin tocarlo, sonríe de verdad. "Perdón. Te conté toda mi vida y ni siquiera sé cómo te llamas."
+- T1782 · Facundo: "Me llamo Facundo Morelli." "Pa-kun-do", se ríe de verdad; "Fa-cun-do... No es de aquí, ¿verdad? Suena a lejos." Vive con su abuela (se despierta si llega tarde y se preocupa). "Yo vengo aquí casi todas las noches, después de las Puertas. Si sigues por la ciudad... no sé. Por si quieres hablar otra vez."
+QUÉ SABE DE FACUNDO (T1782): nombre Facundo Morelli; viajero; no es cazador.
