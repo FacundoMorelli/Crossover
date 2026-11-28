@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1749)
-
-salgo y uso el ki para vigilar a hughes
-
-## RESPUESTA 1 (T1749)
-
-> salgo y uso el ki para vigilar a hughes
-
-Sales. Hughes cierra la puerta detrás de ti con un clic suave. Lo oyes, del otro lado, levantar la carpeta del piso.
-
-Bajas la escalera de mármol, cruzas el vestíbulo y sales a la noche por la escalinata de piedra. Los guardias de la puerta ni te miran: tienes el permiso en el bolsillo y la cara de alguien que ya pasó una vez.
-
-Te sientas en un banco de hierro de la plaza de enfrente, bajo un farol de gas, con el cuartel general delante y Kase acomodado en tus rodillas. Cierras los ojos.
-
-Abres el ki.
-
-El edificio se enciende por dentro, como una colmena. Cientos de presencias: guardias aburridos, oficiales que terminan su turno, un cocinero en el sótano, un general viejo dormido en un sillón del segundo piso. Y en el tercero, en la oficina del fondo, una que ya conoces: tibia, cansada, inquieta, que se mueve de un lado a otro entre papeles, que se detiene, que vuelve a moverse. Hughes.
-
-Lo dejas ahí, en el centro de todo, y esperas.
-
-Las campanas de una iglesia dan las siete. Las ocho. La plaza se vacía. Pasa un tranvía, el último, casi vacío. Un perro olfatea tus zapatos y sigue de largo. Kase lo mira con desprecio.
-
-Hughes no se va. Se mueve en la oficina. Escribe. Tira papeles a la basura. A las nueve sale al pasillo, baja al segundo piso, entra en una sala grande, llena de presencias dormidas de papel —un archivo—, se queda ahí casi una hora, sube otra vez. A las diez menos cuarto, vuelve a bajar. Más rápido. Con algo en las manos. Se le acelera el corazón. Lo sientes desde la plaza, como un tambor chiquito.
-
-Y entonces aparecen las otras.
-
-Primero, una. No entra por ninguna puerta: aparece en el pasillo del segundo piso, como si hubiera estado ahí desde siempre. Es fría. Fría como un pozo. Tiene forma de mujer, pero adentro no es una mujer: es una piedra. Una piedra pequeña y roja en el centro del pecho, y dentro de la piedra, apretadas, miles de presencias humanas, diminutas, que gritan sin sonido, todas a la vez. Se mueve sin apuro hacia el archivo. Hacia Hughes.
-
-Después, otra. Afuera. En la calle lateral del cuartel, cerca de la esquina donde hay una cabina telefónica pintada de verde. Es igual de fría, con la misma piedra roja y los mismos miles de gritos adentro, pero la forma se le mueve: es un hombre, después una mujer, después un chico, después otra vez una mujer. Una mujer joven, de pelo corto, con un vestido. Se queda quieta junto a la cabina. Esperando.
-
-En el archivo, Hughes se da vuelta de golpe. Siente algo. No como tú: con los años, con el oficio, con la nuca. Deja caer lo que tenía en las manos. Se lleva la mano al cinturón, donde guarda los cuchillos.
-
-La primera presencia entra en el archivo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1749 · FULLMETAL · DÍA 1 · 21:47       ║
-║ Ciudad Central, Amestris, 1914               ║
-║ Plaza frente al cuartel general (banco)      ║
-║ NIVEL 33 · EXP 461.130/480.000               ║
-║ FRAGMENTOS 289.378 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus rodillas                        ║
-║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
-║ OBJETIVO: Hughes, esta noche                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1750)
+## COMANDO 1 (T1750)
 
 me teletransporto a hughes en frente a el de espaldas
 
-## RESPUESTA 2 (T1750)
+## RESPUESTA 1 (T1750)
 
 > me teletransporto a hughes enfrente de él de espaldas
 
@@ -128,11 +77,11 @@ Detrás de ti, Hughes levanta el cuchillo.
 
 ---
 
-## COMANDO 3 (T1751)
+## COMANDO 2 (T1751)
 
 la dejo inconsciente sin lastimar a hughes
 
-## RESPUESTA 3 (T1751)
+## RESPUESTA 2 (T1751)
 
 > la dejo inconsciente sin lastimar a hughes
 
@@ -198,4 +147,61 @@ Se pone de pie. Se acomoda los anteojos con un dedo que tiembla un poco.
 
 ---
 
-ESTADO AL CIERRE: Día 1 21:48, archivo del 2.º piso. LUST INCONSCIENTE (sin daño), acostada boca arriba entre las estanterías (+25 Frag). Misión de copia emitida (Dedos-lanza). Hughes ileso; se agacha junto a ella, ve el uróboros; sin máscara: "Creo que hice la pregunta equivocada. ¿Qué es usted?" ENVY sigue afuera esperando en la cabina telefónica.
+## COMANDO 3 (T1752)
+
+soy un viajero, bueno por que te andan buscando?
+
+## RESPUESTA 3 (T1752)
+
+> soy un viajero, bueno por que te andan buscando?
+
+> —Soy un viajero. Bueno, ¿por qué te andan buscando?
+
+Hughes te mira un segundo largo. Después mira a Lust, dormida en el piso. Después la puerta del archivo, abierta, con el pasillo oscuro detrás.
+
+Se ríe. Bajito, sin ganas, por la nariz.
+
+—Un viajero. Claro. —Se pasa la mano por la cara—. Y yo soy un empleado de correo.
+
+Guarda el cuchillo en la funda del cinturón. Se agacha, junta del piso las hojas que se le cayeron cuando ella entró —un mapa doblado, una libreta con tapas negras, unos recortes de diario— y las aprieta contra el pecho, como antes la carpeta en la plaza.
+
+—Está bien. Me salvaste la vida. Eso te compra algunas respuestas. —Baja la voz, aunque no haya nadie más que una mujer dormida—. No todas.
+
+Se acerca a la mesa del fondo, bajo la lámpara verde, y desdobla el mapa. Amestris. El mismo círculo rojo que viste en la oficina, más prolijo, con más líneas.
+
+—Lior. —Pone el dedo sobre una marca—. Hace poco, una revuelta. Sangre. Ishval, hace quince años: la guerra, el exterminio. —Otra marca—. La masacre del Fuerte del Sur, la de Pendleton, la de Fisk. —Mueve el dedo de una a otra—. Todas, en los últimos cientos de años. Todas, en lugares donde murió mucha gente de golpe. Y todas, si las unes con una línea... —Pasa el dedo por el círculo entero— forman esto. Un círculo de transmutación del tamaño del país.
+
+Se queda mirando el mapa. Le tiembla un poco el dedo.
+
+—Alguien, desde hace siglos, está dibujando con sangre un círculo sobre Amestris. Y quien lo está dibujando está adentro del Ejército. Arriba. Muy arriba. —Levanta la vista hacia ti—. Por eso esa mujer vino por mí. No es una asesina común. Ya viste el tatuaje. Los chicos Elric me contaron de otro igual, en el Quinto Laboratorio.
+
+Dobla el mapa. Se lo guarda adentro de la chaqueta, contra el pecho, junto a la foto de Elicia.
+
+—No puedo contárselo a nadie de este edificio. No sé en quién confiar. Las líneas internas pueden estar escuchadas. —Mira hacia la puerta—. Hay una cabina telefónica pública en la calle lateral, a media cuadra. Tengo que llamar a Roy Mustang, en Ciudad del Este. Ahora. Antes de que manden a alguien más.
+
+Ya está caminando hacia la puerta. Se detiene en el umbral y se da vuelta, con la mano en el marco.
+
+—Gracias, señor Morelli. De verdad. —Mira a Lust una última vez—. ¿Puede quedarse con ella hasta que vuelva? Si se despierta... —No termina. Te mira de arriba abajo, y le sale una media sonrisa—. Bueno. Usted sabrá qué hacer.
+
+Y sale al pasillo oscuro, rápido, con el mapa apretado contra el pecho, hacia la escalera.
+
+Hacia la calle. Hacia la cabina verde.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1752 · FULLMETAL · DÍA 1 · 21:52       ║
+║ Ciudad Central, Amestris, 1914               ║
+║ Cuartel general, archivo del 2.º piso        ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.403 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tu brazo                            ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: Hughes, esta noche                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 21:52, archivo del 2.º piso. Hughes le explicó el patrón: masacres (Lior, Ishval, Fuerte del Sur, Pendleton, Fisk) forman un círculo de transmutación del tamaño del país; alguien muy arriba en el Ejército; Lust lleva el tatuaje como el del Quinto Laboratorio. No confía en las líneas internas. SALIÓ HACIA LA CABINA TELEFÓNICA de la calle lateral para llamar a Mustang (donde espera ENVY con forma de mujer joven de pelo corto — canon: Gracia). Le pidió a Facundo quedarse con Lust inconsciente. Hughes ya bajando la escalera.
