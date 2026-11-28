@@ -10,3 +10,4 @@
 - BUCCANEER y el GENERAL FU: salvados en el Día Prometido (Facundo detiene la espada de Bradley sobre Fu y cura el pecho de Buccaneer) (canon: mueren).
 - KIMBLEE, SLOTH, GLUTTONY, PRIDE (vuelve a bebé), PADRE: caen en el Día Prometido.
 - SCAR: mata a Bradley, como en el canon.
+- T1763 · PINAKO: abrazo corto; "si se te rompe algo de metal, ya sabes dónde está el taller". WINRY: le regala una llave inglesa chiquita, "por las dudas". Tumba nueva de Van Hohenheim junto a la de Trisha.

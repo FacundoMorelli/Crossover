@@ -20,3 +20,4 @@ ENCUENTROS:
 - T1744 · "¡El teniente coronel Hughes! ¡Él es muy bueno, señor Morelli! ¡Nos ayudó mucho!"
 - T1745 · "Gracias por prestármelo, señor Morelli. Y gracias, Kase. ¿Va a volver? ¿Va a pasar por acá otra vez?" Saluda desde la ventana.
 - T1762 · (sim) Pregunta si los homúnculos tienen alma. Da su alma para devolverle el brazo a Ed; recupera su cuerpo de carne (flaco) gracias a Ed. Se deja trepar por un gatito en Resembool.
+- T1763 · Llora comiendo en la cena. Abraza a Facundo con su cuerpo de carne; besa a Kase en la cabeza.

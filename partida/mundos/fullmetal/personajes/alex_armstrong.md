@@ -11,3 +11,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: en Central, cerca de los hermanos.
+- T1763 · Abraza a Facundo sin camisa, llorando: "¡Una gratitud transmitida en la familia Armstrong por generaciones!"

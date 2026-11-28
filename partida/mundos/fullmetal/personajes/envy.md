@@ -16,3 +16,4 @@ ENCUENTROS:
 - T1753 · Día 1 21:54 · Junto a la cabina con forma de mujer joven de pelo castaño corto ondulado, cara dulce de ama de casa (Gracia), esperando a Hughes. VENCIDO: Facundo lo toca en la nuca sin que lo vea; al caer vuelve a su forma real: pelo verde negro larguísimo en mechones, ropa negra ajustada sin mangas, falda corta, cuerpo andrógino, uróboros rojo en el muslo; piel fría, liviano. Llevado al archivo, acostado junto a Lust. ESTADO: inconsciente. No vio a Facundo.
 - T1758 · Noche en la iglesia: 02:15 abre un ojo violeta y empieza a sonreír; 05:30 alcanza a decir "gusan..."; las dos veces Facundo lo vuelve a dormir. VIO a Facundo un instante (02:15 y 05:30). ESTADO: inconsciente.
 - T1762 · (sim) Sellado vivo y dormido junto a Lust en la celda de granito. ESTADO: vivo, dormido, sellado (canon: se arranca la piedra en el Día Prometido).
+- T1763 · Sigue dormido en la celda de granito.

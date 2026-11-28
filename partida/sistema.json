@@ -1,7 +1,7 @@
 {
-  "turno": 1762,
+  "turno": 1763,
   "mundo_actual": "fullmetal",
-  "fecha_local": "Fullmetal Alchemist: Día 33, 1914 (dos días después del Día Prometido, que fue el Día 31 — corrección del jugador T1762: todo se resolvió en un mes)",
+  "fecha_local": "Fullmetal Alchemist: Día 36, 1914",
   "hora": "atardecer (Resembool)",
   "edad": 18,
   "nivel": 34,
@@ -752,6 +752,21 @@
       "objeto": "Permiso provisorio de permanencia de Amestris (30 días)",
       "cantidad": 1,
       "detalle": "T1747, Fullmetal. Firmado por el teniente coronel Maes Hughes, sello violeta con el dragón alado. \"Portador: Facundo Morelli — Viajero\". En la mano de Facundo."
+    },
+    {
+      "objeto": "Pan de manteca envuelto en tela (de Gracia Hughes)",
+      "cantidad": 1,
+      "detalle": "T1763, todavía tibio."
+    },
+    {
+      "objeto": "Llave inglesa chiquita (regalo de Winry Rockbell)",
+      "cantidad": 1,
+      "detalle": "T1763, \"por las dudas\"."
+    },
+    {
+      "objeto": "Formulario 17-B de Hughes (copia), dirección: \"En todas partes.\"",
+      "cantidad": 1,
+      "detalle": "T1763, Hughes lo terminó; archivará el original."
     }
   ],
   "copias": [
@@ -2514,7 +2529,7 @@
       "naruto_salida": "Día 10 ~00:00 (T1440).",
       "dragonball_salida_T1680": "Salida sábado año 778 19:40, colina del parque central. Corre al ritmo de Facundo.",
       "chainsawman": "Llegada Día 1 (fines de oct. 1997) 19:30. Salida Día 9 18:40 (T1737), azotea del edificio de Aki, Tokio. Corre al ritmo de Facundo. MISIÓN DE MUNDO NO CUMPLIDA (Aki vivo tras el Pistola; el ataque del Pistola es en nov-dic 1997).",
-      "fullmetal": "Llegada Día 1, 1914, Ciudad Central ~17:30 (T1738). Día Prometido el Día 31 (corrección del jugador: todo resuelto en ~1 mes). Ahora Día 33. Corre al ritmo de Facundo."
+      "fullmetal": "Llegada Día 1, 1914 (T1738). Día Prometido Día 31. Salida Día 36, atardecer, colina de la tumba de Trisha en Resembool (T1763). Corre al ritmo de Facundo."
     },
     "puerta_abierta": true,
     "historial_misiones": {

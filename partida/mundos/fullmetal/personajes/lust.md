@@ -17,3 +17,4 @@ ENCUENTROS:
 - T1751 · VENCIDA: inconsciente, sin daño, por un toque de Facundo en la nuca (no lo vio moverse). Acostada boca arriba en el archivo. ESTADO: inconsciente.
 - T1758 · Noche en la iglesia abandonada: a las 04:00 empieza a despertarse (respira más hondo, la uña tiembla); Facundo la vuelve a dormir. ESTADO: inconsciente frente al altar.
 - T1762 · (sim) Sellada viva y dormida en una celda de granito sin puertas transmutada por Facundo bajo la iglesia del norte. Sigue ahí al terminar el Día Prometido. ESTADO: viva, dormida, sellada (canon: Mustang la mata).
+- T1763 · Facundo la visita: sigue dormida en la celda de granito. Nadie más sabe.

@@ -13,3 +13,4 @@ ESTADO: en casa, bien. MENOR.
 - T1757 · "Papi, me aprietas." A Facundo: "Hola. ¿El gatito es tuyo? ¿Muerde?" Kase baja solo, le huele el conejo y los dedos y le apoya la frente en la palma; Elicia se ríe a carcajadas.
 - T1758 · Le da un beso a Kase en la cabeza.
 - T1762 · (sim) Llora el primer día en Resembool; el segundo descubre las ovejas. Persigue a Kase por el campo.
+- T1763 · Dormida en brazos de su papá; se despierta un segundo, Kase le apoya la frente en la palma; sonríe.

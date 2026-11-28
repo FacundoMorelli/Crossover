@@ -19,3 +19,4 @@ ENCUENTROS:
 - T1744 · Sabe (por Facundo) que no tiene papeles. "¿Cruzaste la frontera sin papeles? ¿Por el desierto? ¿O por las montañas de Briggs? Porque por Briggs nadie pasa sin que la Reina de Hielo lo..." "Si va a Investigaciones, voy yo también. Quiero escuchar cómo cruzó la frontera." (12 puntos en la cabeza).
 - T1745 · Protesta ("¡violación de mis derechos como Alquimista Estatal!"); Brosh lo arrea adentro.
 - T1762 · (sim) Grita diez minutos cuando le cuentan. Le da el último golpe a Padre. Da su Puerta (su alquimia) para recuperar el cuerpo de Al. No perdona todavía a Hohenheim. En Resembool, en el taller con Winry.
+- T1763 · Camina con Facundo por el campo: ya no puede hacer alquimia, "tengo dos piernas y dos brazos y un hermano con cuerpo, y con eso alcanza". "Si algún día veo a un tipo con el pelo pintado y un gato en un tren, voy a saber que eres tú."

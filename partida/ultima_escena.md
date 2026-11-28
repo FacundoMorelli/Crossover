@@ -3,65 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1760)
-
-son homúnculos, creados por alguien muy arriba en el ejército
-
-## RESPUESTA 1 (T1760)
-
-> son homúnculos, creados por alguien muy arriba en el ejército
-
-> —Son homúnculos. Creados por alguien muy arriba en el Ejército.
-
-Nadie dice nada.
-
-Las palomas del campanario se mueven arriba, entre las vigas. Una pluma baja despacio, girando, por la luz gris que entra por el techo roto, y cae sobre el pelo negro de Lust.
-
-—Homúnculos. —Mustang lo dice como quien prueba una palabra en un idioma muerto—. Los de los tratados antiguos. Los hombrecitos del frasco. La vida artificial.
-
-Hughes se apoya en el respaldo de un banco podrido, que cruje.
-
-—Eso es un cuento de alquimistas, Roy. Un ejercicio teórico. Lo leímos en la academia.
-
-—También era un cuento lo de meter un alma en una armadura. —Mustang no aparta la vista de Lust—. Y hay un chico de catorce años en el hospital de Central que es exactamente eso.
-
-Se agacha, por fin. Despacio. Queda en cuclillas a un metro de ella, con la mano derecha desnuda apoyada en la rodilla, sin tocarla. Mira el tatuaje del pecho de cerca. La serpiente que se muerde la cola. La estrella en el medio.
-
-—Uróboros —murmura—. El símbolo de lo que no tiene principio ni fin. Lo que se come a sí mismo y nunca muere. —Levanta la vista hacia ti—. ¿Por eso Hughes pensó que se iba a sacar los cuchillos como espinas? ¿Por eso no la pueden matar?
-
-Hawkeye da un paso adelante, sin bajar la pistola. Es la primera vez que habla sin que nadie le pregunte.
-
-—"Alguien muy arriba en el Ejército". —Lo repite con la voz baja, controlada, demasiado controlada—. Señor Morelli, el teniente coronel Hughes encontró un círculo de transmutación dibujado con sangre sobre todo el país. Con Ishval adentro. —Una pausa mínima—. Yo estuve en Ishval.
-
-Mustang se endereza. Se sacude la rodilla del pantalón. Cuando te mira, ya no hay ironía en la cara. No hay nada. Solo los ojos negros, quietos, muy serios.
-
-—"Muy arriba" —dice—. En el Ejército de Amestris, "muy arriba" son unas veinte personas. Generales. El alto mando. —Da un paso hacia ti—. Y una sola por encima de todas ellas.
-
-Se detiene a dos metros del banco. Kase lo mira desde tus rodillas.
-
-—¿Cuánto de arriba, viajero?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1760 · FULLMETAL · DÍA 2 · 08:18       ║
-║ Afueras de Central, iglesia abandonada       ║
-║ NIVEL 33 · EXP 461.130/480.000               ║
-║ FRAGMENTOS 289.428 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus rodillas                        ║
-║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
-║ OBJETIVO: Lust y Envy, con Mustang           ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1761)
+## COMANDO 1 (T1761)
 
 el führer bradley es uno de ellos
 
-## RESPUESTA 2 (T1761)
+## RESPUESTA 1 (T1761)
 
 > el führer bradley es uno de ellos
 
@@ -117,11 +63,11 @@ Hughes da un paso hacia el banco.
 
 ---
 
-## COMANDO 3 (T1762)
+## COMANDO 2 (T1762)
 
 simula el resto de este arco hasta que complete la misión ayudando en todo
 
-## RESPUESTA 3 (T1762)
+## RESPUESTA 2 (T1762)
 
 > simula el resto de este arco hasta que complete la misión ayudando en todo
 
@@ -220,4 +166,62 @@ Toma un sorbo de café.
 
 ---
 
-ESTADO AL CIERRE (CORREGIDO T1762b: todo se resolvió en ~1 mes; Día Prometido = Día 31 de 1914; ahora Día 33): dos días después del Día Prometido. Porche de la casa Rockbell en Resembool, atardecer. MISIÓN DE MUNDO CUMPLIDA (Hughes vivo). Nivel 34. Hughes, con dos cafés, sin máscara: "El formulario 17-B sigue en mi oficina con 'a confirmar'." "Te quedan unos días de permiso, viajero. ¿Qué piensas hacer?" Elicia persigue a Kase. Al con cuerpo de carne. Lust y Envy siguen dormidos y vivos en la celda de granito bajo la iglesia del norte.
+## COMANDO 3 (T1763)
+
+simula unos días y despidiéndome de todos
+
+## RESPUESTA 3 (T1763)
+
+> simula unos días y despidiéndome de todos
+
+Día 33, a la noche. Cenan todos en la casa Rockbell: los Hughes, los Elric, Winry, Pinako y tú, apretados alrededor de una mesa de madera que se queda chica. Gracia hace el quiche. Pinako saca una botella de algo que guardaba desde antes de que nacieran los chicos. Ed come como si le debieran algo. Al come despacio, mirando la comida, oliéndola, probando cada cosa con los ojos cerrados, y a mitad de la cena se le caen las lágrimas en el plato sin que se dé cuenta. Nadie dice nada. Winry le pasa una servilleta.
+
+Kase pasa la cena en las rodillas de Elicia, que no lo suelta ni para comer.
+
+Día 34. Ed te lleva a caminar por el campo, solo, con las manos en los bolsillos. Ya no puede hacer alquimia. Lo dice en voz alta por primera vez, mirando el cielo, y se ríe, y dice que está bien, que tiene dos piernas y dos brazos y un hermano con cuerpo, y que con eso alcanza. Después te pregunta, de reojo, adónde vas cuando te vas. Antes de que contestes, dice que no importa. Que si algún día ve a un tipo con el pelo pintado y un gato en un tren, va a saber que eres tú.
+
+Día 35. Ciudad Central. Mustang y Hawkeye te esperan en una oficina nueva, más grande, con olor a pintura fresca. Mustang tiene un ascenso en camino y lo dice con una cara de fastidio que no engaña a nadie. Te da la mano. Después, sin soltarte, te dice que si algún día vuelves y él es Führer, no vas a necesitar papeles. Hawkeye no dice nada. Te hace el saludo militar, la mano en la sien, más derecha que nunca, y lo sostiene hasta que sales por la puerta.
+
+En el pasillo, el mayor Armstrong te abraza sin aviso, sin camisa, llorando a mares, y te levanta del piso. "¡Una gratitud transmitida en la familia Armstrong por generaciones!". Ross y Brosh te despiden en la escalera. Brosh le pide a Kase que le deje tocarle la cola, una vez. Kase lo deja. Brosh casi llora.
+
+Esa tarde vas solo a la iglesia del norte. Bajas al sótano. La celda de granito sigue ahí, sin puertas, sin costuras. Con el ki, adentro: Lust y Envy, dormidos, con las piedras latiendo despacio. Nadie más sabe que la celda tiene algo adentro. Solo tú puedes abrirla.
+
+Día 36. Resembool otra vez, al atardecer.
+
+Pinako te da un abrazo corto, huesudo, con olor a tabaco, y te dice que si se te rompe algo de metal, ya sabes dónde está el taller. Winry te da una llave inglesa chiquita, "por las dudas". Al te abraza fuerte con su cuerpo de carne, flaco, cálido, y le da un beso a Kase en la cabeza, y Kase lo deja, y Al se ríe llorando.
+
+Gracia te pone en las manos un paquete envuelto en tela: pan de manteca, todavía tibio.
+
+Hughes te acompaña hasta la tranquera, al final del camino de tierra. Lleva a Elicia en brazos, dormida, con el conejo de trapo colgando. Antes de despedirse, saca del bolsillo de la camisa un papel doblado. Lo abres. Es el formulario 17-B. Abajo, en el casillero de la dirección, donde decía "A confirmar", hay algo tachado y, al lado, escrito con su letra rápida y prolija:
+
+"En todas partes."
+
+—Lo terminé anoche —dice, con la sonrisa de siempre—. Lo archivo cuando vuelva a la oficina. Para que conste.
+
+Elicia se despierta un segundo. Ve a Kase en tu hombro. Le estira la mano. Kase le apoya la frente en la palma, como la primera noche. Elicia sonríe, dormida, y se vuelve a dormir.
+
+—Gracias, Facundo. —Hughes te pone la mano libre en el hombro, firme—. Por esto. —Mira a su hija—. Por todo esto.
+
+Se da vuelta y camina hacia la casa, despacio, con Elicia en brazos, por el camino de tierra, con la luz naranja del atardecer en la espalda. En el porche, Gracia lo espera con un farol prendido.
+
+La colina detrás de la casa Rockbell, donde está la tumba de Trisha y, al lado, una más nueva, con un nombre recién tallado: Van Hohenheim. El sol baja sobre los campos de Resembool. Kase está en tu hombro. En las manos tienes un pan tibio, una llave inglesa chiquita y un formulario que dice "En todas partes".
+
+Solo falta abrir la puerta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1763 · FULLMETAL · DÍA 36 · 1914       ║
+║ Resembool, colina de la tumba de Trisha      ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.815 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (Fullmetal)        ║
+║ OBJETIVO: Abrir la puerta (viaje libre)      ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Fullmetal Día 36, atardecer, colina de la tumba de Trisha (y la nueva de Hohenheim) en Resembool. Despedidas hechas (cena en lo de los Rockbell; Ed sin alquimia; Mustang y Hawkeye en Central; Armstrong; Ross y Brosh; Pinako; Winry: llave inglesa; Al; Gracia: pan de manteca; Hughes: formulario 17-B con dirección "En todas partes"). Lust y Envy siguen sellados vivos en la celda de granito bajo la iglesia del norte (solo Facundo puede abrirla; nadie más sabe). Falta abrir la puerta.

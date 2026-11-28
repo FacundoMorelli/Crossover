@@ -18,3 +18,4 @@ ENCUENTROS:
 - T1760 · Sabe (por Facundo): homúnculos, alguien muy arriba. "El teniente coronel Hughes encontró un círculo de transmutación dibujado con sangre sobre todo el país. Con Ishval adentro. Yo estuve en Ishval." (voz demasiado controlada).
 - T1761 · Sabe (por Facundo) que Bradley es un homúnculo. Baja la pistola un centímetro (casi pierde el control); la guarda; respira hondo.
 - T1762 · (sim) Quema las notas del plan. Lleva a Hughes a Resembool en el baúl de su auto. Día Prometido: junto a Mustang ciego; llora cuando él recupera la vista.
+- T1763 · Saludo militar sostenido hasta que Facundo sale.

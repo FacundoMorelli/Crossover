@@ -17,3 +17,4 @@ ENCUENTROS:
 - T1744 · Sabe (por Facundo) que no tiene documentos. "Le creo que no viene a hacerle daño a nadie. Al le confía su gato, y eso para mí dice bastante." "Tengo que pedirle que me acompañe al cuartel general. No está arrestado. Es un trámite. La Oficina de Investigaciones se encarga de los extranjeros sin papeles. Le dan un permiso provisorio. Hoy está de guardia el teniente coronel Hughes, que es un hombre muy razonable. Va a querer mostrarle fotos de su hija." A Ed: "Tienes doce puntos en la cabeza, Edward." "¿Me acompaña, señor Morelli? Son diez minutos caminando."
 - T1745 · Deja a Brosh con los Elric. Lleva a Facundo al cuartel general (muestra su identificación).
 - T1748 · Se despide: "Bienvenido a Central, señor Morelli. Que tenga buena estadía." Vuelve al hospital.
+- T1763 · Lo despide en la escalera del cuartel.
