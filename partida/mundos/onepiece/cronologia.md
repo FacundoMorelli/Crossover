@@ -197,3 +197,4 @@
 - Día ~206 · (canon del timeskip) Vegapunk termina de reprogramar a Kuma; el Gobierno Mundial se lo entrega a los Dragones Celestiales como esclavo en Mary Geoise.
 - Día ~227 08:10 · (por Facundo) Kuma es sacado de Mary Geoise delante de su dueño, un Dragón Celestial; llevado a Momoiro.
 - Día ~227 · (en paralelo) Jewelry Bonney presa en un buque prisión de la Marina rumbo a la Red Line/Mary Geoise (canon del timeskip: Bonney capturada por la Marina).
+- Día ~167 · (canon del timeskip, por Dragon) Sengoku se retira; Akainu es el nuevo Almirante de Flota.

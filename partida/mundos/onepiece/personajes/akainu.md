@@ -18,3 +18,4 @@ ESTADO: activo
 - T904 · Avanza al borde del hielo partido, el agua hierve.
 - T905 · No cruza el agua. "¡Borsalino, rómpela!" Ordena bloquear la boca de la bahía con 20 buques.
 - T906 · Se queda solo en la orilla viendo salir a la flota.
+- T1882 · (por Dragon) Almirante de Flota desde hace ~2 meses (Sengoku retirado). Movilizado contra Ojos de Eclipse tras Mary Geoise.

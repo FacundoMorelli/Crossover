@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1879)
-
-tranquilo sanji
-
-## RESPUESTA 1 (T1879)
-
-> tranquilo sanji
-
-> —Tranquilo, Sanji.
-
-Sanji retrocede tres pasos de un salto, sin dejar de mirar a Kuma, y se choca de espaldas contra ti. Te agarra del brazo con las dos manos, temblando, y se esconde un poco detrás de tu hombro, del lado de Kase, que le bufa.
-
-—¡¿Tranquilo?! —Señala a Kuma con un dedo que le tiembla—. ¡¡Facundo, ese es el que me mandó aquí!! ¡¡El de Sabaody!! ¡¡El Shichibukai!! ¡¡Me puso la mano encima y me desperté en el cielo, volando sobre el mar, y caí aquí, en el medio de... de...!! —Hace un gesto desesperado hacia las seis okamas, que lo saludan con la mano, coquetas—. ¡¡DE ESTO!!
-
-Se le quiebra la voz.
-
-—¡¡Cinco meses!! ¡¡Y ahora está aquí, sentado, con... con una dama en la rodilla, diciéndome "hola"!!
-
-Bonney se ríe tanto que se dobla sobre la rodilla de su padre, agarrándose la panza.
-
-Kuma no se ríe. Se queda mirando a Sanji, desde arriba, con la cara tranquila. Después se agacha un poco, despacio, apoyando una mano en las baldosas, hasta que su cara enorme queda más cerca de la de Sanji. Sanji da otro paso atrás.
-
-—Lo siento —dice Kuma.
-
-Sanji se queda con la boca abierta.
-
-—En Sabaody, Kizaru iba a matarlos. A todos. Y yo ya sabía que me quedaba poco de mí. —La voz grave le sale despacio, como cuidando cada palabra—. No podía salvarlos de otra forma. Así que elegí, para cada uno, una isla donde pudiera sobrevivir. Y donde pudiera volverse más fuerte. —Hace una pausa—. A ti te mandé al lugar donde están las recetas del Attack Cuisine. Las noventa y nueve. Pensé que un cocinero... iba a querer aprenderlas.
-
-Sanji no dice nada. Se le cae un poco la mano del brazo.
-
-—No pensé —sigue Kuma, con algo que parece una disculpa muy honda, mirando a las okamas— en el resto de la isla.
-
-Silencio.
-
-Detrás, Ivankov suelta un "¡hee-haw!" ofendido.
-
-Sanji se queda quieto. Mira a Kuma. Mira a Bonney, que todavía se ríe. Mira a Dragon, de capa verde, que lo observa de brazos cruzados con una cara que no se entiende. Mira a Ivankov. Mira el castillo rosa.
-
-Después se da vuelta despacio hacia ti, todavía agarrado de tu brazo, con la cara confundida, sudada, la ceja enroscada temblando.
-
-—Facundo —dice, bajito—. ¿Qué está pasando? ¿Por qué Kuma habla? ¿Quién es ese de la capa verde que da miedo? ¿Y quién es la dama más hermosa del mundo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1879 · ONE PIECE · DÍA ~227 · 08:21    ║
-║ Isla Momoiro · Reino Kamabakka               ║
-║ Patio frente al castillo de Ivankov          ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 94% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, bufándole a Sanji        ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Sanji: "¿Qué está pasando?"        ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1880)
+## COMANDO 1 (T1880)
 
 ese es dragon y la chica es bonney la hija de kuma
 
-## RESPUESTA 2 (T1880)
+## RESPUESTA 1 (T1880)
 
 > ese es dragon y la chica es bonney la hija de kuma
 
@@ -137,11 +80,11 @@ Después se da vuelta hacia ti, con el cigarro nuevo ya prendido en la boca, y p
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1881)
+## COMANDO 2 (T1881)
 
 si, me quedo a comer, simula la fiesta
 
-## RESPUESTA 3 (T1881)
+## RESPUESTA 2 (T1881)
 
 > si, me quedo a comer, simula la fiesta
 
@@ -206,6 +149,65 @@ Todo el patio se queda en silencio. Las okamas. Ivankov, con una copa en la mano
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1882)
+
+eh, mierda, tanto me van a poner?
+
+## RESPUESTA 3 (T1882)
+
+> eh, mierda, tanto me van a poner?
+
+> —Eh... mierda. ¿Tanto me van a poner?
+
+Silencio.
+
+Después Bonney suelta una carcajada tan fuerte que se le cae crema de la boca sobre el diario, sobre tu cara dibujada. Se dobla sobre la rodilla de su padre, golpeando la mesa con la mano.
+
+—¡"¿Tanto me van a poner?"! —repite, entre lágrimas—. ¡Tres mil millones, y pregunta si es mucho!
+
+Las okamas se ríen. Ivankov se ríe con la cabeza hacia atrás, enorme, haciendo temblar las copas.
+
+Sanji no se ríe. Deja la bandeja en la mesa. Agarra el diario de las manos de Bonney, con cuidado, como si fuera de cristal, y mira el cartel. Mira la cifra. Se le cae el cigarro.
+
+—Tres mil doscientos millones —dice, bajito—. Luffy tiene trescientos. —Levanta la vista hacia ti, con la ceja enroscada temblando—. Cuando lo vea, va a llorar. De envidia. Y después va a querer pelear contigo para quitártela.
+
+Dobla el diario y se lo guarda en el bolsillo del pecho, sin pedir permiso.
+
+—Esto me lo quedo. Para mostrárselo.
+
+Pero Dragon no se ríe.
+
+Se acerca a la mesa principal despacio, desde los setos, con Kuma detrás. Se detiene a tu lado. Mira el diario en el bolsillo de Sanji. Después te mira a ti.
+
+—El dinero no importa —dice, bajo, para que lo escuchen solo los que están cerca—. Lo que importa es la última línea. —Hace una pausa—. "Movilización del Almirante de Flota". Sengoku se retiró hace dos meses. El nuevo Almirante de Flota es Sakazuki. Akainu.
+
+Kuma, detrás de él, se pone serio. Bonney deja de reírse.
+
+—Lo viste en Marineford —sigue Dragon—. Le quitaste a Ace del cadalso y no pudo tocarlo. Le paraste el volcán con algo que nadie vio. Lo dejaste solo en la orilla, viendo irse a la flota de Barbablanca. —Te mira a los ojos—. Akainu no olvida. Y no perdona. Y ahora tiene toda la Marina bajo su mano.
+
+Se queda callado un segundo.
+
+—No va a ir por ti. Sabe que no puede. Va a ir por todo lo que tengas cerca. —Mira a Kuma, a Bonney, a Sanji—. Por los que te rodean. Por los que quieres.
+
+Mira hacia el norte, hacia el mar, hacia donde queda Baltigo, y no dice el nombre. No hace falta.
+
+—¿Qué vas a hacer, Ojos de Eclipse?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1882 · ONE PIECE · DÍA ~227 · 18:43    ║
+║ Isla Momoiro · Reino Kamabakka               ║
+║ Patio de la fiesta, mesa principal           ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la mesa, mirando a Dragon           ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Dragon: "¿Qué vas a hacer?"        ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 18:40, patio de Momoiro, fiesta. (Simulado: Sanji cocina las recetas del rey; Bonney come como Luffy y llama a Sanji para verlo ondular; Kuma con ropa nueva de cuatro manteles, se toca el cuello; Ivankov baila y cambia sexos; Dragon y Kuma hablan aparte, Dragon se ríe una vez; Kase come el pescado a la manteca de Sanji y le roza los tobillos.) Al atardecer, un News Coo trae el diario: "¡ATAQUE A MARY GEOISE! 'OJOS DE ECLIPSE' SECUESTRA AL EX SHICHIBUKAI KUMA DELANTE DE UN DRAGÓN CELESTIAL" (dibujo de Facundo con gato y de Sabo; carruaje vacío). NUEVA RECOMPENSA: 3.200.000.000 berries; amenaza de primer orden; movilización del Almirante de Flota. Bonney: "Tres mil doscientos millones... Nunca vi un cartel con tantos ceros." Todos callan; Dragon lo mira.
+ESTADO AL CIERRE: Día ~227 18:43, patio de Momoiro. "Eh... mierda. ¿Tanto me van a poner?" Bonney y las okamas se ríen. Sanji guarda el diario ("Luffy tiene trescientos... va a llorar de envidia"). Dragon, en voz baja: lo que importa es "movilización del Almirante de Flota": Sengoku se retiró hace dos meses; el nuevo Almirante de Flota es AKAINU. "Akainu no olvida. Y no perdona... No va a ir por ti. Sabe que no puede. Va a ir por todo lo que tengas cerca... Por los que quieres." Mira hacia Baltigo (Robin). "¿Qué vas a hacer, Ojos de Eclipse?"
