@@ -32,3 +32,4 @@
 - T1804 · CHOI JONG-IN no le siente maná a Facundo; dice que no figura en ningún registro de la Asociación (lo hizo averiguar esa mañana) y que no tiene documentos (deducción/averiguación).
 - T1805 · ASOCIACIÓN (Vigilancia, Woo Jinchul) sabe por la foto pública y por sus registros que Facundo no figura en ningún padrón. CHOI sabe por Facundo su nombre y que es novio de Cha.
 - T1806 · MEDICIÓN OFICIAL (informal) de la Asociación: Facundo 0 maná, "NO DESPERTADO", sin traza residual (Velo). Lo saben Woo Jinchul, el empleado, Choi y Cha. Woo nota que no tiene ni la traza residual normal (rareza).
+- T1807 · WOO JINCHUL, CHOI, CHA saben (por Facundo) que dice venir "de muy lejos, caminando". Woo lo deja pasar. CHA es su garante para residencia provisoria.

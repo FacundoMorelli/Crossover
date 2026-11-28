@@ -1806,3 +1806,4 @@ T1803 · SOLO LEVELING · Gremio de Cazadores · Va con Cha al gremio; prensa en
 T1804 · SOLO LEVELING · Gremio de Cazadores · Oficina de Choi. Tasación. "¿Quién es usted?"
 T1805 · SOLO LEVELING · Gremio de Cazadores · "Soy el novio de Hae-in." La Asociación no lo encuentra en ningún registro; Woo Jinchul viene a medirle el maná.
 T1806 · SOLO LEVELING · Gremio de Cazadores · Medición de la Asociación: 0, no despertado. Woo Jinchul: "¿De qué país viene y cómo llegó?"
+T1807 · SOLO LEVELING · Gremio de Cazadores · "Llegué caminando." Woo deja pasar. Residencia provisoria con Cha como garante. Prensa en las dos puertas.

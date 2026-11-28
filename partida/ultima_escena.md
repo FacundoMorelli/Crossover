@@ -3,80 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1804)
-
-vayamos por atrás por ahora
-
-## RESPUESTA 1 (T1804)
-
-> vayamos por atrás por ahora
-
-> —Vayamos por atrás, por ahora.
-
-Cha Hae-in asiente y le dice al taxista que dé la vuelta a la manzana. El taxi se mete por una calle lateral, angosta, y baja por una rampa de cemento hasta un estacionamiento subterráneo con luces blancas y olor a aceite de motor. El fotógrafo de la esquina se queda mirando el taxi doblar, con la cámara a medio levantar, demasiado tarde.
-
-Un guardia de seguridad, en la cabina de la barrera, reconoce a Cha Hae-in y levanta la barrera sin preguntar. A ti te mira dos veces. A Kase, tres.
-
-Ascensor de servicio, de metal, sin espejos. Cha Hae-in aprieta el último botón. Va callada, derecha, con las manos juntas delante, como una soldado. A mitad de camino, sin mirarte, te busca la mano y te la aprieta una vez, fuerte. Después la suelta.
-
-Piso treinta y ocho. Las puertas se abren a un pasillo de alfombra gris y paredes blancas, silencioso, con fotos enmarcadas de incursiones famosas del gremio. Dos empleadas de traje, junto a una fotocopiadora, dejan de hablar de golpe cuando los ven pasar.
-
-Al fondo, una puerta doble de madera oscura. Cha Hae-in golpea dos veces.
-
-—Adelante.
-
-La oficina es enorme, con una pared entera de vidrio que da a la avenida, a la ciudad gris, a la valla con los periodistas allá abajo, chiquitos como hormigas. Un escritorio largo de madera negra. Estantes con trofeos, libros, una piedra de maná del tamaño de una pelota dentro de una vitrina.
-
-Choi Jong-In está de pie frente al ventanal, de espaldas, con las manos detrás. Traje gris claro impecable, pelo engominado hacia atrás. Se da vuelta despacio. Se acomoda los anteojos de marco dorado con un dedo.
-
-Lo miras, y el Sistema hace lo suyo.
-
-```
-╔════════════════════════════════════════╗
-║ CHOI JONG-IN                           ║
-║ Maestro del Gremio de Cazadores        ║
-║ PODER: Magia de fuego (meteoritos,     ║
-║        lanzas y muros de fuego)        ║
-║ AMENAZA: BAJA                          ║
-║ Diferencia estimada: tú x75 sobre él   ║
-║ COPIABLE · MISIÓN: MEDIA               ║
-╚════════════════════════════════════════╝
-```
-
-Choi te mira de arriba abajo. El pelo blanco y azul. La cicatriz. Los tatuajes del cuello. El sobretodo negro. El gato. Se toma su tiempo. Entrecierra los ojos detrás de los cristales, y algo en su cara cambia, apenas: la cara de un mago de rango S que intenta medir el maná de alguien y no encuentra nada. Nada en absoluto. Como si mirara una pared.
-
-—Vicemaestra —dice, sin dejar de mirarte—. Siéntese, por favor.
-
-Cha Hae-in no se sienta. Se queda de pie, a tu lado.
-
-Choi la mira un segundo, y vuelve a ti. Se acomoda otra vez los anteojos.
-
-—Así que usted es el joven que tiene a toda Corea hablando desde las seis de la mañana. —Lo dice tranquilo, educado, con una cortesía tan perfecta que corta—. Mi vicemaestra rechazó durante seis años todas las propuestas de todos los cazadores, actores y empresarios de este país. Y en dos días, un chico sin maná, sin nombre en ningún registro de la Asociación, sin documentos... —hace una pausa— aparece en la portada de todos los portales, besándola en un mercado.
-
-Rodea el escritorio, despacio, y se detiene frente a ti, a un paso. Es casi tan alto como tú.
-
-—Así que voy a preguntarlo una sola vez, con todo respeto. —Te mira a los ojos, al rojo, al azul—. ¿Quién es usted?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1804 · SOLO LEVELING · DÍA 3 · 11:12   ║
-║ Seúl, Corea del Sur                          ║
-║ Gremio de Cazadores · piso 38, oficina Choi  ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirando a Choi           ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Choi quiere saber quién eres       ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1805)
+## COMANDO 1 (T1805)
 
 soy Facundo Morelli, un viajero, y el novio de Hae-in
 
-## RESPUESTA 2 (T1805)
+## RESPUESTA 1 (T1805)
 
 > soy Facundo Morelli, un viajero, y el novio de Hae-in
 
@@ -127,11 +58,11 @@ Choi espera, con los dedos juntos.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1806)
+## COMANDO 2 (T1806)
 
 si, acepto, no hay problema
 
-## RESPUESTA 3 (T1806)
+## RESPUESTA 2 (T1806)
 
 > si, acepto, no hay problema
 
@@ -201,6 +132,69 @@ Se cruza de brazos.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1807)
+
+soy un viajero, de muy lejos, llegué caminando
+
+## RESPUESTA 3 (T1807)
+
+> soy un viajero, de muy lejos, llegué caminando
+
+> —Soy un viajero. De muy lejos. Llegué caminando.
+
+Woo Jinchul te mira sin pestañear. El empleado joven abre la boca, la cierra y mira a su jefe.
+
+—Caminando —repite Woo Jinchul.
+
+Detrás del escritorio, Choi Jong-In se acomoda los anteojos con un dedo, y algo que se parece mucho a una risa le pasa por la nariz, rápido, sin sonido.
+
+Woo Jinchul levanta una ceja. Una sola vez. Te mira un segundo más. Después suspira, largo, cansado, como un hombre que hace demasiados años que trabaja en un país donde se abren agujeros en el aire y salen monstruos, y que ya dejó de sorprenderse por casi todo.
+
+—Bien —dice. Y lo deja ahí.
+
+Vuelve a ponerse los anteojos de sol. Le hace un gesto al empleado, que cierra el maletín.
+
+—Señor Morelli, no voy a perder el tiempo de nadie. Usted no tiene maná. No es una amenaza para nadie en este país, por lo menos no en lo que a mí me toca vigilar. —Saca del bolsillo interior del saco una tarjeta blanca, con el emblema de la Asociación, y la deja sobre el escritorio, delante de ti—. Pero no puede seguir viviendo en Corea sin papeles. Si alguien lo para en la calle, lo detienen. Y con esa foto dando vueltas, alguien lo va a parar.
+
+Mira a Cha Hae-in.
+
+—Existe un trámite de residencia provisoria para personas sin documentos. Lo usamos para gente que llegó de zonas destruidas por rupturas de Puertas, sin nada. Necesita un garante: un ciudadano coreano que responda por usted. —Hace una pausa—. Un cazador de rango S como garante simplifica mucho las cosas.
+
+Cha Hae-in no lo deja terminar.
+
+—Yo respondo por él.
+
+Lo dice rápido, firme, sin mirarte. Choi la mira por encima de los anteojos y no dice nada.
+
+Woo Jinchul asiente.
+
+—Pasen mañana por la sede de la Asociación con esa tarjeta, a las diez. Es una hora. —Se arregla la corbata y se dirige a la puerta. Antes de salir, se detiene—. Ah. Y abajo siguen los periodistas. Por la puerta de atrás también, ahora: alguien les avisó del estacionamiento. —Mira a Choi—. Eso es problema suyo, maestro.
+
+Sale, con el empleado detrás. La puerta doble se cierra.
+
+Choi Jong-In apoya los codos en el escritorio y mira por el ventanal hacia la avenida. Abajo, la valla, las cámaras, los micrófonos.
+
+—Bueno, señor Morelli. —Se acomoda los anteojos—. Ya no hay puerta de atrás. Puedo hacer que el gremio publique un comunicado, salir yo a decir dos palabras y esperar a que se cansen. O... —te mira— pueden salir ustedes dos por adelante y terminar con esto de una vez. A la prensa lo que más le gusta es un misterio. Si le quitan el misterio, en tres días se aburren.
+
+Cha Hae-in te mira.
+
+—¿Qué hacemos? —pregunta, bajito.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1807 · SOLO LEVELING · DÍA 3 · 11:49   ║
+║ Seúl, Corea del Sur                          ║
+║ Gremio de Cazadores · piso 38, oficina Choi  ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: La prensa en las dos puertas       ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 3 11:44, oficina de Choi. Facundo aceptó. Llegó Woo Jinchul (traje negro, anteojos oscuros) con un empleado y un medidor portátil (esfera de cristal). Tasación de Woo (combate cuerpo a cuerpo; tú x110). Medición: 0, "NO DESPERTADO" (tres veces; sin siquiera traza residual). Woo: no es cazador; pero no hay registro de entrada a Corea (aeropuerto, puerto). Se quitó los anteojos: "¿Me puede decir de qué país viene, y cómo llegó aquí?"
+ESTADO AL CIERRE: Día 3 11:49, oficina de Choi. Facundo: "Soy un viajero. De muy lejos. Llegué caminando." Woo levanta una ceja, suspira, "Bien" (no investiga). Sin maná, no es amenaza. Dejó una tarjeta de la Asociación: trámite de residencia provisoria para indocumentados con garante; Cha: "Yo respondo por él." Mañana (Día 4) 10:00 en la sede de la Asociación. Woo avisó: prensa también en la puerta de atrás. Choi ofrece comunicado / él habla / o salen los dos por adelante ("si le quitan el misterio, en tres días se aburren"). Cha: "¿Qué hacemos?"
