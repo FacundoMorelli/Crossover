@@ -1828,3 +1828,4 @@ T1825 · SOLO LEVELING · Hotel de Gangnam · "Vamos a casa." Día 11: 4 vs 4 en
 T1826 · SOLO LEVELING · Gimnasio de la Asociación · (simulado) Entrenamiento 4 vs 4 con Jinwoo en el balcón. Copias Hoshino y Kenzo. Kumamoto se lanza a matar contra Cha.
 T1827 · SOLO LEVELING · Gimnasio de la Asociación · Jinwoo noquea a Kumamoto; duelo con Goto sin ganador. Facundo ve las sombras de Jinwoo esconderse en Goto y Cha. Go Gunhee: "¿Por qué no se movió?"
 T1828 · SOLO LEVELING · Gimnasio de la Asociación · "Sabía que Sung iba a llegar." Jinwoo no irá a Jeju. Cha: "No tiene olor. Igual que tú."
+T1829 · SOLO LEVELING · Gimnasio de la Asociación · "Es muy fuerte." Cha entiende que Jinwoo no vaya. ¿Quedarse a mirar o ir al hotel?

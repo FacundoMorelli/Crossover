@@ -3,112 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1826)
-
-si, claro que voy. simula hasta el entrenamiento
-
-## RESPUESTA 1 (T1826)
-
-> si, claro que voy. simula hasta el entrenamiento
-
-> —Sí, claro que voy.
-
-Cha Hae-in sonríe al techo y le rasca a Kase detrás de las orejas.
-
-...
-
-El décimo día no hay Puertas ni entrenamiento. Cha Hae-in duerme hasta las once por primera vez en años, según dice ella misma. A la tarde la señora Kang llama al hotel para avisar que mandó con un taxi más recipientes de comida, que llegan a recepción en una caja de cartón atada con cinta. A la noche llueve otra vez. En la televisión, un noticiero muestra fotos borrosas, tomadas por vecinos de un barrio del centro, de algo enorme y negro, con alas, que habría cruzado el cielo de Seúl de madrugada. Los comentaristas no se ponen de acuerdo en si era un dron, un monstruo escapado de una Puerta o un montaje. Cha Hae-in mira las fotos con el ceño fruncido y cambia de canal.
-
-El undécimo día amanece nublado.
-
-El gimnasio de la Asociación está en el subsuelo de la sede del techo azul: un salón amplio de techo alto, con piso de goma gruesa y paredes de cemento reforzado, marcadas de quemaduras y golpes. Arriba, en una de las paredes, hay un balcón con baranda de vidrio, desde donde se ve todo.
-
-Es ahí donde te mandan. Un empleado de la Asociación te acompaña por una escalera interna y te deja en el balcón con una inclinación. Ahí ya están Go Gunhee, enorme, con el traje y las manos detrás de la espalda, y Choi Jong-In, con los anteojos dorados, que te saluda con un gesto seco de la cabeza.
-
-Y apoyado en la baranda, con las manos en los bolsillos de la chaqueta negra, mirando hacia abajo, está Sung Jinwoo.
-
-Gira la cabeza cuando entras. Te mira a ti. A Kase. Por un segundo largo no dice nada, y después vuelve a mirar hacia abajo.
-
-—El del secreto —dice Go Gunhee, con una voz grave y una sonrisa de abuelo, y te da la mano, con un apretón que sería capaz de romperle los dedos a un hombre común—. Bienvenido, señor Morelli. Choi me habló de usted. Siéntese donde quiera.
-
-Abajo, en el salón, ocho cazadores en ropa de entrenamiento. Cuatro coreanos: Cha Hae-in, Baek Yoonho, un tanque enorme con un escudo de metal al que llaman Ma Dongwook, y un cazador alto de pelo rapado, Lim Taegyu. Cuatro japoneses del Draw Sword: un hombre flaco y serio de pelo largo, Minoru Hoshino; uno de anteojos y sonrisa nerviosa, Kenzo Tanaka; una mujer de pelo corto con dos espadas cortas, Kanae Tawata; y un hombre corpulento, con la cabeza afeitada y los ojos inyectados en sangre, que no deja de mover los dedos: Atsushi Kumamoto. Goto Ryuji mira desde el costado del salón, con los brazos cruzados, y te ve en el balcón. Levanta una ceja. Sonríe.
-
-Empiezan los combates.
-
-Son rápidos y brutales. Kenzo Tanaka tumba a Ma Dongwook en menos de un minuto, metiéndose por debajo del escudo con una velocidad que no parece posible en alguien con esos anteojos. Hoshino vence a Lim Taegyu con tres golpes secos, limpios, sin desperdiciar un movimiento. Después Hoshino y Tanaka, juntos, acorralan a Baek Yoonho, que no llega a transformarse del todo antes de quedar contra la pared con una espada de práctica en el cuello.
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Esgrima de Minoru Hoshino                    ║
-║ USUARIO: Minoru Hoshino · Solo Leveling      ║
-║                                              ║
-║ MISIÓN: Que Minoru Hoshino te pida un        ║
-║ consejo de esgrima.                          ║
-║ DIFICULTAD: BAJA                             ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Velocidad de Kenzo Tanaka                    ║
-║ USUARIO: Kenzo Tanaka · Solo Leveling        ║
-║                                              ║
-║ MISIÓN: Que Kenzo Tanaka salga vivo de la    ║
-║ isla de Jeju.                                ║
-║ DIFICULTAD: MEDIA                            ║
-╚══════════════════════════════════════════════╝
-```
-
-Go Gunhee suspira junto a la baranda. Choi Jong-In aprieta la mandíbula.
-
-Después le toca a Cha Hae-in contra Kanae Tawata. Kanae ataca con las dos espadas cortas, rápida, como una tijera. Cha Hae-in no retrocede: baila. Cuatro vueltas de la espada larga, una cinta en el aire, y las dos espadas cortas de Kanae vuelan por el salón y rebotan contra la pared. Kanae se queda con las manos vacías, jadeando. Se inclina, reconociendo la derrota.
-
-En el balcón, a tu lado, Jinwoo saca una mano del bolsillo.
-
-Abajo, Atsushi Kumamoto entra al centro del salón sin que nadie lo llame. Respira rápido, ruidoso, por la boca abierta. Las venas del cuello se le marcan como cables. Le brillan los ojos, rojos, desenfocados. Alguien del lado japonés le grita algo, un nombre, una orden. No escucha.
-
-Lo miras, y el Sistema hace lo suyo.
-
-```
-╔════════════════════════════════════════╗
-║ ATSUSHI KUMAMOTO                       ║
-║ Cazador de rango S · Draw Sword        ║
-║ PODER: Fuerza física desbocada         ║
-║        (frenesí)                       ║
-║ AMENAZA: BAJA                          ║
-║ Diferencia estimada: tú x90 sobre él   ║
-║ COPIABLE · MISIÓN: MEDIA               ║
-╚════════════════════════════════════════╝
-```
-
-Cha Hae-in está de espaldas a él, inclinándose ante Kanae.
-
-Kumamoto suelta un rugido y se lanza hacia ella con los dos puños juntos levantados por encima de la cabeza, como un martillo. No es un combate de práctica. Es un golpe para matar.
-
-A tu lado, Jinwoo ya se está moviendo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1826 · SOLO LEVELING · DÍA 11 · 10:48  ║
-║ Seúl, Corea del Sur                          ║
-║ Gimnasio de la Asociación · balcón           ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, las orejas hacia atrás   ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: ¡Kumamoto se lanza contra Cha!     ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1827)
+## COMANDO 1 (T1827)
 
 dejo que jinwoo lo detenga y miro
 
-## RESPUESTA 2 (T1827)
+## RESPUESTA 1 (T1827)
 
 > dejo que jinwoo lo detenga y miro
 
@@ -189,11 +88,11 @@ Hace una pausa.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1828)
+## COMANDO 2 (T1828)
 
 por que no podía hacer nada y sabia que sung iba a llegar
 
-## RESPUESTA 3 (T1828)
+## RESPUESTA 2 (T1828)
 
 > por que no podía hacer nada y sabia que sung iba a llegar
 
@@ -244,6 +143,49 @@ En la sombra de ella, en el piso del balcón, no se ve nada raro. Pero Kase sigu
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1829)
+
+si, lo vi, es muy fuerte
+
+## RESPUESTA 3 (T1829)
+
+> si, lo vi, es muy fuerte
+
+> —Sí, lo vi. Es muy fuerte.
+
+Cha Hae-in asiente despacio, mirando hacia la puerta por donde se fue Jinwoo.
+
+—Más de lo que dice la medición. Mucho más. —Se muerde el labio—. Cuando lo agarré del brazo para separarlo de Goto, sentí que si él hubiera querido, nos sacaba a los dos de encima sin esfuerzo. A mí y a Baek. —Se queda callada un segundo—. Y no quiso. Se dejó agarrar.
+
+Detrás, Go Gunhee suspira otra vez, mirando el salón.
+
+—Si fuera a Jeju... —empieza Cha Hae-in, y no termina. Sacude la cabeza—. No. Tiene razón. Su madre acaba de despertar. Yo tampoco dejaría sola a la mía.
+
+Choi Jong-In se acomoda los anteojos y mira el reloj.
+
+—Vicemaestra. A la una seguimos con las formaciones de retirada. Los japoneses quieren repetir el ejercicio de la cámara de la reina. —Una pausa—. Sin Kumamoto, por suerte.
+
+Cha Hae-in asiente sin soltarte la mano. Se vuelve hacia ti.
+
+—Va a ser toda la tarde. Hasta las siete, por lo menos. —Te aprieta los dedos—. Puedes quedarte a mirar desde aquí, si quieres. O te vas al hotel y nos vemos a la noche. Como prefieras.
+
+Kase, en tu hombro, deja de mirar la sombra de ella por primera vez y te mira a ti.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1829 · SOLO LEVELING · DÍA 11 · 10:58  ║
+║ Seúl, Corea del Sur                          ║
+║ Gimnasio de la Asociación · balcón           ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirándote                ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Jeju (Día 22)                      ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 11 10:55, balcón. Facundo: "Porque no podía hacer nada. Y sabía que Sung iba a llegar." Gunhee se ríe ("el muchacho sin maná sabía"). Choi: "Sung Jinwoo te estuvo mirando toda la mañana... más que a los combates." Gunhee: Jinwoo le dijo que NO irá a Jeju (cuidar a su madre); "con él adentro volvería todo el mundo". Kumamoto en camilla. Cha sube corriendo, le toma la mano delante de Gunhee y Choi: "¿Viste lo que hizo? Con una mano... Y no tiene olor, Facundo. Igual que tú." Kase sigue mirando la sombra de Cha.
+ESTADO AL CIERRE: Día 11 10:58, balcón. "Sí, lo vi. Es muy fuerte." Cha: más que la medición; si hubiera querido se los sacaba de encima, se dejó agarrar; entiende que no vaya a Jeju. Choi: a la una siguen formaciones de retirada (ejercicio de la cámara de la reina) hasta las 7. Cha: "Puedes quedarte a mirar desde aquí, si quieres. O te vas al hotel y nos vemos a la noche."
