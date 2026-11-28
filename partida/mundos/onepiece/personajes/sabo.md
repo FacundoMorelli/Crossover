@@ -36,3 +36,4 @@ RELACIÓN CON FACUNDO: le debe la memoria y la vida de Ace; lo mira como a algui
 - T1870 · Kuma lo reconoce: "...Sabo." Se le doblan las rodillas, llora.
 - T1873 · Sentado en el piso del patio, ríe y llora mirando el cielo rosa.
 - T1874 · Con el reloj de bolsillo: "¡Facundo! ¡El minuto! ¡Le dijiste a Robin un minuto! ¡Pasaron cuatro!"
+- T1875 · Le cuenta todo a Dragon de corrido: Kuma volvió entero, lo reconoció, rastreador aplastado, collar hecho polvo, Bonney rescatada del barco prisión, juntos en Momoiro con Iva-san; se tapa la cara con el sombrero.

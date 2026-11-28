@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1872)
-
-uso el ki para buscar a bonney
-
-## RESPUESTA 1 (T1872)
-
-> uso el ki para buscar a bonney
-
-Cierras los ojos.
-
-Nunca la viste. No conoces su ki. Pero hace un minuto tuviste en la mano el alma de su padre, desplegada, doblez por doblez, y en el medio de esa alma había una nena de pelo rosa agarrándole un dedo. Y la sangre deja huella: el ki de una hija se parece al de su padre como el eco se parece a la voz.
-
-Así que buscas ese eco.
-
-Abres el ki. Y el Haki de observación, al máximo. Y el Ojo del Eclipse. Y te alejas de Momoiro, del patio rosa, de Kuma arrodillado, de Sabo que llora, de Ivankov en la escalera. Subes. Te extiendes sobre el mar. Sobre el Grand Line, sobre la Red Line, sobre el Nuevo Mundo. Millones de luces: pescadores, marineros, piratas, ciudades enteras, monstruos marinos, reyes del mar dormidos en el fondo. Las grandes, las que arden como soles, las reconoces de lejos: Barbablanca en su barco, entero, sano, rodeado de su flota y de tu Bankai. Ace al lado, ardiendo. Más lejos, otras, enormes, que no conoces.
-
-Y en el medio de todo, en el Nuevo Mundo, al este de la Red Line, la encuentras.
-
-Chiquita. Furiosa. Ardiendo como una brasa que alguien intentó apagar con un balde de agua y no pudo. Con el mismo eco grave, tranquilo, de su padre, por debajo de toda la rabia.
-
-Está en un barco. Uno grande, de metal, de la Marina. Un buque prisión, con celdas en la bodega, rodeado de otros dos acorazados de escolta. Navega despacio hacia el oeste, hacia la Red Line. Hacia Mary Geoise.
-
-Y ella está en una de las celdas de la bodega, sola. Tiene algo frío en las muñecas y en los tobillos que le aplasta la energía, que le pesa. Kairoseki. Pero no se rinde: la sientes golpear la puerta de la celda, una y otra vez, con los hombros, con los pies, sin parar.
-
-Abres los ojos.
-
-Kuma te está mirando, de rodillas, con los dos dedos todavía agarrados de tu sobretodo. No respira.
-
-No hace falta que digas nada. Te ve la cara. Ve algo en ella.
-
-—¿Dónde? —pregunta, muy bajo.
-
-Sabo levanta la cabeza del brazo de Kuma. Ivankov baja dos escalones.
-
-Kase, en tu hombro, mira hacia el este. Hacia donde miraste tú.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1872 · ONE PIECE · DÍA ~227 · 08:12    ║
-║ Isla Momoiro · Reino Kamabakka               ║
-║ Patio frente al castillo de Ivankov          ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 95% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirando al este          ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Bonney, presa en un buque marine   ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1873)
+## COMANDO 1 (T1873)
 
 ya vengo, me teletransporto a bonney, la toco y me teletransporto con kuma de nuevo
 
-## RESPUESTA 2 (T1873)
+## RESPUESTA 1 (T1873)
 
 > ya vengo, me teletransporto a bonney, la toco y me teletransporto con kuma de nuevo
 
@@ -145,11 +94,11 @@ Te encuentra. Te mira de arriba abajo, con los ojos violetas entrecerrados, toda
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1874)
+## COMANDO 2 (T1874)
 
 soy Facundo Morelli, un viajero, le saco los grilletes, me llaman Ojos de eclipse
 
-## RESPUESTA 3 (T1874)
+## RESPUESTA 2 (T1874)
 
 > soy Facundo Morelli, un viajero, le saco los grilletes, me llaman Ojos de eclipse
 
@@ -202,6 +151,79 @@ Detrás, Sabo se pone de pie de un salto, con el sombrero de copa en la mano, y 
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1875)
+
+me teletransporto con sabo a baltigo con robin
+
+## RESPUESTA 3 (T1875)
+
+> me teletransporto con sabo a baltigo con robin
+
+Kase deja a Kuma y salta a tu hombro de un solo brinco, sin que nadie le diga nada.
+
+Sabo te agarra del brazo. Detrás, Bonney abre la boca para decir algo. Kuma levanta una mano enorme, despacio, como un saludo.
+
+El patio rosa desaparece.
+
+...
+
+Viento. Polvo blanco. Piedra pálida. Las cuatro ventanas de la torre de Dragon, con el desierto de Baltigo y el mar detrás.
+
+Aparecen junto a la mesa de mapas, en el mismo lugar del que se fueron.
+
+Nadie se movió. Koala sigue con la carpeta apretada contra el pecho. Corvin, con el auricular del Den Den Mushi en la mano. Hack, de brazos cruzados junto a la puerta. Dragon, con las dos manos apoyadas sobre el mapa de la Red Line.
+
+Y Robin, de pie junto a la ventana del este, con el cuaderno abierto en una mano y la pluma en la otra.
+
+Te mira. Mira la página. Escribe algo, con calma.
+
+—Cuatro minutos y once segundos —dice, serena, sin levantar la vista—. Lo anoté.
+
+Cierra el cuaderno. Te mira por encima, con una media sonrisa.
+
+—Llegas tarde.
+
+Sabo no la deja seguir. Se da vuelta hacia Dragon, con el sombrero de copa en la mano, la cara roja, los ojos todavía mojados, y habla todo de corrido, sin respirar:
+
+—¡Está bien! ¡Kuma está bien! ¡Facundo le puso la mano en el pecho y volvió, Dragon-san, volvió entero, se acuerda de todo, me dijo "Sabo", me reconoció! ¡Le sacó el rastreador del cuerpo y lo aplastó! ¡Tenía un collar de esclavo que iba a explotar y lo hizo polvo! ¡Polvo, Dragon-san! ¡Y después fue a buscar a su hija, a Bonney, que la tenía la Marina en un barco prisión, y la trajo, y están juntos, en Momoiro, con Iva-san, y lloraban, y las okamas lloraban, y yo...!
+
+Se le corta la voz. Se tapa la cara con el sombrero.
+
+Nadie dice nada.
+
+Dragon se queda quieto, con las manos sobre el mapa. Cierra los ojos. Respira hondo, una vez, larga, por la nariz. Los dedos sobre el mapa se le aflojan.
+
+Cuando abre los ojos, te mira.
+
+No dice gracias. No es un hombre de decir gracias. Pero rodea la mesa, despacio, y se detiene delante de ti, y te pone una mano en el hombro libre, el que no tiene a Kase. Pesada. Firme. Y la deja ahí.
+
+—Ojos de Eclipse —dice, bajo.
+
+Se queda así un segundo largo.
+
+Después saca la mano. Mira hacia la ventana del sur, hacia el mar, hacia donde queda Momoiro.
+
+—Hace once años que no veo a Kuma sonreír —dice—. Desde antes de que aceptara ser Shichibukai para protegernos. —Hace una pausa—. Quiero verlo. Hoy. Antes de que el Gobierno se entere de lo que pasó en Mary Geoise y empiece a revolver el mar.
+
+Te mira.
+
+—¿Me llevarías?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1875 · ONE PIECE · DÍA ~227 · 08:15    ║
+║ Baltigo · torre de Dragon                    ║
+║ Junto a la mesa de mapas                     ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 94% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Dragon: "¿Me llevarías?" (Momoiro) ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 08:14, patio de Momoiro. "Soy Facundo Morelli. Un viajero." Parte con los dedos los grilletes de kairoseki de muñecas y tobillos (a él no le afecta). "Me llaman Ojos de Eclipse." Bonney: "¿El de Marineford? ¿El que bajó a Puño de Fuego del cadalso...? Vi tu foto en todos los diarios. Pensé que eras más alto." Kuma casi se ríe. Bonney: "No sé qué hiciste. Ni cómo. Ni por qué. Pero... me lo devolviste. Te debo una. Una grande. Y yo pago mis deudas, Ojos de Eclipse." Sabo, con el reloj: "¡El minuto! ¡Le dijiste a Robin un minuto! ¡Pasaron cuatro!"
+ESTADO AL CIERRE: Día ~227 08:15, torre de Dragon. Volvió con Sabo y Kase (Kuma y Bonney quedan en Momoiro con Ivankov). Robin: "Cuatro minutos y once segundos. Lo anoté. Llegas tarde." Sabo le cuenta todo a Dragon de corrido (Kuma volvió entero, rastreador aplastado, collar hecho polvo, Bonney rescatada del barco prisión, juntos en Momoiro) y se tapa la cara. Dragon le pone una mano en el hombro a Facundo: "Ojos de Eclipse." "Hace once años que no veo a Kuma sonreír... Quiero verlo. Hoy. Antes de que el Gobierno se entere... ¿Me llevarías?"

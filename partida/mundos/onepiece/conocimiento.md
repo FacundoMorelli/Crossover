@@ -311,3 +311,4 @@
 - T1872 · FACUNDO sabe (ki/Haki) dónde está Bonney: buque prisión de la Marina en el Nuevo Mundo, rumbo a Mary Geoise.
 - T1873 · BONNEY vio a Facundo aparecer en su celda y llevarla a Momoiro. La MARINA (buque prisión) solo sabrá que la celda quedó vacía.
 - T1874 · BONNEY sabe (por Facundo) su nombre y que es Ojos de Eclipse; vio que rompe kairoseki con los dedos.
+- T1875 · DRAGON, KOALA, CORVIN, HACK, ROBIN saben (por Sabo) lo de Kuma y Bonney en Momoiro.
