@@ -17,3 +17,4 @@ ENCUENTROS:
 - T1741 · Baja con pantuflas de hospital, abrigo rojo sobre los hombros, renguea. "Sí, Al. Ya veo. Felicitaciones." Deduce: "Ese pelo no es teñido. Se nota en la raíz. Y esos ojos tampoco son de por acá. No hay nadie en Amestris con los ojos así." "¿De dónde eres? ¿De Xing? ¿De Creta?"
 - T1742 · Sabe (por Facundo) que es viajero "de bastante lejos". "Eso no es un lugar." Reta a Al por contar de Lior y Youswell. Deduce: "Más lejos que Xing, supongo. Del otro lado del gran desierto, o más allá." "¿Allá hay alquimia? ¿Distinta a la de acá?" (curiosidad).
 - T1744 · Sabe (por Facundo) que no tiene papeles. "¿Cruzaste la frontera sin papeles? ¿Por el desierto? ¿O por las montañas de Briggs? Porque por Briggs nadie pasa sin que la Reina de Hielo lo..." "Si va a Investigaciones, voy yo también. Quiero escuchar cómo cruzó la frontera." (12 puntos en la cabeza).
+- T1745 · Protesta ("¡violación de mis derechos como Alquimista Estatal!"); Brosh lo arrea adentro.

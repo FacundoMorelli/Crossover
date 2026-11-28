@@ -14,3 +14,4 @@
 - T1742 · ED y AL saben (por Facundo) que es un viajero "de bastante lejos". ROSS y BROSH lo vieron (aspecto; camisa con escudo extranjero).
 - T1743 · ROSS y BROSH saben (por Facundo) su nombre y que es viajero.
 - T1744 · ROSS, BROSH, ED y AL saben (por Facundo) que no tiene documentos (extranjero sin papeles).
+- T1745 · HUGHES vio a Facundo y a Kase (aspecto). Los guardias del cuartel general lo vieron entrar con Ross.

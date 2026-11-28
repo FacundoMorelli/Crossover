@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1742)
-
-soy un viajero, de bastante lejos
-
-## RESPUESTA 1 (T1742)
-
-> soy un viajero, de bastante lejos
-
-> —Soy un viajero. De bastante lejos.
-
-—"De bastante lejos". —Ed lo repite con la cara de quien recibe una respuesta de examen que no contesta nada—. Eso no es un lugar.
-
-—¡Un viajero! —Al levanta la cabeza, sin mover la mano donde duerme Kase—. ¡Nosotros también viajamos, señor Morelli! Por todo Amestris. Por el Este, el Sur, Lior, Youswell... —Se le nota la sonrisa en la voz, aunque no tenga cara—. ¿Usted viaja buscando algo?
-
-—Al. —Ed le da un golpecito en el codo de metal, con el dedo de acero—. No le cuentes nuestra vida a cualquiera que pasa por la calle con un gato.
-
-—No le conté nada.
-
-—Le dijiste Lior y Youswell.
-
-—Esos son lugares, hermano, no secretos.
-
-Ed resopla. Se cruza de brazos. El abrigo rojo se le resbala de un hombro y se lo acomoda de un tirón. Vuelve a mirarte, esta vez de reojo, sin tanta desconfianza y con un poco más de curiosidad, que trata de esconder y no puede.
-
-—Más lejos que Xing, supongo. —Lo dice como si pensara en voz alta—. Para tener esos ojos. Del otro lado del gran desierto, o más allá. —Se rasca la nuca con la mano de carne—. ¿Allá hay alquimia? ¿Distinta a la de acá?
-
-Antes de que contestes, la puerta del hospital se vuelve a abrir. Una mujer joven, de uniforme azul, pelo negro muy corto y un lunar bajo el ojo, sale casi corriendo, seguida de un soldado alto, rubio, de cara nerviosa, que trae una manta en los brazos.
-
-—¡Edward! ¡Alphonse! —La mujer llega hasta ellos con la cara roja, entre el enojo y el alivio—. ¡No pueden salir del edificio sin nosotros! ¡El mayor Armstrong fue muy claro! ¡Después de lo del laboratorio...!
-
-—Subteniente Ross, estamos en el jardín —dice Ed, con toda la paciencia que no tiene—. A dos metros de la puerta.
-
-—¡Con un desconocido! —Ross te mira, por fin. Se queda quieta un segundo. Recorre con los ojos el pelo, los tatuajes, los aros, la camisa blanca con un escudo que no es de ningún uniforme de Amestris, y al gato enroscado en la mano de Alphonse. Se lleva la mano, sin pensarlo, a la funda de la pistola. No la saca.
-
-El soldado alto, el de la manta, se para detrás de ella y traga saliva.
-
-—Señor. —Ross se endereza, formal, sin soltar la funda—. Subteniente Maria Ross, Ejército de Amestris. Estos dos chicos están bajo nuestra custodia. —Una pausa—. ¿Me podría decir quién es usted y qué hace hablando con ellos?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1742 · FULLMETAL · DÍA 1 · 17:58       ║
-║ Ciudad Central, Amestris, 1914               ║
-║ Reja del hospital militar                    ║
-║ NIVEL 33 · EXP 461.130/480.000               ║
-║ FRAGMENTOS 289.378 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la mano de Al                       ║
-║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1743)
+## COMANDO 1 (T1743)
 
 mucho gusto soy Facundo Morelli, un viajero, a al le gusto mi gato y quiso conocerlo
 
-## RESPUESTA 2 (T1743)
+## RESPUESTA 1 (T1743)
 
 > mucho gusto soy Facundo Morelli, un viajero, a al le gustó mi gato y quiso conocerlo
 
@@ -113,11 +58,11 @@ Ed, al lado de su hermano, levanta una ceja. Te mira. Espera, con los brazos cru
 
 ---
 
-## COMANDO 3 (T1744)
+## COMANDO 2 (T1744)
 
 realmente no, no tengo nada
 
-## RESPUESTA 3 (T1744)
+## RESPUESTA 2 (T1744)
 
 > realmente no, no tengo nada
 
@@ -170,4 +115,81 @@ Ross se vuelve hacia ti, con el brazo extendido hacia la avenida, hacia la mole 
 
 ---
 
-ESTADO AL CIERRE: Día 1 18:02, reja del hospital. Facundo no tiene documentos. Ed admirado ("¿Cruzaste la frontera sin papeles? ¿Por el desierto? ¿Por Briggs?"). Ross, incómoda: "Tengo que pedirle que me acompañe al cuartel general. No está arrestado. Es un trámite. La Oficina de Investigaciones... Hoy está de guardia el teniente coronel HUGHES, un hombre muy razonable." Al: "¡Él es muy bueno!" Ed quiere ir; Ross: "Tienes doce puntos en la cabeza." Ross: "¿Me acompaña? Son diez minutos caminando." (Canon: Hughes esta noche descubre el patrón; Lust lo ataca; Envy lo mata.)
+## COMANDO 3 (T1745)
+
+si, la acompaño
+
+## RESPUESTA 3 (T1745)
+
+> si, la acompaño
+
+> —Sí, la acompaño.
+
+—Gracias. —Ross suspira, aliviada, y se le nota que lo dice en serio.
+
+Al baja la mano muy despacio, como quien deposita un jarrón de cristal. Kase se despierta, se estira sobre la palma de hierro, mira a Al un segundo, y vuelve de un salto a tu hombro, pasando entre los barrotes.
+
+—Gracias por prestármelo, señor Morelli —dice Al, todavía en cuclillas—. Y gracias, Kase. ¿Va a volver? ¿Va a pasar por acá otra vez?
+
+—¡Al, adentro! —Ross ya está señalando la puerta—. Sargento Brosh, quédese con ellos. Que Edward no salga ni a la vereda.
+
+—¡Eso es una violación de mis derechos como Alquimista Estatal!
+
+—Tienes doce puntos, Edward.
+
+Ed sigue protestando mientras Brosh lo arrea hacia la puerta, con la manta extendida como quien arrea un gallo. Desde la escalera de entrada, todavía grita algo sobre el desierto y Briggs. Al se queda en la ventana del segundo piso, saludándote con la mano enorme, hasta que doblan la esquina.
+
+Caminan con Ross por la avenida. Ella va un paso adelante, derecha, con la mano cerca de la funda sin tocarla, y cada tanto te mira de reojo, al pelo, a Kase. Los faroles de gas ya están todos prendidos. La gente de la calle se aparta un poco al ver el uniforme, y después te mira a ti, y se aparta un poco más.
+
+El cuartel general es todavía más grande de cerca. Escalinatas anchas de piedra gris, columnas del grosor de árboles viejos, dos guardias en cada puerta, banderas verdes y negras con el dragón alado colgando de todos los balcones. Ross muestra su identificación. Los guardias te miran a ti, después a ella. Te dejan pasar.
+
+Adentro todo huele a cera de piso, a tinta y a tabaco. Pasillos largos, techos altos, lámparas con pantalla verde, oficiales que caminan rápido con carpetas. Una escalera de mármol. Tercer piso. Un pasillo con puertas de madera oscura y placas de bronce. Ross se detiene frente a una que dice: "OFICINA DE INVESTIGACIONES — TTE. CNEL. M. HUGHES".
+
+Golpea dos veces. Abre sin esperar.
+
+La oficina está hecha un desastre. Pilas de carpetas en el piso, en las sillas, en el alféizar de la ventana. Ceniceros llenos. Una taza de café frío con nata. Y en la pared del fondo, clavado con chinches, un mapa enorme de Amestris lleno de marcas rojas, círculos, líneas trazadas con regla que se cruzan sobre el país.
+
+Detrás del escritorio, de pie, inclinado sobre otro mapa, con los anteojos en la punta de la nariz y la cara pálida, está el hombre que viste correr por la plaza. Tiene la camisa arremangada y una regla en la mano. Cuando oye la puerta, levanta la cabeza de golpe, como si lo hubieran agarrado haciendo algo. Tapa el mapa con una carpeta, rápido, sin pensarlo.
+
+Después ve a Ross. Y la cara le cambia de golpe, en un segundo, como un actor que se pone una máscara: la palidez se va, aparece una sonrisa enorme, y los ojos detrás de los anteojos se arrugan de alegría.
+
+—¡Subteniente Ross! ¡Qué sorpresa! —Rodea el escritorio, pisando una carpeta sin darse cuenta—. ¿Cómo están los chicos Elric? ¿Edward ya rompió algo?
+
+Te ve a ti. Al gato.
+
+Se le abren los ojos detrás de los anteojos. Mira el pelo. Mira los ojos de dos colores. Mira a Kase.
+
+—Vaya, vaya. —Se ajusta los anteojos con un dedo—. ¿Y quién es este caballero tan pintoresco? —Y antes de que nadie conteste, se mete la mano en el bolsillo de la camisa, saca una foto, y te la pone delante de la cara—. Pero primero, antes de cualquier trámite, tiene que ver esto. Mi hija, Elicia. Tres años. ¿No es la niña más hermosa que vio en su vida?
+
+```
+╔══════════════════════════════════════════════╗
+║ MAES HUGHES                                  ║
+║ Ejército de Amestris · Investigaciones       ║
+║ PODER: cuchillos arrojadizos · inteligencia  ║
+║        y deducción excepcionales             ║
+║ AMENAZA: ÍNFIMA                              ║
+║ Diferencia estimada: x0,004 sobre ti         ║
+║ Sabe algo que no debería saber. Esta noche   ║
+║ lo están buscando.                           ║
+║ COPIABLE · MISIÓN: BAJA (estilo)             ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1745 · FULLMETAL · DÍA 1 · 18:20       ║
+║ Ciudad Central, Amestris, 1914               ║
+║ Cuartel general, Oficina de Investigaciones  ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.378 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 18:20, Oficina de Investigaciones del cuartel general (3.er piso). Kase volvió al hombro de Facundo; Al: "¿Va a volver?". Brosh quedó con los Elric. Ross llevó a Facundo con HUGHES: oficina desordenada, mapa de Amestris con marcas rojas y líneas (el patrón del círculo); Hughes, pálido, tapó un mapa con una carpeta al oír la puerta; luego máscara alegre. Ve a Facundo y a Kase: "¿Y quién es este caballero tan pintoresco?" y le pone delante la foto de Elicia (3 años): "¿No es la niña más hermosa que vio en su vida?" Tasación: "Sabe algo que no debería saber. Esta noche lo están buscando."

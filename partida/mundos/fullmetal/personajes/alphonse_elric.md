@@ -18,3 +18,4 @@ ENCUENTROS:
 - T1742 · "¡Un viajero! ¡Nosotros también viajamos, señor Morelli! Por todo Amestris. Por el Este, el Sur, Lior, Youswell... ¿Usted viaja buscando algo?"
 - T1743 · "Es verdad, subteniente. Me lo prestó. Se llama Kase. Se me subió solo."
 - T1744 · "¡El teniente coronel Hughes! ¡Él es muy bueno, señor Morelli! ¡Nos ayudó mucho!"
+- T1745 · "Gracias por prestármelo, señor Morelli. Y gracias, Kase. ¿Va a volver? ¿Va a pasar por acá otra vez?" Saluda desde la ventana.
