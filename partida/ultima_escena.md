@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1786)
-
-abro la puerta, hola cha, pasa
-
-## RESPUESTA 1 (T1786)
-
-> abro la puerta, hola cha, pasa
-
-Abres la puerta.
-
-> —Hola, Cha. Pasa.
-
-Cha Hae-in parpadea. Por un segundo se queda mirándote, con las bolsas en las manos, como si esperara verte de otra manera, o como si no esperara que la llamaras así, tan simple. Después sonríe, chiquito.
-
-—Hola.
-
-Entra. Kase le pasa por entre los pies, rozándole los tobillos con la cola, y se sienta frente a ella mirándole las bolsas. Ella se ríe por la nariz.
-
-—Sí, sí. Ya sé.
-
-Deja las bolsas sobre la mesa baja, junto al ventanal, y empieza a sacar cosas con cuidado, una por una: dos cajas negras con tapa transparente, llenas de tiras finas de carne marinada, brillante, con cebolla y sésamo; dos cuencos de arroz blanco humeante; varios recipientes chiquitos con kimchi, brotes de soja, espinaca con ajo, rábano en cubos; dos latas de té de cebada. Y al final, de una bolsita aparte, un sobre de comida húmeda para gato con un pescado dibujado y la palabra "premium".
-
-Se agacha, abre el sobre y lo vacía en el platito de cartón de anoche, que encuentra en la mesa. Lo deja en el piso. Kase lo huele una vez y empieza a comer.
-
-—Pregunté en la tienda de mascotas cuál era la mejor —dice, mirando al gato, no a ti—. La señora me miró raro. Creo que me reconoció.
-
-Se sienta en el sillón de cuero, con las manos sobre las rodillas, y mira la habitación, la cama deshecha, el ventanal, la tarjetita con su número todavía en la mesita de luz. Se le colorean un poco las orejas cuando la ve ahí.
-
-—En la oficina, el maestro Choi me preguntó por ti. —Te pasa unos palillos de metal—. Quería saber por qué me quedé anoche con "un chico sin maná" en vez de volver con el gremio. —Hace una pausa—. Le dije que eras un amigo.
-
-Te mira, de frente, esperando.
-
-—¿Dormiste bien?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1786 · SOLO LEVELING · DÍA 2 · 13:02   ║
-║ Seúl, Corea del Sur                          ║
-║ Hotel de Gangnam · habitación 2207           ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.292.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: comiendo comida premium                ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1787)
+## COMANDO 1 (T1787)
 
 si, muy bien, gracias por la comida
 
-## RESPUESTA 2 (T1787)
+## RESPUESTA 1 (T1787)
 
 > si, muy bien, gracias por la comida
 
@@ -97,11 +48,11 @@ Kase, que terminó la comida premium, se sube al brazo del sillón, al lado de e
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1788)
+## COMANDO 2 (T1788)
 
 un tiempo seguramente
 
-## RESPUESTA 3 (T1788)
+## RESPUESTA 2 (T1788)
 
 > un tiempo seguramente
 
@@ -138,6 +89,53 @@ Cha Hae-in termina su arroz y deja los palillos cruzados sobre el cuenco vacío.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1789)
+
+si, me encantaría, vamos
+
+## RESPUESTA 3 (T1789)
+
+> si, me encantaría, vamos
+
+> —Sí, me encantaría. Vamos.
+
+Cha Hae-in se pone de pie tan rápido que casi tira la lata de té. La agarra en el aire sin mirar, con un reflejo de cazadora, y la deja otra vez en la mesa, un poco avergonzada.
+
+—Bien. —Se acomoda el suéter—. Bien.
+
+Juntan entre los dos las cajas vacías y las bolsas de papel. Kase abre los ojos, se estira en el brazo del sillón con las patas delanteras bien largas y salta a tu hombro sin que nadie le diga nada. Cha Hae-in lo mira subir, sorprendida otra vez, y se le escapa una sonrisa.
+
+En el ascensor de espejos, mientras bajan los números, saca del bolsillo del pantalón unos anteojos de sol grandes y una gorra negra y se los pone.
+
+—Si no, me reconocen cada dos cuadras —explica—. Y piden fotos. Y se juntan.
+
+Con la gorra y los anteojos parece otra persona. Casi.
+
+En el vestíbulo, el chico de recepción la mira pasar, frunce el ceño como si tratara de acordarse de algo y no lo logra. Afuera, el portero de guantes blancos les abre la puerta.
+
+El día está frío y limpio, con el cielo azul fuerte después de la lluvia. Gangnam brilla. Hay olor a café, a castañas, a la panadería de la esquina, y un viento que trae hojas amarillas de los ginkgos de la vereda.
+
+Cha Hae-in levanta la mano y un taxi negro se detiene enseguida junto al cordón. Te abre la puerta de atrás.
+
+—Hay muchas cosas —dice, mientras subes con Kase—. El palacio antiguo, Gyeongbokgung, con los guardias de colores. La torre de Namsan, arriba de la montaña, desde donde se ve toda la ciudad. Y el mercado de Gwangjang, que es viejo y está lleno de comida. —Se sienta a tu lado y se baja un poco los anteojos para mirarte por encima—. ¿Qué quieres ver primero?
+
+El taxista los mira por el espejo retrovisor, esperando.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1789 · SOLO LEVELING · DÍA 2 · 13:34   ║
+║ Seúl, Corea del Sur                          ║
+║ Gangnam · taxi frente al hotel               ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.292.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 13:20, 2207. Facundo: "Un tiempo, seguramente." Cha se relaja; le pasa banchan y té. Acerca dos dedos a Kase, que los huele y cierra los ojos: "No le caigo mal." Terminó de comer. Tiene el día libre (el gremio se lo dio tras el informe). "Si te vas a quedar un tiempo... no conoces nada de Seúl, ¿verdad? Puedo mostrarte. Si quieres."
+ESTADO AL CIERRE: Día 2 13:34. Facundo: "Sí, me encantaría. Vamos." Salen del hotel; Cha con gorra negra y anteojos de sol para que no la reconozcan. Día frío y limpio. Taxi negro frente al hotel; Facundo y Kase atrás, Cha al lado. Opciones: palacio Gyeongbokgung, torre de Namsan, mercado de Gwangjang. "¿Qué quieres ver primero?"

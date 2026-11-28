@@ -1788,3 +1788,4 @@ T1785 · SOLO LEVELING · Hotel de Gangnam · Duerme hasta el mediodía. 13:00 C
 T1786 · SOLO LEVELING · Hotel de Gangnam · Cha entra con bulgogi y comida para Kase. Le dijo a Choi que Facundo es "un amigo".
 T1787 · SOLO LEVELING · Hotel de Gangnam · Cha le cuenta su olfato de maná; con él "como una ventana abierta". "¿Cuánto tiempo te vas a quedar en Seúl?"
 T1788 · SOLO LEVELING · Hotel de Gangnam · "Un tiempo." Cha tiene el día libre y le ofrece mostrarle Seúl.
+T1789 · SOLO LEVELING · Gangnam · Sale con Cha Hae-in a conocer Seúl en taxi.
