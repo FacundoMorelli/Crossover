@@ -12,3 +12,4 @@ VELO: Facundo no huele a demonio ni a nada raro para ningún demonio, fiend ni h
 - T1687 · 46 muñecos de la avenida frente a Mitsukoshi desmayados sin daño (canon: había que cortarlos). Sato pidió a la División 4 y avisó a Makima.
 - T1694 · Denji curado del todo con una semilla del ermitaño (canon: necesitaba sangre).
 - T1704 · Los tres asesinos impostores (pieles robadas; canon: hermanos americanos) neutralizados vivos en el refugio por Facundo. Canon: Power mata al falso Kurose.
+- T1720 · Mano del Demonio del Infierno emerge en la fábrica del Sumida, rompe el techo del sótano (vigas levantadas).

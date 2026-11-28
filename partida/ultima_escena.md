@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1717)
-
-si quiere puedo ir ahora, a mi solo no me espera, pero tantas personas se lo puede esperar
-
-## RESPUESTA 1 (T1717)
-
-> si quiere puedo ir ahora, a mi solo no me espera, pero tantas personas se lo puede esperar
-
-> —Si quiere, puedo ir ahora. A mí solo no me espera. Pero a tantas personas se las puede esperar.
-
-Makima deja la tetera sobre la mesa. Te mira con algo que, en cualquier otra persona, sería sorpresa.
-
-—Solo. —Lo repite despacio—. A una fábrica con cientos de muñecos y una asesina que conoce su cara.
-
-Lo piensa. No mucho. Un segundo, dos, con los ojos fijos en ti y los dedos apoyados en el borde de la taza.
-
-—Tiene razón —dice al final—. Si va Kishibe con treinta hombres, ella los va a ver venir desde el puente. Va a tener tiempo de preparar algo. —Una pausa—. Y tengo la impresión de que usted no hace ruido cuando camina.
-
-Se le escapa una sonrisa.
-
-—Está bien. Vaya.
-
-Se pone de pie con un solo movimiento, sin apoyar las manos, y se acomoda la falda del saco. Kase la sigue con la cabeza.
-
-—El chofer lo lleva hasta el puente de Kototoi. Desde ahí son diez minutos caminando. —Saca del bolsillo del pantalón una tarjeta blanca, sin nombre, con un número de teléfono escrito a mano, y la deja sobre la mesa, al lado de tu taza—. Cuando termine, llame a este número. Va a atender Kishibe. Le va a mandar gente para los muñecos. Y para ella.
-
-Camina hacia la puerta de la casa de té. Se detiene en el umbral, de espaldas, con la mano en el marco de madera.
-
-—Una cosa más, señor Morelli. —No se da vuelta—. Si puede, tráigamela viva.
-
-La voz es igual de suave que siempre. Igual de amable.
-
-—Me gustaría hablar con ella.
-
-Y sale. El chofer, en la vereda, ya está abriendo la puerta de atrás del sedán, para ti.
-
-En el jardín, la carpa roja da otra vuelta lenta en el estanque. En la mesa quedan los dos desayunos, el tuyo casi intacto, el platito de leche de Kase intacto, la tarjeta blanca con el número, y la taza de té que te sirvió dos veces.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1717 · CHAINSAW MAN · DÍA 2 · 08:45    ║
-║ Tokio, otoño de 1997                         ║
-║ Ginza, casa de té (cerrada para ustedes)     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.903 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus rodillas                        ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Ir solo a la fábrica de juguetes   ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1718)
+## COMANDO 1 (T1718)
 
 me teletransporto a la fabrica y aparezco sentado en un sofa
 
-## RESPUESTA 2 (T1718)
+## RESPUESTA 1 (T1718)
 
 > me teletransporto a la fábrica y aparezco sentado en un sofá
 
@@ -125,11 +70,11 @@ Detrás de ella, en el estante más cercano, uno de los soldaditos de lata gira 
 
 ---
 
-## COMANDO 3 (T1719)
+## COMANDO 2 (T1719)
 
 no gracias, mejor mostrame todo lo que sos rapido
 
-## RESPUESTA 3 (T1719)
+## RESPUESTA 2 (T1719)
 
 > no gracias, mejor mostrame todo lo que sos rapido
 
@@ -184,4 +129,65 @@ Por las rajaduras del piso empieza a salir una luz roja, espesa, como sangre ilu
 
 ---
 
-ESTADO AL CIERRE: Día 2 08:47, sótano de la fábrica. Santa se puso la bufanda roja: se animaron todos los muñecos de juguete y, arriba, cientos de muñecos humanos caminan hacia la escalera del sótano. Santa INVOCA AL DEMONIO DEL INFIERNO: el piso vibra desde muy abajo, el cemento se raja en estrella, sale luz roja espesa. "Demonio del Infierno. Te ofrezco lo que acordamos. Llévanos. A él, a su gato. Y a mí." Facundo sigue en el sofá; Kase erizado. A punto de ser transportados al Infierno (canon: allí está el Demonio de la Oscuridad).
+## COMANDO 3 (T1720)
+
+me tiro de la oreja
+
+## RESPUESTA 3 (T1720)
+
+> me tiro de la oreja
+
+Levantas la mano y te tiras del aro de la oreja izquierda.
+
+Un solo tirón. Como el de la cuerda de arranque de un motor.
+
+El segundo corazón, el que late al lado del tuyo desde que llegaste a este mundo, golpea una vez. Fuerte. Como un tambor dentro de una caverna.
+
+Y el sótano se llena de calor.
+
+Las escamas te suben desde las manos, primero. Negras, duras, brillantes como obsidiana mojada, con vetas que corren por debajo como lava y como hielo: rojas en el brazo izquierdo, azules en el derecho. Se te trepan por los antebrazos, por los hombros, por el cuello. Los dedos se te alargan en garras curvas, negras, que rayan el terciopelo del sofá sin querer. La camisa blanca se abre en la espalda con un desgarro, y de ahí salen las alas, plegadas, enormes, membranas oscuras tensadas entre huesos largos, que barren dos estantes enteros de muñecos al desplegarse a medias y los tiran al piso en una lluvia de lata y porcelana. Detrás de ti, una cola gruesa, escamada, golpea el cemento con un ruido sordo.
+
+Te salen cuernos. Dos, largos, curvados hacia atrás, entre el pelo blanco y azul.
+
+La cara sigue siendo la tuya. Pero los ojos, el rojo y el azul, ahora tienen la pupila vertical, igual que los de Kase. Y cuando respiras, por entre los dientes te sale humo. Un hilo rojo de un lado de la boca, uno blanco, frío, del otro.
+
+Kase no se movió de tus rodillas. Ni una uña. Te mira desde abajo, con sus ojos iguales a los tuyos, y parpadea despacio, una sola vez.
+
+[Corazón del Demonio Dragón: primera transformación.]
+
+Santa Claus da un paso atrás.
+
+Es la primera vez que la ves retroceder. Las pantuflas raspan el cemento rajado. La luz roja que sale de las grietas le ilumina la cara desde abajo, y en esa cara, por debajo de la ternura de abuela, aparece algo que no estaba: una curiosidad hambrienta, enorme, y por debajo de la curiosidad, apenas, miedo.
+
+—Un dragón —susurra—. Ach, du lieber Gott. Un dragón.
+
+Los muñecos de los estantes se quedan quietos. Todos. Ninguno se mueve. Arriba, los pasos de la escalera se detienen a mitad de camino.
+
+Pero lo de abajo no se detiene.
+
+El piso se rompe. No en grietas: se abre. Del pozo de luz roja que se forma bajo los pies de Santa Claus sube algo. Primero los dedos. Dedos de piedra, de hueso, de carne vieja, cada uno del grosor de un poste de luz, que se aferran a los bordes del cemento roto y lo hacen crujir. Después la palma. Una mano. Gigantesca, más grande que el sótano, que sigue subiendo, empujando el techo, levantando las vigas de hierro como si fueran fósforos. Y en el centro de la palma, abierto, un ojo. Rojo. Sin párpado. Que te mira.
+
+Santa Claus, al borde del pozo, con la bufanda roja flameando por el viento caliente que sube, abre los brazos.
+
+—Llévanos —repite.
+
+Los dedos empiezan a cerrarse, despacio, alrededor de los tres.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1720 · CHAINSAW MAN · DÍA 2 · 08:47    ║
+║ Tokio, otoño de 1997                         ║
+║ Fábrica de juguetes del Sumida, sótano       ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.903 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Transformado: Dragón · Velo: persona común   ║
+║ Kase: en tus rodillas                        ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Santa Claus (viva, si se puede)    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 2 08:47, sótano de la fábrica. PRIMERA TRANSFORMACIÓN en Dragón (Corazón del Demonio Dragón): escamas negras con vetas rojas (izq.) y azules (der.), garras, alas (tiraron dos estantes), cola, cuernos, pupilas verticales, humo rojo y blanco. Camisa rota en la espalda. Kase quieto en sus rodillas. Santa retrocedió: "Un dragón. Ach, du lieber Gott." Muñecos quietos. El DEMONIO DEL INFIERNO sube: una mano gigantesca de piedra/hueso/carne con un ojo rojo en la palma, levanta el techo; los dedos se cierran despacio alrededor de Facundo, Kase y Santa ("Llévanos").
