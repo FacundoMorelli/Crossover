@@ -32,3 +32,4 @@ RELACIÓN CON FACUNDO: le debe la memoria y la vida de Ace; lo mira como a algui
 - T1866 · Golpea la mesa: "¡Entonces vamos! ¡Vamos a Mary Geoise, sacamos a Kuma de ahí, Facundo le pone la mano encima y...!" Dragon lo corta.
 - T1867 · "¡Yo voy con él! ¡Kuma me enseñó a nadar cuando llegué al ejército!" "Facundo. Llévame contigo. Sé cómo es Mary Geoise por dentro. Estudié los planos que trajeron los infiltrados. Sé dónde están los establos de los esclavos. Y si Kuma no me reconoce, quiero que me vea igual. Que sea yo el primero que vea cuando vuelva."
 - T1868 · "¿Un... minuto?" Se pone el sombrero, mano firme en el hombro de Facundo, cara de Jefe de Estado Mayor: "Listo."
+- T1869 · Mary Geoise: ve a Kuma encadenado y azotado; se le contrae la cara; le clava la mano en el hombro a Facundo: "Kuma..." Momoiro: se pone delante de Ivankov con los brazos abiertos: "¡KUMA! ¡Kuma, soy yo! ¡Soy Sabo!"

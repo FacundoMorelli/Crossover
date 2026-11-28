@@ -195,3 +195,4 @@
 - Día ~226 21:40 · (T1859) Facundo vuelve a Baltigo, al pasillo del cuarto de Robin.
 - Día ~227 · Llega a Baltigo un informe importante; Dragon reúne a todos en la torre a las 8.
 - Día ~206 · (canon del timeskip) Vegapunk termina de reprogramar a Kuma; el Gobierno Mundial se lo entrega a los Dragones Celestiales como esclavo en Mary Geoise.
+- Día ~227 08:10 · (por Facundo) Kuma es sacado de Mary Geoise delante de su dueño, un Dragón Celestial; llevado a Momoiro.

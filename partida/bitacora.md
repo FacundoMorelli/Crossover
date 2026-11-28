@@ -1868,3 +1868,4 @@ T1865 · ONE PIECE · Torre de Dragon · Sabo lo abraza. Kuma, esclavo de los Dr
 T1866 · ONE PIECE · Torre de Dragon · "Sí. Se puede." Dragon: Mary Geoise imposible para cualquiera... "¿Qué necesitas?"
 T1867 · ONE PIECE · Torre de Dragon · "¿Voy a buscarlo ahora?" Dragon: "Ahora." Kuma a Momoiro, no a Baltigo. Sabo quiere ir con él.
 T1868 · ONE PIECE · Torre de Dragon · "En un minuto." Ivankov avisado. Sabo listo. Dragon: "Tráemelo de vuelta."
+T1869 · ONE PIECE · Mary Geoise → Momoiro · Se lleva a Kuma del carruaje de un Dragón Celestial. En Momoiro, Kuma prepara el Ursus Shock contra Ivankov; Sabo se interpone; el collar pita.

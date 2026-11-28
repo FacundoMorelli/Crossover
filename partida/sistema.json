@@ -1,8 +1,8 @@
 {
-  "turno": 1868,
+  "turno": 1869,
   "mundo_actual": "onepiece",
   "fecha_local": "One Piece: Día ~227 (timeskip, ~5,5 meses)",
-  "hora": "Día ~227, 08:09 (Baltigo)",
+  "hora": "Día ~227, 08:10 (Momoiro)",
   "edad": 18,
   "nivel": 35,
   "exp": 549130,
@@ -101,7 +101,7 @@
     "energia": 4006,
     "control": 4005
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 99,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [

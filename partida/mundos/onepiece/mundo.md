@@ -30,3 +30,4 @@ DON DE MUNDO: Shio Shio no Mi (ver sistema.json).
 - T1453 · Día ~121 · Sabo recupera la memoria en Baltigo por Facundo (en el canon la recuperaba al leer la muerte de Ace; aquí Ace vive).
 - T1457 · Día ~121 · Reencuentro de Ace, Sabo y Luffy en Rusukaina, por Facundo (en el canon no se reúnen nunca los tres).
 - T1465 · Día ~121 · Barbablanca curado por completo de su enfermedad por Facundo (Transfiguración Ociosa).
+- T1869 · Día ~227 · Facundo y Sabo se llevan a Kuma de Mary Geoise delante de un Dragón Celestial (en el canon Kuma sigue esclavo hasta el Reverie).
