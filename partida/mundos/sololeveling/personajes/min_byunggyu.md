@@ -22,3 +22,4 @@ QUÉ SABE DE FACUNDO: lo público; novio de Cha.
 - T1841 · Ve a Facundo matar al Rey hormiga a puñetazos y derribar a todas las hormigas con una onda (Haki del Rey) sin que a los coreanos les pase nada. Vivo/a. Ve a Jinwoo salir de la sombra de Cha.
 - T1842 · Recibe una semilla del ermitaño: maná lleno. "¿Qué... es esto? Esto no es curación. Esto es... todo. Todo de vuelta."
 - T1857 · Llama a la casa de la señora Kang (el celular de Cha apagado): su padre quiere conocer a Facundo; invita a cenar esta noche en su casa en Mapo, a los dos y al gato.
+- T1858 · Cena confirmada: Día 22, 19:00, en la casa de su padre en Mapo.

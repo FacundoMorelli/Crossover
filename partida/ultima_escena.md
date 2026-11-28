@@ -3,58 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1855)
-
-esta bien amor, la agarro de la cintura y le doy un beso
-
-## RESPUESTA 1 (T1855)
-
-> esta bien amor, la agarro de la cintura y le doy un beso
-
-> —Está bien, amor.
-
-La agarras de la cintura, por encima de la chamarra mostaza, y la besas.
-
-Cha Hae-in te pasa los brazos por el cuello y se pone en puntas de pie. Las hojas amarillas del ginkgo caen alrededor de los dos, despacio, y algunas se quedan enredadas en su pelo. El viento del otro mundo, por la puerta abierta, sigue soplando, tibio, con olor a pasto y a tormenta, y le levanta el borde de la chamarra.
-
-Kase, en tu hombro, mira hacia otro lado. Hacia la pradera. Con mucha dignidad.
-
-Cuando se separan, ella se queda con la frente apoyada en tu mentón, los ojos cerrados, respirando hondo. Se ríe bajito.
-
-—Una flor —dice—. Lo prometiste.
-
-Abre los ojos. Mira la puerta por encima de tu hombro, el cielo azul, las cúpulas blancas a lo lejos. Algo enorme, de cuello largo, asoma la cabeza por detrás de unas rocas en la pradera, a lo lejos, mastica pasto, y vuelve a esconderse.
-
-Cha Hae-in parpadea.
-
-—Facundo. —Lo dice muy seria—. Cierra eso antes de que entre algo.
-
-Y se ríe. Con la cabeza hacia atrás, de verdad, las hojas amarillas cayéndole del pelo. La misma risa que su mamá.
-
-Se seca los ojos con la manga, todavía riéndose. Te agarra la mano.
-
-—Vamos. Mamá nos va a matar si se enfría el té. —Te tira suave de la mano hacia la calle—. Y quiero que me cuentes. No todo. Algo. Del lugar de ese cielo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1855 · SOLO LEVELING · DÍA 22 · 12:51  ║
-║ Seúl, Corea del Sur                          ║
-║ Plaza del barrio · puerta abierta            ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 1.282.800 won           ║
-║ Energía 95% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirando la pradera       ║
-║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1856)
+## COMANDO 1 (T1856)
 
 cierro el portal y vuelvo con ella a la casa
 
-## RESPUESTA 2 (T1856)
+## RESPUESTA 1 (T1856)
 
 > cierro el portal y vuelvo con ella a la casa
 
@@ -103,11 +56,11 @@ Cha Hae-in espera a que se oiga la voz de su mamá en el pasillo. Después se in
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1857)
+## COMANDO 2 (T1857)
 
 en ese lugar hay gente no igual de fuerte que yo, pero que pasa mucho el poder de este, hay dioses de la creación y de la destrucción, distintos universos, cada uno con diferentes planetas, dioses, humanos, diferentes razas
 
-## RESPUESTA 3 (T1857)
+## RESPUESTA 2 (T1857)
 
 > en ese lugar hay gente no igual de fuerte que yo, pero que pasa mucho el poder de este, hay dioses de la creación y de la destrucción, distintos universos, cada uno con diferentes planetas, dioses, humanos, diferentes razas
 
@@ -168,6 +121,57 @@ Cruza los brazos.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1858)
+
+si, dile que vamos con gusto
+
+## RESPUESTA 3 (T1858)
+
+> si, dile que vamos con gusto
+
+> —Sí, dígale que vamos con gusto.
+
+—Bien. —La señora Kang asiente, satisfecha, como si hubiera ganado una discusión con alguien—. Así me gusta.
+
+Vuelve al pasillo. La escuchas marcar el número, esperar, y hablar fuerte, con voz de madre: que sí, que van, que a qué hora, que si el gato puede comer pescado crudo o solo cocido, que no se le ocurra al padre de Min cocinar solo porque los hombres no saben, que ella va a mandar kimchi. Cuelga.
+
+Vuelve al living secándose las manos en el delantal.
+
+—A las siete. En Mapo. La dirección te la manda Min al celular de mi hija, cuando lo prenda. —Mira a Cha Hae-in con los ojos entrecerrados—. Que lo vas a prender, ¿no?
+
+—Sí, mamá.
+
+—Y no se va con las manos vacías a la casa de un señor mayor. Llevan fruta. Y el kimchi que yo les preparo.
+
+Se va a la cocina sin esperar respuesta. Al rato se escucha el ruido de frascos de vidrio, del refrigerador que se abre y se cierra.
+
+Cha Hae-in se queda sentada a tu lado, con la cabeza todavía apoyada en tu hombro. Se ríe por la nariz, cansada.
+
+—Va a mandar kimchi para un regimiento.
+
+Se mira la ropa negra de combate, manchada de sudor, de polvo blanco de la caverna, con una mancha oscura de sangre de hormiga seca en la manga. Se huele el pelo. Arruga la nariz.
+
+—No puedo ir así a la casa del padre de Min. —Se endereza, te mira—. Necesito bañarme. Y dormir una hora. O dos. Desde ayer no duermo.
+
+Bosteza, tapándose la boca con el dorso de la mano, sin poder evitarlo. Se le cierran un poco los ojos.
+
+—¿Volvemos al hotel? —pregunta, bajito—. Un rato. Antes de la cena.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1858 · SOLO LEVELING · DÍA 22 · 13:14  ║
+║ Seúl, Corea del Sur                          ║
+║ Casa de la señora Kang · mesa del living     ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 1.282.800 won           ║
+║ Energía 96% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el sofá, dormitando                 ║
+║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
+║ OBJETIVO: Cena en casa de Min, 19:00 (Mapo)  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 13:06, mesa de la señora Kang. Facundo le contó a Cha (susurro) del mundo de Dragon Ball: gente que supera por mucho el poder de este mundo aunque no tanto como él; dioses de la creación y de la destrucción; distintos universos con planetas, dioses, humanos y razas. Cha, temblando: "Paraste al Rey hormiga con una mano. Y eso para ti era..." Luego: "No me importa. Eres el que trajo peras... Eso es lo que eres para mí." La señora Kang vuelve: llamó Min Byung-Gyu (tiene el número de años); su padre quiere conocer "al chico que le devolvió a su hijo": cena esta noche en su casa en Mapo, los dos y el gato. "¿Qué le digo?"
+ESTADO AL CIERRE: Día 22 13:14, casa de la señora Kang. "Sí, dígale que vamos con gusto." La señora Kang llamó a Min: cena a las 19:00 en Mapo (Min manda la dirección al celular de Cha); preguntó si el gato come pescado crudo; manda kimchi; "no se va con las manos vacías": fruta y su kimchi. Cha, sucia de la caverna, sin dormir desde ayer: "Necesito bañarme. Y dormir una hora. O dos. ¿Volvemos al hotel? Un rato. Antes de la cena."
