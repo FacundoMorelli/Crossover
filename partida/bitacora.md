@@ -1804,3 +1804,4 @@ T1801 · SOLO LEVELING · Hotel de Gangnam · "Algún día me voy, pero voy a vo
 T1802 · SOLO LEVELING · Hotel de Gangnam · La foto del beso es viral. Choi: "Traiga a ese chico." Cha: "¿Vendrías conmigo?"
 T1803 · SOLO LEVELING · Gremio de Cazadores · Va con Cha al gremio; prensa en la puerta. ¿Atrás o adelante?
 T1804 · SOLO LEVELING · Gremio de Cazadores · Oficina de Choi. Tasación. "¿Quién es usted?"
+T1805 · SOLO LEVELING · Gremio de Cazadores · "Soy el novio de Hae-in." La Asociación no lo encuentra en ningún registro; Woo Jinchul viene a medirle el maná.

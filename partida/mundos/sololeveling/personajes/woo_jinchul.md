@@ -11,3 +11,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: —
+- T1805 · (por Choi) Vigilancia de la Asociación vio la foto; Facundo no figura en ningún registro. Woo Jinchul va en camino al Gremio de Cazadores para medirle el maná (informal). QUÉ SABE: foto pública; sin registros.

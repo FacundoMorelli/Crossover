@@ -30,3 +30,4 @@
 - T1802 · CHOI JONG-IN: vio la noticia; ya sabía que Cha se quedó con "un chico sin maná" (T1772/T1786); quiere conocerlo. LA ASOCIACIÓN preguntó por Cha.
 - T1803 · MADRE DE CHA HAE-IN sabe (por Cha) que el de la foto es su novio y que no es cazador.
 - T1804 · CHOI JONG-IN no le siente maná a Facundo; dice que no figura en ningún registro de la Asociación (lo hizo averiguar esa mañana) y que no tiene documentos (deducción/averiguación).
+- T1805 · ASOCIACIÓN (Vigilancia, Woo Jinchul) sabe por la foto pública y por sus registros que Facundo no figura en ningún padrón. CHOI sabe por Facundo su nombre y que es novio de Cha.

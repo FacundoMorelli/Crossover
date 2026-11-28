@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1802)
-
-me duermo con ella y simula
-
-## RESPUESTA 1 (T1802)
-
-> me duermo con ella y simula
-
-Te duermes con ella encima, con su respiración pareja contra tu pecho y el peso tibio de Kase en los pies.
-
-...
-
-Seúl amanece gris otra vez, con nubes bajas que tapan la punta de las torres. A las siete pasa el primer tren elevado sobre el Han. A las siete y media una mucama empuja el carrito por el pasillo del piso veintidós y vuelve a pasar de largo frente al cartelito de "no molestar".
-
-Sobre la mesita de luz, el celular de Cha Hae-in vibra. Y vuelve a vibrar. Y otra vez. Cada pocos minutos, desde las seis y media, la pantalla se enciende sola en la penumbra, ilumina el techo un segundo y se apaga.
-
-Kase es el primero en hartarse. A las ocho y diez se levanta de los pies de la cama, camina por encima de los dos, se sienta junto al celular y lo mira mientras vibra, con las orejas hacia atrás. Después le da un golpecito con la pata. El celular se cae de la mesita al piso con un ruido seco.
-
-Cha Hae-in se despierta de golpe, con un reflejo de cazadora: la mano ya buscando una espada que no está. Ve la habitación, el ventanal, a ti. Se le afloja todo el cuerpo y se le escapa una sonrisa dormida, chiquita, con el pelo pegado en la cara.
-
-—Buen día —dice, ronca.
-
-Abajo, en el piso, el celular vuelve a vibrar.
-
-Ella se estira por encima del borde de la cama, lo levanta y mira la pantalla. La sonrisa se le congela.
-
-Ves la pantalla por encima de su hombro: veintitrés llamadas perdidas. "Maestro Choi" (nueve). "Gremio - Oficina" (seis). "Mamá" (cuatro). Varios números sin nombre. Y decenas de mensajes, uno encima del otro.
-
-Cha Hae-in abre uno. Es un enlace de un portal de noticias. Una foto, un poco movida, tomada con un celular bajo las lamparitas amarillas del mercado de Gwangjang: una chica de gorra negra y anteojos de sol besando a un chico alto de pelo blanco y azul, con un gato enorme en el hombro. Se le ve la mitad de la cara a ella. Es suficiente.
-
-El titular dice:
-
-"¿CHA HAE-IN ENAMORADA? La 'Princesa de la Espada' del Gremio de Cazadores, captada con un misterioso joven en el mercado de Gwangjang"
-
-Debajo, ya hay más de cuatro mil comentarios.
-
-Cha Hae-in se queda mirando la pantalla mucho rato, sin parpadear. Después abre el último mensaje, del Maestro Choi, enviado hace diez minutos. Lo lee en voz baja, despacio:
-
-—"Vicemaestra. La prensa está en la puerta del gremio. La Asociación preguntó por usted. Venga a la oficina antes del mediodía." —Traga—. "Y traiga a ese chico. Quiero conocerlo."
-
-Baja el celular a la sábana. Te mira. Está pálida, pero no asustada. Más bien parece alguien que se cayó de una nube y todavía no sabe si se lastimó.
-
-—Facundo... —dice—. ¿Vendrías conmigo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1802 · SOLO LEVELING · DÍA 3 · 08:14   ║
-║ Seúl, Corea del Sur                          ║
-║ Hotel de Gangnam · habitación 2207           ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: sentado en la mesita de luz            ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Choi quiere conocerte (mediodía)   ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1803)
+## COMANDO 1 (T1803)
 
 si
 
-## RESPUESTA 2 (T1803)
+## RESPUESTA 1 (T1803)
 
 > si
 
@@ -111,11 +52,11 @@ El taxista espera, con las manos en el volante, mirándolos por el espejo retrov
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1804)
+## COMANDO 2 (T1804)
 
 vayamos por atrás por ahora
 
-## RESPUESTA 3 (T1804)
+## RESPUESTA 2 (T1804)
 
 > vayamos por atrás por ahora
 
@@ -180,6 +121,61 @@ Rodea el escritorio, despacio, y se detiene frente a ti, a un paso. Es casi tan 
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1805)
+
+soy Facundo Morelli, un viajero, y el novio de Hae-in
+
+## RESPUESTA 3 (T1805)
+
+> soy Facundo Morelli, un viajero, y el novio de Hae-in
+
+> —Soy Facundo Morelli. Un viajero. Y el novio de Hae-in.
+
+A tu lado, Cha Hae-in se pone derecha, muy derecha, y no dice nada. Pero no baja la vista.
+
+Choi Jong-In se queda quieto un segundo. Después algo le tira de la comisura de la boca. No es una sonrisa: es la cara de un hombre que esperaba una excusa, un nombre de gremio, una amenaza, cualquier cosa menos una respuesta así de simple, dicha así, en su propia oficina.
+
+—Facundo Morelli —repite, despacio, como si probara el nombre—. Un viajero.
+
+Se da vuelta, vuelve detrás del escritorio y se sienta en su sillón de cuero negro. Junta las puntas de los dedos delante de la cara.
+
+—Señor Morelli, voy a ser franco con usted. A mí no me importa con quién sale mi vicemaestra. —Mira a Cha Hae-in, por encima de los anteojos—. Ya es hora, si me pregunta. Hace años que se lo digo.
+
+Cha Hae-in se pone roja hasta las orejas.
+
+—Maestro...
+
+—Lo que me importa —sigue Choi, sin cambiar el tono— es que esta mañana, a las siete, me llamó la Asociación de Cazadores. —Golpea con un dedo una carpeta sobre el escritorio—. El departamento de Vigilancia. Ellos también vieron la foto. Y les llamó la atención lo mismo que a mí: que la cazadora de rango S más famosa de Corea está con alguien que no aparece en ningún lado. Ni en el registro de despertados, ni en migraciones, ni en ningún padrón. Como si hubiera caído del cielo.
+
+Se acomoda los anteojos.
+
+—El jefe de Vigilancia, Woo Jinchul, viene en camino. Quiere hacerle una medición de maná. Nada formal. Solo para quedarse tranquilos. —Hace una pausa—. Después de lo de Jeju, la Asociación se pone nerviosa con todo lo que no entiende.
+
+Mira a Kase, que lo mira a él desde tu hombro sin parpadear.
+
+—Usted no está obligado. No es cazador, no tiene ningún deber con la Asociación. —Te mira otra vez a los ojos—. Pero si se niega, van a seguir preguntando. Y van a preguntarle a ella.
+
+Cha Hae-in aprieta los puños a los costados.
+
+Choi espera, con los dedos juntos.
+
+—¿Acepta la medición, señor Morelli?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1805 · SOLO LEVELING · DÍA 3 · 11:14   ║
+║ Seúl, Corea del Sur                          ║
+║ Gremio de Cazadores · piso 38, oficina Choi  ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirando a Choi           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Medición de maná (Asociación)      ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 3 11:12, oficina de Choi Jong-In (piso 38 del Gremio de Cazadores). Entraron por el estacionamiento (un fotógrafo vio doblar el taxi, tarde). Tasación de Choi (fuego; amenaza BAJA; tú x75; misión MEDIA). Choi intenta medir el maná de Facundo: nada. Cha de pie al lado de Facundo (no se sentó). Choi: Cha rechazó seis años todas las propuestas; "un chico sin maná, sin nombre en ningún registro de la Asociación, sin documentos"... "¿Quién es usted?"
+ESTADO AL CIERRE: Día 3 11:14, oficina de Choi. Facundo: "Soy Facundo Morelli. Un viajero. Y el novio de Hae-in." Choi: no le importa con quién sale ("ya es hora"). La Asociación (Vigilancia) lo llamó a las 7: Facundo no figura en registro de despertados, migraciones ni padrones. Woo Jinchul viene en camino para una medición de maná informal ("después de lo de Jeju, la Asociación se pone nerviosa"). No está obligado, pero si se niega preguntarán a Cha. "¿Acepta la medición, señor Morelli?"
