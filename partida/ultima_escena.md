@@ -3,58 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1798)
-
-si, muy en serio, le doy un beso
-
-## RESPUESTA 1 (T1798)
-
-> si, muy en serio, le doy un beso
-
-> —Sí. Muy en serio.
-
-Le das un beso.
-
-Cha Hae-in se queda quieta con la mano todavía sobre la cara, y después la baja, despacio, y te lo devuelve. Los anteojos de sol se le ladean sobre la nariz. La gorra se le corre un poco para atrás.
-
-La señora de los panqueques vuelve a gritar. Esta vez la acompaña el señor del puesto de al lado, que vende fideos fríos, y una mesa entera de oficinistas que aplauden y golpean los vasitos contra la madera. Alguien grita "¡bravo!". Un turista saca una foto.
-
-Cha Hae-in se separa, se acomoda la gorra con las dos manos, de un tirón, hasta las cejas, y se endereza los anteojos. Está roja hasta donde le llega el suéter. Pero no se suelta de tu mano.
-
-—Me van a reconocer —murmura, mirando la plancha—. Me van a reconocer y va a salir en internet.
-
-Lo dice sin enojo. Casi como si no le importara.
-
-La señora pone delante de ustedes los primeros dos panqueques, gruesos, dorados, humeando, en platitos de metal, con una salsita de soja con cebolla al lado. Después, sin preguntar, abre la botella verde y llena los dos vasitos hasta el borde.
-
-—¡Por los novios! —dice, fuerte.
-
-Cha Hae-in mira el vasito. Lo levanta con las dos manos, como se hace con los mayores, y se da vuelta hacia ti, con la gorra hasta las cejas y una sonrisa que ya no intenta esconder.
-
-—Por... —Duda. Busca la palabra—. Por nosotros.
-
-Espera, con el vasito en el aire, a que levantes el tuyo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1798 · SOLO LEVELING · DÍA 2 · 18:44   ║
-║ Seúl, Corea del Sur                          ║
-║ Mercado de Gwangjang · puesto de panqueques  ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el banco, comiendo pescado frito    ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Cenar en Gwangjang con Cha         ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1799)
+## COMANDO 1 (T1799)
 
 brindó con ella, por nosotros
 
-## RESPUESTA 2 (T1799)
+## RESPUESTA 1 (T1799)
 
 > brindó con ella, por nosotros
 
@@ -103,11 +56,11 @@ Salen del túnel del mercado a la calle. Es de noche, hace frío, y el aire huel
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1800)
+## COMANDO 2 (T1800)
 
 si, vamos al hotel
 
-## RESPUESTA 3 (T1800)
+## RESPUESTA 2 (T1800)
 
 > si, vamos al hotel
 
@@ -162,6 +115,55 @@ Se queda callada un rato. Escuchas su respiración.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1801)
+
+asi es, pero voy a volver
+
+## RESPUESTA 3 (T1801)
+
+> asi es, pero voy a volver
+
+> —Así es. Pero voy a volver.
+
+Cha Hae-in no dice nada durante un rato largo. El dedo sigue quieto sobre la cabeza del dragón. Sientes cómo respira contra tu pecho, despacio, hondo, como si estuviera guardando algo adentro para después.
+
+—Está bien —dice al final.
+
+Lo dice tranquila. No suena triste. Suena como alguien que ya pensó en eso, sola, en algún momento del día, y que ya decidió qué hacer con eso.
+
+—Los cazadores también nos vamos —sigue, muy bajito—. Todos los días. Entramos a una Puerta y no sabemos si vamos a salir. Mi mamá me lo dice cada vez que me ve: que algún día no voy a volver. —Mueve un poco la cabeza sobre tu pecho, acomodándose—. Así que aprendí a no pensar en "algún día". Pienso en hoy.
+
+Levanta la cabeza, por fin, apoyando el mentón sobre tu pecho para mirarte. Tiene el pelo revuelto, los ojos cansados y brillantes, y una marca roja en la mejilla de la sábana.
+
+—Hoy estás aquí. —Sonríe—. Y dijiste que vas a volver.
+
+Se estira un poco hacia arriba y te da un beso corto, suave, en la boca.
+
+Después vuelve a acostarse, con la oreja sobre tu corazón, como si quisiera escucharlo.
+
+—Tu corazón late muy despacio —murmura, ya medio dormida—. Como si nada te diera miedo.
+
+A los pies de la cama, Kase se estira sin despertarse y suelta un suspiro largo.
+
+La respiración de Cha Hae-in se vuelve lenta, pareja. Se duerme ahí, sobre ti, con la mano abierta encima del dragón.
+
+Afuera, Seúl sigue brillando.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1801 · SOLO LEVELING · DÍA 3 · 02:21   ║
+║ Seúl, Corea del Sur                          ║
+║ Hotel de Gangnam · habitación 2207           ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: dormido a los pies de la cama          ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 3 02:14, 2207. Volvieron en taxi; el chico de recepción reconoció a Cha. En la habitación: "No hueles a nada. Y es lo más lindo que olí en mi vida." (fundido). Pasaron la noche juntos. Ahora acostados; Cha con la cabeza en el pecho de Facundo, recorre el tatuaje del dragón; su cadenita (placa + llavecita) le toca el costado. Kase dormido a los pies. Cha: "Dijiste que te vas a quedar un tiempo... Algún día te vas a ir, ¿verdad?"
+ESTADO AL CIERRE: Día 3 02:21, 2207. Facundo: "Así es. Pero voy a volver." Cha: "Está bien." Los cazadores también se van cada día; su mamá le dice que algún día no va a volver; aprendió a pensar en hoy. "Hoy estás aquí. Y dijiste que vas a volver." Beso corto. "Tu corazón late muy despacio. Como si nada te diera miedo." Se duerme sobre su pecho. Kase a los pies.

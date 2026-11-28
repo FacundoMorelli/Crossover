@@ -1800,3 +1800,4 @@ T1797 · SOLO LEVELING · Gwangjang · "Sí, soy su novio." Cha Hae-in, novia en
 T1798 · SOLO LEVELING · Gwangjang · "Muy en serio." Beso, aplausos, una foto de un turista. Brindis "por nosotros".
 T1799 · SOLO LEVELING · Gwangjang · Brindis "por nosotros", cena. Choi llama a Cha (no contesta). "¿Vamos? Al hotel."
 T1800 · SOLO LEVELING · Hotel de Gangnam · Primera noche con Cha Hae-in (fundido). Madrugada: "Algún día te vas a ir, ¿verdad?"
+T1801 · SOLO LEVELING · Hotel de Gangnam · "Algún día me voy, pero voy a volver." Cha: "Hoy estás aquí." Se duerme sobre él.
