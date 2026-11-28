@@ -5,3 +5,4 @@
 - Día 3 madrugada · Portal de noticias (viral, +4.000 comentarios): "¿CHA HAE-IN ENAMORADA? La 'Princesa de la Espada' del Gremio de Cazadores, captada con un misterioso joven en el mercado de Gwangjang". Foto movida del beso (Día 2 18:44): chica de gorra y anteojos (media cara de Cha), chico alto de pelo blanco y azul con un gato enorme al hombro. Sin nombre del chico.
 - Día 3 12:02 · EN VIVO frente al Gremio de Cazadores: Cha Hae-in confirma a la prensa: "Sí. Es mi novio." Junto a ella, el chico de pelo blanco y azul con el gato.
 - Día 3 12:03 · EN VIVO: el novio se presenta: "Soy Facundo Morelli. Un viajero. Y el novio de Hae-in." Cha Hae-in: "No es cazador. No tiene maná. La Asociación lo midió hoy."
+- Día 3 12:04 · EN VIVO: "¿Cómo la conquistó?" Facundo Morelli: "Es un secreto." Cha Hae-in se ríe (primera foto suya riéndose en seis años) y repite: "Es un secreto." Se van en una camioneta del gremio.

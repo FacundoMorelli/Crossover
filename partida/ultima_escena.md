@@ -3,74 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1807)
-
-soy un viajero, de muy lejos, llegué caminando
-
-## RESPUESTA 1 (T1807)
-
-> soy un viajero, de muy lejos, llegué caminando
-
-> —Soy un viajero. De muy lejos. Llegué caminando.
-
-Woo Jinchul te mira sin pestañear. El empleado joven abre la boca, la cierra y mira a su jefe.
-
-—Caminando —repite Woo Jinchul.
-
-Detrás del escritorio, Choi Jong-In se acomoda los anteojos con un dedo, y algo que se parece mucho a una risa le pasa por la nariz, rápido, sin sonido.
-
-Woo Jinchul levanta una ceja. Una sola vez. Te mira un segundo más. Después suspira, largo, cansado, como un hombre que hace demasiados años que trabaja en un país donde se abren agujeros en el aire y salen monstruos, y que ya dejó de sorprenderse por casi todo.
-
-—Bien —dice. Y lo deja ahí.
-
-Vuelve a ponerse los anteojos de sol. Le hace un gesto al empleado, que cierra el maletín.
-
-—Señor Morelli, no voy a perder el tiempo de nadie. Usted no tiene maná. No es una amenaza para nadie en este país, por lo menos no en lo que a mí me toca vigilar. —Saca del bolsillo interior del saco una tarjeta blanca, con el emblema de la Asociación, y la deja sobre el escritorio, delante de ti—. Pero no puede seguir viviendo en Corea sin papeles. Si alguien lo para en la calle, lo detienen. Y con esa foto dando vueltas, alguien lo va a parar.
-
-Mira a Cha Hae-in.
-
-—Existe un trámite de residencia provisoria para personas sin documentos. Lo usamos para gente que llegó de zonas destruidas por rupturas de Puertas, sin nada. Necesita un garante: un ciudadano coreano que responda por usted. —Hace una pausa—. Un cazador de rango S como garante simplifica mucho las cosas.
-
-Cha Hae-in no lo deja terminar.
-
-—Yo respondo por él.
-
-Lo dice rápido, firme, sin mirarte. Choi la mira por encima de los anteojos y no dice nada.
-
-Woo Jinchul asiente.
-
-—Pasen mañana por la sede de la Asociación con esa tarjeta, a las diez. Es una hora. —Se arregla la corbata y se dirige a la puerta. Antes de salir, se detiene—. Ah. Y abajo siguen los periodistas. Por la puerta de atrás también, ahora: alguien les avisó del estacionamiento. —Mira a Choi—. Eso es problema suyo, maestro.
-
-Sale, con el empleado detrás. La puerta doble se cierra.
-
-Choi Jong-In apoya los codos en el escritorio y mira por el ventanal hacia la avenida. Abajo, la valla, las cámaras, los micrófonos.
-
-—Bueno, señor Morelli. —Se acomoda los anteojos—. Ya no hay puerta de atrás. Puedo hacer que el gremio publique un comunicado, salir yo a decir dos palabras y esperar a que se cansen. O... —te mira— pueden salir ustedes dos por adelante y terminar con esto de una vez. A la prensa lo que más le gusta es un misterio. Si le quitan el misterio, en tres días se aburren.
-
-Cha Hae-in te mira.
-
-—¿Qué hacemos? —pregunta, bajito.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1807 · SOLO LEVELING · DÍA 3 · 11:49   ║
-║ Seúl, Corea del Sur                          ║
-║ Gremio de Cazadores · piso 38, oficina Choi  ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: La prensa en las dos puertas       ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1808)
+## COMANDO 1 (T1808)
 
 vayamos por adelante nosotros 2
 
-## RESPUESTA 2 (T1808)
+## RESPUESTA 1 (T1808)
 
 > vayamos por adelante nosotros 2
 
@@ -131,11 +68,11 @@ Una periodista de la primera fila, de traje rojo —la misma presentadora del no
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1809)
+## COMANDO 2 (T1809)
 
 soy Facundo Morelli, un viajero, y el novio de Hae-in
 
-## RESPUESTA 3 (T1809)
+## RESPUESTA 2 (T1809)
 
 > soy Facundo Morelli, un viajero, y el novio de Hae-in
 
@@ -180,6 +117,65 @@ La presentadora de rojo aprovecha el segundo de confusión. Se estira todavía m
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1810)
+
+es un secreto
+
+## RESPUESTA 3 (T1810)
+
+> es un secreto
+
+> —Es un secreto.
+
+La presentadora se queda con el micrófono en el aire y la sonrisa congelada. Detrás de ella, alguien suelta una carcajada. Los curiosos de la vereda gritan "¡uuuh!" todos juntos, como en un estadio.
+
+A tu lado, Cha Hae-in se tapa la boca con la mano libre. Se le escapa una risa. Clara, corta, delante de cuarenta cámaras. Los fotógrafos se vuelven locos: es la primera vez en seis años que la fotografían riéndose.
+
+—¡Vicemaestra! ¡Vicemaestra Cha, ¿usted nos lo puede decir?!
+
+Cha Hae-in baja la mano. Te mira a ti, no a las cámaras, y sonríe.
+
+—Es un secreto —repite.
+
+Y se da vuelta, sin soltarte la mano.
+
+Los dos guardias entienden la señal antes que nadie. Se ponen a los costados y abren camino por la vereda, entre los fotógrafos que retroceden caminando de espaldas sin dejar de disparar. Una camioneta negra con el emblema del gremio en la puerta frena junto al cordón, con el motor prendido; Choi debe haberla mandado desde arriba. Uno de los guardias abre la puerta de atrás.
+
+Cha Hae-in sube primero. Subes detrás, con Kase. La puerta se cierra y el ruido de afuera se corta de golpe, como si alguien hubiera bajado el volumen. Los vidrios son oscuros. Del otro lado, los flashes siguen, mudos, como relámpagos lejanos.
+
+La camioneta arranca.
+
+Durante una cuadra, ninguno de los dos dice nada. Cha Hae-in mira hacia adelante, con la mano todavía agarrada a la tuya, respirando rápido. Después se apoya contra el respaldo, cierra los ojos y suelta todo el aire de golpe.
+
+Y se ríe. Se ríe de verdad, con la cabeza hacia atrás, tapándose la cara con la otra mano, hasta que se le saltan las lágrimas.
+
+—Es un secreto —dice, entre risas—. Les dijiste a todos los canales de Corea que es un secreto.
+
+Se seca los ojos con el dorso de la mano. Te mira, todavía riéndose, con las mejillas rojas.
+
+El conductor del gremio, un hombre mayor de gorra, mira por el espejo retrovisor.
+
+—¿A dónde los llevo, vicemaestra?
+
+Cha Hae-in te mira a ti.
+
+—No sé —dice—. ¿A dónde quieres ir?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1810 · SOLO LEVELING · DÍA 3 · 12:06   ║
+║ Seúl, Corea del Sur                          ║
+║ Camioneta del gremio, saliendo de la avenida ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tu falda                            ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 3 12:03, frente al gremio, en vivo. Facundo: "Soy Facundo Morelli. Un viajero. Y el novio de Hae-in." Revuelo ("¡La llamó Hae-in!"). Cha, colorada, barbilla en alto. A "¿Es cazador?": Cha: "No es cazador. No tiene maná. La Asociación lo midió hoy." Murmullo, risas, "¡qué romántico!". Presentadora de rojo: "La Princesa de la Espada... seis años rechazando a todo el mundo. ¿Cómo la conquistó?"
+ESTADO AL CIERRE: Día 3 12:06. Facundo: "Es un secreto." Cha se ríe ante las cámaras (primera foto riendo en seis años) y repite "Es un secreto." Se van en una camioneta negra del gremio (la mandó Choi; conductor mayor de gorra). Cha se ríe hasta llorar: "Les dijiste a todos los canales de Corea que es un secreto." Conductor: "¿A dónde los llevo?" Cha: "No sé. ¿A dónde quieres ir?" Mañana 10:00: residencia provisoria.
