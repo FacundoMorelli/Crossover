@@ -3,78 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1868)
-
-esta bien, igual vamos a ir directamente a donde esta Kuma y despues directamente a ivankov, capaz en 1 minuto pasa eso como mucho
-
-## RESPUESTA 1 (T1868)
-
-> esta bien, igual vamos a ir directamente a donde esta Kuma y despues directamente a ivankov, capaz en 1 minuto pasa eso como mucho
-
-> —Está bien. Igual vamos a ir directo a donde está Kuma, y después directo con Ivankov. Tal vez en un minuto, como mucho.
-
-Sabo se queda con el sombrero de copa a medio camino de la cabeza.
-
-—¿Un... minuto?
-
-Koala abre la boca y no le sale nada. Hack descruza los brazos otra vez. Corvin, con el auricular del Den Den Mushi ya en la mano, se queda quieto.
-
-Dragon no se ríe. Te mira. Y por primera vez desde que lo conoces, algo que se parece a una sonrisa le tira de la comisura de la boca, debajo del tatuaje, apenas, durante medio segundo.
-
-—Corvin —dice, sin dejar de mirarte—. Llama a Ivankov. Ahora. Que deje la puerta abierta.
-
-Corvin ya está marcando. El Den Den Mushi sobre la mesa abre los ojos, pone cara seria, hace "purupurupuru", y al tercer timbre contesta una voz exagerada, aguda y grave a la vez, que llena la torre entera:
-
-—¡¿Quién llama a esta hora tan horrible de la mañana?! ¡Hee-haw!
-
-—Iva-san. Es Corvin. Escucha bien. En un minuto te llega un paquete. —Corvin mira a Dragon, que asiente—. Es Kuma.
-
-Silencio del otro lado. El Den Den Mushi pone una cara de asombro enorme, con la boca abierta.
-
-—¡¿KUMA-BOY?! —grita Ivankov—. ¡¿Cómo que en un minuto?! ¡Vanaata, Corvin, ¿estás borracho?!
-
-—No viene solo. Viene con Sabo. Y con alguien más. —Corvin te mira de reojo—. Ojos de Eclipse.
-
-Otro silencio.
-
-—...Hee-haw —dice Ivankov, mucho más bajito—. Aquí los espero.
-
-Corvin corta.
-
-Sabo se pone el sombrero de copa. Se acomoda la capa negra. Se acerca a ti y te pone una mano en el hombro, el que no tiene a Kase, firme. Ya no sonríe. Tiene la cara seria del Jefe de Estado Mayor del Ejército Revolucionario.
-
-—Listo —dice.
-
-Koala se le acerca por detrás y le arregla el cuello de la capa, sin decir nada, con las manos temblando un poco. Después da un paso atrás.
-
-Robin te suelta la mano. Despacio. Te mira de costado, con el cuaderno bajo el brazo.
-
-—Un minuto —dice, serena—. Lo voy a contar.
-
-Dragon se queda junto a la mesa, con las dos manos apoyadas sobre el mapa de la Red Line. Te mira a los ojos. Cuando habla, la voz es baja, sin órdenes.
-
-—Tráemelo de vuelta, Facundo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1868 · ONE PIECE · DÍA ~227 · 08:09    ║
-║ Baltigo · torre de Dragon                    ║
-║ Con Sabo agarrado del hombro                 ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Kuma, en Mary Geoise               ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1869)
+## COMANDO 1 (T1869)
 
 me teletransporto con sabo a donde esta kuma, despues me teletransporto directamente a ivankov con kuma
 
-## RESPUESTA 2 (T1869)
+## RESPUESTA 1 (T1869)
 
 > me teletransporto con sabo a donde esta kuma, despues me teletransporto directamente a ivankov con kuma
 
@@ -151,11 +84,11 @@ El collar del cuello pita. Una vez. Dos.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1870)
+## COMANDO 2 (T1870)
 
 uso la técnica de mahito para recuperar a kuma y sacarle el rastreador
 
-## RESPUESTA 3 (T1870)
+## RESPUESTA 2 (T1870)
 
 > uso la técnica de mahito para recuperar a kuma y sacarle el rastreador
 
@@ -222,6 +155,75 @@ Ivankov, en la escalera, abre los ojos de par en par.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1871)
+
+uso hakai en el collar
+
+## RESPUESTA 3 (T1871)
+
+> uso hakai en el collar
+
+Levantas la mano hacia el cuello de Kuma.
+
+—¡NO LO TOQUES! —grita Ivankov—. ¡Si se lo sacan sin la llave, explota igual!
+
+No lo sacas.
+
+Apoyas los dedos sobre el hierro negro, sobre la luz roja fija que chilla. El Hakai sale de tu mano: una luz violeta, oscura, que no brilla sino que se traga la luz de alrededor, y envuelve el collar entero, de punta a punta, en un instante.
+
+El pitido se corta.
+
+El collar no explota. No se rompe. No se cae. Simplemente deja de existir: se deshace en polvo violeta, fino como ceniza, que el viento tibio de Momoiro levanta y se lleva hacia el mar, girando, hasta que no queda nada. Ni el hierro, ni la luz roja, ni el mecanismo, ni el explosivo de adentro. Solo el cuello de Kuma, con una marca más clara en la piel, de meses de tenerlo puesto.
+
+Silencio.
+
+Todo el patio de Momoiro se queda en silencio. Las decenas de okamas, quietas, con la boca abierta. Ivankov, en la escalera, con las manos en las mejillas.
+
+—...Hee-haw —dice, en un susurro.
+
+Kuma se lleva una mano al cuello. Lo toca. Despacio, con la almohadilla de la palma, como si no pudiera creer que no está. Después baja la mano. Te mira.
+
+Es la primera vez que te mira de verdad, desde Thriller Bark.
+
+Se queda mirándote un rato largo. Los ojos, que hace un minuto no tenían nada, se le llenan de algo que lo hace parecer muy viejo y muy joven al mismo tiempo. Te mira el pelo. Los ojos, rojo y azul. La cicatriz. A Kase.
+
+—Tú —dice, despacio, con la voz ronca—. Thriller Bark. El chico que me pidió que aguantara. —Hace una pausa—. El que se quedó de pie con todo el dolor de sus compañeros encima.
+
+Se arrodilla.
+
+Casi siete metros de hombre, de rodillas sobre las baldosas rosas, para quedar a la altura de tus ojos. Las cadenas cortadas le cuelgan de los hombros y tocan el piso.
+
+—Me preguntaste a dónde me gustaría ir de vacaciones —dice—. Y yo te pregunté por qué.
+
+Se le quiebra la voz.
+
+—Me buscaste. Allá arriba. Donde nadie llega.
+
+Sabo, a su lado, se le apoya contra el brazo, llorando sin vergüenza. Kuma le pone encima la mano enorme, sin mirarlo, como a un chico.
+
+Y vuelve a mirarte. Y en los ojos se le enciende otra vez esa desesperación.
+
+—Bonney —dice—. Mi hija. Jewelry Bonney. Cuando Vegapunk... cuando todavía me quedaba algo, la última vez que supe de ella estaba en el mar, buscándome. Si sabe que me tuvieron en Mary Geoise... —Traga—. Va a ir. Va a ir a buscarme allá arriba. Es igual de terca que su madre.
+
+Te agarra con dos dedos enormes del borde del sobretodo, suave.
+
+—¿Sabes dónde está mi hija?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1871 · ONE PIECE · DÍA ~227 · 08:11    ║
+║ Isla Momoiro · Reino Kamabakka               ║
+║ Patio frente al castillo de Ivankov          ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 96% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirando a Kuma           ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Kuma: "¿Sabes dónde está mi hija?" ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 08:10, patio de Momoiro. Transfiguración Ociosa en el pecho de Kuma: su alma no estaba borrada sino doblada y aplastada; Facundo la despliega (recuerdos: pueblo nevado de Sorbet, iglesia, Biblia, una mujer, Bonney bebé de pelo rosa). Saca el rastreador (nuez metálica junto al corazón, entre costillas de metal izquierdas): lo expulsa por la piel y lo aplasta (apagado). El Ursus Shock se deshace. KUMA VUELVE EN SÍ: "...Sabo." "Bonney. ¿Dónde está Bonney?" Sabo cae de rodillas. EL COLLAR DE ESCLAVO (explosivo) pasa a pitido continuo, luz roja fija. Ivankov: "¡¡Es un collar explosivo de los Dragones Celestiales!! ¡¡Si el esclavo se aleja de Mary Geoise, explota!! ¡¡Vanaata, va a volar media isla!!"
+ESTADO AL CIERRE: Día ~227 08:11, patio de Momoiro. Hakai en el collar: se deshace en polvo violeta sin explotar (Ivankov había gritado que no lo tocara). Ivankov: "...Hee-haw." Kuma se toca el cuello; reconoce a Facundo: "Thriller Bark. El chico que me pidió que aguantara." Se arrodilla: "Me buscaste. Allá arriba. Donde nadie llega." Sabo llora apoyado en su brazo. "Bonney. Mi hija. Jewelry Bonney... la última vez que supe de ella estaba en el mar, buscándome... Va a ir a buscarme allá arriba." "¿Sabes dónde está mi hija?" (Robin cuenta el minuto en Baltigo.)
