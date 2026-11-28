@@ -46,3 +46,4 @@ Quién sabe qué de Facundo en este mundo.
 - T1710 · KISHIBE sabe (por Makima, por teléfono) lo que ella sabe de Facundo; lo ve en persona (aspecto, gato). DENJI sabe (por Facundo) que Pochita está tranquilo y contento.
 - T1711 · PÚBLICO (diario): 46 civiles hallados dormidos frente a Mitsukoshi; un testigo vio "una luz blanca y azul". Nadie lo asocia públicamente con un nombre.
 - T1711 · KISHIBE vio en persona a los tres impostores dormidos sin daño.
+- T1712 · MAKIMA sabe (por Aki o por el reporte) lo de la semilla ("medicina que no existe") y la desaparición de la habitación. Sabe (por Facundo) que no quiere dinero ni nada.

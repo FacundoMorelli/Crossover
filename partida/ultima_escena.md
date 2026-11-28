@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1709)
-
-pochita es como se llama eso dormido que tienes dentro?
-
-## RESPUESTA 1 (T1709)
-
-> pochita es como se llama eso dormido que tienes dentro?
-
-> —¿Pochita es como se llama eso dormido que tienes adentro?
-
-A Denji se le ilumina toda la cara.
-
-—¡Sí! ¡Es Pochita! —Se golpea el pecho, justo encima de la cuerda, con el puño cerrado, dos veces, despacito, como quien golpea la puerta de alguien que quiere—. ¡Lo sentiste! ¡Nadie lo siente! ¡Ni Power lo siente, y eso que Power huele todo!
-
-—Power lo huele a veces —protesta Power—. Huele a aceite de motor.
-
-—¡Eso soy yo!
-
-Denji se sienta en la alfombra otra vez, de piernas cruzadas, mirándote hacia arriba como un nene que va a contar el mejor cuento del mundo. Aki, en la pared, se pone un poco más derecho, pero no dice nada.
-
-—Era mi perro. —Lo dice muy simple, sin ningún adorno—. Bueno, perro. Era un demonio. Un demonio motosierra chiquito, así. —Hace el tamaño con las manos, como un pan—. Naranja. Con una motosierra en la cara. Hacía "guau". Lo encontré herido cuando era chico y le di mi sangre, y él me ayudó a pagar la deuda de mi viejo. Cazábamos demonios juntos para la yakuza. Dormíamos juntos. Comíamos pan con nada. —Se encoge de hombros—. Y un día me mataron. Los de la yakuza. Me cortaron en pedazos y me tiraron a la basura.
-
-Kobeni, en la puerta, se tapa la boca.
-
-—Y Pochita se metió adentro mío —sigue Denji, como si nada, señalándose el pecho—. Y ahora es mi corazón. Me dijo, en un sueño, que a cambio yo tenía que vivir una vida normal y mostrársela. Comer pan con mermelada, tener novia, dormir en una cama. Esas cosas.
-
-Se queda un momento callado, con la mano apoyada en el pecho, encima de la cuerda.
-
-—Nunca más lo vi. Ni en sueños, casi. —Te mira, y por primera vez en toda la noche no grita, no hace chistes, no tiene hambre—. Pero tú lo sentiste.
-
-Se inclina un poco hacia ti.
-
-—¿Está bien? —pregunta, bajito—. Allá adentro. ¿Está contento?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1709 · CHAINSAW MAN · DÍA 1 · 21:03    ║
-║ Tokio, otoño de 1997                         ║
-║ Refugio: hotel, pasillo del 6.º piso         ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.903 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus brazos                          ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Refugio con la División 4          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1710)
+## COMANDO 1 (T1710)
 
 si, esta tranquilo y contento, durmiendo
 
-## RESPUESTA 2 (T1710)
+## RESPUESTA 1 (T1710)
 
 > si, esta tranquilo y contento, durmiendo
 
@@ -128,11 +77,11 @@ Después te mira a ti. Al pelo, a los ojos, al gato en tus brazos. Toma un trago
 
 ---
 
-## COMANDO 3 (T1711)
+## COMANDO 2 (T1711)
 
 si, soy yo, mucho gusto, simula hasta mañana con makima
 
-## RESPUESTA 3 (T1711)
+## RESPUESTA 2 (T1711)
 
 > si, soy yo, mucho gusto, simula hasta mañana con makima
 
@@ -197,4 +146,55 @@ Ella sirve el té, con calma, una taza y después la otra, sin derramar una gota
 
 ---
 
-ESTADO AL CIERRE: Día 2 08:30, casa de té vieja en Ginza, cerrada para ellos (jardín con estanque y una carpa roja). Makima sentada sobre los talones, desayuno japonés para dos, platito de leche para Kase. Sirvió el té. "Empecemos por lo fácil. ¿Ya pensó cuánto quiere cobrar?" Noche anterior: Kishibe se llevó a los 3 asesinos (consejo: "no le digas a Makima todo lo que sabes"); guardias por turnos con Aki; Kase durmió a los pies de Power a las 5. Diario: "46 civiles hallados dormidos frente a Mitsukoshi"; un conductor de tranvía vio "una luz blanca y azul, como un relámpago que caminaba".
+## COMANDO 3 (T1712)
+
+me siento y le digo que no necesito dinero, ni nada
+
+## RESPUESTA 3 (T1712)
+
+> me siento y le digo que no necesito dinero, ni nada
+
+Te sientas en el cojín, frente a ella. Kase baja de tu hombro a tus rodillas, mira el platito de leche, lo huele desde lejos, y no lo toca. Se queda sentado, derecho, mirando a Makima.
+
+Le dices que no necesitas dinero. Ni nada.
+
+Makima no contesta enseguida.
+
+Levanta su taza con las dos manos, sopla apenas, toma un sorbo. La deja en la mesa, despacio, sin un ruido. Afuera, en el jardín, la carpa roja da una vuelta lenta en el estanque.
+
+—Nada —repite.
+
+No hay sorpresa en su cara. Hay otra cosa, más tranquila, como quien mira un número que no da en una cuenta que ya hizo muchas veces.
+
+—Todos quieren algo, señor Morelli. —Lo dice con suavidad, sin reproche, como quien explica cómo funciona el clima—. Los cazadores quieren dinero, o venganza, o morir de una forma que tenga sentido. Los demonios quieren comer, o que les teman. Los asesinos que vinieron esta semana quieren el corazón de Denji porque sus gobiernos quieren lo que hay adentro. Denji quiere pan con mermelada. —Sonríe, apenas—. Hasta Power quiere algo. Siempre. Varias cosas a la vez.
+
+Toma los palillos. Separa un trozo de pescado, con mucho cuidado, y lo deja en tu plato de arroz, como haría una anfitriona. Después otro en el suyo.
+
+—Y usted aparece en una avenida, duerme a cuarenta y seis personas sin hacerles daño, duerme a tres asesinos sin despertar a nadie, le da a Denji una medicina que no existe, siente a la gente a través de las paredes, desaparece de una habitación cerrada, me deja sentir nada... —Levanta la vista hacia ti. Los anillos amarillos, quietos—. Y no quiere nada.
+
+Junta las manos sobre la mesa.
+
+—No le creo, señor Morelli. No porque mienta. Creo que no miente. —La sonrisa se le ablanda—. No le creo porque nadie es así.
+
+Inclina la cabeza, apenas, con curiosidad verdadera.
+
+—Así que voy a preguntarlo de otra manera. Si no es dinero, y no es nada que yo pueda darle. —Una pausa—. ¿Por qué nos ayuda?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1712 · CHAINSAW MAN · DÍA 2 · 08:33    ║
+║ Tokio, otoño de 1997                         ║
+║ Ginza, casa de té (cerrada para ustedes)     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.903 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tus rodillas, mirando a Makima      ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Desayuno con Makima                ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 2 08:33, casa de té de Ginza. Facundo le dijo (indirecto) que no necesita dinero ni nada. Kase no tocó la leche; mira a Makima. Makima: "Todos quieren algo... Hasta Power." Le sirve pescado. Enumera lo que vio/sabe de él. "No le creo. No porque mienta. Creo que no miente. No le creo porque nadie es así." "Si no es dinero, y no es nada que yo pueda darle, ¿por qué nos ayuda?"
