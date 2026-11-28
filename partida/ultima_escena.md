@@ -3,76 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1857)
-
-en ese lugar hay gente no igual de fuerte que yo, pero que pasa mucho el poder de este, hay dioses de la creación y de la destrucción, distintos universos, cada uno con diferentes planetas, dioses, humanos, diferentes razas
-
-## RESPUESTA 1 (T1857)
-
-> en ese lugar hay gente no igual de fuerte que yo, pero que pasa mucho el poder de este, hay dioses de la creación y de la destrucción, distintos universos, cada uno con diferentes planetas, dioses, humanos, diferentes razas
-
-> —En ese lugar hay gente que no es igual de fuerte que yo, pero que supera por mucho el poder de este mundo. Hay dioses de la creación y de la destrucción. Distintos universos, cada uno con sus planetas, sus dioses, sus humanos. Razas diferentes.
-
-Cha Hae-in no parpadea.
-
-Tiene la taza de té entre las manos, a medio camino de la boca, y se queda así, quieta, mirándote de muy cerca.
-
-—Dioses —repite, en un susurro.
-
-Deja la taza sobre la mesa, despacio, sin hacer ruido.
-
-—De la destrucción. —Traga—. Y de la creación.
-
-Mira por la ventana del living, hacia el cielo gris de Seúl, como si buscara en él el otro, el azul. Después te mira a ti otra vez. De arriba abajo. Las manos. La cicatriz. Los ojos, el rojo y el azul.
-
-—"No igual de fuerte que yo" —dice, despacio, repitiendo tus palabras—. Hay dioses ahí. Y gente más fuerte que todo este mundo. Y dijiste "no igual de fuerte que yo".
-
-Se le escapa una risa muy chiquita, sin aire, que se le muere en la garganta. Se tapa la boca con la mano. Le tiemblan un poco los dedos.
-
-—Paraste al Rey hormiga con una mano —murmura—. Y eso para ti era...
-
-No termina la frase.
-
-Se queda callada un rato largo. Kase, en el sofá, levanta la cabeza y la mira.
-
-Después Cha Hae-in hace algo que no esperabas: apoya la cabeza en tu hombro, cierra los ojos, y respira hondo por la nariz, despacio, como siempre.
-
-—No me importa —dice, bajito, con los ojos cerrados—. Eres el que trajo peras. El que le dio atún al gato en la tienda de la esquina. El que me dijo "es un secreto" en la televisión.
-
-Te busca la mano sobre la mesa y la agarra.
-
-—Eso es lo que eres para mí.
-
-En el pasillo, la voz de la señora Kang se corta. El teléfono vuelve a colgarse en su base con un clic. Pasos.
-
-La señora Kang aparece en la puerta del living, con el delantal todavía puesto y una cara rara, entre la sorpresa y la risa.
-
-—Era el sanador ese, Min. El que salió en la tele. —Mira a su hija, después a ti—. Tu celular está apagado, así que llamó aquí; dice que tiene el número desde hace años, de las veces que tuvo que avisarme cosas. —Hace una pausa—. Dice que su padre quiere conocer al chico que le devolvió a su hijo. Que esta noche hacen una cena en su casa, en Mapo. Que vayan los dos. Y el gato.
-
-Cruza los brazos.
-
-—Le dije que les preguntaba. —Te mira—. ¿Qué le digo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1857 · SOLO LEVELING · DÍA 22 · 13:06  ║
-║ Seúl, Corea del Sur                          ║
-║ Casa de la señora Kang · mesa del living     ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 1.282.800 won           ║
-║ Energía 96% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el sofá, mirando a Cha              ║
-║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
-║ OBJETIVO: Cena con Min y su padre esta noche ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1858)
+## COMANDO 1 (T1858)
 
 si, dile que vamos con gusto
 
-## RESPUESTA 2 (T1858)
+## RESPUESTA 1 (T1858)
 
 > si, dile que vamos con gusto
 
@@ -119,11 +54,11 @@ Bosteza, tapándose la boca con el dorso de la mano, sin poder evitarlo. Se le c
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1859)
+## COMANDO 2 (T1859)
 
 simula un par de dias despidiendome de todos y yendo a one piece
 
-## RESPUESTA 3 (T1859)
+## RESPUESTA 2 (T1859)
 
 > simula un par de dias despidiendome de todos y yendo a one piece
 
@@ -210,6 +145,63 @@ Nico Robin se queda quieta, de espaldas, sin darse vuelta. La mano con la pluma 
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1860)
+
+si, soy yo amor, entro y la abrazo por detrás
+
+## RESPUESTA 3 (T1860)
+
+> si, soy yo amor, entro y la abrazo por detrás
+
+> —Sí, soy yo, amor.
+
+Empujas la puerta. Cruzas el cuarto en dos pasos, entre las pilas de libros del piso, y la abrazas por detrás, por encima de los hombros, con la cara junto a la suya.
+
+Robin no se da vuelta.
+
+Se queda quieta un segundo, con la pluma todavía en la mano. Después la deja sobre el cuaderno, despacio, con cuidado, para no manchar la página. Levanta las dos manos y te agarra los antebrazos, fuerte, apretándolos contra su pecho. Apoya la mejilla en tu brazo. Cierra los ojos.
+
+Respira hondo.
+
+—Hueles a otro lugar —dice, muy bajito—. A ajo. Y a lluvia. Y a algo que se quemó.
+
+Kase salta de tu hombro a la mesa, camina por encima del cuaderno abierto sin pisar la tinta fresca, y se le sienta delante, mirándola. Robin abre los ojos y lo mira. Se le escapa una risa suave, por la nariz.
+
+—Fufu. Hola, Kase.
+
+Una mano extra le florece en el borde de la mesa, al lado del gato, y le rasca detrás de las orejas. Kase se deja.
+
+Robin no te suelta los brazos.
+
+—Noventa y siete días —dice, con la voz tranquila, serena, como si leyera una línea de un libro—. Los conté. Hice una marca en la pared, al lado de la ventana, cada mañana. Koala dice que es de presidiaria. —Una pausa—. Sabo dice que es romántico. Dragon no dijo nada. Pero la miró.
+
+Gira la cabeza, por fin, apenas, lo justo para mirarte de reojo, de muy cerca. Los ojos azules, serenos, con algo que brilla en el fondo.
+
+—Te dejé ir al mundo de los titanes —dice—. Te pedí dos cosas antes de que te fueras. ¿Te acuerdas?
+
+Sonríe, de costado.
+
+—Algo de ese mundo, para tocarlo. Y que me contaras si te reconocieron.
+
+Te aprieta los brazos.
+
+—Empieza por la segunda. —Hace una pausa—. Pero no te sueltes.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1860 · ONE PIECE · DÍA ~226 · 21:41    ║
+║ Baltigo · cuarto de Robin                    ║
+║ Junto a la mesa, abrazado a Robin            ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la mesa, frente a Robin             ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Robin: ¿te reconocieron?           ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: (Simulado Días 22-24 Solo Leveling: cena en Mapo con Min y su padre (anzuelo); nota de Jinwoo "Gracias. — S. J."; despedidas de Choi (puerta abierta; Goto le debe la pelea), Woo, Go Gunhee (sobre: "esta casa también es suya"), Dong-su (rango A, contrato, abrazo, atún para Kase), la señora Kang (kimchi; palmadas). Día 24 18:05, plaza del ginkgo: Cha le da la foto del beso de Gwangjang; "Una flor. No te olvides."; beso; puerta a One Piece; ella lo ve irse.) ONE PIECE Día ~226 21:40: pasillo de piedra blanca de Baltigo, frente al cuarto de Robin. Robin, de espaldas, escribe en un cuaderno (tapa: "Los mundos de Facundo"), pelo más largo atado. Kase maúlla. Robin, sin darse vuelta: "¿Kase?"
+ESTADO AL CIERRE: Día ~226 21:41, cuarto de Robin en Baltigo. "Sí, soy yo, amor." La abraza por detrás. Robin le agarra los brazos: "Hueles a otro lugar. A ajo. Y a lluvia. Y a algo que se quemó." Kase en la mesa; una mano de Hana Hana le rasca las orejas. "Noventa y siete días. Los conté" (marcas en la pared junto a la ventana; Koala: de presidiaria; Sabo: romántico; Dragon la miró). Le recuerda los dos pedidos (algo del mundo de los titanes para tocar; si lo reconocieron): "Empieza por la segunda. Pero no te sueltes."
