@@ -3,120 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1821)
-
-si, claro que voy a ir a verte
-
-## RESPUESTA 1 (T1821)
-
-> si, claro que voy a ir a verte
-
-> —Sí, claro que voy a ir a verte.
-
-Cha Hae-in sonríe al techo, con la mano en el lomo de Kase.
-
-—Bien.
-
-...
-
-El noveno día amanece despejado y frío.
-
-El centro de entrenamiento de la Asociación está en Yeouido, la isla del medio del río Han, entre torres de bancos y canales de televisión. Es un edificio enorme, como un estadio cubierto, de techo curvo de metal y vidrio. Adentro hay una arena de cemento reforzado del tamaño de una cancha de fútbol, con marcas de quemaduras, cortes y cráteres remendados, y gradas alrededor, en tres niveles.
-
-Cha Hae-in entra por la puerta de los cazadores, con la armadura liviana y la espada. Tú entras por la del público, con Kase en el hombro, y te sientas en la segunda fila de la grada, donde ella te dijo. Hay unas doscientas personas: periodistas con cámaras, empleados de la Asociación con credenciales, familias de cazadores con termos de café, estudiantes que faltaron al colegio. Varios te reconocen. Se codean, cuchichean, alguien saca una foto. Kase los mira con desprecio.
-
-Abajo, en la arena, se juntan los dieciocho coreanos. Ves a Choi Jong-In, con un traje de combate gris claro, impecable incluso para esto. Ves a Cha Hae-in. Ves a un hombre grandote, de pelo blanco corto y ojos amarillos, que te dicen alrededor que es Baek Yoonho, maestro del gremio Bestia Blanca. Y a un hombre de pelo corto y cara amable, que se ríe con otros dos cazadores, al que todos llaman "el sanador Min".
-
-A las diez entra la delegación japonesa: una docena de cazadores con uniformes negros y el emblema de una espada desenvainada. Adelante camina un hombre enorme, de casi dos metros, con el pelo largo atado en una cola, barba corta y una katana larga a la cintura. Camina como si el piso le perteneciera.
-
-Lo miras, y el Sistema hace lo suyo.
-
-```
-╔════════════════════════════════════════╗
-║ GOTO RYUJI                             ║
-║ Maestro del gremio Draw Sword · Japón  ║
-║ PODER: Esgrima con maná, cortes a      ║
-║        distancia, fuerza física        ║
-║ AMENAZA: BAJA                          ║
-║ Diferencia estimada: tú x65 sobre él   ║
-║ COPIABLE · MISIÓN: MEDIA               ║
-╚════════════════════════════════════════╝
-```
-
-Go Gunhee, el presidente de la Asociación, un hombre mayor y corpulento de traje, pelo canoso y una presencia que llena la arena aunque no levante la voz, da un discurso corto por micrófono. Después empiezan.
-
-Durante tres horas practican formaciones: quién va adelante, quién cubre los costados, cómo protegen a los sanadores, cómo se retiran si algo sale mal. Ves a Goto Ryuji desenvainar en una demostración y partir en dos una columna de concreto a veinte metros de distancia, con un solo corte que silba en el aire. Las gradas aplauden. Ves a Cha Hae-in practicar con él una formación de espadas, los dos frente a frente, y por un momento Goto se detiene y la mira con respeto.
-
-Al mediodía, un cazador japonés se corta el brazo de un mal movimiento, un tajo profundo que sangra mucho. El sanador Min se acerca trotando, sonriendo, le pone las manos encima, y una luz verde y suave le cierra la herida en tres segundos, sin cicatriz.
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Esgrima de Goto Ryuji (cortes a distancia)   ║
-║ USUARIO: Goto Ryuji · Solo Leveling          ║
-║                                              ║
-║ MISIÓN: Cruzar espadas con Goto Ryuji hasta  ║
-║ que él reconozca tu técnica en voz alta.     ║
-║ DIFICULTAD: MEDIA                            ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Sanación de Min Byung-Gyu                    ║
-║ USUARIO: Min Byung-Gyu · Solo Leveling       ║
-║                                              ║
-║ MISIÓN: Que Min Byung-Gyu salga vivo de la   ║
-║ isla de Jeju.                                ║
-║ DIFICULTAD: ALTA                             ║
-╚══════════════════════════════════════════════╝
-```
-
-Hacen una pausa para comer. Los cazadores se dispersan por la arena con cajas de comida. Cha Hae-in te busca con los ojos en la grada, te encuentra, y te saluda con la mano, chiquito, desde abajo, con la espada todavía en la otra. Varios cazadores se dan vuelta a ver a quién saluda.
-
-Uno de ellos es el sanador Min. Te mira. Mira a Cha Hae-in. Sonríe. Y sube las escaleras de la grada, de dos en dos, con su caja de comida en la mano, hasta tu fila. Se detiene frente a ti, un poco agitado. Es un hombre de unos treinta años, de cara redonda y amable, ojos achinados que se le cierran del todo cuando sonríe.
-
-Lo miras, y el Sistema hace lo suyo.
-
-```
-╔════════════════════════════════════════╗
-║ MIN BYUNG-GYU                          ║
-║ Cazador de rango S · Sanador           ║
-║ PODER: Sanación (cierra heridas,       ║
-║        regenera tejido)                ║
-║ AMENAZA: NULA                          ║
-║ Diferencia estimada: tú x200 sobre él  ║
-║ COPIABLE · MISIÓN: ALTA                ║
-╚════════════════════════════════════════╝
-```
-
-—Perdón, perdón que lo moleste —dice, y se inclina un poco, sonriendo—. Usted es el del secreto, ¿no? El novio de la vicemaestra Cha. —Se sienta a tu lado sin esperar respuesta, con la caja de comida en las rodillas—. Min Byung-Gyu. Soy sanador. Hace cinco años que trabajo con ella en incursiones conjuntas y nunca la vi saludar a nadie desde la arena. Nunca. —Se ríe—. Tenía que conocerlo.
-
-Abre la caja de comida. Mira a Kase.
-
-—¿Puede comer arroz el gato?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1821 · SOLO LEVELING · DÍA 9 · 13:05   ║
-║ Seúl, Corea del Sur                          ║
-║ Yeouido · centro de entrenamiento, gradas    ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirando la caja de Min   ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Jeju (Día 22)                      ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1822)
+## COMANDO 1 (T1822)
 
 si, le doy arroz a kase, mucho gusto soy Facundo
 
-## RESPUESTA 2 (T1822)
+## RESPUESTA 1 (T1822)
 
 > si, le doy arroz a kase, mucho gusto soy Facundo
 
@@ -159,11 +50,11 @@ En tu palma, Kase lame los últimos granos de arroz y levanta la cabeza para mir
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1823)
+## COMANDO 2 (T1823)
 
 no, confío en ella, es muy fuerte
 
-## RESPUESTA 3 (T1823)
+## RESPUESTA 2 (T1823)
 
 > no, confío en ella, es muy fuerte
 
@@ -225,6 +116,57 @@ Abajo, junto a las duchas, Cha Hae-in se queda quieta, mirándote, con la toalla
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1824)
+
+no gracias, por esta vez tengo que pasar
+
+## RESPUESTA 3 (T1824)
+
+> no gracias, por esta vez tengo que pasar
+
+> —No, gracias. Por esta vez tengo que pasar.
+
+Le devuelves la espada de madera por encima de la baranda. Goto Ryuji la atrapa en el aire con una mano, sin mirar.
+
+Se queda mirándote un segundo, con la sonrisa de lobo todavía puesta. Después la sonrisa se le ensancha, y vuelve a soltar esa carcajada grave que retumba en el techo de metal.
+
+—"Por esta vez." —Repite las palabras en un coreano torpe, con acento fuerte, divertido—. No dijiste "no sé". Dijiste "por esta vez".
+
+Apoya las dos espadas de madera sobre el hombro.
+
+—Bien. Me la debes, novio sin maná. Cuando volvamos de Jeju. —Te señala con la barbilla—. Y si no volvemos, me la cobro en el otro mundo.
+
+Se da vuelta y se va caminando por la arena hacia sus cazadores, que lo esperan junto a la salida, riéndose todavía por lo bajo. Uno de los periodistas de la valla, que vio toda la escena, escribe algo rápido en su libreta.
+
+Kase, en tu hombro, mira a Goto irse y bosteza enorme, con todos los dientes.
+
+Quince minutos después, Cha Hae-in sube las escaleras de la grada. Viene recién bañada, con el pelo mojado atado atrás, ropa de calle y la espada envuelta en una funda de tela a la espalda. Se sienta a tu lado en el asiento de plástico, donde estuvo Min. No dice nada durante un rato. Mira la arena vacía.
+
+—Me dijo en japonés que iba a probar a mi novio —dice al fin—. Le contesté que te dejara en paz. —Hace una pausa—. Y él me dijo que eso significaba que yo sabía que podías.
+
+Gira la cabeza y te mira, de costado, con una media sonrisa que no termina de ser sonrisa.
+
+—Goto es un idiota. Pero es el mejor espadachín de Japón, y no se equivoca con las manos de la gente. —Te mira las manos. Después a los ojos—. No te voy a preguntar nada. Dijiste que hay cosas que son secreto. —Se muerde el labio—. Pero me alegra que no hayas bajado.
+
+Se apoya contra tu hombro, del lado libre, cansada.
+
+—¿Vamos a casa? —pregunta, bajito, y se da cuenta de lo que dijo un segundo después. Se pone colorada—. Al hotel. Quise decir al hotel.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1824 · SOLO LEVELING · DÍA 9 · 17:22   ║
+║ Seúl, Corea del Sur                          ║
+║ Yeouido · centro de entrenamiento, gradas    ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Jeju (Día 22)                      ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 9 17:04, gradas de Yeouido. "No. Confío en ella. Es muy fuerte." Min: "Es la más fuerte de todos con una espada... tiene a alguien que la espera sin llorar." Invita a comer al volver de Jeju. Tarde: Baek Yoonho se transforma (bestia blanca; copia MEDIA emitida); muro de fuego de Choi. 17:00 fin. Goto Ryuji habla con Cha en japonés (ella seca, él ríe), se acerca a la baranda: "el famoso novio sin maná... tienes manos de espadachín... no me tienes miedo." Le tira una espada de madera: "Baja. Cinco minutos. Quiero ver qué vio ella." Cha mira quieta junto a las duchas.
+ESTADO AL CIERRE: Día 9 17:22, gradas de Yeouido. "No, gracias. Por esta vez tengo que pasar." Devolvió la espada. Goto: "No dijiste 'no sé'. Dijiste 'por esta vez'... Me la debes, novio sin maná. Cuando volvamos de Jeju." Un periodista anotó la escena. Cha (recién bañada) se sienta al lado: Goto le dijo que probaría a su novio; ella le dijo que lo dejara en paz; él respondió que eso significaba que ella sabía que podía. "No te voy a preguntar nada... Pero me alegra que no hayas bajado." "¿Vamos a casa? ...Al hotel."

@@ -43,3 +43,4 @@
 - T1821 · ~200 espectadores, la prensa y los cazadores vieron a Facundo en la grada y a Cha saludándolo. MIN BYUNG-GYU se presenta.
 - T1822 · FACUNDO sabe por Min: 3.ª incursión a Jeju (24 entraron, 10 volvieron); hormigas rápidas, numerosas, inteligentes, atacan primero a sanadores.
 - T1823 · GOTO RYUJI deduce (manos con callos, actitud) que Facundo usa espada y no le teme. Lo desafía en público (prensa y cazadores presentes).
+- T1824 · CHA HAE-IN sospecha (por Goto) que Facundo sabe usar espada; no pregunta. Un PERIODISTA anotó el desafío de Goto y el "por esta vez" (posible nota).
