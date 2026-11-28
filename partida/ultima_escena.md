@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1719)
-
-no gracias, mejor mostrame todo lo que sos rapido
-
-## RESPUESTA 1 (T1719)
-
-> no gracias, mejor mostrame todo lo que sos rapido
-
-> —No, gracias. Mejor muéstrame todo lo que eres. Rápido.
-
-Las agujas se detienen.
-
-Es la primera vez desde que llegaste que dejan de hacer clic. El silencio que queda es enorme. Se oye el agua del río, lejos, contra los pilotes. Se oye la lámpara zumbar.
-
-Santa Claus te mira por encima de los anteojos. Después sonríe. Una sonrisa de abuela, arrugada, llena de cariño.
-
-—Qué impaciente. —Deja las agujas en la canasta, con cuidado, una al lado de la otra—. Los jóvenes siempre tienen prisa.
-
-Se levanta de la mecedora. Le cuesta: se apoya en los brazos de madera, se endereza despacio, con un quejido de rodillas viejas. Es muy chiquita. Te llega, parada, a la altura de los ojos sentado. Levanta lo que estaba tejiendo, con las dos manos, y se lo pone sobre los hombros.
-
-Es una bufanda roja. Larguísima. Y cuando la tela le toca la nuca, los estantes se mueven.
-
-Todos a la vez.
-
-Cientos de cabezas de lata, de porcelana, de trapo, giran hacia ti con un chirrido que llena el sótano como un enjambre. Los soldaditos levantan los palillos de los tambores. Las bailarinas se paran en puntas de pie. Los bebés de porcelana abren la boca. Y arriba, por encima de tu cabeza, a través del techo de cemento, oyes cómo se levantan los otros. Los de verdad. Cientos de personas sentadas en filas, en la nave grande de la fábrica, que se ponen de pie al mismo tiempo con un ruido sordo de sillas arrastradas, y empiezan a caminar hacia la escalera del sótano. Pasos. Muchos. Todos al mismo ritmo.
-
-—Pero tienes razón, querido. —Santa Claus se acomoda la bufanda, como una abuela que sale a la calle en invierno—. Contigo no tiene sentido ir despacio. Ayer me dormiste cuarenta y nueve hijos sin que yo pudiera ver cómo. —Inclina la cabeza—. Así que no te voy a mostrar a mis muñecos. Ya los conoces.
-
-Levanta una mano. Huesuda, manchada, con un anillo de oro en el dedo anular.
-
-Y el piso empieza a vibrar.
-
-No es un temblor. Es más hondo. Viene de abajo, de muy abajo, de más lejos que el río y que la tierra, como si algo enorme estuviera subiendo por un pozo sin fondo hacia el sótano. Lo que sentiste con el ki en la casa de té, lo que esperaba debajo de ella, se despierta. Se estira. Abre los ojos.
-
-El aire se pone caliente. Los muñecos de los estantes empiezan a temblar.
-
-—Querías verlo todo —dice Santa Claus, con toda la ternura del mundo, mientras debajo de sus pantuflas el cemento se raja en forma de estrella—. Demonio del Infierno. —La voz no sube, no se quiebra: habla como quien le habla a un perro viejo—. Te ofrezco lo que acordamos.
-
-Por las rajaduras del piso empieza a salir una luz roja, espesa, como sangre iluminada por dentro.
-
-—Llévanos. A él, a su gato. —Sonríe—. Y a mí.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1719 · CHAINSAW MAN · DÍA 2 · 08:47    ║
-║ Tokio, otoño de 1997                         ║
-║ Fábrica de juguetes del Sumida, sótano       ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.903 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus rodillas, erizado               ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Santa Claus (viva, si se puede)    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1720)
+## COMANDO 1 (T1720)
 
 me tiro de la oreja
 
-## RESPUESTA 2 (T1720)
+## RESPUESTA 1 (T1720)
 
 > me tiro de la oreja
 
@@ -123,11 +64,11 @@ Los dedos empiezan a cerrarse, despacio, alrededor de los tres.
 
 ---
 
-## COMANDO 3 (T1721)
+## COMANDO 2 (T1721)
 
 le congelo la mano con escarcha y agarro a santa
 
-## RESPUESTA 3 (T1721)
+## RESPUESTA 2 (T1721)
 
 > le congelo la mano con escarcha y agarro a santa
 
@@ -178,4 +119,73 @@ Del pozo, bajo el hielo, sube un ruido. Grave, enorme, larguísimo. Como una pue
 
 ---
 
-ESTADO AL CIERRE: Día 2 08:48, sótano. Facundo (Dragón) congeló con aliento de escarcha la mano del Demonio del Infierno (ojo y dedos trabados a medio cerrar; sótano -10 °C; muñecos con escarcha). Agarró a Santa por la nuca (bufanda y chal) con la garra izquierda; cuelga sin forcejear. Santa: "Qué cosa más linda hiciste. Pero eso no se congela. Eso es el Infierno. Y el Infierno ya aceptó." El hielo se agrieta desde adentro; del pozo sube un ruido como una puerta del tamaño de una montaña abriéndose. Energía 99%.
+## COMANDO 3 (T1722)
+
+uso eclipse en el infierno, de que infierno hablabas?
+
+## RESPUESTA 3 (T1722)
+
+> uso eclipse en el infierno, de que infierno hablabas?
+
+Tus ojos se abren del todo.
+
+El rojo y el azul, con las pupilas verticales de dragón, se encienden a la vez. El Sol y la Luna. Y entre los dos, a un palmo de tu cara, en el aire helado del sótano, aparece un punto.
+
+Negro. Más negro que cualquier cosa que haya en este cuarto, en esta fábrica, en esta ciudad. No refleja la lámpara. No refleja la luz roja que sube del pozo. Es un agujero en el mundo, del tamaño de una moneda, rodeado por un filo finísimo de luz blanca, como el borde del sol detrás de la luna.
+
+El Eclipse.
+
+Lo sueltas hacia abajo. Hacia el pozo.
+
+El punto cae despacio, como una piedra en el agua, entre los dedos congelados de la mano del Infierno, y toca la palma, justo en el ojo cubierto de hielo.
+
+Y la mano se dobla hacia adentro.
+
+No se rompe: se dobla. Los dedos de piedra y de hueso, la carne vieja, el hielo que la cubría, todo se curva hacia ese punto negro, como el agua de una bañera hacia el desagüe, estirándose, alargándose, entrando. La palma se hunde en el punto. Después la muñeca. El brazo, que sube del pozo, enorme, sigue entrando, y entrando, y entrando, tirado desde abajo por la gravedad del Eclipse, metro tras metro, como una soga que alguien recoge desde el otro lado del mundo.
+
+Del pozo sale un sonido que no es un grito. Es más grande que un grito. El sonido de algo que nunca tuvo miedo en su existencia, sintiendo miedo por primera vez.
+
+Y después, nada.
+
+El pozo se cierra. La luz roja se apaga. Las grietas del cemento siguen ahí, en forma de estrella, pero del otro lado ya no hay nada esperando. Solo cemento, y tierra, y el agua del río bajo los pilotes. El punto negro, satisfecho, se encoge hasta el tamaño de una cabeza de alfiler y desaparece con un último destello blanco.
+
+[Demonio del Infierno: el brazo que cruzó a este mundo fue tragado por el Eclipse. El pacto de Santa Claus quedó roto.]
+
+El sótano queda en silencio. Las vigas de hierro levantadas se quedan torcidas, en el aire, con un pedazo de cielo gris de mañana asomando entre ellas, allá arriba. La lámpara de flecos todavía está prendida, tirada de costado.
+
+Santa Claus cuelga de tu garra.
+
+Ya no sonríe.
+
+Mira el piso donde estaba el pozo. Te mira a ti. A tus ojos, a los dos, encendidos todavía, con el resto del filo blanco apagándose en las pupilas.
+
+> —¿De qué infierno hablabas?
+
+La vieja abre la boca. No sale nada. La cierra.
+
+Por primera vez desde que la conoces, le tiemblan las manos. Las agujas de tejer se le cayeron en algún momento. La bufanda roja le cuelga, floja, de los hombros.
+
+—Eso... —dice al final, con un hilo de voz, y la ternura de abuela ya no está en ninguna parte—. Eso era el Demonio del Infierno. El que se lleva a la gente al otro lado. Nadie lo toca. Nadie. Ni los de arriba, ni los de abajo.
+
+Te mira como si te viera por primera vez.
+
+—¿Qué eres tú?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1722 · CHAINSAW MAN · DÍA 2 · 08:48    ║
+║ Tokio, otoño de 1997                         ║
+║ Fábrica de juguetes del Sumida, sótano       ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.903 · 0 yenes                 ║
+║ Energía 97% · Ojos: bien                     ║
+║ Transformado: Dragón · Velo: persona común   ║
+║ Kase: en tus rodillas                        ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Santa Claus (viva, si se puede)    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 2 08:48, sótano de la fábrica (techo abierto, vigas torcidas, cielo gris). Facundo lanzó el ECLIPSE al pozo: tragó el brazo entero del Demonio del Infierno que había cruzado a la Tierra; el pozo se cerró; el pacto de Santa con el Infierno quedó roto (no habrá viaje al Infierno ni encuentro con la Oscuridad). "¿De qué infierno hablabas?" Santa, colgada de la garra, ya sin sonrisa, le tiemblan las manos: "Eso era el Demonio del Infierno. Nadie lo toca." "¿Qué eres tú?" Energía 97%.

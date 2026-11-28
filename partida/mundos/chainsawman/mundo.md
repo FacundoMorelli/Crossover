@@ -13,3 +13,4 @@ VELO: Facundo no huele a demonio ni a nada raro para ningún demonio, fiend ni h
 - T1694 · Denji curado del todo con una semilla del ermitaño (canon: necesitaba sangre).
 - T1704 · Los tres asesinos impostores (pieles robadas; canon: hermanos americanos) neutralizados vivos en el refugio por Facundo. Canon: Power mata al falso Kurose.
 - T1720 · Mano del Demonio del Infierno emerge en la fábrica del Sumida, rompe el techo del sótano (vigas levantadas).
+- T1722 · GRAN CAMBIO: el Eclipse de Facundo tragó el brazo del Demonio del Infierno que cruzó a la Tierra; el pacto de Santa con el Infierno quedó roto. Canon: Santa llevaba a todos al Infierno, la Oscuridad les arrancaba los brazos, Santa pactaba con la Oscuridad, Makima bajaba, Tolka se sacrificaba. NADA DE ESO PASA. Techo del sótano de la fábrica abierto (vigas levantadas).
