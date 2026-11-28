@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1746)
-
-si, es muy linda, soy Facundo Morelli, un viajero
-
-## RESPUESTA 1 (T1746)
-
-> si, es muy linda, soy Facundo Morelli, un viajero
-
-> —Sí, es muy linda. Soy Facundo Morelli, un viajero.
-
-—¡¿Muy linda?! —Hughes se lleva la foto al pecho, ofendido y feliz al mismo tiempo—. ¡Es la más linda! ¡La más linda de Amestris! ¡Del mundo! —Mira la foto otra vez, con una ternura enorme—. Ayer aprendió a decir "papi, te quiero" en dos idiomas. Bueno, en uno. Pero lo dijo dos veces.
-
-Ross se aclara la garganta.
-
-—Teniente coronel...
-
-—Sí, sí, sí. —Hughes se guarda la foto con cuidado en el bolsillo de la camisa, justo sobre el corazón, y le da dos palmaditas—. El trámite. Facundo Morelli, viajero. Mucho gusto, señor Morelli. Maes Hughes. —Te tiende la mano. Tiene un apretón firme, cálido, y unos ojos detrás de los anteojos que, debajo de la sonrisa, no dejan de mirarte con mucha atención—. ¿Y su amigo de cuatro patas?
-
-—Se llama Kase, teniente coronel —dice Ross—. El señor Morelli no tiene documentos. Lo encontré en el hospital, hablando con los hermanos Elric. Alphonse se hizo amigo del gato.
-
-—Claro que sí. —Hughes se ríe—. Ese chico se hace amigo de cualquier cosa con bigotes.
-
-Vuelve al escritorio. Mueve una pila de carpetas para hacer lugar, con cuidado de no tocar la que tapa el mapa. Saca de un cajón un formulario impreso, una lapicera de pluma, y se sienta. Moja la pluma en el tintero.
-
-—Bueno, señor Morelli. Formulario 17-B, "Extranjero sin documentación en territorio de Amestris". Es más aburrido que el nombre. —Empieza a escribir, con letra rápida y prolija—. Nombre, Facundo Morelli. Ocupación, viajero. —Sonríe sin levantar la vista—. Eso me va a costar explicarlo arriba, pero bueno.
-
-Escribe un poco más. Después se detiene. Levanta la vista por encima de los anteojos, y te mira con la pluma en el aire.
-
-—Lo importante para el formulario, y la parte que siempre me da más curiosidad —dice, con mucha amabilidad—, es por dónde entró. Las fronteras de Amestris están vigiladas en todos lados: el desierto del Este, las montañas de Briggs al norte, la frontera de Creta, la de Aerugo. —Inclina un poco la cabeza—. ¿Por cuál pasó, señor Morelli? ¿Y hace cuánto?
-
-En el escritorio, junto a su codo, la carpeta que tapa el otro mapa tiene una esquina levantada. Debajo se ve una línea roja trazada con regla y un pedazo de un círculo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1746 · FULLMETAL · DÍA 1 · 18:23       ║
-║ Ciudad Central, Amestris, 1914               ║
-║ Cuartel general, Oficina de Investigaciones  ║
-║ NIVEL 33 · EXP 461.130/480.000               ║
-║ FRAGMENTOS 289.378 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1747)
+## COMANDO 1 (T1747)
 
 entre por el desierto del este, hace unos dias
 
-## RESPUESTA 2 (T1747)
+## RESPUESTA 1 (T1747)
 
 > entre por el desierto del este, hace unos días
 
@@ -99,11 +50,11 @@ Mira de reojo la carpeta que tapa el mapa. Después el reloj de pared, que marca
 
 ---
 
-## COMANDO 3 (T1748)
+## COMANDO 2 (T1748)
 
 todavía no tengo nada, puedo buscar un hotel
 
-## RESPUESTA 3 (T1748)
+## RESPUESTA 2 (T1748)
 
 > todavía no tengo nada, puedo buscar un hotel
 
@@ -152,4 +103,55 @@ Detrás de él, sobre el escritorio, la carpeta que tapaba el mapa se cayó al p
 
 ---
 
-ESTADO AL CIERRE: Día 1 18:33, puerta de la Oficina de Investigaciones. Hughes recomendó el Hotel Lindemann (2 cuadras, sobre la avenida; dueña viuda de un sargento; pan de manteca). Ross se fue al hospital ("Bienvenido a Central"). Hughes, en la puerta: invitación vaga a su casa (quiche de Gracia; Elicia querrá tocar el gato). Mira hacia la escalera vacía, distraído: "Tengo un trabajo que terminar esta noche. Es importante." Le sostiene la puerta. EL MAPA quedó a la vista (la carpeta cayó): círculo de transmutación rojo enorme sobre Amestris. Canon: esta noche, Lust y Envy.
+## COMANDO 3 (T1749)
+
+salgo y uso el ki para vigilar a hughes
+
+## RESPUESTA 3 (T1749)
+
+> salgo y uso el ki para vigilar a hughes
+
+Sales. Hughes cierra la puerta detrás de ti con un clic suave. Lo oyes, del otro lado, levantar la carpeta del piso.
+
+Bajas la escalera de mármol, cruzas el vestíbulo y sales a la noche por la escalinata de piedra. Los guardias de la puerta ni te miran: tienes el permiso en el bolsillo y la cara de alguien que ya pasó una vez.
+
+Te sientas en un banco de hierro de la plaza de enfrente, bajo un farol de gas, con el cuartel general delante y Kase acomodado en tus rodillas. Cierras los ojos.
+
+Abres el ki.
+
+El edificio se enciende por dentro, como una colmena. Cientos de presencias: guardias aburridos, oficiales que terminan su turno, un cocinero en el sótano, un general viejo dormido en un sillón del segundo piso. Y en el tercero, en la oficina del fondo, una que ya conoces: tibia, cansada, inquieta, que se mueve de un lado a otro entre papeles, que se detiene, que vuelve a moverse. Hughes.
+
+Lo dejas ahí, en el centro de todo, y esperas.
+
+Las campanas de una iglesia dan las siete. Las ocho. La plaza se vacía. Pasa un tranvía, el último, casi vacío. Un perro olfatea tus zapatos y sigue de largo. Kase lo mira con desprecio.
+
+Hughes no se va. Se mueve en la oficina. Escribe. Tira papeles a la basura. A las nueve sale al pasillo, baja al segundo piso, entra en una sala grande, llena de presencias dormidas de papel —un archivo—, se queda ahí casi una hora, sube otra vez. A las diez menos cuarto, vuelve a bajar. Más rápido. Con algo en las manos. Se le acelera el corazón. Lo sientes desde la plaza, como un tambor chiquito.
+
+Y entonces aparecen las otras.
+
+Primero, una. No entra por ninguna puerta: aparece en el pasillo del segundo piso, como si hubiera estado ahí desde siempre. Es fría. Fría como un pozo. Tiene forma de mujer, pero adentro no es una mujer: es una piedra. Una piedra pequeña y roja en el centro del pecho, y dentro de la piedra, apretadas, miles de presencias humanas, diminutas, que gritan sin sonido, todas a la vez. Se mueve sin apuro hacia el archivo. Hacia Hughes.
+
+Después, otra. Afuera. En la calle lateral del cuartel, cerca de la esquina donde hay una cabina telefónica pintada de verde. Es igual de fría, con la misma piedra roja y los mismos miles de gritos adentro, pero la forma se le mueve: es un hombre, después una mujer, después un chico, después otra vez una mujer. Una mujer joven, de pelo corto, con un vestido. Se queda quieta junto a la cabina. Esperando.
+
+En el archivo, Hughes se da vuelta de golpe. Siente algo. No como tú: con los años, con el oficio, con la nuca. Deja caer lo que tenía en las manos. Se lleva la mano al cinturón, donde guarda los cuchillos.
+
+La primera presencia entra en el archivo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1749 · FULLMETAL · DÍA 1 · 21:47       ║
+║ Ciudad Central, Amestris, 1914               ║
+║ Plaza frente al cuartel general (banco)      ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.378 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tus rodillas                        ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: Hughes, esta noche                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 21:47. Facundo en un banco de la plaza frente al cuartel general, vigilando con el ki. Hughes trabajó hasta tarde; a las 21:45 bajó rápido al ARCHIVO del 2.º piso con algo en las manos. LUST apareció en el pasillo del 2.º (fría; piedra roja con miles de almas en el pecho) y ENTRA AL ARCHIVO donde está Hughes. ENVY espera junto a la cabina telefónica verde de la calle lateral, con forma de mujer joven de pelo corto (canon: Gracia). Hughes sintió algo, soltó lo que tenía, mano en los cuchillos.

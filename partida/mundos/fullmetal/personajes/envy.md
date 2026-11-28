@@ -11,3 +11,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: CANON: mata a Hughes disfrazado de Gracia.
+ENCUENTROS:
+- T1749 · Día 1 21:47 · SENTIDO POR FACUNDO (ki): en la calle lateral del cuartel, junto a una cabina telefónica verde; misma piedra roja con miles de almas; la forma le cambia (hombre, mujer, chico) y se fija en una mujer joven de pelo corto con vestido (canon: Gracia). Espera.
