@@ -3,102 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1859)
-
-simula un par de dias despidiendome de todos y yendo a one piece
-
-## RESPUESTA 1 (T1859)
-
-> simula un par de dias despidiendome de todos y yendo a one piece
-
-...
-
-La cena en Mapo es en una casa vieja de una sola planta, con un patio de tierra, redes de pesca colgadas en la pared y olor a pescado a la parrilla. El padre de Min Byung-Gyu es un hombre bajo, flaco, curtido por el sol, con las manos llenas de cicatrices de anzuelos. Cuando te ve entrar, no dice nada: se inclina hasta casi tocar el piso y se queda así un rato largo, hasta que Min, colorado, lo levanta de los hombros. Después cocina toda la noche y no deja que nadie más toque la parrilla. A Kase le sirve un pescado entero, crudo, recién sacado del agua. Kase lo acepta como un tributo. Al final de la cena, el señor te pone en la mano un anzuelo viejo, de hierro, gastado, envuelto en un trapo. "El primero que me hizo pescar mi padre", te dice Min que dice. "Para que vuelvas a pescar con nosotros."
-
-Esa noche, en el hotel, Cha Hae-in se duerme antes de sacarse los zapatos.
-
-El día veintitrés, en la mesita de luz de la 2207, aparece otra lata de atún para gatos. Debajo hay un papel doblado, con una letra apretada, de alguien que no escribe mucho: "Gracias. — S. J." Kase se come el atún. El papel lo guardas.
-
-Ese día pasas por el Gremio de Cazadores. Choi Jong-In te recibe en su oficina, de pie, y te dice que el gremio tiene una puerta abierta para ti para siempre, con o sin maná, y que Goto Ryuji se volvió a Tokio anoche pero le dejó un mensaje: que la pelea ahora la queda debiendo él. Woo Jinchul te da la mano en el vestíbulo de la Asociación, más tiempo que la primera vez. Go Gunhee no aparece: está en una reunión con el gobierno. Te manda con Woo un sobre cerrado, con su letra, que dice solo: "Cuando quiera volver, esta casa también es suya."
-
-Esa noche vas al río Han, a la tienda de veinticuatro horas. Dong-su está ahí, en la mesa de plástico, con un ramyeon. Pero ya no tiene la capucha, ni los tenis rotos. Tiene una credencial nueva colgada del cuello, con una letra A en un recuadro dorado, y un gremio mediano le ofreció contrato el mismo día de la reevaluación. Cuando te ve llegar, se pone de pie de golpe, tira la silla, y no sabe qué decir. Al final no dice nada. Te abraza. Después se ríe, avergonzado, y le compra a Kase dos latas de atún con su primera paga. El señor del mostrador pone el platito de cartón sin que nadie se lo pida.
-
-El día veinticuatro es el último.
-
-La señora Kang cocina para cuarenta. No habla de que te vas en ningún momento. Habla del precio del repollo, del vecino del tercero, de que el gato está más gordo. Al final, cuando ya están en la puerta verde, te da un frasco enorme de kimchi envuelto en tres bolsas de plástico, para el viaje, "donde sea que vayas". Después te agarra la cara con las dos manos, desde abajo, como la primera vez, y te mira un rato largo. Te da las dos palmadas en el brazo. Y cierra la puerta rápido, antes de que se le note.
-
-Guardas el frasco en el inventario.
-
-A las seis de la tarde, con el sol bajando, están otra vez en la plaza del barrio, debajo del ginkgo. Quedan menos hojas amarillas en las ramas que hace dos días. El piso está cubierto.
-
-Cha Hae-in lleva la chamarra mostaza de su mamá. Tiene las manos en los bolsillos. No llora. Está tranquila, con la cara seria de antes de entrar a una Puerta, pero cuando te mira se le ablanda.
-
-Saca algo del bolsillo y te lo pone en la mano. Es una foto impresa, en papel brillante, un poco arrugada en una esquina: la foto borrosa del mercado de Gwangjang, la de los diarios, la que vio todo el país. Ella con la gorra y los anteojos de sol, tú con el pelo blanco y azul, Kase en tu hombro. El beso.
-
-—La imprimí en la tienda de la esquina del hotel —dice—. El chico me reconoció y no me cobró. —Se ríe, bajito—. Es la única foto que tenemos juntos.
-
-Te mira.
-
-—Una flor —dice—. No te olvides.
-
-Te da un beso. Corto. Suave. Con los ojos cerrados.
-
-Después se aparta un paso, y espera.
-
-Abres la puerta. La línea de luz blanca y azul entre las hojas del ginkgo, las dos hojas que se abren despacio. Del otro lado, esta vez, no hay un cielo azul: hay noche, y viento con polvo blanco, y torres de piedra pálida bajo la luna, y el ruido del mar.
-
-Cha Hae-in mira del otro lado. Respira hondo por la nariz. Sonríe.
-
-—Huele a sal —dice—. Y a libros.
-
-Kase se sube a tu hombro. Cruzas la puerta.
-
-Lo último que ves de ese mundo, al darte vuelta, es a ella, de pie debajo del ginkgo, en la chamarra mostaza de su mamá, con la mano levantada, despacio, como aquella noche en las puertas de espejo del ascensor.
-
-La puerta se cierra.
-
-...
-
-Viento. Sal. Polvo blanco. El ruido de las olas golpeando contra acantilados, abajo, lejos.
-
-Estás en un pasillo angosto de piedra blanca, de techo bajo, iluminado por una sola lámpara de aceite colgada de la pared. Conoces este pasillo. Al fondo, una puerta de madera entreabierta, con luz amarilla saliendo por la rendija.
-
-Baltigo.
-
-[One Piece. Pasaron unos tres meses desde tu última salida. Día ~226 del viaje en este mundo. El tiempo de los dos años sigue corriendo.]
-
-Te acercas a la puerta. Por la rendija se ve el cuarto: los libros por todos lados, los mapas clavados con cuchillos, la cama angosta, la ventana con la luna. Y en la mesa, de espaldas a la puerta, inclinada sobre un cuaderno abierto, con una pluma en la mano y una taza de café frío al lado, una mujer de pelo negro, más largo que la última vez, atado atrás.
-
-Está escribiendo. En la tapa del cuaderno, cerrado sobre la mesa junto al abierto, se lee con su letra chiquita: "Los mundos de Facundo".
-
-Kase, en tu hombro, levanta la nariz. Huele el aire. Y maúlla. Una vez. Bajito.
-
-La pluma se detiene.
-
-Nico Robin se queda quieta, de espaldas, sin darse vuelta. La mano con la pluma suspendida sobre el papel.
-
-—¿Kase? —dice, muy bajito.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1859 · ONE PIECE · DÍA ~226 · 21:40    ║
-║ Baltigo · base del Ejército Revolucionario   ║
-║ Pasillo, puerta del cuarto de Robin          ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, acaba de maullar         ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Robin, de espaldas: "¿Kase?"       ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1860)
+## COMANDO 1 (T1860)
 
 si, soy yo amor, entro y la abrazo por detrás
 
-## RESPUESTA 2 (T1860)
+## RESPUESTA 1 (T1860)
 
 > si, soy yo amor, entro y la abrazo por detrás
 
@@ -151,11 +60,11 @@ Te aprieta los brazos.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1861)
+## COMANDO 2 (T1861)
 
 si, me reconocieron, y le doy un beso, y saco algo de ese mundo para que vea
 
-## RESPUESTA 3 (T1861)
+## RESPUESTA 2 (T1861)
 
 > si, me reconocieron, y le doy un beso, y saco algo de ese mundo para que vea
 
@@ -206,6 +115,57 @@ Gira la cabeza y te mira, de muy cerca, con los ojos húmedos y serenos.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1862)
+
+Una chica obsesionada con los inventos se llama Hange
+
+## RESPUESTA 3 (T1862)
+
+> Una chica obsesionada con los inventos se llama Hange
+
+> —Una chica obsesionada con los inventos. Se llama Hange.
+
+—Hange —repite Robin, despacio, como quien prueba el sabor de una palabra en otro idioma.
+
+Se le escapa una risa suave.
+
+—Fufu. Obsesionada con los inventos. —Te mira de reojo—. Por cómo lo dices, me imagino que le diste muchas cosas para inventar.
+
+No espera la respuesta. Suelta uno de tus brazos, sin soltar el otro, y agarra la pluma. Abre el cuaderno de la tapa con su letra, "Los mundos de Facundo", y busca una página. Ves que ya está escrito hasta la mitad: hojas y hojas de letra chiquita, ordenada, con fechas, con títulos subrayados. "El mundo de los titanes", dice uno. "Las tres murallas." "Shiganshina." "Eren." "El mar." Debajo de cada uno, lo que le contaste, palabra por palabra, como si lo hubiera grabado.
+
+Pasa a una página en blanco. Moja la pluma. Escribe, con la letra más prolija que le viste nunca:
+
+"Hange. La primera que lo reconoció al volver."
+
+Sopla la tinta. Deja la pluma.
+
+Kase se da vuelta desde la ventana y mira el cuaderno. Se le acerca, huele la página fresca y estornuda, chiquito. Robin se ríe y le aparta la nariz con una mano extra que le florece en la mesa.
+
+—Siempre que vuelves —dice, sin dejar de mirar la página—, el cuaderno se queda chico.
+
+Se recuesta contra ti, contra tu pecho, con la capa verde de la Legión sobre las rodillas, la mano todavía agarrada a tu brazo. Afuera, por la ventana angosta, el viento de Baltigo levanta polvo blanco bajo la luna, y abajo, lejos, el mar golpea los acantilados.
+
+—Es tarde —dice, bajito—. Y yo no dormí bien en noventa y siete días.
+
+Se queda callada un momento. Después gira la cabeza y te mira, de muy cerca, con una media sonrisa serena.
+
+—Mañana me cuentas cómo es Hange. Y qué inventó con lo que le diste. —Te aprieta el brazo—. Esta noche... ¿te quedas?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1862 · ONE PIECE · DÍA ~226 · 21:48    ║
+║ Baltigo · cuarto de Robin                    ║
+║ Junto a la mesa, abrazado a Robin            ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la mesa, junto al cuaderno          ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Robin: "Esta noche... ¿te quedas?" ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~226 21:44, cuarto de Robin. "Sí. Me reconocieron." Beso. Facundo saca la capa de la Legión de Reconocimiento (regalo de Erwin; alas de la libertad blanca y azul; remiendo torcido; mancha vieja). Robin la extiende sobre la mesa, la toca, la huele ("a caballo, a pasto, a humo de leña, a metal... a gente que peleó mucho tiempo para poder ver el mar"). "En Ohara me enseñaron que los libros son lo único que sobrevive... Y ahora tengo en las manos algo de un mundo que ningún libro de aquí va a nombrar nunca." "Te reconocieron. ¿Quién fue el primero?"
+ESTADO AL CIERRE: Día ~226 21:48, cuarto de Robin. Facundo: "Una chica obsesionada con los inventos. Se llama Hange." Robin: "Por cómo lo dices, me imagino que le diste muchas cosas para inventar." Abre "Los mundos de Facundo" (escrito hasta la mitad: el mundo de los titanes, las tres murallas, Shiganshina, Eren, el mar) y escribe: "Hange. La primera que lo reconoció al volver." Kase estornuda sobre la página. "Siempre que vuelves, el cuaderno se queda chico." "Es tarde... no dormí bien en noventa y siete días. Mañana me cuentas cómo es Hange... Esta noche... ¿te quedas?"

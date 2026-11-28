@@ -301,3 +301,4 @@
 - Robin · T1470 · Por Facundo: en unos días se va al mundo de los titanes; les dio cosas allá y quiere ver qué hicieron con ellas.
 - Robin · T1471 · Ve a Facundo abrir una puerta de luz en la torre de Dragon y cruzarla (Día ~129 mañana).
 - T1861 · ROBIN tocó un objeto del mundo de los titanes (la capa de la Legión de Reconocimiento) y sabe por Facundo que allá lo reconocieron.
+- T1862 · ROBIN sabe (por Facundo) que en el mundo de los titanes una inventora llamada Hange fue la primera en reconocerlo. (No sabe de Ymir ni de otras parejas: R9.)
