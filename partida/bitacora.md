@@ -1813,3 +1813,4 @@ T1810 · SOLO LEVELING · Gremio de Cazadores · "¿Cómo la conquistó?" "Es un
 T1811 · SOLO LEVELING · Hotel de Gangnam · Tarde tranquila con Cha bajo la lluvia. Su mamá los invita a cenar mañana.
 T1812 · SOLO LEVELING · Seúl · (simulado) Residencia provisoria con Cha como garante. Dong-su reevaluado rango A en las noticias. La mamá de Cha: "Así que tú eres el del secreto."
 T1813 · SOLO LEVELING · Casa de la señora Kang · Peras; la mamá de Cha se ríe y lo hace pasar. "¿Y qué haces de la vida?"
+T1814 · SOLO LEVELING · Casa de la señora Kang · "Ayudo a la gente." El papá de Cha, bombero, murió en un incendio. "Si ella no sale de una Puerta, ¿qué vas a hacer?"

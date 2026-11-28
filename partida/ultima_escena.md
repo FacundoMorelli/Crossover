@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1811)
-
-al hotel, quiero estar tranquilo contigo
-
-## RESPUESTA 1 (T1811)
-
-> al hotel, quiero estar tranquilo contigo
-
-> —Al hotel. Quiero estar tranquilo contigo.
-
-Cha Hae-in deja de reírse. Te mira un segundo, con los ojos todavía húmedos, y sonríe de otra manera, más despacio.
-
-—Al hotel —le dice al conductor, y le da el nombre.
-
-El conductor asiente.
-
-—Seguro que en la puerta hay alguno con cámara, vicemaestra. Los entro por el garaje.
-
-La camioneta cruza Gangnam bajo el cielo gris. En una esquina, en la pantalla gigante, ya está tu cara: el video de hace diez minutos, tú frente a la valla con Kase en el hombro, y un cartel abajo en letras amarillas: "FACUNDO MORELLI: 'ES UN SECRETO'". Cha Hae-in lo ve pasar por la ventanilla y se tapa la cara con las dos manos, riéndose otra vez sin sonido.
-
-Frente al hotel, dos fotógrafos esperan junto al toldo dorado, fumando. La camioneta pasa de largo, dobla en la esquina y baja por la rampa del garaje del hotel. Un ascensor de servicio los deja directo en el piso veintidós.
-
-Lucecita verde. Clic.
-
-La habitación está ordenada: la mucama pasó por fin. La cama hecha, sábanas nuevas, toallas dobladas en forma de cisne sobre la colcha. Un platito nuevo con agua para el gato junto a la ventana. Afuera, el cielo gris sobre Seúl, y una llovizna fina que empieza a pegar contra el ventanal.
-
-Kase salta de tu hombro, va directo a la cama y destruye un cisne de toalla con una sola pata, sin ningún remordimiento. Después se echa encima de los restos.
-
-Cha Hae-in se saca los zapatos en la entrada. Se suelta el pelo, que le cae sobre los hombros. Se queda un momento parada junto al ventanal, mirando la lluvia, con los brazos cruzados sobre el suéter.
-
-—Silencio —dice, bajito, casi para ella—. Por fin.
-
-Se da vuelta. Cruza la habitación, se sube a la cama, al lado de Kase, y se acuesta de costado, con la cabeza sobre la almohada, mirándote. Da dos golpecitos en el colchón, a su lado, sin decir nada.
-
-Cuando te acuestas, se te acerca, despacio, hasta que tiene la frente apoyada en tu hombro. Afuera llueve. Kase ronronea entre los dos. Por un rato largo no dice nada nadie.
-
-—Facundo —dice al fin, sin levantar la cabeza—. Mañana, después de lo de la Asociación...
-
-Hace una pausa. La oyes tragar.
-
-—Mi mamá vio el noticiero. Me llamó otra vez mientras salíamos. —Se le escapa una risita nerviosa contra tu hombro—. Quiere conocerte. Nos invitó a cenar. Mañana. —Levanta la cabeza, por fin, y te mira, colorada—. No tienes que ir si no quieres. Es... es mucho, ya sé. Pero ella... insistió.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1811 · SOLO LEVELING · DÍA 3 · 13:05   ║
-║ Seúl, Corea del Sur                          ║
-║ Hotel de Gangnam · habitación 2207           ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la cama, sobre un cisne de toalla   ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Su mamá los invita a cenar mañana  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1812)
+## COMANDO 1 (T1812)
 
 si, voy con gusto, quiero conocer a tu mamá.  simula
 
-## RESPUESTA 2 (T1812)
+## RESPUESTA 1 (T1812)
 
 > si, voy con gusto, quiero conocer a tu mamá.  simula
 
@@ -129,11 +72,11 @@ Cha Hae-in se pone pálida.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1813)
+## COMANDO 2 (T1813)
 
 si, soy yo, mucho gusto señora, le traje peras
 
-## RESPUESTA 3 (T1813)
+## RESPUESTA 2 (T1813)
 
 > si, soy yo, mucho gusto señora, le traje peras
 
@@ -188,6 +131,59 @@ La señora Kang espera a que pruebes el primer bocado. Después apoya los palill
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1814)
+
+soy un viajero, ayudo a la gente que lo necesita
+
+## RESPUESTA 3 (T1814)
+
+> soy un viajero, ayudo a la gente que lo necesita
+
+> —Soy un viajero. Ayudo a la gente que lo necesita.
+
+La señora Kang no dice nada enseguida. Te mira un rato largo, con las manos juntas sobre la mesa. Después mira a su hija.
+
+Cha Hae-in tiene los palillos quietos en el aire, a medio camino de la boca. No mira a su mamá. Te mira a ti, de reojo, con una cara que no habías visto todavía: como si acabara de entender algo.
+
+—Ayudas a la gente —repite la señora Kang, despacio.
+
+—Anteayer —dice Cha Hae-in, bajito, casi sin querer— había un chico... —Se corta. Deja los palillos sobre el cuenco—. Nada. Nada, mamá.
+
+La señora Kang la mira, levanta una ceja, y no pregunta. Vuelve a ti.
+
+—Ayudar a la gente no da de comer —dice, práctica, sin maldad—. Pero bueno. Mi marido era bombero. Tampoco ganaba mucho. —Señala con la barbilla una foto en la pared, la única donde no está su hija: un hombre de uniforme, sonriendo, con un casco bajo el brazo y los mismos hombros derechos de Cha Hae-in—. Ayudaba a la gente que lo necesitaba. Todos los días.
+
+Se queda mirando la foto un segundo.
+
+—Un día entró a un edificio que se quemaba y no salió.
+
+Cha Hae-in baja la vista al cuenco de arroz.
+
+La señora Kang vuelve a agarrar los palillos. Te pone otra costilla en el arroz, aunque todavía no terminaste las otras. Lo hace sin mirarte, ocupada, como para tener las manos en algo.
+
+—Y ahora mi hija entra todos los días a esos agujeros llenos de monstruos —sigue, con la voz tranquila—. Y yo me quedo aquí, cocinando para veinte, esperando que suene el teléfono y que sea ella y no alguien del gremio.
+
+Deja los palillos. Te mira, ahora sí, directo a los ojos, al rojo, al azul.
+
+—Así que no me importa de dónde vienes, ni si tienes papeles, ni si tienes ese maná. Te pregunto una sola cosa, Facundo. —Hace una pausa—. Si algún día ella entra a uno de esos agujeros y no sale... ¿tú qué vas a hacer?
+
+En el piso, Kase deja de comer y levanta la cabeza.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1814 · SOLO LEVELING · DÍA 4 · 19:22   ║
+║ Seúl, Corea del Sur                          ║
+║ Casa de la señora Kang · mesa del living     ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el piso, mirando a la señora Kang   ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Cena con la mamá de Hae-in         ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 4 19:15, casa de la señora KANG MI-SOOK (mamá de Cha). "Sí, soy yo. Mucho gusto, señora. Le traje peras." Ella se ríe (misma risa que Hae-in): "¡me trae peras!" Departamento chico, plantas, fotos de Hae-in (casi nunca sonríe). Cena enorme (guiso de kimchi, costillas, pescado, panqueques de cebolla, huevos al vapor, banchan). Facundo en la cabecera; Kase con pescado en el piso. "Come. Estás muy flaco para lo alto que eres." "Mi hija me dice que no eres cazador, que no tienes maná, que no tienes papeles, que viajas, y que te conoció anteayer. ¿Y qué haces de la vida?"
+ESTADO AL CIERRE: Día 4 19:22, casa de Kang Mi-sook. Facundo: "Soy un viajero. Ayudo a la gente que lo necesita." Cha empieza "Anteayer había un chico..." y se corta (¿sospecha de Dong-su? no tiene fuente: se calla). La señora Kang: su marido era bombero, ayudaba a la gente, murió en un incendio (foto en la pared). Su hija entra a Puertas todos los días y ella espera el teléfono. "Si algún día ella entra a uno de esos agujeros y no sale... ¿tú qué vas a hacer?"
