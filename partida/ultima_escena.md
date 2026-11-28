@@ -3,52 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1775)
-
-dale me parece bien, te espero aca
-
-## RESPUESTA 1 (T1775)
-
-> dale me parece bien, te espero aca
-
-> —Está bien, me parece bien. Te espero aquí.
-
-Cha Hae-in asiente una vez, rápido, y aprieta el botón del ascensor. Las puertas de espejo se abren enseguida. Entra, se da vuelta y se queda mirándote mientras se cierran, con la sonrisa todavía puesta. En el último centímetro levanta la mano, apenas, como un saludo a medias.
-
-Las puertas se cierran. Los números empiezan a bajar.
-
-El pasillo queda en silencio.
-
-Pasas la tarjeta por la cerradura de la 2207. Una lucecita verde, un clic, y la puerta se abre sola hacia adentro.
-
-La habitación es más grande que algunas casas en las que dormiste. Una cama doble enorme con sábanas blancas y almohadas apiladas, un sillón de cuero gris junto a la ventana, una mesa baja con una bandeja de frutas envueltas en plástico y una botella de agua. El baño tiene una bañera de piedra y una ducha de vidrio. Todo huele a limpio, a madera y a algo cítrico.
-
-Y la ventana: una pared entera de vidrio, del piso al techo, con Seúl abajo. Un mar de luces hasta el horizonte, las torres de Gangnam encendidas, el río Han a lo lejos como una cinta negra con puentes iluminados. En la avenida, dos cuadras más allá, todavía se ven las luces de las patrullas donde estaba la Puerta, y una grúa que empieza a sacar las vallas.
-
-Kase salta de tu hombro a la cama. Camina por encima de las almohadas, las huele una por una, elige la del medio, da dos vueltas y se echa, enorme, como si el hotel fuera suyo desde siempre.
-
-Sobre la mesita de luz hay un teléfono blanco y un control remoto. La tarjetita con el número de Cha Hae-in sigue en tu mano.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1775 · SOLO LEVELING · DÍA 1 · 23:37   ║
-║ Seúl, Corea del Sur                          ║
-║ Hotel de Gangnam · habitación 2207           ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.815 · 0 won                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la almohada del medio               ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Cha Hae-in vuelve mañana a la una  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1776)
+## COMANDO 1 (T1776)
 
 dejo la tarjeta ahi y salgo a pasear con kase
 
-## RESPUESTA 2 (T1776)
+## RESPUESTA 1 (T1776)
 
 > dejo la tarjeta ahi y salgo a pasear con kase
 
@@ -93,11 +52,11 @@ Después se da vuelta y te mira.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1777)
+## COMANDO 2 (T1777)
 
 cambio fragmentos a won y le compro algo a kase
 
-## RESPUESTA 3 (T1777)
+## RESPUESTA 2 (T1777)
 
 > cambio fragmentos a won y le compro algo a kase
 
@@ -140,6 +99,45 @@ Lo mira a Kase. Después te mira a ti, a la cara.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1778)
+
+si, le doy el atún a kase
+
+## RESPUESTA 3 (T1778)
+
+> si, le doy el atún a kase
+
+> —Sí.
+
+El chico asiente despacio, como si eso le confirmara algo, y vuelve a mirar al gato.
+
+Dejas el platito de cartón en el piso, junto a la pata de la mesa de plástico, y abres una de las latas. El ruido del abrelatas es suficiente: Kase ya está ahí antes de que termines de volcarla. Huele el atún una vez, con la nariz pegada, te mira de reojo como diciendo que podría ser mejor, y después se pone a comer sin parar, con la cola enroscada y las orejas hacia atrás, haciendo un ruidito suave con la garganta.
+
+El chico de la capucha lo mira comer. Por primera vez se le afloja un poco la cara.
+
+—Mi abuela tenía un gato —dice, más para el gato que para ti—. Gris. Comía así, como si alguien se lo fuera a robar.
+
+Se le ve el borde de un buzo gastado debajo de la campera, y un vendaje sucio en los nudillos de la mano derecha. En la mesa, al lado del vaso de ramyeon, hay una credencial de plástico boca abajo, con una cinta azul. Y unas zapatillas viejas, con la suela despegada en la punta.
+
+Te mira de nuevo. Mira el sobretodo negro, la cicatriz, los tatuajes del cuello.
+
+—¿Eres cazador? —pregunta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1778 · SOLO LEVELING · DÍA 2 · 00:11   ║
+║ Seúl, Corea del Sur                          ║
+║ Parque junto al río Han · tienda 24 horas    ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.292.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: comiendo atún en el platito            ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Cha Hae-in vuelve a la una         ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 00:09. Cambió 10 Frag → 1.300.000 won. Compró en la tienda 24 h: 2 latas de atún, premios para gato, botellita de leche (7.200 won); el dueño le regaló un platito de cartón "para el gato". Quedan 1.292.800 won (en el bolsillo). Afuera, el chico de la capucha (~17, flaco, ojeras) deja de comer: "Tiene los ojos iguales a los tuyos."
+ESTADO AL CIERRE: Día 2 00:11. Facundo: "Sí." Kase come una lata de atún en el platito (queda 1 lata, premios y leche en la bolsa). El chico de la capucha: su abuela tenía un gato gris. Detalles: buzo gastado, vendaje sucio en los nudillos derechos, credencial de plástico boca abajo con cinta azul, zapatillas rotas. Pregunta: "¿Eres cazador?"

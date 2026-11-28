@@ -1777,3 +1777,4 @@ T1774 · SOLO LEVELING · Hotel de Gangnam · Cha le da su número; propone volv
 T1775 · SOLO LEVELING · Hotel de Gangnam · Cha se va; vuelve a la una. Facundo y Kase en la 2207.
 T1776 · SOLO LEVELING · Río Han · Paseo nocturno con Kase. Noticia pública de una 4.ª incursión a Jeju. Kase pide algo en una tienda 24 h.
 T1777 · SOLO LEVELING · Río Han · Cambia 10 Frag a won; compra atún y premios a Kase. Chico de capucha: "Tiene los ojos iguales a los tuyos."
+T1778 · SOLO LEVELING · Río Han · Kase come atún. El chico de la capucha: "¿Eres cazador?"
