@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1713)
-
-soy un viajero que me gusta ayudar y que no le gusta matar, solo mate una vez, cuando intentaron hacerle algo a mi gato
-
-## RESPUESTA 1 (T1713)
-
-> soy un viajero que me gusta ayudar y que no le gusta matar, solo mate una vez, cuando intentaron hacerle algo a mi gato
-
-> —Soy un viajero al que le gusta ayudar y al que no le gusta matar. Solo maté una vez, cuando intentaron hacerle algo a mi gato.
-
-Makima baja la vista a Kase.
-
-Kase sigue sentado en tus rodillas, derecho, con la cola enroscada alrededor de las patas, mirándola de vuelta sin parpadear. Ella lo observa un rato largo. El collar negro. El colgante de eclipse. Los ojos, uno rojo y otro azul, iguales a los tuyos, con las pupilas como dos agujas.
-
-—Una sola vez —dice, sin levantar la vista del gato—. Por él.
-
-Se le dibuja una sonrisa nueva. Distinta a las otras. Más chica, más quieta, casi tierna.
-
-—Eso lo entiendo, señor Morelli. Mucho mejor que lo de no querer nada. —Vuelve a mirarte—. A todos nos gusta tener algo que sea nuestro. Algo que nadie más pueda tocar.
-
-Toma un poco de arroz con los palillos, lo come despacio, mastica, traga. Se limpia la comisura con la servilleta de tela, doblada en cuatro.
-
-—Le gusta ayudar. No le gusta matar. Y lo único que lo hace matar es que alguien toque lo que quiere. —Lo enumera con la misma voz con la que leería una ficha—. Es una persona muy simple, señor Morelli. Y le digo que es un halago. Las personas simples son las más difíciles de encontrar.
-
-Deja los palillos sobre el apoyo de cerámica, alineados.
-
-—Entonces le voy a pedir ayuda. No le voy a pagar, porque no quiere. Se la voy a pedir.
-
-Por la ventana entra un poco de sol, de golpe, entre las nubes. Le ilumina la mitad de la cara.
-
-—La mujer que hizo los muñecos se llama Santa Claus. Así la llaman. Viene de Alemania. Ayer usted le quitó cuarenta y nueve muñecos, y ella sabe cómo es usted, y sabe que tiene un gato. —Mira a Kase otra vez, apenas, y vuelve a ti—. Va a volver hoy. Más fuerte. Y yo no sé dónde está. Nadie lo sabe. Mis cazadores llevan tres días buscándola.
-
-Inclina la cabeza.
-
-—Usted siente a la gente. A través de las paredes, de los pisos. —La voz baja—. ¿Podría encontrarla?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1713 · CHAINSAW MAN · DÍA 2 · 08:37    ║
-║ Tokio, otoño de 1997                         ║
-║ Ginza, casa de té (cerrada para ustedes)     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.903 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus rodillas, mirando a Makima      ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Desayuno con Makima                ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1714)
+## COMANDO 1 (T1714)
 
 si, uso el ki para buscarla
 
-## RESPUESTA 2 (T1714)
+## RESPUESTA 1 (T1714)
 
 > si, uso el ki para buscarla
 
@@ -113,11 +60,11 @@ Pasaron unos pocos segundos. El sol todavía le ilumina media cara a Makima. Te 
 
 ---
 
-## COMANDO 3 (T1715)
+## COMANDO 2 (T1715)
 
 la encontré, está en una fábrica de juguetes junto al río
 
-## RESPUESTA 3 (T1715)
+## RESPUESTA 2 (T1715)
 
 > la encontré, está en una fábrica de juguetes junto al río
 
@@ -166,4 +113,61 @@ Y se queda esperando, sin parpadear, con los anillos amarillos quietos sobre tu 
 
 ---
 
-ESTADO AL CIERRE: Día 2 08:40, casa de té. Makima sabe (por Facundo) que Santa está en una fábrica de juguetes junto al río; deduce cuál: la vieja fábrica de juguetes de lata con chimenea de ladrillo, lado este del Sumida. "Qué poco imaginativa. O qué sentimental." Pregunta: "Mientras la buscaba... ¿sintió a alguien más que yo debería conocer?" (Kishibe aconsejó no decirle todo.)
+## COMANDO 3 (T1716)
+
+hay otros asesinos en la ciudad, pero no se donde
+
+## RESPUESTA 3 (T1716)
+
+> hay otros asesinos en la ciudad, pero no se donde
+
+> —Hay otros asesinos en la ciudad. Pero no sé dónde.
+
+Makima no se mueve.
+
+Te mira un segundo más de lo necesario, con la cabeza apenas inclinada y los anillos amarillos quietos sobre tu cara, como quien mira un cuadro y nota que alguien corrió un objeto de lugar.
+
+Después sonríe.
+
+—Claro —dice, con toda la suavidad del mundo—. Tokio es muy grande.
+
+No insiste. No pregunta otra vez. Toma los palillos y come un poco de pescado, despacio, y no vuelve a tocar el tema. Pero algo en el aire de la casa de té cambió de lugar, apenas, como si una de las cuerdas que salían de ella se hubiera tensado un milímetro.
+
+Kase, en tus rodillas, mueve la punta de la cola una sola vez.
+
+—Bueno. —Makima deja los palillos alineados sobre el apoyo de cerámica—. Entonces vamos a lo que sí sabemos.
+
+Se limpia la boca con la servilleta, la dobla en cuatro y la deja al lado del plato.
+
+—Kishibe va a ir a la fábrica a mediodía, con la División 4 y un equipo grande. Si Santa Claus está ahí con cientos de muñecos, no tiene sentido ir con pocos. —Te mira—. Me gustaría que usted vaya con ellos. No como cazador, porque no lo es, ni como empleado, porque no quiere serlo. Como lo que es. —Una pausa—. Un viajero al que le gusta ayudar.
+
+Se acomoda la trenza sobre el hombro.
+
+—Y le pido una sola cosa más. —La voz se le vuelve más baja, más dulce—. Que Denji vuelva entero. Ella va a buscarlo a él. Y a usted, ahora. Y a su gato.
+
+Mira a Kase. Kase la mira.
+
+—Yo no voy a estar —agrega, como si nada—. Tengo que viajar esta tarde. Asuntos de la oficina. Así que confío en usted.
+
+Toma la tetera y te vuelve a llenar la taza, que no habías tocado.
+
+—El té se está enfriando, señor Morelli. Y el pescado de aquí es muy bueno.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1716 · CHAINSAW MAN · DÍA 2 · 08:43    ║
+║ Tokio, otoño de 1997                         ║
+║ Ginza, casa de té (cerrada para ustedes)     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.903 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tus rodillas, mirando a Makima      ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Ir a la fábrica a mediodía         ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 2 08:43, casa de té. Facundo le dijo que hay otros asesinos pero que no sabe dónde (no es verdad: sabe; Makima no puede leerlo, pero le miró un segundo de más: "Claro. Tokio es muy grande."). Plan: Kishibe va a la fábrica a mediodía con la División 4 y un equipo grande; Makima quiere que Facundo vaya "como un viajero al que le gusta ayudar"; pide que Denji vuelva entero. Ella "viaja esta tarde" (no estará). Le sirve más té: "El pescado de aquí es muy bueno."

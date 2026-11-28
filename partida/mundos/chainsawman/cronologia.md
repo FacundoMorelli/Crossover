@@ -15,3 +15,4 @@ Fuente: canon/chainsawman/ (manga). Llegada: Día 1, fines de octubre de 1997, 1
 ## CAMBIOS
 (ninguno todavía)
 - Día 1 noche · (T1711) Kishibe se lleva a los tres impostores (pieles de Kurose y Tendo) vivos para interrogatorio (canon: Power mata al falso Kurose). Refugio de la calle Kanda tranquilo.
+- Día 2 · (T1716) Plan de Seguridad Pública: Kishibe, la División 4 y un equipo grande van a mediodía a la fábrica de juguetes de lata del este del Sumida (escondite de Santa, ubicado por Facundo). Makima "viaja esta tarde" (canon: viaje frustrado; termina bajando al Infierno).
