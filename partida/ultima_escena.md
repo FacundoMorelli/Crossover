@@ -3,80 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1812)
-
-si, voy con gusto, quiero conocer a tu mamá.  simula
-
-## RESPUESTA 1 (T1812)
-
-> si, voy con gusto, quiero conocer a tu mamá.  simula
-
-> —Sí, voy con gusto. Quiero conocer a tu mamá.
-
-Cha Hae-in se queda mirándote. Después sonríe, despacio, y vuelve a apoyar la frente en tu hombro.
-
-—Le voy a avisar —dice, contra tu sobretodo—. Va a cocinar para veinte.
-
-...
-
-Llueve toda la tarde. Cha Hae-in le manda un mensaje a su mamá y apaga el celular. Piden comida a la habitación: sopa de fideos y pollo frito. Kase recibe un plato de pollo sin piel que pide el servicio sin que nadie lo encargue. En la televisión, en todos los canales, pasan el video de la vereda una y otra vez. "Es un secreto" ya es un meme. Cha Hae-in cambia de canal hasta encontrar uno de documentales de animales y lo deja ahí, con el volumen bajo, y se duerme a tu lado a las nueve, con el pelo en tu cara.
-
-El cuarto día amanece con sol.
-
-A las diez en punto están en la sede de la Asociación de Cazadores: un edificio gris enorme con el techo azul que viste desde Namsan. Entran por una puerta lateral. Woo Jinchul los espera en persona en un pasillo y los lleva a una oficina chica, sin ventanas. Un funcionario de anteojos te saca una foto contra una pared blanca, te toma las huellas de los diez dedos en una maquinita y te hace firmar cuatro hojas. Cha Hae-in firma otras cuatro como garante, con letra prolija y apretada. Woo Jinchul pone un sello rojo en cada una.
-
-Cuarenta minutos después te dan una tarjeta plástica, celeste, con tu foto, tu nombre en letras latinas y coreanas, un número largo y las palabras "RESIDENCIA PROVISORIA — PERSONA SIN NACIONALIDAD REGISTRADA". En el casillero de "garante" dice "Cha Hae-in (Cazadora, Rango S)".
-
-—Un año, renovable —dice Woo Jinchul, y te da la mano. Firme, corta—. No se meta en problemas, señor Morelli.
-
-Al salir, en la sala de espera de la Asociación, hay un televisor. En la pantalla, un noticiero. Cha Hae-in se detiene a mirarlo y tú también.
-
-"...segundo caso en menos de un mes. Esta mañana, en el centro de evaluación de Mapo, un cazador de diecisiete años, registrado como rango E desde hace un año, fue reevaluado como rango A. Los especialistas de la Asociación hablan de un 'segundo despertar'. El joven, de apellido Han, no quiso hacer declaraciones..."
-
-En la pantalla, una imagen borrosa: un chico flaco con capucha saliendo de un edificio, con la cabeza gacha, empujado por un mar de micrófonos. Se tapa la cara con una mano vendada.
-
-—Otro segundo despertar —murmura Cha Hae-in—. Dos en un mes. Nunca pasó algo así. —Mueve la cabeza, sin entender, y sigue caminando.
-
-A la tarde, Cha Hae-in te lleva a una frutería del barrio de su mamá y elige una caja de madera con seis peras enormes, doradas, envueltas una por una en papel. "Siempre se lleva fruta", te explica, y la paga antes de que puedas sacar la plata.
-
-A las siete, el taxi los deja en un barrio tranquilo del este de Seúl, de edificios de departamentos bajos, de ladrillo, con plantas en los balcones y bicicletas atadas a las rejas. Cha Hae-in se arregla el pelo tres veces en el ascensor. Se pone y se saca los aros. Te mira de arriba abajo, te acomoda el cuello del sobretodo, le saca un pelo de gato.
-
-Cuarto piso. Puerta verde, con un cartelito de cerámica pintado a mano.
-
-Cha Hae-in toca el timbre.
-
-Del otro lado se escuchan pasos rápidos, un "¡ya voy, ya voy!", una olla que se tapa. La puerta se abre.
-
-La señora que aparece es bajita, de unos cincuenta y pico, con el pelo corto entrecano, un delantal con flores amarillas y los mismos ojos de Cha Hae-in. Tiene las manos todavía húmedas. Mira a su hija. Después te mira a ti, de abajo para arriba, porque le llevas casi dos cabezas: los borceguíes, el sobretodo, los tatuajes del cuello, la cicatriz, el pelo blanco y azul. Y por último a Kase, que está sentado en tu hombro mirándola con los dos ojos.
-
-Se queda callada un segundo largo.
-
-—Así que tú eres el del secreto —dice al fin, seria, con los brazos cruzados sobre el delantal.
-
-Cha Hae-in se pone pálida.
-
-—Mamá...
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1812 · SOLO LEVELING · DÍA 4 · 19:02   ║
-║ Seúl, Corea del Sur                          ║
-║ Casa de la mamá de Cha · puerta verde, 4.º   ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirando a la señora      ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Cena con la mamá de Hae-in         ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1813)
+## COMANDO 1 (T1813)
 
 si, soy yo, mucho gusto señora, le traje peras
 
-## RESPUESTA 2 (T1813)
+## RESPUESTA 1 (T1813)
 
 > si, soy yo, mucho gusto señora, le traje peras
 
@@ -131,11 +62,11 @@ La señora Kang espera a que pruebes el primer bocado. Después apoya los palill
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1814)
+## COMANDO 2 (T1814)
 
 soy un viajero, ayudo a la gente que lo necesita
 
-## RESPUESTA 3 (T1814)
+## RESPUESTA 2 (T1814)
 
 > soy un viajero, ayudo a la gente que lo necesita
 
@@ -182,6 +113,65 @@ En el piso, Kase deja de comer y levanta la cabeza.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1815)
+
+lo que pueda hacer todo lo que tenga en mis manos
+
+## RESPUESTA 3 (T1815)
+
+> lo que pueda hacer todo lo que tenga en mis manos
+
+> —Lo que pueda. Todo lo que tenga en mis manos.
+
+La señora Kang te sostiene la mirada un rato largo. No parpadea. Después, despacio, asiente. Una vez.
+
+—Eso mismo decía él —dice, bajito.
+
+Se le humedecen los ojos, apenas. Se los seca rápido con la punta del delantal, como si fuera vapor de la olla, y carraspea.
+
+—Bueno. —Golpea la mesa con la palma, suave—. Basta de cosas tristes. Come, que se enfría.
+
+A tu lado, Cha Hae-in no se mueve. Tiene los ojos brillantes y mira su cuenco de arroz sin verlo. Debajo de la mesa, sin que su mamá lo vea, te busca la mano y te la aprieta. Fuerte. No la suelta durante un buen rato, y come con la otra mano, torpe, con los palillos.
+
+La cena sigue. La señora Kang se encarga de que no haya silencio: habla del vecino del tercero que tiene un perro que ladra a la madrugada, de las plantas que se le secan en invierno, del precio del repollo, que está carísimo. Te sirve, te sirve, te vuelve a servir. Cuenta, mientras Cha Hae-in protesta con la cara tapada, cómo a los seis años su hija se negaba a comer nada que no fuera arroz blanco con huevo, y cómo a los doce se peleó con un chico más grande que molestaba a un perro en la calle y le dejó un ojo morado. Se ríe fuerte. Kase termina su pescado y se acomoda en el almohadón vacío de al lado, como si fuera un invitado más.
+
+Cuando los platos ya están casi vacíos, la señora Kang se pone de pie.
+
+—Hae-in, ve a cortar las peras que trajo Facundo. En la cocina, el cuchillo grande.
+
+—Mamá, yo...
+
+—Ve.
+
+Cha Hae-in te mira, suspira, y se levanta. Se va por el pasillito hacia la cocina. Se escucha la canilla, el ruido de un cajón.
+
+La señora Kang espera a que se oiga el cuchillo contra la tabla. Después se inclina un poco hacia ti, por encima de la mesa, y baja la voz.
+
+—Desde que murió su papá, no la vi sonreír así —dice—. Ni una vez. Ni cuando la hicieron rango S, ni cuando salió en las revistas, ni cuando la nombraron vicemaestra. Nada. Siempre seria, siempre callada, siempre sola. —Mira hacia el pasillo, hacia el ruido del cuchillo—. Hoy entró por esa puerta y sonreía. Y ni siquiera se daba cuenta.
+
+Vuelve a mirarte.
+
+—No sé quién eres, Facundo, ni de dónde vienes. Y me di cuenta de que no me lo vas a decir. —Una sonrisa chiquita, cansada—. Pero dime una cosa. ¿La vas a traer otra vez a comer?
+
+Desde la cocina llega la voz de Cha Hae-in:
+
+—¡Mamá! ¡¿Qué le estás diciendo?!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1815 · SOLO LEVELING · DÍA 4 · 20:30   ║
+║ Seúl, Corea del Sur                          ║
+║ Casa de la señora Kang · mesa del living     ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en un almohadón, como invitado         ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Cena con la mamá de Hae-in         ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 4 19:22, casa de Kang Mi-sook. Facundo: "Soy un viajero. Ayudo a la gente que lo necesita." Cha lo mira como si entendiera algo. La señora Kang: su marido era bombero, ayudaba a la gente, murió en un incendio (foto en la pared). Su hija entra a Puertas todos los días y ella espera el teléfono. "Si algún día ella entra a uno de esos agujeros y no sale... ¿tú qué vas a hacer?"
+ESTADO AL CIERRE: Día 4 20:30, casa de Kang Mi-sook. Facundo: "Lo que pueda. Todo lo que tenga en mis manos." Señora Kang: "Eso mismo decía él." Cha le aprieta la mano bajo la mesa. Cena: anécdotas (arroz con huevo a los 6; a los 12 le dejó un ojo morado a un chico que molestaba a un perro). Cha a la cocina a cortar las peras. La señora Kang, en voz baja: desde que murió su papá no la vio sonreír así; "no me lo vas a decir" (de dónde viene); "¿La vas a traer otra vez a comer?" Cha desde la cocina: "¡Mamá! ¡¿Qué le estás diciendo?!"
