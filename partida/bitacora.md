@@ -1885,3 +1885,4 @@ T1882 · ONE PIECE · Momoiro · "¿Tanto me van a poner?" Dragon: Akainu es Alm
 T1883 · ONE PIECE · Momoiro · "¿Qué puedo hacer?" Dragon: que tocarlos cueste demasiado. Kuma dice dónde está cada Sombrero de Paja. Dragon: "Ve a contarle a Robin."
 T1884 · ONE PIECE · Momoiro · Fiesta hasta la luna. Kuma: "Cuando quieras ir a algún lado, pídemelo." Dragon, listo para volver.
 T1885 · ONE PIECE · Baltigo · Vuelve con Dragon ("Gracias, Ojos de Eclipse"). Robin, con el diario: "Akainu quemó Ohara... ¿Qué vas a hacer?"
+T1886 · ONE PIECE · Baltigo · "Voy a hablar con Akainu." Robin: "Llévame contigo."

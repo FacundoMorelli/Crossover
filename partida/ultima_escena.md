@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1883)
-
-que puedo hacer?
-
-## RESPUESTA 1 (T1883)
-
-> que puedo hacer?
-
-> —¿Qué puedo hacer?
-
-Dragon no contesta enseguida. Mira el mar, el cielo rosa que se oscurece, las primeras estrellas encima de Momoiro.
-
-—Hay dos caminos, siempre —dice, al fin—. Esconder lo que quieres, o hacer que tocarlo cueste más de lo que vale.
-
-Se da vuelta.
-
-—Esconder no sirve contigo. Tu cara está en todos los diarios del mundo. —Mira a Kuma, a Bonney, a Sanji—. Y la gente que te quiere no se esconde. Ya lo viste.
-
-Kuma da un paso adelante, detrás de él. Se agacha, despacio, hasta quedar a tu altura.
-
-—Yo sé dónde están —dice, con la voz grave—. Los Sombrero de Paja. Los mandé yo, uno por uno, en Sabaody. Me acuerdo de cada isla. —Se toca el pecho, donde le pusiste la mano—. Ahora me acuerdo de todo. —Mira a Sanji—. El cocinero, aquí. El espadachín, en Kuraigana, con Mihawk. La navegante, en Weatheria, en el cielo. El tirador, en la isla Boin. El médico, en Torino. El carpintero, en Karakuri. El músico, en Namakura. —Hace una pausa—. Y tu capitán, con Rayleigh, en Rusukaina.
-
-—Y Robin en Baltigo —dice Dragon—. Que no está en ningún mapa. Pero Akainu tiene al Cipher Pol. Y el Cipher Pol tiene paciencia.
-
-Se queda callado.
-
-—En Marineford dejaste algo cuidando la flota de Barbablanca —sigue, despacio—. Algo que nadie ve. Que paró el volcán de Akainu. Todavía está ahí. Mis informes lo dicen: la Marina los alcanzó dos veces y no pudo hacerles un rasguño. —Te mira a los ojos—. No sé qué es. No te voy a preguntar. Pero si eso se puede hacer una vez, sobre una flota...
-
-No termina. No hace falta.
-
-Bonney te mira desde la rodilla de su padre. Sanji, con el cigarro apagado en la boca, también.
-
-—Y hay otra cosa —dice Dragon, más bajo—. Algo que ni tú puedes resolver con fuerza. —Mira hacia el norte, otra vez—. Hay una mujer en Baltigo que contó noventa y siete días en una pared. Antes de decidir nada, deberías ir a contarle lo que viene.
-
-Se cruza de brazos.
-
-—Ella sabe más de Akainu que nadie en esta mesa. Él quemó Ohara.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1883 · ONE PIECE · DÍA ~227 · 18:47    ║
-║ Isla Momoiro · Reino Kamabakka               ║
-║ Patio de la fiesta, mesa principal           ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la mesa, mirando al norte           ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Proteger a los tuyos de Akainu     ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1884)
+## COMANDO 1 (T1884)
 
 esta bien, cuando terminemos y te lleve a báltigo de nuevo hablo con ella
 
-## RESPUESTA 2 (T1884)
+## RESPUESTA 1 (T1884)
 
 > esta bien, cuando terminemos y te lleve a báltigo de nuevo hablo con ella
 
@@ -115,11 +62,11 @@ Te mira a los ojos.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1885)
+## COMANDO 2 (T1885)
 
 gracias kuma, me teletransporto con dragon a baltigo
 
-## RESPUESTA 3 (T1885)
+## RESPUESTA 2 (T1885)
 
 > gracias kuma, me teletransporto con dragon a baltigo
 
@@ -188,6 +135,61 @@ Se pone de pie, despacio. Se acerca. Se detiene delante de ti, muy cerca, y te m
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1886)
+
+ehh, voy a ir a hacer algo, voy a ir a hablar con akainu
+
+## RESPUESTA 3 (T1886)
+
+> ehh, voy a ir a hacer algo, voy a ir a hablar con akainu
+
+> —Eh... voy a ir a hacer algo. Voy a ir a hablar con Akainu.
+
+Robin no dice nada.
+
+Se queda mirándote, muy cerca, con los ojos azules quietos. Después, despacio, se le escapa una risa. Bajita, por la nariz, sin alegría, como alguien que escucha una locura y ya no puede sorprenderse de nada.
+
+—Fufu. "A hablar."
+
+Se da vuelta. Camina hasta la ventana del norte, la que da al mar, y se apoya en el marco, de espaldas a ti. El viento de Baltigo le mueve el pelo largo, suelto, sobre los hombros.
+
+—Con Akainu no se habla —dice, mirando el mar—. Se le escapa. O se muere. —Una pausa—. Los eruditos de Ohara intentaron hablar con él. Le mostraron los libros. Le explicaron que solo querían leer la historia. Que no tenían armas. Que eran viejos, mujeres, chicos. —Se le endurece la voz, apenas—. Él escuchó. Hasta el final. Y después prendió fuego la biblioteca con ellos adentro.
+
+Se queda callada. El mar golpea abajo, lejos, contra los acantilados.
+
+—Pero tú no eres un erudito de Ohara —dice, más bajo—. Tú le sacaste a Ace del cadalso. Le paraste el volcán. Le quitaste al Gobierno un esclavo de las manos de un Dragón Celestial, en la cima de la Red Line, y volviste a cenar.
+
+Se da vuelta. Te mira desde la ventana, con la luna detrás.
+
+—Cuando tú hables con él —dice—, va a ser la primera vez en su vida que alguien le hable sin miedo.
+
+Cruza la torre despacio, de vuelta hacia ti. Se detiene delante. Te pone las dos manos en el pecho, sobre el sobretodo, sobre el dragón tatuado de abajo.
+
+—No te voy a pedir que no vayas. Ya sé lo que me vas a contestar. —Te mira a los ojos—. Te voy a pedir otra cosa.
+
+Respira hondo.
+
+—Llévame contigo.
+
+Lo dice tranquila. Firme. Sin que le tiemble la voz.
+
+—Veinte años me escondí de ese hombre. Cambié de nombre, de bando, de isla. Me vendí a quien me pudiera proteger. Dormí con un cuchillo debajo de la almohada. —Te aprieta el sobretodo entre los dedos—. Quiero mirarlo a la cara una vez. Una sola. Sin esconderme. Al lado tuyo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1886 · ONE PIECE · DÍA ~227 · 23:08    ║
+║ Baltigo · torre de Dragon                    ║
+║ Junto a la mesa de mapas, con Robin          ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 99% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirando a Robin          ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Robin: "Llévame contigo."          ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 23:05, torre de Dragon en Baltigo (de noche). "Gracias, Kuma." Kuma vuelve junto a Bonney. Sanji levanta la copa; Ivankov manda un beso. Teletransporte con Dragon (ya no tenso). En la torre solo Robin, sentada en la silla de Dragon con el diario de hoy (cartel de 3.200 millones). Dragon, desde la escalera: "Gracias, Ojos de Eclipse." y baja. Robin: Koala le trajo el diario; Sabo le dijo que el Almirante de Flota es Sakazuki. "Yo tenía ocho años... vi a ese hombre quemar mi isla. Los libros. La biblioteca. A mi madre. Ese mismo hombre ahora tiene toda la Marina. Y tu cara en la mesa." "Dragon te dijo que vinieras a contarme. Lo conozco. Así que cuéntame. ¿Qué vas a hacer?"
+ESTADO AL CIERRE: Día ~227 23:08, torre de Dragon. Facundo: "Eh... voy a ir a hacer algo. Voy a ir a hablar con Akainu." Robin: "Fufu. 'A hablar.'" "Con Akainu no se habla. Se le escapa. O se muere." Los eruditos de Ohara intentaron hablar; él escuchó y prendió fuego la biblioteca con ellos adentro. "Pero tú no eres un erudito de Ohara... Cuando tú hables con él, va a ser la primera vez en su vida que alguien le hable sin miedo." Manos en su pecho: "No te voy a pedir que no vayas... Llévame contigo. Veinte años me escondí de ese hombre... Quiero mirarlo a la cara una vez. Una sola. Sin esconderme. Al lado tuyo."

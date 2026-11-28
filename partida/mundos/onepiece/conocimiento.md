@@ -315,3 +315,4 @@
 - T1879 · SANJI sabe (por Kuma) por qué lo mandó a Momoiro. Vio a Kuma consciente.
 - T1881 · PÚBLICO (diario mundial): Ojos de Eclipse secuestró a Kuma en Mary Geoise con un rubio de sombrero de copa; recompensa 3.200.000.000.
 - T1883 · FACUNDO sabe (por Kuma) dónde está cada Sombrero de Paja durante el timeskip.
+- T1886 · ROBIN sabe (por Facundo) que va a ir a hablar con Akainu.
