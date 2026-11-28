@@ -28,3 +28,4 @@ ENCUENTROS:
 - T1706 · Sabe (por Facundo) que no hay nadie más y que los reales Kurose y Tendo están abajo (muertos, lo deduce). Reporta a la central (refugio de la calle Kanda): impostores neutralizados vivos, reales muertos en el lobby, pide recolección e interrogatorio, que nadie de Kioto se acerque; dice que fue "él" (Facundo). Le pasa la radio a Facundo por pedido de Makima.
 - T1708 · Apaga la radio. "Mañana a la mañana. Desayuno con la señorita Makima. No le pasa a mucha gente."
 - T1710 · Desvía la mirada, mandíbula apretada, con lo de Pochita. Fuma un cigarrillo seco del saco de Kurose.
+- T1711 · Guardia por turnos con Facundo toda la noche; no se duerme. Le tapa la boca a Power a las 7.

@@ -1709,3 +1709,4 @@ T1707 · CHAINSAW MAN · refugio, 6.º piso · "Hola, señorita Makima." Makima 
 T1708 · CHAINSAW MAN · refugio, 6.º piso · "Los sentí, nada más." Makima: "Me gusta mucho eso. Cuide a Denji por mí." Denji: "¿Sentiste a Pochita?" Power: "¿Y a Power?"
 T1709 · CHAINSAW MAN · refugio, 6.º piso · "¿Pochita es eso dormido que tienes adentro?" Denji cuenta su historia. "¿Está bien? ¿Está contento?"
 T1710 · CHAINSAW MAN · refugio, 6.º piso · "Pochita está tranquilo y contento." Denji emocionado; Power le regala el sándwich. Llega Kishibe: "Así que tú eres el del gato. Makima no habla de nadie."
+T1711 · CHAINSAW MAN · Ginza · SIMULACIÓN hasta el Día 2. Kishibe se lleva a los asesinos ("no le digas a Makima todo"). Noche tranquila. Diario: 46 dormidos, "un relámpago blanco y azul que caminaba". Desayuno con Makima: "¿Cuánto quiere cobrar?"

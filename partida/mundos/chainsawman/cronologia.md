@@ -14,3 +14,4 @@ Fuente: canon/chainsawman/ (manga). Llegada: Día 1, fines de octubre de 1997, 1
 - Muerte de Quanxi (Makima). Muerte de Aki (Pistola/Denji). Muerte de Power (Makima). Makima = Demonio del Control (secreto del canon; la Tasación no lo revela).
 ## CAMBIOS
 (ninguno todavía)
+- Día 1 noche · (T1711) Kishibe se lleva a los tres impostores (pieles de Kurose y Tendo) vivos para interrogatorio (canon: Power mata al falso Kurose). Refugio de la calle Kanda tranquilo.

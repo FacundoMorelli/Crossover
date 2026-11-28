@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1708)
-
-los senti nada mas
-
-## RESPUESTA 1 (T1708)
-
-> los senti nada mas
-
-> —Los sentí, nada más.
-
-Del otro lado de la radio, silencio. Largo. Tan largo que Aki se despega de la pared y te mira.
-
-—Los sintió —repite Makima, al final. Despacio. Saboreándolo—. Qué interesante.
-
-Otra pausa.
-
-—Yo no puedo sentirlo a usted, señor Morelli. Nada. Se lo dije en la avenida. Y usted, en cambio, siente a todos. A través de las paredes. A través de los pisos. —La voz no cambia de tono, sigue suave, amable, pero algo en ella se inclina hacia adelante, como alguien que se acerca a una vidriera—. Me gusta mucho eso. Me gusta mucho.
-
-La estática vuelve, apenas, y se va.
-
-—Bueno. No le quito más tiempo, que debe estar cansado. Mañana hablamos con calma. —Y después, con una dulzura que no hace falta—: Que descanse. Y cuide a Denji por mí. Es muy importante para mí.
-
-Clic. La radio queda muerta, solo con el siseo de fondo.
-
-Aki te la saca de la mano, sin decir nada, y la apaga. Se queda mirándola un segundo, como si la radio también le debiera una explicación. Después se la cuelga del cinturón.
-
-—Mañana a la mañana —dice, más para él que para nadie—. Desayuno con la señorita Makima. —Te mira—. No le pasa a mucha gente.
-
-Denji, que escuchó todo sentado en la alfombra al lado de la bandeja, se para de un salto, se te planta enfrente y te mira con los ojos enormes, todavía con migas de pan en la comisura.
-
-—¡Oye! ¡Oye, oye, oye! —Se señala el pecho con los dos pulgares—. ¡¿Me sentiste a mí?! ¿Qué sentiste? ¿Sentiste algo raro? ¿Algo genial? —Baja la voz, de golpe, muy serio—. ¿Sentiste a Pochita?
-
-Power aparece detrás de él, empujándolo con el hombro, con la mano llena de mayonesa levantada.
-
-—¡¿Y a Power?! ¡Power seguro que se siente increíble! ¡La más poderosa de todas! ¡Dilo!
-
-Kobeni, en la puerta, se encoge más, abrazándose.
-
-—Yo no quiero saber qué se siente de mí. —Susurra—. Por favor no me digas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1708 · CHAINSAW MAN · DÍA 1 · 21:00    ║
-║ Tokio, otoño de 1997                         ║
-║ Refugio: hotel, pasillo del 6.º piso         ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.903 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus brazos                          ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Refugio con la División 4          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1709)
+## COMANDO 1 (T1709)
 
 pochita es como se llama eso dormido que tienes dentro?
 
-## RESPUESTA 2 (T1709)
+## RESPUESTA 1 (T1709)
 
 > pochita es como se llama eso dormido que tienes dentro?
 
@@ -111,11 +54,11 @@ Se inclina un poco hacia ti.
 
 ---
 
-## COMANDO 3 (T1710)
+## COMANDO 2 (T1710)
 
 si, esta tranquilo y contento, durmiendo
 
-## RESPUESTA 3 (T1710)
+## RESPUESTA 2 (T1710)
 
 > si, esta tranquilo y contento, durmiendo
 
@@ -185,4 +128,73 @@ Después te mira a ti. Al pelo, a los ojos, al gato en tus brazos. Toma un trago
 
 ---
 
-ESTADO AL CIERRE: Día 1 21:20, pasillo del 6.º piso. Denji conmovido ("¡Qué bueno, Pochita! No estoy llorando, es la mayonesa"); Power le regaló el último sándwich. Denji y Power dormidos en la alfombra del pasillo. Kobeni despierta en el umbral. Aki fumó. Llegó KISHIBE con seis agentes (camillas, esposas). A Facundo: "Así que tú eres el del gato. Makima no paraba de hablar de ti por teléfono. Y Makima no habla de nadie." Tasación de Kishibe.
+## COMANDO 3 (T1711)
+
+si, soy yo, mucho gusto, simula hasta mañana con makima
+
+## RESPUESTA 3 (T1711)
+
+> si, soy yo, mucho gusto, simula hasta mañana con makima
+
+> —Sí, soy yo. Mucho gusto.
+
+Kishibe no contesta el "mucho gusto". Te mira un segundo más, guarda la petaca y se vuelve hacia los tres de la pared.
+
+Se agacha frente a Kurose. Le levanta un párpado con el pulgar. Le pasa un dedo por la costura de la mandíbula. Hace lo mismo con Tendo y con el de la escopeta. Después se para, haciendo crujir las rodillas.
+
+—Vivos. Sin un rasguño. Dormidos como bebés. —Lo dice para nadie—. En treinta años no vi a nadie dormir a un tipo con piel de demonio sin romperle algo. —Te mira de reojo—. Tú dormiste a tres. Y a cuarenta y seis muñecos. Eso me dijeron.
+
+No espera respuesta. Hace un gesto con la mano y los seis agentes se mueven: esposas, camillas, mantas por encima de las caras. En diez minutos el pasillo queda vacío, salvo por Denji y Power, que siguen dormidos en la alfombra y no se despiertan ni cuando una camilla les pasa por encima.
+
+Antes de bajar, Kishibe se detiene en la escalera.
+
+—Hayakawa. Turnos de dos horas. No le abran la puerta a nadie, aunque sea yo. —Y después, a ti, sin darse vuelta—: Mañana, en el desayuno, no le digas a Makima todo lo que sabes. Nadie le dice todo a Makima. Es un consejo gratis. El único que doy.
+
+Baja. Los pasos se pierden escaleras abajo.
+
+La noche pasa tranquila.
+
+Aki y tú hacen guardia por turnos, como él dijo, en dos sillas plegables en el pasillo, frente a la 604. Aki cumple los suyos sin dormirse, fumando sin encender, con la katana sobre las rodillas. En el tuyo, el hotel entero respira: ciento y pico de presencias dormidas en las habitaciones de los otros pisos, ninguna con otra piel encima, ninguna con intenciones raras. Afuera, en Tokio, la lluvia para cerca de las tres.
+
+Denji duerme en la alfombra hasta las dos, cuando Aki lo arrastra de un tobillo hasta la cama del medio. Power se despierta, ve que la cama del medio está ocupada, se mete en la misma cama, lo empuja hasta el borde y se vuelve a dormir. Kobeni se queda en el umbral hasta las cuatro, sentada, con el cuchillo en las rodillas, y se duerme así, sentada, con la cabeza contra el marco.
+
+Kase pasa la noche en tus rodillas, durante tus turnos, y en la almohada de la cama libre durante los de Aki. A las cinco, sin que nadie lo vea, se baja, cruza la habitación a oscuras y se echa a los pies de Power, encima de la manta, hecho una bola. Cuando Power se despierta a las siete y lo ve, abre la boca para gritar, y Aki le tapa la boca con la mano antes de que salga nada.
+
+A las siete y media, en la cómoda de la 604, alguien de la central deja el diario de la mañana. En la tercera página, una nota chica: "CUARENTA Y SEIS CIVILES HALLADOS DORMIDOS FRENTE A MITSUKOSHI TRAS ATAQUE DE DEMONIO". Seguridad Pública no da detalles. Un testigo no identificado, un conductor de tranvía que se escondió debajo del asiento, dice que vio "una luz blanca y azul, como un relámpago que caminaba".
+
+A las ocho en punto, el sedán negro de la noche anterior está en la puerta del hotel. El mismo chofer, el mismo paraguas, aunque ya no llueve.
+
+Cruza Tokio de mañana: tranvías llenos, oficinistas con portafolios, puestos de diarios, el cielo gris y limpio. Te deja en Ginza, frente a una casa de té vieja, de madera oscura, con un cartel escrito a mano que dice CERRADO colgado en la puerta. El chofer te abre la puerta del auto y después la de la casa de té.
+
+Adentro no hay nadie. Ni clientes, ni camareros. Un salón chico, silencioso, con olor a té verde y a madera, mesas bajas y cojines en el piso, y una ventana que da a un jardincito con un estanque de piedra y una sola carpa roja.
+
+En la mesa del fondo, junto a la ventana, Makima está sentada sobre los talones, con la espalda derecha, la camisa blanca impecable y la trenza sobre el hombro. Delante de ella hay dos tazas de té humeante, una tetera de hierro, arroz, sopa de miso, pescado asado, huevos, encurtidos. Todo para dos. Todo intacto, esperando.
+
+Levanta la vista cuando entras. Sonríe.
+
+—Buenos días, señor Morelli. —Señala el cojín de enfrente con la mano abierta—. Siéntese, por favor. Espero que haya dormido bien. —Mira a Kase, en tu hombro—. Y su gato también. Le hice traer leche.
+
+Al lado de su taza hay un platito de porcelana con leche tibia.
+
+Ella sirve el té, con calma, una taza y después la otra, sin derramar una gota.
+
+—Empecemos por lo fácil —dice, dejando la tetera—. ¿Ya pensó cuánto quiere cobrar?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1711 · CHAINSAW MAN · DÍA 2 · 08:30    ║
+║ Tokio, otoño de 1997                         ║
+║ Ginza, casa de té (cerrada para ustedes)     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.903 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Desayuno con Makima                ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 2 08:30, casa de té vieja en Ginza, cerrada para ellos (jardín con estanque y una carpa roja). Makima sentada sobre los talones, desayuno japonés para dos, platito de leche para Kase. Sirvió el té. "Empecemos por lo fácil. ¿Ya pensó cuánto quiere cobrar?" Noche anterior: Kishibe se llevó a los 3 asesinos (consejo: "no le digas a Makima todo lo que sabes"); guardias por turnos con Aki; Kase durmió a los pies de Power a las 5. Diario: "46 civiles hallados dormidos frente a Mitsukoshi"; un conductor de tranvía vio "una luz blanca y azul, como un relámpago que caminaba".

@@ -26,3 +26,4 @@ ENCUENTROS:
 - T1705 · Le roba el sándwich a Denji, lo muerde y se lo devuelve. "¡Power se ganó los sándwiches! ¡Porque Power descubrió a los malos! ¡La mitad son de Power!"
 - T1708 · "¡¿Y a Power?! ¡Power seguro que se siente increíble! ¡La más poderosa de todas! ¡Dilo!"
 - T1710 · Le regala a Denji el último sándwich de huevo: "Power te lo regala. Solo esta vez. Porque Power es generosa." Se duerme hombro con hombro con Denji en el pasillo.
+- T1711 · Se mete en la cama de Denji y lo empuja al borde. A las 7 descubre a Kase dormido a sus pies (Kase eligió dormir ahí desde las 5); Aki le tapa la boca antes del grito.

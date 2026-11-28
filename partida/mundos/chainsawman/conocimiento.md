@@ -44,3 +44,5 @@ Quién sabe qué de Facundo en este mundo.
 - T1708 · MAKIMA, AKI, DENJI, POWER, KOBENI saben (por Facundo) que "siente" a las personas, a través de paredes y pisos.
 - T1709 · Facundo sabe (por Denji) la historia de Pochita. DENJI sabe que Facundo sintió a Pochita dentro de él.
 - T1710 · KISHIBE sabe (por Makima, por teléfono) lo que ella sabe de Facundo; lo ve en persona (aspecto, gato). DENJI sabe (por Facundo) que Pochita está tranquilo y contento.
+- T1711 · PÚBLICO (diario): 46 civiles hallados dormidos frente a Mitsukoshi; un testigo vio "una luz blanca y azul". Nadie lo asocia públicamente con un nombre.
+- T1711 · KISHIBE vio en persona a los tres impostores dormidos sin daño.
