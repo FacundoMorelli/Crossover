@@ -1797,3 +1797,4 @@ T1794 · SOLO LEVELING · Namsan · Al encenderse Seúl, besa a Cha Hae-in. Ella
 T1795 · SOLO LEVELING · Namsan · Le pide a Cha que se quede en el hotel esta noche: "Sí." Primero, el mercado de Gwangjang.
 T1796 · SOLO LEVELING · Mercado de Gwangjang · De la mano con Cha. La señora de los panqueques: "¿Es tu novio?"
 T1797 · SOLO LEVELING · Gwangjang · "Sí, soy su novio." Cha Hae-in, novia en Solo Leveling. La señora invita la casa.
+T1798 · SOLO LEVELING · Gwangjang · "Muy en serio." Beso, aplausos, una foto de un turista. Brindis "por nosotros".

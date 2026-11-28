@@ -23,3 +23,4 @@
 - T1786 · CHOI JONG-IN percibe a Facundo como "chico sin maná" (lo vio en la cinta; Velo: no despertado). Cha Hae-in le dijo que es "un amigo".
 - T1794 · Turistas en la plaza de Namsan vieron a Cha Hae-in (con gorra) besar a un chico de pelo blanco y azul; nadie parece haberla reconocido (sin confirmar).
 - T1797 · SEÑORA DE LOS PANQUEQUES (Gwangjang) sabe que Facundo es novio de Cha Hae-in (lo dijo él). Media fila de bancos escuchó el grito ("¡por fin!"); posible rumor local.
+- T1798 · Un turista sacó una foto del beso de Facundo y Cha Hae-in (con gorra y anteojos) en Gwangjang. Si se publica y alguien la reconoce, sería público (pendiente).

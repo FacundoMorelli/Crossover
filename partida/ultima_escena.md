@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1795)
-
-la sigo besando, hoy podes quedarte en el hotel conmigo?
-
-## RESPUESTA 1 (T1795)
-
-> la sigo besando, hoy podes quedarte en el hotel conmigo?
-
-La vuelves a besar.
-
-Esta vez ella no se sorprende. Te pasa los brazos por detrás del cuello, despacio, como si tuviera miedo de hacerlo mal, y se queda así, pegada a ti, con el viento de la montaña moviéndole el pelo contra tu cara. Huele a lana limpia, a café, a algo dulce y suave que no sabes qué es.
-
-Kase, en tu hombro, suspira largo y se baja de un salto a la baranda, ofendido, para no estar en el medio.
-
-Cuando se separan otra vez, ella tiene los ojos cerrados todavía. Los abre despacio.
-
-> —Hoy, ¿puedes quedarte en el hotel conmigo?
-
-Cha Hae-in no contesta enseguida. Te mira. Se le van los ojos un segundo hacia la reja, hacia el candado con los dos nombres, y vuelven a ti. Se le colorean las orejas otra vez, de a poco, desde la punta.
-
-Baja la vista a tu pecho, a la mano que todavía tiene agarrada a tu sobretodo.
-
-—Sí —dice. Casi no se oye, pero lo dice—. Sí.
-
-Después respira hondo, como juntando coraje, y levanta la vista.
-
-—Pero... —Se le escapa una risita nerviosa, y se tapa la boca con el dorso de la mano—. Primero tenemos que comer algo. Desde el bulgogi no comí nada, y si me quedo sin comer me pongo de mal humor. —Te mira de reojo—. El mercado de Gwangjang está abierto hasta tarde. Hay unos panqueques de frijol que...
-
-Se calla. Se da cuenta de que está hablando muy rápido.
-
-—¿Vamos? —pregunta, más bajito.
-
-En la baranda, Kase bosteza enorme, con la ciudad iluminada detrás.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1795 · SOLO LEVELING · DÍA 2 · 17:55   ║
-║ Seúl, Corea del Sur                          ║
-║ Monte Namsan · plaza de la torre, candados   ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la baranda, bostezando              ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1796)
+## COMANDO 1 (T1796)
 
 vamos
 
-## RESPUESTA 2 (T1796)
+## RESPUESTA 1 (T1796)
 
 > vamos
 
@@ -97,11 +48,11 @@ Cha Hae-in se queda helada. Te mira.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1797)
+## COMANDO 2 (T1797)
 
 si, soy su novio
 
-## RESPUESTA 3 (T1797)
+## RESPUESTA 2 (T1797)
 
 > si, soy su novio
 
@@ -146,6 +97,53 @@ Cha Hae-in sigue con la cara tapada con una mano. Entre los dedos, te mira. Se b
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1798)
+
+si, muy en serio, le doy un beso
+
+## RESPUESTA 3 (T1798)
+
+> si, muy en serio, le doy un beso
+
+> —Sí. Muy en serio.
+
+Le das un beso.
+
+Cha Hae-in se queda quieta con la mano todavía sobre la cara, y después la baja, despacio, y te lo devuelve. Los anteojos de sol se le ladean sobre la nariz. La gorra se le corre un poco para atrás.
+
+La señora de los panqueques vuelve a gritar. Esta vez la acompaña el señor del puesto de al lado, que vende fideos fríos, y una mesa entera de oficinistas que aplauden y golpean los vasitos contra la madera. Alguien grita "¡bravo!". Un turista saca una foto.
+
+Cha Hae-in se separa, se acomoda la gorra con las dos manos, de un tirón, hasta las cejas, y se endereza los anteojos. Está roja hasta donde le llega el suéter. Pero no se suelta de tu mano.
+
+—Me van a reconocer —murmura, mirando la plancha—. Me van a reconocer y va a salir en internet.
+
+Lo dice sin enojo. Casi como si no le importara.
+
+La señora pone delante de ustedes los primeros dos panqueques, gruesos, dorados, humeando, en platitos de metal, con una salsita de soja con cebolla al lado. Después, sin preguntar, abre la botella verde y llena los dos vasitos hasta el borde.
+
+—¡Por los novios! —dice, fuerte.
+
+Cha Hae-in mira el vasito. Lo levanta con las dos manos, como se hace con los mayores, y se da vuelta hacia ti, con la gorra hasta las cejas y una sonrisa que ya no intenta esconder.
+
+—Por... —Duda. Busca la palabra—. Por nosotros.
+
+Espera, con el vasito en el aire, a que levantes el tuyo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1798 · SOLO LEVELING · DÍA 2 · 18:44   ║
+║ Seúl, Corea del Sur                          ║
+║ Mercado de Gwangjang · puesto de panqueques  ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el banco, comiendo pescado frito    ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Cenar en Gwangjang con Cha         ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 18:42, Gwangjang. Facundo: "Sí, soy su novio." Cha le aprieta la mano, sonríe sin poder evitarlo. La señora grita de alegría ("¡La cuidas!"), invita la casa: cuatro panqueques, licor de arroz (botella verde y dos vasitos), pescado frito para Kase. Cha, con la cara tapada, ojos húmedos, muy bajito: "¿Lo... dijiste en serio?"
+ESTADO AL CIERRE: Día 2 18:44, Gwangjang. "Sí. Muy en serio." La besa; ella le devuelve el beso. Aplausos de la señora, el de los fideos fríos y oficinistas; un turista saca una foto. Cha: "Me van a reconocer y va a salir en internet" (sin enojo). Panqueques servidos; licor de arroz servido. Cha levanta el vasito con las dos manos: "Por... Por nosotros." Espera el brindis.
