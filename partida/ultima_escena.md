@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1803)
-
-si
-
-## RESPUESTA 1 (T1803)
-
-> si
-
-> —Sí.
-
-Cha Hae-in suelta el aire que tenía guardado. Asiente una vez, rápido.
-
-—Gracias.
-
-Después se mueve como una cazadora antes de entrar a una Puerta: rápida, ordenada, sin perder tiempo. Se baña en siete minutos. Se viste con la ropa de ayer, el suéter crema y el pantalón oscuro. Se ata el pelo atrás, alto, apretado. Mientras se pone los zapatos, llama a su mamá y habla con ella en voz baja, de espaldas a ti, junto al ventanal: "Sí, mamá. Sí. No, estoy bien. Sí, es él. No, no es cazador. Mamá. Mamá. Te llamo a la noche." Cuelga y se queda un segundo con la frente apoyada en el vidrio.
-
-Después se da vuelta y ya está otra vez entera.
-
-Bajan a desayunar. En el restaurante del hotel hay un televisor grande en la pared, con el sonido apagado, y en la pantalla, en un canal de noticias, aparece la foto del mercado, ampliada, con un círculo rojo alrededor de la cara de ella. Cha Hae-in le da la espalda al televisor y come arroz con sopa sin levantar la vista. Las dos mozas del restaurante cuchichean junto a la cocina. Kase se come media salchicha de tu plato sin pedir permiso.
-
-A las once, un taxi los lleva al norte de Gangnam, a una avenida ancha de edificios de oficinas. El edificio del Gremio de Cazadores es una torre de vidrio azulado, alta, con el emblema del gremio grabado en metal sobre la entrada.
-
-Frente a la puerta, en la vereda, hay unas cuarenta personas. Cámaras de televisión en trípodes, fotógrafos con lentes enormes, periodistas con micrófonos y tarjetas colgadas al cuello. Dos guardias de seguridad del gremio los mantienen detrás de una valla. Cuando el taxi frena en la esquina, uno de los fotógrafos mira hacia el auto, entrecierra los ojos, y le toca el hombro al de al lado.
-
-Cha Hae-in se pone tensa a tu lado. Mira la multitud por la ventanilla. Respira por la nariz, despacio.
-
-—Hay una entrada por el estacionamiento de atrás —dice, bajito—. Los empleados entran por ahí. Nadie nos vería. —Se queda callada un segundo, mirando la puerta principal, las cámaras—. O podemos entrar por adelante.
-
-Te mira.
-
-—Como tú quieras.
-
-El taxista espera, con las manos en el volante, mirándolos por el espejo retrovisor.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1803 · SOLO LEVELING · DÍA 3 · 11:04   ║
-║ Seúl, Corea del Sur                          ║
-║ Gangnam norte · taxi, esquina del gremio     ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Choi quiere conocerte (mediodía)   ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1804)
+## COMANDO 1 (T1804)
 
 vayamos por atrás por ahora
 
-## RESPUESTA 2 (T1804)
+## RESPUESTA 1 (T1804)
 
 > vayamos por atrás por ahora
 
@@ -121,11 +72,11 @@ Rodea el escritorio, despacio, y se detiene frente a ti, a un paso. Es casi tan 
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1805)
+## COMANDO 2 (T1805)
 
 soy Facundo Morelli, un viajero, y el novio de Hae-in
 
-## RESPUESTA 3 (T1805)
+## RESPUESTA 2 (T1805)
 
 > soy Facundo Morelli, un viajero, y el novio de Hae-in
 
@@ -176,6 +127,80 @@ Choi espera, con los dedos juntos.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1806)
+
+si, acepto, no hay problema
+
+## RESPUESTA 3 (T1806)
+
+> si, acepto, no hay problema
+
+> —Sí, acepto. No hay problema.
+
+Choi asiente una vez, satisfecho, como quien cierra un trámite. Cha Hae-in suelta los puños despacio.
+
+—Bien. —Choi aprieta un botón del teléfono de su escritorio—. Que suba el jefe Woo cuando llegue. Y café para tres.
+
+Esperan. Una secretaria trae café en tazas blancas de porcelana y un platito con agua para el gato, sin que nadie se lo pida, y se va mirando a Kase de reojo. Choi revisa papeles en silencio. Cha Hae-in se sienta por fin, en el borde de un sillón, al lado tuyo, con la espalda recta. Abajo, en la avenida, los periodistas siguen detrás de la valla.
+
+A las doce menos veinte golpean la puerta.
+
+El hombre que entra es alto, ancho de hombros, de traje negro y corbata negra, con el pelo muy corto y anteojos de sol oscuros que no se saca adentro. Camina como un policía. Detrás de él viene un empleado joven de la Asociación con un maletín de aluminio.
+
+Lo miras, y el Sistema hace lo suyo.
+
+```
+╔════════════════════════════════════════╗
+║ WOO JINCHUL                            ║
+║ Jefe de Vigilancia · Asociación de     ║
+║ Cazadores                              ║
+║ PODER: Combate cuerpo a cuerpo,        ║
+║        fuerza reforzada con maná       ║
+║ AMENAZA: BAJA                          ║
+║ Diferencia estimada: tú x110 sobre él  ║
+║ COPIABLE · MISIÓN: BAJA                ║
+╚════════════════════════════════════════╝
+```
+
+—Maestro Choi. Vicemaestra Cha. —Una inclinación de cabeza corta, seca, a cada uno. Después se vuelve hacia ti. Te mira largo a través de los anteojos oscuros: el pelo, la cicatriz, los tatuajes, el gato—. Señor Morelli, supongo. Woo Jinchul, Asociación de Cazadores. Gracias por aceptar.
+
+El empleado abre el maletín sobre el escritorio. Adentro, en una espuma negra con forma, hay una esfera de cristal transparente del tamaño de un pomelo, montada sobre una base de metal con una pantallita digital y unos cables.
+
+—Es un medidor portátil —explica Woo Jinchul—. El mismo que usamos en las evaluaciones de los centros de despertar. Apoye la mano encima. No duele, no hace nada. Solo lee.
+
+Pones la mano sobre el cristal. Está frío.
+
+El Velo hace su trabajo.
+
+La esfera no se enciende. Ni un brillo, ni un parpadeo. La pantallita digital muestra un cero, y debajo, en letras chiquitas: "NO DESPERTADO".
+
+El empleado joven frunce el ceño y aprieta un botón. Vuelve a medir. Cero. Saca un cable, lo vuelve a enchufar. Cero.
+
+—Funciona bien —le dice, en voz baja, a Woo Jinchul—. Lo probé abajo, en el auto.
+
+Woo Jinchul no dice nada. Mira la pantallita. Después te mira a ti. Después, por algún motivo, mira a Kase.
+
+—Cero absoluto —dice, despacio—. Ni siquiera la traza de maná residual que tiene la gente común que vive en una ciudad con Puertas. Nada.
+
+Se cruza de brazos.
+
+—Bueno. No es cazador. Eso está claro. —Se quita los anteojos de sol, por primera vez, y te mira con unos ojos cansados, serios, sin malicia—. Pero sigo teniendo un problema, señor Morelli. No hay registro de que usted haya entrado a Corea. Ni por aeropuerto, ni por puerto, ni por ningún lado. —Hace una pausa—. ¿Me puede decir de qué país viene, y cómo llegó aquí?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1806 · SOLO LEVELING · DÍA 3 · 11:44   ║
+║ Seúl, Corea del Sur                          ║
+║ Gremio de Cazadores · piso 38, oficina Choi  ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirando a Woo Jinchul    ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Woo pregunta de dónde vienes       ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 3 11:14, oficina de Choi. Facundo: "Soy Facundo Morelli. Un viajero. Y el novio de Hae-in." Choi: no le importa con quién sale ("ya es hora"). La Asociación (Vigilancia) lo llamó a las 7: Facundo no figura en registro de despertados, migraciones ni padrones. Woo Jinchul viene en camino para una medición de maná informal ("después de lo de Jeju, la Asociación se pone nerviosa"). No está obligado, pero si se niega preguntarán a Cha. "¿Acepta la medición, señor Morelli?"
+ESTADO AL CIERRE: Día 3 11:44, oficina de Choi. Facundo aceptó. Llegó Woo Jinchul (traje negro, anteojos oscuros) con un empleado y un medidor portátil (esfera de cristal). Tasación de Woo (combate cuerpo a cuerpo; tú x110). Medición: 0, "NO DESPERTADO" (tres veces; sin siquiera traza residual). Woo: no es cazador; pero no hay registro de entrada a Corea (aeropuerto, puerto). Se quitó los anteojos: "¿Me puede decir de qué país viene, y cómo llegó aquí?"
