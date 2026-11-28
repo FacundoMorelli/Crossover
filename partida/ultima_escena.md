@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1844)
-
-la abrazo, perdon amor, no queria que te pase nada
-
-## RESPUESTA 1 (T1844)
-
-> la abrazo, perdon amor, no queria que te pase nada
-
-La abrazas.
-
-> —Perdón, amor. No quería que te pasara nada.
-
-Cha Hae-in suelta la espada. Cae al piso, entre las hormigas, con un ruido metálico. Te rodea con los dos brazos, por debajo del sobretodo, y aprieta. Fuerte. Con toda la fuerza de una cazadora de rango S, una fuerza que le partiría las costillas a cualquier otro hombre. Esconde la cara en tu pecho. La armadura rota del hombro te raspa el brazo.
-
-Llora. Sin ruido, sacudiéndose, con la frente apoyada contra el dragón tatuado, encima de tu corazón.
-
-Kase baja de tu hombro al de ella, con cuidado, y se le acomoda en la nuca, sobre el pelo pegado de sudor. Ella se ríe en medio del llanto, sin levantar la cabeza.
-
-—No me pidas perdón —dice contra tu camisa, ahogada—. No te atrevas a pedirme perdón.
-
-Se queda así. Respirando. Respirando hondo por la nariz, despacio, como siempre. Como si estuviera aprendiendo de nuevo el olor de nada que tienes.
-
-—No sé qué eres —murmura—. Y no me importa. Dijiste que hay cosas que son secreto. —Levanta la cabeza, por fin. Tiene los ojos rojos, la cara manchada de polvo blanco y de lágrimas, y te mira de muy cerca—. Pero estás aquí. Y estamos todos vivos. Todos.
-
-Detrás de ella, en la caverna, nadie dice nada.
-
-Min Byung-Gyu se tapa la boca con las manos, todavía de rodillas, y se le llenan los ojos a él también. Ma Dongwook se ríe solo, nervioso, sin poder parar, tocándose el pecho. Baek Yoonho mira el techo, las paredes, las hormigas, como si no pudiera creer que la caverna está en silencio. Jinwoo, al lado del cadáver del Rey, se mete las manos en los bolsillos y mira hacia otro lado, hacia la pared, para dejarlos solos.
-
-Choi Jong-In es el único que se mueve.
-
-Se acomoda los anteojos torcidos con un dedo, con la mano que ya no le tiembla. Del bolsillo del traje de combate le sale una voz metálica, cortada, gritando: una radio. "¡Maestro Choi! ¡Maestro Choi, responda! ¡Aquí el buque! ¡Perdimos la señal de la transmisión! ¡¿Qué está pasando?! ¡Los japoneses dicen que todas las hormigas se cayeron al mismo tiempo! ¡¿Maestro Choi?!"
-
-Choi saca la radio, la mira, y no contesta. Te mira a ti.
-
-—Señor Morelli. —Hace una pausa. Por primera vez desde que lo conoces, no sabe bien qué decir—. Los helicópteros están en la costa, a cuatro kilómetros. Hay miles de... cuerpos entre aquí y allá. Y todo el país estuvo mirando por esa cámara hasta hace un momento.
-
-Señala con la barbilla al camarógrafo, que sigue sentado arriba, con la luz roja encendida.
-
-—¿Cómo salimos de aquí?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1844 · SOLO LEVELING · DÍA 22 · 11:41  ║
-║ Isla de Jeju                                 ║
-║ Nido bajo el Hallasan · cámara de la reina   ║
-║ NIVEL 34 · EXP 524.130/530.000               ║
-║ FRAGMENTOS 340.805 · 1.282.800 won           ║
-║ Energía 97% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la nuca de Cha Hae-in               ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Sacar a todos de la isla           ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1845)
+## COMANDO 1 (T1845)
 
 agarrense de mi todos, o estén conectados entre ustedes. me teletransporto al buque
 
-## RESPUESTA 2 (T1845)
+## RESPUESTA 1 (T1845)
 
 > agarrense de mi todos, o estén conectados entre ustedes. me teletransporto al buque
 
@@ -147,11 +92,11 @@ Camina hacia ti. Se detiene a un paso. Te mira a los ojos un rato largo, sin dec
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1846)
+## COMANDO 2 (T1846)
 
 agarro el telefono
 
-## RESPUESTA 3 (T1846)
+## RESPUESTA 2 (T1846)
 
 > agarro el telefono
 
@@ -196,6 +141,69 @@ La voz se le vuelve más baja, más directa.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1847)
+
+nada señor, solo queria ayudarlos y no queria dejar que nadie muera de corea
+
+## RESPUESTA 3 (T1847)
+
+> nada señor, solo queria ayudarlos y no queria dejar que nadie muera de corea
+
+> —Nada, señor. Solo quería ayudarlos. No quería dejar que muriera nadie de Corea.
+
+Del otro lado de la línea, Go Gunhee no dice nada durante un rato largo.
+
+Escuchas su respiración. Después un sonido extraño, ahogado, que tardas un segundo en reconocer: un hombre de setenta años, enorme, que lleva décadas sentado en la silla más pesada del país, riéndose y llorando al mismo tiempo, en voz baja, para que nadie del otro lado de la puerta lo escuche.
+
+—Nada —repite, al fin, ronco—. Le ofrezco lo que quiera, y me dice "nada".
+
+Se suena la nariz. Carraspea. Cuando vuelve a hablar, ya es otra vez el presidente.
+
+—Muy bien, señor Morelli. Entonces voy a hacer lo único que puedo hacer sin que me lo pida. —Una pausa—. Su nombre y su residencia provisoria quedan bajo protección de la Asociación desde este minuto. Nadie, ningún gremio, ningún canal, ningún gobierno extranjero, va a tener acceso a nada de usted a través de nosotros. Si alguien lo molesta, me llaman a mí. Y si alguien lo quiere reclutar, también. —Una risa corta—. Aunque me imagino lo que les va a contestar.
+
+Escuchas un golpe en la puerta, del otro lado. Alguien que lo llama. Go Gunhee no contesta.
+
+—Una cosa más. —La voz se le vuelve más baja—. Gracias. No por los dieciséis. Por Min. Es el sanador que salvó a más cazadores en este país. Y antes de esta incursión me dijo que, si no volvía de Jeju, le dijera a su padre que lo sentía mucho, que no iban a poder ir a pescar. —Hace una pausa—. No voy a tener que llamarlo.
+
+Corta.
+
+Le devuelves el teléfono a Woo Jinchul. Él lo agarra sin decir nada, con una inclinación de cabeza más profunda que cualquiera que le hayas visto.
+
+En la cubierta, el ruido vuelve. Los médicos corren con las camillas aunque nadie las necesita. Ma Dongwook se deja revisar riéndose. Min Byung-Gyu sigue sentado en el piso, mirando el mar. Jinwoo, apoyado en la baranda, con las manos en los bolsillos, mira la costa de Jeju.
+
+Y desde el cielo, por el oeste, llega un zumbido grave.
+
+Un helicóptero negro, con una espada desenvainada pintada en la puerta, baja sobre la cubierta del buque, levantando viento y espuma. Antes de que toque el piso, la puerta se abre y salta un hombre enorme, de pelo largo atado, con la katana a la cintura, el uniforme negro roto en un brazo y la cara llena de polvo. Detrás de él bajan otros japoneses: Hoshino, Kanae, Kumamoto, unos pocos más. Faltan muchos.
+
+Goto Ryuji camina por la cubierta, entre los marineros y los médicos, directo hacia ti. Mira a los coreanos, vivos, todos. Mira a Jinwoo en la baranda. Se detiene a tres pasos de ti.
+
+No sonríe. Por primera vez desde que lo conoces, no sonríe.
+
+—Vi la transmisión desde el helicóptero —dice en japonés, y el Sistema te lo da—. Matsumoto nos ordenó retirarnos. Dejarlos a ustedes allá adentro. Lo obedecí. —Se le endurece la mandíbula—. Perdí a cinco de los míos en esa isla. Y tú bajaste solo y no dejaste morir a ninguno de los tuyos.
+
+Se saca la katana de la cintura, con la vaina, y la apoya en el piso de la cubierta, de punta, con las dos manos sobre la empuñadura.
+
+—Me debías una pelea, novio sin maná. —Te mira a los ojos—. Ya no. Ya vi lo que vio ella.
+
+Hace una pausa.
+
+—Pero quiero saber una cosa. ¿Por qué no bajaste por los míos?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1847 · SOLO LEVELING · DÍA 22 · 11:52  ║
+║ Estrecho de Jeju                             ║
+║ Buque de la Asociación · cubierta            ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 1.282.800 won           ║
+║ Energía 95% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la nuca de Cha Hae-in               ║
+║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
+║ OBJETIVO: Goto: "¿Por qué no por los míos?"  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 11:45, cubierta del buque. Facundo toma el teléfono satelital. Go Gunhee desde la sala de crisis de la Asociación: vio todo hasta que se cortó la señal; perdió amigos y cazadores en las tres incursiones anteriores (2 amigos, 11, 14); rompió el apoyabrazos al ver aparecer a Facundo; no va a preguntar cómo; "Corea le debe dieciséis vidas. Y yo también." En una hora todo el país querrá saber quién es; Japón llamó dos veces, EE. UU. una; no puede protegerlo para siempre pero puede hacer cosas. "¿Qué quiere?" Cha a su lado de la mano, escuchando.
+ESTADO AL CIERRE: Día 22 11:52, cubierta del buque. Facundo a Gunhee: "Nada, señor. Solo quería ayudarlos..." Gunhee ríe y llora; pone el nombre y la residencia de Facundo bajo protección de la Asociación (nadie accede; si lo molestan o lo quieren reclutar, que lo llamen a él). "Gracias... Por Min" (Min le había pedido que le dijera a su padre que no irían a pescar). Corta. Llega el helicóptero de Draw Sword: Goto (sin sonreír), Hoshino, Kanae, Kumamoto y pocos más (Mari viva; muertos: Akari, Kenzo, Tatsumi, Kei, Ippei). Goto: Matsumoto ordenó retirarse y lo obedeció; perdió a cinco. Apoya la katana: "Me debías una pelea... Ya no. Ya vi lo que vio ella." "¿Por qué no bajaste por los míos?"
