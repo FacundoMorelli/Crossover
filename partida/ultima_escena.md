@@ -3,48 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1817)
-
-que me preguntó si te iba a traer otra vez
-
-## RESPUESTA 1 (T1817)
-
-> que me preguntó si te iba a traer otra vez
-
-> —Me preguntó si te iba a traer otra vez.
-
-Cha Hae-in se queda quieta, con las manos agarradas a tu solapa.
-
-Por un segundo no reacciona. Después se le arruga la cara, despacio, como a una nena, y se ríe y llora al mismo tiempo, sin hacer ruido, con los ojos cerrados. Apoya la frente contra tu pecho, sobre el sobretodo, y se queda ahí, sacudiéndose un poco, mientras el farol zumba arriba y una bicicleta pasa tintineando por la calle de al lado.
-
-Kase, en tu hombro, estira el cuello y le huele la coronilla. Le da un golpecito con la nariz.
-
-—Perdón —dice ella, contra tu pecho, con la voz rota—. Perdón. Es que... ella nunca... a nadie...
-
-Respira hondo. Una vez. Dos. Se seca los ojos con la manga del suéter, rápido, y levanta la cabeza. Tiene la nariz roja, las pestañas mojadas y la sonrisa más grande que le viste desde que la conoces.
-
-—¿Y qué le dijiste? —pregunta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1817 · SOLO LEVELING · DÍA 4 · 21:56   ║
-║ Seúl, Corea del Sur                          ║
-║ Calle del barrio de la señora Kang · farol   ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, oliéndole el pelo a Cha  ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1818)
+## COMANDO 1 (T1818)
 
 que si. simula unos dias
 
-## RESPUESTA 2 (T1818)
+## RESPUESTA 1 (T1818)
 
 > que si. simula unos dias
 
@@ -97,11 +60,11 @@ Te mira.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1819)
+## COMANDO 2 (T1819)
 
 esta bien amor
 
-## RESPUESTA 3 (T1819)
+## RESPUESTA 2 (T1819)
 
 > esta bien amor
 
@@ -150,6 +113,51 @@ Te mira a los ojos.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1820)
+
+te lo prometo, le doy un beso
+
+## RESPUESTA 3 (T1820)
+
+> te lo prometo, le doy un beso
+
+> —Te lo prometo.
+
+Le das un beso.
+
+Cha Hae-in cierra los ojos. Te suelta la mano y te agarra de la nuca, despacio, y se queda así un rato largo, con la frente pegada a la tuya cuando se separan, respirando contra tu boca. La lluvia sigue golpeando el vidrio. Kase, aplastado entre los dos, suelta un gruñido corto de protesta y no se mueve.
+
+—Te creo —dice ella, en un susurro.
+
+Se aparta un poco. Se saca el abrigo por fin, mojado en los hombros, y lo deja caer al piso sin cuidado, cosa que no le viste hacer nunca. Se suelta el pelo. Se acuesta de espaldas sobre la cama, al lado tuyo, con los brazos abiertos, mirando el techo, y suelta todo el aire de golpe, como después de salir de una Puerta.
+
+—Qué día —dice al techo.
+
+Kase se le sube encima de la panza y se echa ahí, enorme. Ella se ríe, sin aire, y le pone una mano encima del lomo.
+
+Se queda un rato así, acariciando al gato, en silencio. Después gira la cabeza sobre la colcha para mirarte.
+
+—Mañana empiezan los entrenamientos con los japoneses —dice—. En el centro de entrenamiento de la Asociación, en Yeouido. Viene Goto Ryuji, el maestro del gremio Draw Sword, el cazador más fuerte de Japón. Vamos a practicar formaciones juntos, para que nadie se estorbe allá adentro.
+
+Duda un segundo. Juega con el pelo largo de Kase entre los dedos.
+
+—Los entrenamientos no son secretos. Van periodistas, familiares, gente del gremio, a mirar desde las gradas. —Te mira de reojo, con media sonrisa—. ¿Quieres venir a verme?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1820 · SOLO LEVELING · DÍA 8 · 16:20   ║
+║ Seúl, Corea del Sur                          ║
+║ Hotel de Gangnam · habitación 2207           ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: echado sobre la panza de Cha           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Incursión a Jeju en dos semanas    ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 8 16:12, 2207. Facundo: "Está bien, amor." Cha, colorada: "Me dijiste 'amor'." Pensó que le pediría no ir; todos (mamá, Choi, Go Gunhee) se lo piden; él no: "Gracias." Kase pegado a ella mirando la carpeta. Dos semanas de preparación con los japoneses, después Jeju. "Prométeme que vas a estar aquí cuando vuelva."
+ESTADO AL CIERRE: Día 8 16:20, 2207. "Te lo prometo." Beso. Cha: "Te creo." Se tira en la cama, Kase sobre su panza. Mañana (Día 9) empiezan los entrenamientos con los japoneses en el centro de entrenamiento de la Asociación en Yeouido, con Goto Ryuji (Draw Sword, el más fuerte de Japón); formaciones; abiertos al público desde las gradas. "¿Quieres venir a verme?"

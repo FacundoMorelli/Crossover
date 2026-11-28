@@ -39,3 +39,4 @@
 - T1812 · ASOCIACIÓN: Facundo registrado con foto, huellas y residencia provisoria (garante Cha). Nadie relaciona a Facundo con el segundo despertar de Dong-su (solo Dong-su sabe que Facundo lo tocó).
 - T1813 · KANG MI-SOOK sabe (por Hae-in) que Facundo no es cazador, no tiene maná, no tiene papeles, viaja y la conoció anteayer.
 - T1818 · FACUNDO sabe por Cha Hae-in de la 4.ª incursión a Jeju (Día 22), 18 convocados, Choi y Cha incluidos, con Japón; 14 muertos en la anterior.
+- T1820 · FACUNDO sabe por Cha: entrenamientos conjuntos con japoneses desde el Día 9 en el centro de la Asociación en Yeouido; Goto Ryuji (Draw Sword) participa; abiertos al público en gradas.
