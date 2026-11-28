@@ -48,3 +48,4 @@
 - T1827 · FACUNDO vio las sombras de Jinwoo esconderse en Goto y Cha (fuente: lo vio). GO GUNHEE notó que Facundo no reaccionó cuando atacaban a Cha.
 - T1828 · CHA HAE-IN compara: Jinwoo no huele a maná "igual que tú" (Facundo). GUNHEE y CHOI oyen a Facundo decir que sabía que Sung llegaría (no investigan).
 - T1830 · JINWOO sabe (por su sombra escondida en Cha) que Kase se quedó mirando la sombra de Cha; no siente ningún maná en Facundo; deduce que Facundo esconde algo.
+- T1832 · JINWOO sabe (por Facundo) que Facundo conoce sus sombras y que puede usarlas para viajar. No sabe cómo lo sabe. Facundo prometió estar cerca en Jeju.

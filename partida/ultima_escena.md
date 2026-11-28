@@ -3,54 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1829)
-
-si, lo vi, es muy fuerte
-
-## RESPUESTA 1 (T1829)
-
-> si, lo vi, es muy fuerte
-
-> —Sí, lo vi. Es muy fuerte.
-
-Cha Hae-in asiente despacio, mirando hacia la puerta por donde se fue Jinwoo.
-
-—Más de lo que dice la medición. Mucho más. —Se muerde el labio—. Cuando lo agarré del brazo para separarlo de Goto, sentí que si él hubiera querido, nos sacaba a los dos de encima sin esfuerzo. A mí y a Baek. —Se queda callada un segundo—. Y no quiso. Se dejó agarrar.
-
-Detrás, Go Gunhee suspira otra vez, mirando el salón.
-
-—Si fuera a Jeju... —empieza Cha Hae-in, y no termina. Sacude la cabeza—. No. Tiene razón. Su madre acaba de despertar. Yo tampoco dejaría sola a la mía.
-
-Choi Jong-In se acomoda los anteojos y mira el reloj.
-
-—Vicemaestra. A la una seguimos con las formaciones de retirada. Los japoneses quieren repetir el ejercicio de la cámara de la reina. —Una pausa—. Sin Kumamoto, por suerte.
-
-Cha Hae-in asiente sin soltarte la mano. Se vuelve hacia ti.
-
-—Va a ser toda la tarde. Hasta las siete, por lo menos. —Te aprieta los dedos—. Puedes quedarte a mirar desde aquí, si quieres. O te vas al hotel y nos vemos a la noche. Como prefieras.
-
-Kase, en tu hombro, deja de mirar la sombra de ella por primera vez y te mira a ti.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1829 · SOLO LEVELING · DÍA 11 · 10:58  ║
-║ Seúl, Corea del Sur                          ║
-║ Gimnasio de la Asociación · balcón           ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirándote                ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Jeju (Día 22)                      ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1830)
+## COMANDO 1 (T1830)
 
 le doy un beso, voy a salir a caminar un rato, asi que seguro nos vemos en el hotel
 
-## RESPUESTA 2 (T1830)
+## RESPUESTA 1 (T1830)
 
 > le doy un beso, voy a salir a caminar un rato, asi que seguro nos vemos en el hotel
 
@@ -103,11 +60,11 @@ Se le endurece apenas la cara.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1831)
+## COMANDO 2 (T1831)
 
 soy un viajero, nada más, pero me preguntas a mi, pero tu? que eres?
 
-## RESPUESTA 3 (T1831)
+## RESPUESTA 2 (T1831)
 
 > soy un viajero, nada más, pero me preguntas a mi, pero tu? que eres?
 
@@ -152,6 +109,53 @@ Se da vuelta para irse. Da dos pasos por la vereda. Se detiene sin girarse, de e
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1832)
+
+si, voy a estar cerca, no te preocupes, no es necesario que uses tus sombras para ir para allá, sigo caminando sin esperar respuesta
+
+## RESPUESTA 3 (T1832)
+
+> si, voy a estar cerca, no te preocupes, no es necesario que uses tus sombras para ir para allá, sigo caminando sin esperar respuesta
+
+> —Sí, voy a estar cerca. No te preocupes. No es necesario que uses tus sombras para ir para allá.
+
+Y sigues caminando.
+
+No te das vuelta. Pasas al lado de Jinwoo, que sigue de espaldas, quieto en el medio de la vereda, y sigues de largo por la avenida, entre la gente, hacia la esquina.
+
+Detrás de ti no se escucha nada. Ni un paso, ni una palabra.
+
+Pero lo oyes igual, con unos oídos que nadie en esta calle sabe que tienes: la respiración de Jinwoo se corta. Una vez. Se le detiene en el pecho, como cuando a alguien le tiran agua helada por la espalda. Y después, muy bajito, para él solo, una sola palabra:
+
+—...¿Cómo?
+
+Kase, en tu hombro, se da vuelta para mirar hacia atrás, apoyado con las patas delanteras en tu cuello. Lo mira por encima de tu espalda durante media cuadra. Ves en el reflejo de una vidriera lo que él ve: Sung Jinwoo parado en el mismo lugar, ahora de frente, con las manos fuera de los bolsillos, mirándote irte. Ya no tiene la cara de alguien que hace preguntas. Tiene la cara de alguien que acaba de descubrir que no es el único que ve lo que ve.
+
+Doblas la esquina.
+
+Cuando Kase vuelve a mirar, en la vereda frente a la sede ya no hay nadie. Solo la columna de cemento y, en el piso, junto a ella, una sombra un poco más oscura que las demás, que se encoge y desaparece entre las baldosas como agua que se escurre.
+
+Kase se acomoda otra vez en tu hombro, satisfecho, y cierra los ojos.
+
+Sigues caminando. Las calles de Yeouido se abren hacia el río: torres de vidrio, oficinistas comiendo de pie en los puestos callejeros, un parque largo junto al agua, con cerezos sin hojas y bancos de madera. El viento del Han te pega en la cara, frío, con olor a agua y a hojas mojadas. A lo lejos, cruzando el río, se ve la montaña de Namsan con la torre blanca en la punta, chiquita, entre las nubes.
+
+Son las once y media. Cha Hae-in sale a las siete.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1832 · SOLO LEVELING · DÍA 11 · 11:31  ║
+║ Seúl, Corea del Sur                          ║
+║ Yeouido · parque junto al río Han            ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: dormido en el hombro                   ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Jeju (Día 22)                      ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 11 11:14, vereda de la Asociación. Facundo: "Soy un viajero, nada más. Pero me preguntas a mí... ¿y tú? ¿Qué eres?" Jinwoo, media sonrisa: "Un cazador. Nada más." 16 S entran a Jeju; él no irá (su madre durmió cuatro años, despertó, le hizo el desayuno). "No sé qué eres, viajero... Pero ella te eligió a ti. Y ella no se equivoca con la gente." Se va; de espaldas: "Si en esa isla pasa algo, ¿vas a estar cerca?"
+ESTADO AL CIERRE: Día 11 11:31, parque junto al río Han en Yeouido. Facundo a Jinwoo: "Sí, voy a estar cerca. No te preocupes. No es necesario que uses tus sombras para ir para allá." y siguió caminando. Jinwoo se quedó sin aire: "...¿Cómo?" Lo miró irse (Kase y el reflejo de una vidriera); después se fue por su sombra. Facundo camina por Yeouido hasta el parque del Han. Cha sale a las 19:00.
