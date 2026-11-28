@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1797)
-
-si, soy su novio
-
-## RESPUESTA 1 (T1797)
-
-> si, soy su novio
-
-> —Sí, soy su novio.
-
-Por un segundo, en el puesto, solo se escucha el aceite chisporroteando en la plancha.
-
-Cha Hae-in te mira. No dice nada. La mano que tiene entrelazada con la tuya se queda quieta, y después aprieta, fuerte, tan fuerte que si fueras una persona común te dolería. Abajo de la gorra, abajo de los anteojos de sol, se le ve la boca: se le abre un poco, y después, despacio, se le curva en una sonrisa que no puede controlar.
-
-La señora de los panqueques suelta un grito. Un grito de verdad, agudo, que hace que media fila de bancos se dé vuelta a mirar.
-
-—¡Ay! ¡Ay, por fin! —Golpea la plancha con la espátula, dos veces, como un tambor—. ¡Años! ¡Años viniendo sola, sentadita ahí, comiendo sin hablar con nadie! ¡Y yo le decía, Hae-in, querida, una chica tan linda, tan educada, y siempre sola! —Te apunta otra vez con la espátula, como si fuera una espada—. ¡Tú! ¡La cuidas, ¿me oíste?! ¡Que esta chica tiene un corazón de oro y nadie se lo ve porque es callada!
-
-Cha Hae-in se tapa la cara con la mano libre.
-
-—Señora, por favor...
-
-—¡Nada de por favor! —La señora ya está echando más masa en la plancha. Un panqueque, dos, tres, cuatro—. ¡Hoy no pagan! ¡Hoy invita la casa! —Agarra de abajo del mostrador una botella verde de licor de arroz y dos vasitos y los planta delante de ustedes—. ¡Y esto también!
-
-Mira a Kase, que la observa con los dos ojos desde tu hombro.
-
-—Y para el gato... —Rebusca en una caja de telgopor y saca un trocito de pescado frito, sin espinas, y lo pone en un platito de plástico sobre el banco—. ¡Para el gato también!
-
-Kase baja de tu hombro al banco, huele el pescado y empieza a comer.
-
-Cha Hae-in sigue con la cara tapada con una mano. Entre los dedos, te mira. Se baja un poco los anteojos con el pulgar, lo justo para que le veas los ojos: brillan, húmedos, un poco rojos en los bordes.
-
-—¿Lo... dijiste en serio? —pregunta, muy bajito, para que la señora no la escuche.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1797 · SOLO LEVELING · DÍA 2 · 18:42   ║
-║ Seúl, Corea del Sur                          ║
-║ Mercado de Gwangjang · puesto de panqueques  ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el banco, comiendo pescado frito    ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Cenar en Gwangjang con Cha         ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1798)
+## COMANDO 1 (T1798)
 
 si, muy en serio, le doy un beso
 
-## RESPUESTA 2 (T1798)
+## RESPUESTA 1 (T1798)
 
 > si, muy en serio, le doy un beso
 
@@ -99,11 +50,11 @@ Espera, con el vasito en el aire, a que levantes el tuyo.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1799)
+## COMANDO 2 (T1799)
 
 brindó con ella, por nosotros
 
-## RESPUESTA 3 (T1799)
+## RESPUESTA 2 (T1799)
 
 > brindó con ella, por nosotros
 
@@ -152,6 +103,65 @@ Salen del túnel del mercado a la calle. Es de noche, hace frío, y el aire huel
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1800)
+
+si, vamos al hotel
+
+## RESPUESTA 3 (T1800)
+
+> si, vamos al hotel
+
+> —Sí, vamos al hotel.
+
+En el taxi, de vuelta al sur, cruzando el Han iluminado, Cha Hae-in no te suelta el brazo. Mira por la ventanilla las luces de los puentes pasar una detrás de otra, y de vez en cuando se ríe sola, bajito, sin motivo, y se tapa la boca. Kase va en tu falda, con los ojos cerrados.
+
+El portero de guantes blancos les abre la puerta del hotel. El chico de recepción levanta la vista, ve a la chica de gorra negra colgada de tu brazo y la reconoce de golpe, esta vez sí: abre mucho los ojos y vuelve a bajar la vista al monitor tan rápido que casi se golpea la frente.
+
+En el ascensor de espejos, Cha Hae-in se saca la gorra y los anteojos. Se mira en el espejo, se acomoda el pelo, y después te mira a ti en el reflejo. No dice nada. Los números suben. Ocho. Doce. Dieciséis.
+
+Veintidós.
+
+Lucecita verde. Clic.
+
+La habitación está a oscuras, solo con la luz de la ciudad entrando por el ventanal, dorada y azul. Kase salta de tu hombro, cruza la habitación sin mirar a nadie y se va al sillón de cuero, donde se acomoda de espaldas a ustedes, con la cola enroscada, como quien entiende perfectamente cuándo sobra.
+
+Cha Hae-in deja la gorra sobre la mesita, al lado de la tarjetita con su número. Se queda de pie en el medio de la habitación, frente a ti, con las manos juntas delante del suéter. Respira hondo por la nariz, despacio.
+
+—No hueles a nada —dice, en un susurro—. Y es lo más lindo que olí en mi vida.
+
+Da un paso hacia ti.
+
+...
+
+Más tarde, mucho más tarde, la ciudad sigue encendida al otro lado del vidrio.
+
+Cha Hae-in está acostada a tu lado, con la cabeza sobre tu pecho, el pelo desparramado sobre tu piel, la sábana blanca hasta los hombros. Con un dedo recorre despacio el dragón tatuado que te sube por el pecho, siguiendo cada escama, sin apuro. La cadenita de plata con su placa de cazadora y la llavecita del candado le cuelga del cuello y te toca el costado, fría.
+
+En algún momento Kase volvió del sillón y ahora duerme a los pies de la cama, sobre las piernas de los dos, pesado, ronroneando muy bajito.
+
+Cha Hae-in deja el dedo quieto sobre la cabeza del dragón, encima de tu corazón.
+
+—Facundo —dice, muy bajito, sin levantar la cabeza—. Dijiste que te vas a quedar un tiempo.
+
+Se queda callada un rato. Escuchas su respiración.
+
+—Algún día te vas a ir, ¿verdad?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1800 · SOLO LEVELING · DÍA 3 · 02:14   ║
+║ Seúl, Corea del Sur                          ║
+║ Hotel de Gangnam · habitación 2207           ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: dormido a los pies de la cama          ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 20:05, calle frente al mercado de Gwangjang. Brindaron "Por nosotros"; cenaron panqueques (la casa invitó todo). Cha contó: va a ese puesto desde los 16; la primera vez lloró tras una Puerta fea y la señora le dio un panqueque. "Hoy es la primera vez que vengo porque algo sale muy bien." Kase se echó con la cabeza en su pierna. Llamada del "Maestro Choi" (dos vibraciones) sin contestar: "Puede esperar a mañana." Un poco achispada, del brazo de Facundo: "¿Vamos? Al hotel."
+ESTADO AL CIERRE: Día 3 02:14, 2207. Volvieron en taxi; el chico de recepción reconoció a Cha. En la habitación: "No hueles a nada. Y es lo más lindo que olí en mi vida." (fundido). Pasaron la noche juntos. Ahora acostados; Cha con la cabeza en el pecho de Facundo, recorre el tatuaje del dragón; su cadenita (placa + llavecita) le toca el costado. Kase dormido a los pies. Cha: "Dijiste que te vas a quedar un tiempo... Algún día te vas a ir, ¿verdad?"

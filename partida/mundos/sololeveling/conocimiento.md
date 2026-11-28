@@ -24,3 +24,4 @@
 - T1794 · Turistas en la plaza de Namsan vieron a Cha Hae-in (con gorra) besar a un chico de pelo blanco y azul; nadie parece haberla reconocido (sin confirmar).
 - T1797 · SEÑORA DE LOS PANQUEQUES (Gwangjang) sabe que Facundo es novio de Cha Hae-in (lo dijo él). Media fila de bancos escuchó el grito ("¡por fin!"); posible rumor local.
 - T1798 · Un turista sacó una foto del beso de Facundo y Cha Hae-in (con gorra y anteojos) en Gwangjang. Si se publica y alguien la reconoce, sería público (pendiente).
+- T1800 · RECEPCIONISTA (chico del turno noche) reconoció a Cha Hae-in entrando al hotel de la mano de Facundo. CHA HAE-IN vio los tatuajes de dragones del pecho/espalda y las cicatrices de Facundo.
