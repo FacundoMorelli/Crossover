@@ -17,3 +17,4 @@ ESTADO: activo
 - T1872 · De rodillas, con dos dedos en el sobretodo de Facundo, no respira mientras Facundo busca a Bonney. "¿Dónde?"
 - T1873 · Ve a Bonney; extiende los brazos temblando; la abraza entera y llora: "Me acuerdo. Me acuerdo de todo, Bonney. De todo."
 - T1874 · Casi se ríe cuando Bonney dice "Pensé que eras más alto" (ella lo mira sorprendida: no lo oía reír en años).
+- T1876 · Sentado en el patio (ninguna silla lo aguanta), Bonney en su rodilla; le acaricia el pelo. Ve a Dragon: "Dragon." SONRÍE (por primera vez en once años, según Dragon).

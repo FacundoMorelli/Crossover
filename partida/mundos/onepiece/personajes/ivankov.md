@@ -10,3 +10,4 @@ ESTADO: en Momoiro, esperando.
 - T1870 · Ve deshacerse el Ursus Shock y a Kuma volver en sí. "¡¡EL COLLAR!! ¡¡Es un collar explosivo de los Dragones Celestiales!! ¡¡Si el esclavo se aleja de Mary Geoise, explota!! ¡¡Vanaata, va a volar media isla!!" QUÉ VIO: Facundo tocar el pecho de Kuma y devolverle la conciencia; el rastreador expulsado.
 - T1871 · "¡NO LO TOQUES! ¡Si se lo sacan sin la llave, explota igual!" Ve el collar deshacerse en polvo violeta (Hakai): "...Hee-haw." (susurro)
 - T1873 · Se tapa la cara con la capa, llorando, en el reencuentro de Kuma y Bonney.
+- T1876 · Pide por Den Den Mushi comida, vino y ropa de la talla más grande. Tras ver a Dragon y Kuma: "¡¡SUFICIENTE!! ¡¡Tanto llanto me arruina el maquillaje, vanaata!! ¡¡Hoy en el Reino Kamabakka hay FIESTA!! ¡¡Comida para cien, vino para mil, y ropa nueva para Kuma-boy!! ¡¡Hee-haw!! ¡¡Y TÚ, Ojos de Eclipse!! ¡¡No te atrevas a desaparecer antes de que te sirva el primer plato!! ¡¡¿Me oíste?!!"

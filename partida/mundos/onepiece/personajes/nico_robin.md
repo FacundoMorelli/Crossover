@@ -119,3 +119,4 @@ ESTADO: activa
 - T1865 · Toca la última marca de la pared antes de salir; lleva su cuaderno a la torre. Aprieta la mano de Facundo al oír lo de Kuma.
 - T1868 · Le suelta la mano: "Un minuto. Lo voy a contar."
 - T1875 · Junto a la ventana del este, anota el tiempo: "Cuatro minutos y once segundos. Lo anoté." Media sonrisa: "Llegas tarde."
+- T1876 · Desde la ventana: "Esta vez no cuento. Tómate el tiempo que haga falta."

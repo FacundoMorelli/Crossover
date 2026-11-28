@@ -3,102 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1873)
-
-ya vengo, me teletransporto a bonney, la toco y me teletransporto con kuma de nuevo
-
-## RESPUESTA 1 (T1873)
-
-> ya vengo, me teletransporto a bonney, la toco y me teletransporto con kuma de nuevo
-
-> —Ya vengo.
-
-Kuma abre la boca. No llega a decir nada.
-
-El patio rosa desaparece.
-
-...
-
-Oscuridad. Olor a óxido, a agua salada estancada, a hierro mojado y a encierro. El balanceo lento de un barco enorme. El crujido del casco. Una lámpara amarilla en el pasillo, del otro lado de unos barrotes gruesos.
-
-Estás en una celda. Chica. De metal. Con una sola rejilla de ventilación en el techo.
-
-Y delante, a un metro, de espaldas a ti, una chica de pelo rosa largo, revuelto, sucio, con la ropa rota y los pies descalzos, está tomando carrera contra la puerta de barrotes, con el hombro adelante. Las muñecas y los tobillos atados con grilletes de una piedra gris azulada, pesada, que le tironean hacia abajo con cada movimiento.
-
-Golpea la puerta con el hombro. El metal suena. No cede. Ella gruñe, retrocede para volver a tomar carrera, y se da vuelta.
-
-Te ve.
-
-Se queda congelada. Los ojos violetas, enormes, furiosos, se le abren de par en par. Te mira el pelo blanco y azul. Los ojos. El gato.
-
-—¿Qué demonios...? —empieza.
-
-No le das tiempo.
-
-Le pones la mano en el hombro, el que tiene lastimado de golpear la puerta.
-
-La celda desaparece.
-
-...
-
-Rosa. Sol. Viento tibio. El patio de baldosas de Momoiro.
-
-Aparecen en el mismo lugar del que te fuiste, hace cinco segundos.
-
-Bonney se tambalea con los grilletes de kairoseki, desorientada por la luz, entrecerrando los ojos, buscando con qué pegarte. Abre la boca para gritar.
-
-Y ve a Kuma.
-
-De rodillas, sobre las baldosas rosas, a tres metros. Enorme. Con las cadenas cortadas colgándole de los hombros, la ropa rota, la marca clara en el cuello. Mirándola. Con los ojos vivos. Con la cara de su padre.
-
-Bonney se queda quieta.
-
-Se le cae la cara. Toda. La rabia, la furia, la brasa que no se apagaba: todo se le cae de golpe, como un vidrio que se rompe. Le tiembla la barbilla.
-
-—...¿Papá?
-
-Kuma no contesta. No puede. Extiende los dos brazos enormes hacia adelante, despacio, temblando.
-
-Bonney corre. Con los grilletes de piedra en los tobillos, tropezando, cayéndose, levantándose, sin dejar de correr. Choca contra su pecho. Kuma la envuelve con los dos brazos, entera, como si fuera otra vez la nena de pelo rosa que le agarraba un dedo, y se dobla sobre ella, y llora.
-
-Bonney llora más fuerte. A los gritos. Con la cara hundida en la ropa rota de su padre, golpeándole el pecho con los puños esposados, sin fuerza.
-
-—¡Idiota! ¡Idiota! ¡Te busqué por todo el mar, idiota! ¡Me dijeron que eras una máquina! ¡Que ya no...! ¡Que ya no te acordabas de...!
-
-—Me acuerdo —dice Kuma, con la voz rota, contra su pelo—. Me acuerdo de todo, Bonney. De todo.
-
-Alrededor, las okamas lloran. Todas. A los gritos, con el maquillaje corriéndose. Ivankov, en la escalera, se tapa la cara con la capa. Sabo, sentado en el piso, se ríe y llora a la vez, mirando el cielo rosa.
-
-Kase baja de tu hombro, camina hasta Kuma y Bonney, y se sienta al lado, mirándolos, con la cola enroscada alrededor de las patas.
-
-Pasa un rato largo.
-
-Después Bonney levanta la cabeza del pecho de su padre. Tiene la cara roja, hinchada, llena de mocos y de lágrimas. Se pasa el brazo esposado por la nariz. Y te busca con la mirada.
-
-Te encuentra. Te mira de arriba abajo, con los ojos violetas entrecerrados, todavía temblando.
-
-—Tú —dice, con la voz ronca—. ¿Quién demonios eres tú?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1873 · ONE PIECE · DÍA ~227 · 08:13    ║
-║ Isla Momoiro · Reino Kamabakka               ║
-║ Patio frente al castillo de Ivankov          ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 94% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: sentado junto a Kuma y Bonney          ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Bonney: "¿Quién demonios eres tú?" ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1874)
+## COMANDO 1 (T1874)
 
 soy Facundo Morelli, un viajero, le saco los grilletes, me llaman Ojos de eclipse
 
-## RESPUESTA 2 (T1874)
+## RESPUESTA 1 (T1874)
 
 > soy Facundo Morelli, un viajero, le saco los grilletes, me llaman Ojos de eclipse
 
@@ -151,11 +60,11 @@ Detrás, Sabo se pone de pie de un salto, con el sombrero de copa en la mano, y 
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1875)
+## COMANDO 2 (T1875)
 
 me teletransporto con sabo a baltigo con robin
 
-## RESPUESTA 3 (T1875)
+## RESPUESTA 2 (T1875)
 
 > me teletransporto con sabo a baltigo con robin
 
@@ -224,6 +133,79 @@ Te mira.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1876)
+
+si, me teletransporto con dragon a momoiro
+
+## RESPUESTA 3 (T1876)
+
+> si, me teletransporto con dragon a momoiro
+
+> —Sí.
+
+Dragon asiente una vez. Se acomoda la capa verde. No dice nada más.
+
+Robin te mira desde la ventana, con el cuaderno contra el pecho.
+
+—Esta vez no cuento —dice—. Tómate el tiempo que haga falta.
+
+Le pones la mano a Dragon en el brazo. Es la primera vez que lo tocas. El brazo es duro como una viga, y está tenso, muy tenso, como el de alguien que se prepara para algo que no sabe si va a poder soportar.
+
+La torre desaparece.
+
+...
+
+Rosa. Sol. Viento tibio con olor a flores dulces.
+
+El patio de Momoiro está casi igual a como lo dejaste, cinco minutos atrás. Las okamas siguen ahí, algunas sentadas en el piso, sonándose la nariz con pañuelos de encaje. Ivankov, en la escalera, con la cara pintada corrida por las lágrimas, habla por un Den Den Mushi con alguien, a los gritos, pidiendo comida, vino, ropa de la talla más grande que exista.
+
+Y en el centro del patio, sentado sobre las baldosas rosas porque ninguna silla del reino aguantaría su peso, está Kuma. Bonney está sentada encima de su rodilla, como una nena, con la cabeza apoyada contra su pecho, los ojos cerrados, agarrada a los jirones de su ropa. Kuma le acaricia el pelo rosa, despacio, con la mano enorme, sin decir nada.
+
+Kuma levanta la vista.
+
+Te ve. Y ve al hombre que está a tu lado.
+
+La mano se le detiene sobre el pelo de Bonney. Bonney abre los ojos, siente que su padre se tensó, y gira la cabeza.
+
+Dragon da un paso adelante. Después otro. Se detiene a tres metros. No dice nada.
+
+Kuma lo mira. Un rato largo. Los dos, quietos. El viento de Momoiro les mueve las capas, la verde de Dragon, los jirones de la ropa de Kuma. Las okamas se callan, todas a la vez. Ivankov baja el Den Den Mushi.
+
+—Dragon —dice Kuma, al fin. La voz grave, ronca.
+
+—Kuma.
+
+Y entonces pasa. Despacio, como algo que hace mucho no se usa y tiene que acordarse cómo funciona: a Bartholomew Kuma se le levanta la comisura de la boca. Después la otra. La cara enorme, quieta, que el mundo conoció como la de un tirano sin expresión, se le arruga alrededor de los ojos.
+
+Sonríe.
+
+Dragon se queda quieto. No se mueve. Pero ves, desde un costado, cómo le tiembla la mandíbula debajo del tatuaje. Cómo aprieta los puños a los costados de la capa. Cómo baja la cabeza, apenas, un segundo, y la vuelve a levantar.
+
+Cruza los tres metros. Se para frente a Kuma, sentado en el piso, que aun así es más alto que él. Y le apoya la mano en el hombro. La misma mano pesada, firme, que te puso a ti en la torre.
+
+—Bienvenido —dice Dragon, en voz baja.
+
+Bonney los mira a los dos, de abajo, con los ojos violetas muy abiertos, sin entender del todo. Después te mira a ti.
+
+En la escalera, Ivankov suelta un sollozo enorme que retumba en todo el patio, y se recompone de golpe, abriendo los brazos, con la peluca violeta torcida.
+
+—¡¡SUFICIENTE!! —grita—. ¡¡Tanto llanto me arruina el maquillaje, vanaata!! ¡¡Hoy en el Reino Kamabakka hay FIESTA!! ¡¡Comida para cien, vino para mil, y ropa nueva para Kuma-boy!! ¡¡Hee-haw!! —Te señala con un dedo enorme, de uña pintada—. ¡¡Y TÚ, Ojos de Eclipse!! ¡¡No te atrevas a desaparecer antes de que te sirva el primer plato!! ¡¡¿Me oíste?!!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1876 · ONE PIECE · DÍA ~227 · 08:17    ║
+║ Isla Momoiro · Reino Kamabakka               ║
+║ Patio frente al castillo de Ivankov          ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 94% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Ivankov: "¡Hoy hay fiesta!"        ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 08:15, torre de Dragon. Volvió con Sabo y Kase (Kuma y Bonney quedan en Momoiro con Ivankov). Robin: "Cuatro minutos y once segundos. Lo anoté. Llegas tarde." Sabo le cuenta todo a Dragon de corrido (Kuma volvió entero, rastreador aplastado, collar hecho polvo, Bonney rescatada del barco prisión, juntos en Momoiro) y se tapa la cara. Dragon le pone una mano en el hombro a Facundo: "Ojos de Eclipse." "Hace once años que no veo a Kuma sonreír... Quiero verlo. Hoy. Antes de que el Gobierno se entere... ¿Me llevarías?"
+ESTADO AL CIERRE: Día ~227 08:17, patio de Momoiro. "Sí." Robin: "Esta vez no cuento. Tómate el tiempo que haga falta." Teletransporte con Dragon (brazo tenso). Kuma sentado en el patio con Bonney en la rodilla. Dragon y Kuma se miran: "Dragon." "Kuma." KUMA SONRÍE. A Dragon le tiembla la mandíbula; le pone la mano en el hombro: "Bienvenido." Ivankov: "¡¡Hoy en el Reino Kamabakka hay FIESTA!! Comida para cien, vino para mil, ropa nueva para Kuma-boy... ¡¡Y TÚ, Ojos de Eclipse!! ¡¡No te atrevas a desaparecer antes de que te sirva el primer plato!!"

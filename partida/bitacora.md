@@ -1875,3 +1875,4 @@ T1872 · ONE PIECE · Momoiro · Busca a Bonney con ki: presa en un buque prisi�
 T1873 · ONE PIECE · Buque prisión → Momoiro · Saca a Bonney de su celda. Reencuentro con Kuma. Bonney: "¿Quién demonios eres tú?"
 T1874 · ONE PIECE · Momoiro · Rompe los grilletes de Bonney. "Me llaman Ojos de Eclipse." Bonney: "Te debo una." Sabo: "¡Pasaron cuatro minutos!"
 T1875 · ONE PIECE · Torre de Dragon · Vuelve con Sabo. Robin: "Cuatro minutos y once segundos. Llegas tarde." Dragon: "¿Me llevarías a ver a Kuma?"
+T1876 · ONE PIECE · Momoiro · Lleva a Dragon con Kuma. Kuma sonríe. "Bienvenido." Ivankov declara fiesta.
