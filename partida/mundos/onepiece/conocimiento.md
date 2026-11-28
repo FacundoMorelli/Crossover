@@ -308,3 +308,4 @@
 - T1869 · Un DRAGÓN CELESTIAL y guardias de Mary Geoise vieron a Facundo (Ojos de Eclipse, con gato) y a Sabo llevarse a Kuma. IVANKOV y decenas de OKAMAS de Momoiro los vieron llegar.
 - T1870 · IVANKOV, SABO y los OKAMAS ven a Facundo devolverle la conciencia a Kuma tocándole el pecho y sacarle el rastreador. QUIÉN VIO QUÉ PODERES: Transfiguración Ociosa (efecto) — Ivankov, Sabo, okamas.
 - T1871 · QUIÉN VIO QUÉ PODERES: Hakai (luz violeta que deshace en polvo) — Ivankov, Kuma, Sabo, okamas de Momoiro. KUMA recuerda a Facundo de Thriller Bark.
+- T1872 · FACUNDO sabe (ki/Haki) dónde está Bonney: buque prisión de la Marina en el Nuevo Mundo, rumbo a Mary Geoise.

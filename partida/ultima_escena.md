@@ -3,92 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1869)
-
-me teletransporto con sabo a donde esta kuma, despues me teletransporto directamente a ivankov con kuma
-
-## RESPUESTA 1 (T1869)
-
-> me teletransporto con sabo a donde esta kuma, despues me teletransporto directamente a ivankov con kuma
-
-La torre de Dragon desaparece.
-
-...
-
-Luz. Mucha. Blanca, dorada, sin una sola nube. Aire fino, frío, que cuesta respirar, como en la cima de una montaña. Y olor a flores, a perfume caro, a mármol recién lavado.
-
-Mary Geoise.
-
-Aparecen en el medio de una avenida ancha, pavimentada con piedra blanca pulida como un espejo, bordeada de palacios de columnas, fuentes doradas, jardines recortados con tijera. A lo lejos, por encima de los techos, se ve el borde de la Red Line, y más allá, abajo, muy abajo, el mar, como un vidrio azul.
-
-Y delante, a diez metros, Kuma.
-
-Es enorme. Casi siete metros. Camina despacio por el centro de la avenida, encorvado, descalzo sobre la piedra blanca, con dos cadenas gruesas atadas a los hombros que arrastran un carruaje dorado con ruedas de marfil. Tiene la ropa hecha jirones. La espalda llena de marcas de látigo, abiertas, que no sangran porque debajo de la piel hay metal. Alrededor del cuello, un collar de hierro negro con una luz roja que parpadea. La cara, la cara que viste en Thriller Bark cuando te preguntó "¿por qué?", está vacía. Los ojos, sin brillo. La boca, cerrada. Ni siquiera parpadea.
-
-Encima del carruaje, sentado en un sillón de terciopelo, con una burbuja de cristal en la cabeza y un traje blanco inflado, un Dragón Celestial gordo, de bigote, sostiene un látigo con mango de oro. Está a punto de bajarlo otra vez sobre la espalda de Kuma.
-
-Lo ve. Te ve. Ve a Sabo.
-
-—¿Eh? —dice, con la boca abierta—. ¿Y ustedes de dónde salieron, plebeyos...?
-
-A tu lado, Sabo se queda congelado. Mira a Kuma. Mira la espalda. El collar. Las cadenas. Se le contrae la cara entera. La mano que tiene en tu hombro se te clava como una garra.
-
-—Kuma... —dice, casi sin voz.
-
-Kuma gira la cabeza hacia ustedes. Despacio. Mecánico. Los ojos vacíos los registran. Dentro del pecho, algo hace un clic. La mano derecha de Kuma, la de las almohadillas, empieza a levantarse.
-
-No le das tiempo.
-
-Das dos pasos. Le pones la mano en el brazo enorme, por encima de la cadena.
-
-Y la avenida de Mary Geoise desaparece, con el Dragón Celestial con el látigo en el aire, con la boca abierta, con un grito que empieza a subirle por la garganta, y el carruaje dorado que se queda solo, con las cadenas cortadas en seco, en el medio de la piedra blanca.
-
-...
-
-Rosa.
-
-Todo es rosa. El cielo, un poco. Las casas, mucho. Los árboles, con flores rosas. Un castillo enorme con forma de corazón, rosa, en lo alto de una colina. Y el aire, tibio, húmedo, con olor a maquillaje, a flores dulces y a mar.
-
-Isla Momoiro. Reino Kamabakka.
-
-Aparecen en un patio de baldosas rosas, frente a las puertas abiertas del castillo con forma de corazón. Alrededor, decenas de okamas, con vestidos, maquillaje, barbas, brazos peludos y tacones, se quedan quietos a mitad de lo que estaban haciendo, con la boca abierta.
-
-Y en el centro, en las escaleras, con una cabeza enorme, una peluca violeta, una capa, medias de red y una cara pintada que en este momento está completamente blanca, Emporio Ivankov.
-
-—Hee... —empieza.
-
-No termina.
-
-Detrás de ti, Kuma se endereza. Casi siete metros. Las cadenas cortadas le cuelgan de los hombros. El collar de hierro negro en el cuello parpadea rojo, más rápido. Los ojos vacíos recorren el patio: los okamas, Ivankov, Sabo, tú. Dentro del pecho, otra vez, ese clic.
-
-La mano derecha se levanta del todo. La palma, con la almohadilla, hacia Ivankov. El aire alrededor se comprime. Una burbuja de presión, transparente, empieza a formarse en el centro de la palma, creciendo, temblando, como un sol chiquito.
-
-El Ursus Shock.
-
-—¡KUMA! —grita Sabo, y se pone delante de Ivankov con los brazos abiertos—. ¡Kuma, soy yo! ¡Soy Sabo!
-
-El collar del cuello pita. Una vez. Dos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1869 · ONE PIECE · DÍA ~227 · 08:10    ║
-║ Isla Momoiro · Reino Kamabakka               ║
-║ Patio frente al castillo de Ivankov          ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 99% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, erizado                  ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: ¡Kuma prepara el Ursus Shock!      ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1870)
+## COMANDO 1 (T1870)
 
 uso la técnica de mahito para recuperar a kuma y sacarle el rastreador
 
-## RESPUESTA 2 (T1870)
+## RESPUESTA 1 (T1870)
 
 > uso la técnica de mahito para recuperar a kuma y sacarle el rastreador
 
@@ -155,11 +74,11 @@ Ivankov, en la escalera, abre los ojos de par en par.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1871)
+## COMANDO 2 (T1871)
 
 uso hakai en el collar
 
-## RESPUESTA 3 (T1871)
+## RESPUESTA 2 (T1871)
 
 > uso hakai en el collar
 
@@ -224,6 +143,57 @@ Te agarra con dos dedos enormes del borde del sobretodo, suave.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1872)
+
+uso el ki para buscar a bonney
+
+## RESPUESTA 3 (T1872)
+
+> uso el ki para buscar a bonney
+
+Cierras los ojos.
+
+Nunca la viste. No conoces su ki. Pero hace un minuto tuviste en la mano el alma de su padre, desplegada, doblez por doblez, y en el medio de esa alma había una nena de pelo rosa agarrándole un dedo. Y la sangre deja huella: el ki de una hija se parece al de su padre como el eco se parece a la voz.
+
+Así que buscas ese eco.
+
+Abres el ki. Y el Haki de observación, al máximo. Y el Ojo del Eclipse. Y te alejas de Momoiro, del patio rosa, de Kuma arrodillado, de Sabo que llora, de Ivankov en la escalera. Subes. Te extiendes sobre el mar. Sobre el Grand Line, sobre la Red Line, sobre el Nuevo Mundo. Millones de luces: pescadores, marineros, piratas, ciudades enteras, monstruos marinos, reyes del mar dormidos en el fondo. Las grandes, las que arden como soles, las reconoces de lejos: Barbablanca en su barco, entero, sano, rodeado de su flota y de tu Bankai. Ace al lado, ardiendo. Más lejos, otras, enormes, que no conoces.
+
+Y en el medio de todo, en el Nuevo Mundo, al este de la Red Line, la encuentras.
+
+Chiquita. Furiosa. Ardiendo como una brasa que alguien intentó apagar con un balde de agua y no pudo. Con el mismo eco grave, tranquilo, de su padre, por debajo de toda la rabia.
+
+Está en un barco. Uno grande, de metal, de la Marina. Un buque prisión, con celdas en la bodega, rodeado de otros dos acorazados de escolta. Navega despacio hacia el oeste, hacia la Red Line. Hacia Mary Geoise.
+
+Y ella está en una de las celdas de la bodega, sola. Tiene algo frío en las muñecas y en los tobillos que le aplasta la energía, que le pesa. Kairoseki. Pero no se rinde: la sientes golpear la puerta de la celda, una y otra vez, con los hombros, con los pies, sin parar.
+
+Abres los ojos.
+
+Kuma te está mirando, de rodillas, con los dos dedos todavía agarrados de tu sobretodo. No respira.
+
+No hace falta que digas nada. Te ve la cara. Ve algo en ella.
+
+—¿Dónde? —pregunta, muy bajo.
+
+Sabo levanta la cabeza del brazo de Kuma. Ivankov baja dos escalones.
+
+Kase, en tu hombro, mira hacia el este. Hacia donde miraste tú.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1872 · ONE PIECE · DÍA ~227 · 08:12    ║
+║ Isla Momoiro · Reino Kamabakka               ║
+║ Patio frente al castillo de Ivankov          ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 95% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirando al este          ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Bonney, presa en un buque marine   ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 08:11, patio de Momoiro. Hakai en el collar: se deshace en polvo violeta sin explotar (Ivankov había gritado que no lo tocara). Ivankov: "...Hee-haw." Kuma se toca el cuello; reconoce a Facundo: "Thriller Bark. El chico que me pidió que aguantara." Se arrodilla: "Me buscaste. Allá arriba. Donde nadie llega." Sabo llora apoyado en su brazo. "Bonney. Mi hija. Jewelry Bonney... la última vez que supe de ella estaba en el mar, buscándome... Va a ir a buscarme allá arriba." "¿Sabes dónde está mi hija?" (Robin cuenta el minuto en Baltigo.)
+ESTADO AL CIERRE: Día ~227 08:12, patio de Momoiro. Facundo buscó con ki + Haki de observación + Ojo del Eclipse el eco del alma de Kuma: sintió a Barbablanca sano con su flota y el Bankai, Ace, y otras presencias enormes. ENCONTRÓ A BONNEY: en el Nuevo Mundo, al este de la Red Line, presa en la bodega de un buque prisión de la Marina escoltado por dos acorazados, rumbo oeste hacia la Red Line (Mary Geoise); esposas de kairoseki en muñecas y tobillos; golpea la puerta de la celda sin parar. Kuma: "¿Dónde?" Sabo e Ivankov atentos. Kase mira al este.
