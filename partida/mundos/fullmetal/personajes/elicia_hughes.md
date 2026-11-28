@@ -11,3 +11,4 @@ ENCUENTROS:
 QUÉ SABE DE FACUNDO: que tiene un gatito gigante.
 ESTADO: en casa, bien. MENOR.
 - T1757 · "Papi, me aprietas." A Facundo: "Hola. ¿El gatito es tuyo? ¿Muerde?" Kase baja solo, le huele el conejo y los dedos y le apoya la frente en la palma; Elicia se ríe a carcajadas.
+- T1758 · Le da un beso a Kase en la cabeza.

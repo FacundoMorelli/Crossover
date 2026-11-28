@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1755)
-
-estaba en la cabina esperándote disfrazado de tu esposa
-
-## RESPUESTA 1 (T1755)
-
-> estaba en la cabina esperándote disfrazado de tu esposa
-
-> —Estaba en la cabina, esperándote. Disfrazado de tu esposa.
-
-Hughes no se mueve.
-
-Se queda agachado junto a Envy, con una rodilla en el piso y la mano todavía cerca del cuchillo, mirándote. No parpadea. Tarda en entender, y se le nota en la cara el momento exacto en que entiende, porque se le va todo el color de golpe.
-
-—De Gracia —dice. No es una pregunta.
-
-Baja la vista a la cara dormida de Envy. A la cara afilada, sin edad, que no se parece en nada a la de su mujer.
-
-—Me estaba esperando en la cabina con la cara de Gracia. —Lo repite despacio, como si las palabras pesaran—. Para que yo... para que yo bajara la guardia. Para que me acercara.
-
-Se pone de pie de golpe. Tan rápido que se le caen los anteojos y los ataja a medio camino, torcidos. Se los pone sin enderezarlos.
-
-—Saben cómo es Gracia. —Le tiembla la voz por primera vez en toda la noche—. Saben cómo es su cara. La vieron. Saben dónde... —Se lleva la mano al bolsillo del pecho, a la foto de Elicia, y la aprieta sin sacarla—. Saben dónde vivo.
-
-Da un paso hacia la puerta. Se detiene. Da otro. Mira a los dos homúnculos dormidos en el piso. Te mira a ti. Mira la puerta. Está partido en tres.
-
-—Elicia está en casa —dice, casi sin voz—. Con Gracia. Solas. A veinte minutos de acá. Les dije que volvía para la cena. —Mira el reloj de bolsillo, que saca con dedos torpes—. Son las diez y diez.
-
-Se guarda el reloj. Te mira. Y por primera vez desde que lo conoces, no hay máscara, ni sonrisa, ni deducción, ni oficio. Hay un padre.
-
-—Señor Morelli. No sé qué es usted. No sé de dónde viene. No me importa. —Traga saliva—. ¿Puede llevarme a mi casa así como apareció acá? ¿Ahora? —Mira a Lust y a Envy—. Y estos dos... no sé qué hacer con estos dos. No puedo dejarlos acá solos. No puedo llamar a nadie de este edificio.
-
-Se le quiebra un poco la voz.
-
-—Ayúdeme. Por favor.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1755 · FULLMETAL · DÍA 1 · 22:11       ║
-║ Ciudad Central, Amestris, 1914               ║
-║ Cuartel general, archivo del 2.º piso        ║
-║ NIVEL 33 · EXP 461.130/480.000               ║
-║ FRAGMENTOS 289.428 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: sentado de espaldas a los homúnculos   ║
-║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
-║ OBJETIVO: Hughes y su familia                ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1756)
+## COMANDO 1 (T1756)
 
 me teletransporto con hughes y los dos homúnculos a su casa
 
-## RESPUESTA 2 (T1756)
+## RESPUESTA 1 (T1756)
 
 > me teletransporto con hughes y los dos homúnculos a su casa
 
@@ -107,11 +54,11 @@ Se le doblan las rodillas.
 
 ---
 
-## COMANDO 3 (T1757)
+## COMANDO 2 (T1757)
 
 miro
 
-## RESPUESTA 3 (T1757)
+## RESPUESTA 2 (T1757)
 
 > miro
 
@@ -178,4 +125,84 @@ Hughes mira a los dos cuerpos dormidos en la alfombra de su sala. Después a ti.
 
 ---
 
-ESTADO AL CIERRE: Día 1 22:20, sala de los Hughes. Hughes abrazó a Elicia y a Gracia llorando ("Esta vez es en serio, Gracia"). Elicia se acercó a Kase ("¿Muerde?"); Kase bajó solo y le apoyó la frente en la palma; ella se ríe. Hughes presentó a Facundo a Gracia: "Esta noche me salvó la vida. Dos veces. Y la tuya, creo. Y la de Elicia." Gracia, manos en la boca. Hughes: Roy llega mañana; no pueden tenerlos ahí ni llevarlos a una celda del Ejército. "Usted los durmió. ¿Sabe cuándo se despiertan? ¿Y qué hacemos con ellos?"
+## COMANDO 3 (T1758)
+
+los llevo conmigo y los vigilo hasta que llegue mustang
+
+## RESPUESTA 3 (T1758)
+
+> los llevo conmigo y los vigilo hasta que llegue mustang
+
+Le dices a Hughes que te los llevas. Que los vas a vigilar tú hasta que llegue Mustang.
+
+Hughes te mira un segundo. Después asiente, despacio, como quien acepta algo que no termina de entender y no necesita entender.
+
+—Al norte de la ciudad, pasando el canal, hay una iglesia vieja, de ladrillo, con el campanario caído. La cerraron hace diez años. Nadie va. —Saca una libreta, arranca una hoja, dibuja un mapa con cuatro líneas rápidas y te lo da—. Mañana a las siete y media llega el tren de Roy. Lo busco en la estación y lo llevo directo ahí. Nadie más va a saber. Ni siquiera la oficina.
+
+Gracia se acerca. Tiene los ojos todavía mojados y el delantal manchado de harina. No dice nada. Va a la mesa, destapa el plato que esperaba a su marido, envuelve en una servilleta de tela dos pedazos de pan de manteca y una porción grande de quiche, y te la pone en las manos.
+
+—Para la noche —dice, bajito—. Hace frío en esa iglesia.
+
+Elicia le da un beso a Kase en la cabeza. Kase la deja. Después vuelve a tu hombro.
+
+Dos dedos en la frente.
+
+La iglesia es exactamente como dijo Hughes. Una nave de ladrillo con el techo a medio caer, bancos de madera podrida, vitrales rotos por donde entra la luna, y al fondo, en el altar, una cruz torcida. Huele a humedad y a palomas. Acuestas a Lust y a Envy sobre el piso de piedra, frente al altar, uno al lado del otro. Te sientas en el primer banco, el único entero. Kase se acomoda en tus rodillas.
+
+Comes el quiche de Gracia. Es muy bueno.
+
+La noche pasa despacio.
+
+A las dos y cuarto, Envy se mueve. Primero los dedos. Después la cabeza. Abre un ojo, violeta, y la boca empieza a torcerse en una sonrisa. Un toque en la nuca, justo donde va. Vuelve a dormir.
+
+A las cuatro, Lust respira más hondo. La uña del índice tiembla. Un toque. Duerme.
+
+A las cinco y media, Envy otra vez. Esta vez alcanza a decir "gusan...". Un toque. Duerme.
+
+Las palomas del campanario se despiertan con el primer gris del cielo. El frío sube del piso. Kase duerme en tus rodillas.
+
+A las ocho y diez, afuera, un auto negro frena en el barro, junto a la entrada de la iglesia. Se abren las puertas. Pasos. Varios.
+
+La puerta de madera de la iglesia se abre con un chirrido largo.
+
+Entra Hughes primero, con la misma ropa de anoche, arrugada, sin dormir, con el mapa bajo el brazo. Detrás de él, un hombre de unos treinta años, de pelo negro, con un abrigo militar largo sobre el uniforme azul y guantes blancos en las manos. En el dorso de cada guante, bordado en rojo, un círculo de transmutación con una salamandra. Detrás, una mujer rubia, de pelo recogido, uniforme impecable, con una pistola en la mano, apuntando al piso, y los ojos recorriendo cada rincón de la nave.
+
+El hombre de los guantes ve a los dos cuerpos frente al altar. Se detiene. Los mira mucho rato. Después te mira a ti, sentado en el banco, con el gato en las rodillas y una servilleta de tela con migas al lado.
+
+—Así que este es el viajero. —La voz es seca, irónica, cansada de un viaje de toda la noche—. Hughes me dijo que te ibas a ver raro. No me dijo cuánto.
+
+Se saca un guante, despacio, dedo por dedo, sin dejar de mirarte.
+
+—Roy Mustang. Coronel. Ciudad del Este. —Una pausa—. Y antes de que me digas cualquier otra cosa, quiero saber una. ¿Por qué un extranjero sin papeles, que llegó a Central ayer, arriesga la vida por el amigo más pesado que tengo?
+
+```
+╔══════════════════════════════════════════════╗
+║ ROY MUSTANG                                  ║
+║ Ejército de Amestris · Alquimista Estatal    ║
+║ "de la Llama" · coronel                      ║
+║ PODER: alquimia de la llama (guantes de      ║
+║        ignición; controla el oxígeno)        ║
+║ AMENAZA: BAJA                                ║
+║ Diferencia estimada: x0,009 sobre ti         ║
+║ Quiere llegar muy arriba. Por algo.          ║
+║ COPIABLE · MISIÓN: ALTA                      ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1758 · FULLMETAL · DÍA 2 · 08:12       ║
+║ Afueras de Central, iglesia abandonada       ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.428 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tus rodillas                        ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: Lust y Envy, con Mustang           ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 2 08:12, iglesia abandonada de ladrillo al norte de Central (pasando el canal; campanario caído). Facundo vigiló toda la noche a Lust y Envy (los volvió a dormir: Envy 02:15 y 05:30 —"gusan..."—; Lust 04:00). Comió el quiche y el pan de manteca de Gracia. Llegaron HUGHES, ROY MUSTANG (guantes con salamandra) y RIZA HAWKEYE (pistola apuntando al piso). Mustang: "Así que este es el viajero. Hughes me dijo que te ibas a ver raro. No me dijo cuánto." Se saca un guante. "Roy Mustang. Coronel. Ciudad del Este. ¿Por qué un extranjero sin papeles, que llegó a Central ayer, arriesga la vida por el amigo más pesado que tengo?"

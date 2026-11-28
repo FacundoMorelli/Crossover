@@ -12,3 +12,5 @@ QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: con Mustang en el Este.
 - T1754 · (fuera de escena) Viene a Central con Mustang en el primer tren de mañana.
+ENCUENTROS:
+- T1758 · Día 2 08:12 · Entra a la iglesia detrás de Mustang, rubia, pelo recogido, uniforme impecable, pistola en la mano apuntando al piso, recorriendo cada rincón con la vista. SABE (por Hughes vía Mustang): lo de anoche.

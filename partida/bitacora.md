@@ -1756,3 +1756,4 @@ T1754 · FULLMETAL · archivo · Espera. Hughes habló con Mustang (llega mañan
 T1755 · FULLMETAL · archivo · "Te esperaba disfrazado de tu esposa." Hughes: "Saben dónde vivo. ¿Puede llevarme a mi casa? Ayúdeme. Por favor."
 T1756 · FULLMETAL · casa de los Hughes · Teletransporta a Hughes y a los homúnculos a la casa. Gracia: "¿Maes?" Elicia: "¡Un gatito gigante!" A Hughes se le doblan las rodillas.
 T1757 · FULLMETAL · casa de los Hughes · Mira: Hughes abraza a su familia llorando; Kase con Elicia. Hughes: "Me salvó la vida dos veces. ¿Qué hacemos con ellos?"
+T1758 · FULLMETAL · iglesia abandonada · Vigila a Lust y Envy toda la noche (los vuelve a dormir). Llegan Hughes, Mustang y Hawkeye. Mustang: "¿Por qué arriesgas la vida por el amigo más pesado que tengo?"
