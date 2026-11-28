@@ -1,8 +1,8 @@
 {
-  "turno": 1880,
+  "turno": 1881,
   "mundo_actual": "onepiece",
   "fecha_local": "One Piece: Día ~227 (timeskip, ~5,5 meses)",
-  "hora": "Día ~227, 08:24 (Momoiro)",
+  "hora": "Día ~227, 18:40 (Momoiro)",
   "edad": 18,
   "nivel": 35,
   "exp": 549130,
@@ -101,7 +101,7 @@
     "energia": 4006,
     "control": 4005
   },
-  "energia_actual_pct": 94,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -2726,7 +2726,7 @@
   "apodos": {
     "bleach": "Bicolor (Yoruichi y Urahara). En el Seireitei, desde el 29/07: 'el Ryoka del Sōkyoku'.",
     "dragonball": "'El muchacho del gato' (Mr. Satán y la prensa, desde T214)",
-    "onepiece": "'Ojos de Eclipse' (cartel de recompensa, Día 6)",
+    "onepiece": "'Ojos de Eclipse' (cartel). Recompensa: 3.200.000.000 berries (Día ~227, tras Mary Geoise; amenaza de primer orden; movilización del Almirante de Flota)",
     "shingeki": "'El Emisario del Gato' (prensa del continente, diarios del día 41) | \"El del gato\" (pueblo de Paradis, plaza de Shiganshina, T969)",
     "tokyoghoul": "El Panadero (entre los ghouls del Distrito 20 y alrededores; oído T1215, Koma lo grita en el callejón)",
     "naruto": "",

@@ -13,3 +13,4 @@ ESTADO: presa.
 - T1878 · Sanji la corteja: ceja levantada, carcajada: "Qué asco. Me encanta."
 - T1879 · Se dobla de risa sobre la rodilla de su padre.
 - T1880 · "Sí. Lo hiciste." (a Sanji, encantada)
+- T1881 · Come como Luffy en la rodilla de su padre; aprende a llamar a Sanji para verlo ondular. Abre el diario: "Tres mil doscientos millones... Nunca vi un cartel con tantos ceros."

@@ -1880,3 +1880,4 @@ T1877 · ONE PIECE · Momoiro · Sanji huye de las okamas y ve a Facundo: "¡Sá
 T1878 · ONE PIECE · Momoiro · "Ahí hay una, Sanji." Sanji corteja a Bonney y descubre a Kuma: "¡¡¿KUMAAAA?!!"
 T1879 · ONE PIECE · Momoiro · "Tranquilo, Sanji." Kuma le pide perdón a Sanji. "¿Qué está pasando?"
 T1880 · ONE PIECE · Momoiro · Presenta a Dragon y a Bonney a Sanji. Dragon: "¿Come bien?" Sanji cocinará cien platos: "Esta vez te quedas a comer."
+T1881 · ONE PIECE · Momoiro · (simulado) Fiesta de Ivankov. Diario: Mary Geoise. Nueva recompensa de Ojos de Eclipse: 3.200.000.000 berries.

@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1878)
-
-ahi hay una sanju
-
-## RESPUESTA 1 (T1878)
-
-> ahi hay una sanju
-
-> —Ahí hay una, Sanji.
-
-Sanji suelta tus solapas. Gira la cabeza despacio, siguiendo tu mirada, como un perro que escucha la palabra "comida".
-
-Y la ve.
-
-Jewelry Bonney, sentada en el centro del patio, con el pelo rosa largo revuelto, la ropa rota, los pies descalzos, la cara todavía colorada de llorar y una carcajada a medio apagar en la boca.
-
-A Sanji se le paran todos los pelos de la cabeza. Se le abren los ojos tanto que parece que se le van a salir. Le sale humo de las orejas. Las pupilas se le transforman en dos corazones rojos enormes, que laten. Se le cae la mandíbula. Y todo el cuerpo se le pone a ondular, de los pies a la cabeza, como un fideo en agua hirviendo.
-
-—Una... —susurra—. Una... dama...
-
-Le corre una lágrima por la mejilla.
-
-—¡¡UNA DAMA DE VERDAD!! —Grita al cielo rosa de Momoiro, con los brazos abiertos, girando sobre un pie—. ¡¡CINCO MESES!! ¡¡CINCO MESES DE CANDIES Y BARBAS Y VESTIDOS DE VOLADOS!! ¡¡Y AHORA, UN ÁNGEL!! ¡¡UN ÁNGEL DE CABELLO DE ROSA!! ¡¡MELLORINE!! ¡¡MELLORINE!!
-
-Sale disparado hacia Bonney, bailando, haciendo ondas con los brazos, con una rosa que no sabes de dónde sacó entre los dientes.
-
-—¡Hermosa señorita! —canta, frenando delante de ella y haciendo una reverencia exagerada hasta el piso—. ¡Permítame presentarme! ¡Soy Sanji, el cocinero de los Sombrero de Paja, y desde este instante, el esclavo eterno de su belleza! ¿Tiene hambre? ¿Sed? ¿Frío? ¡Pídame lo que...!
-
-Bonney lo mira desde arriba, con una ceja levantada y la boca torcida. Se le escapa otra carcajada.
-
-—Qué asco —dice—. Me encanta.
-
-Sanji, todavía en reverencia, sube la mirada, lleno de corazones. Sube por los pies descalzos de Bonney. Por la rodilla en la que está sentada. Y sigue subiendo. Porque la rodilla no es de una silla. Es una rodilla enorme, cubierta de jirones de ropa. Y encima de la rodilla hay un muslo. Y un torso. Y unos hombros con cadenas cortadas colgando. Y arriba de todo, a casi siete metros, una cara.
-
-Una cara que Sanji conoce.
-
-La cara del hombre que, en Sabaody, le puso una palma en el pecho y lo mandó volando por los aires a esta isla del infierno.
-
-Los corazones de los ojos de Sanji se apagan, de golpe, como dos lámparas. La rosa se le cae de la boca. Se pone blanco. Después verde. Después blanco otra vez.
-
-Kuma lo mira desde arriba, con la mano enorme apoyada en la cabeza de su hija.
-
-—Hola —dice Kuma, grave.
-
-—¡¡¡¿¿¿KUMAAAAAAAAA???!!!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1878 · ONE PIECE · DÍA ~227 · 08:20    ║
-║ Isla Momoiro · Reino Kamabakka               ║
-║ Patio frente al castillo de Ivankov          ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 94% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirando a Sanji          ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Sanji descubre a Kuma              ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1879)
+## COMANDO 1 (T1879)
 
 tranquilo sanji
 
-## RESPUESTA 2 (T1879)
+## RESPUESTA 1 (T1879)
 
 > tranquilo sanji
 
@@ -121,11 +60,11 @@ Después se da vuelta despacio hacia ti, todavía agarrado de tu brazo, con la c
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1880)
+## COMANDO 2 (T1880)
 
 ese es dragon y la chica es bonney la hija de kuma
 
-## RESPUESTA 3 (T1880)
+## RESPUESTA 2 (T1880)
 
 > ese es dragon y la chica es bonney la hija de kuma
 
@@ -198,6 +137,75 @@ Después se da vuelta hacia ti, con el cigarro nuevo ya prendido en la boca, y p
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1881)
+
+si, me quedo a comer, simula la fiesta
+
+## RESPUESTA 3 (T1881)
+
+> si, me quedo a comer, simula la fiesta
+
+> —Sí. Me quedo a comer.
+
+Sanji sonríe con el cigarro entre los dientes, se da vuelta y entra al castillo a paso rápido, arremangado, gritándoles a las okamas que se aparten de su camino o las cocina a ellas.
+
+...
+
+La fiesta empieza al mediodía y no termina.
+
+Ponen mesas en el patio de baldosas rosas, largas, con manteles de encaje, una al lado de la otra, hasta llenarlo entero. Sanji sale de la cocina cada diez minutos con bandejas que no le caben en los brazos: carne asada con salsas de colores que no existen, pescados enteros rellenos de frutas, sopas en ollas del tamaño de un barril, panes que todavía humean, postres de crema en forma de corazón. Cada plato es una de las recetas del rey de Kamabakka. Cada vez que deja uno en la mesa, se queda mirando cómo lo comen, con los brazos cruzados y la cara seria, hasta que alguien dice que está bueno.
+
+Bonney come como no comió en meses. Come como Luffy. Se mete pedazos de carne enteros en la boca, con las dos manos, sentada en la rodilla de su padre, y le grita a Sanji que traiga más. Sanji, cada vez que ella le grita, se pone a ondular como un fideo, y cada vez que mira hacia arriba y ve la cara de Kuma, se endereza de golpe y vuelve a la cocina sin decir nada. Para la tercera hora, Bonney ya aprendió el truco, y lo llama solo para verlo hacerlo.
+
+A Kuma le traen ropa nueva: una camisa blanca enorme que las okamas cosieron uniendo cuatro manteles, y unos pantalones que tardaron dos horas en terminar. Se la pone despacio, con cuidado. Come poco. Mira mucho. Sobre todo a su hija. Cada tanto se toca el cuello, donde estaba el collar, como para comprobar que no está.
+
+Ivankov baila. Encima de las mesas, en la escalera, en el medio del patio. Canta. Llora. Vuelve a bailar. Les cambia el sexo a dos okamas que lo piden para la fiesta, con un dedo, y después se los vuelve a cambiar cuando se aburren. Le sirve vino a Dragon cada cinco minutos aunque Dragon no toma.
+
+Dragon y Kuma se van a un costado, al borde del patio, junto a los setos rosas, y hablan mucho rato. No los escuchas. Pero ves a Dragon reírse, una vez, bajito, con la cabeza gacha. Y ves a Kuma apoyarle la mano enorme en el hombro.
+
+A Kase le sirven en un plato de porcelana con borde dorado. Sanji le prepara personalmente un pescado sin espinas, cocido a la manteca, con hierbas. Kase lo huele. Lo come entero. Después mira a Sanji. Y por primera vez desde que lo conoce, se le acerca, le roza los tobillos con la cola, y se va. Sanji se queda quieto, con la bandeja vacía en la mano, mirando al gato irse, conmovido como si una dama le hubiera dado un beso.
+
+Cuando el sol empieza a bajar, el cielo de Momoiro se pone más rosa que nunca.
+
+Y entonces, desde el mar, llega volando un pájaro.
+
+Una gaviota grande, con una gorra y un bolso cruzado: un News Coo. Aterriza en el borde de la mesa principal, entre los platos de postre, y deja caer el diario del día. Ivankov le tira una moneda. El pájaro se va.
+
+El diario queda ahí, doblado, sobre el mantel de encaje. Bonney lo agarra con la mano llena de crema, lo despliega, y se queda quieta.
+
+En la primera plana, con letras negras enormes:
+
+"¡ATAQUE A MARY GEOISE! 'OJOS DE ECLIPSE' SECUESTRA AL EX SHICHIBUKAI KUMA DELANTE DE UN DRAGÓN CELESTIAL"
+
+Debajo, un dibujo hecho a mano, apurado, de un testigo: un hombre alto, de pelo de dos colores, con un gato en el hombro, al lado de un rubio de sombrero de copa. Y un carruaje dorado vacío, con las cadenas cortadas.
+
+Y debajo de todo, un recuadro con un cartel de recompensa nuevo, con tu cara:
+
+'OJOS DE ECLIPSE' FACUNDO — 3.200.000.000 BERRIES.
+
+"El Gobierno Mundial lo declara amenaza de primer orden. Se ordena la movilización del Almirante de Flota."
+
+Bonney levanta la vista del diario. Te mira por encima, con la boca llena de crema y los ojos violetas muy abiertos.
+
+Todo el patio se queda en silencio. Las okamas. Ivankov, con una copa en la mano. Sanji, con una bandeja. Kuma, al borde de los setos. Dragon, a su lado, ya mirándote.
+
+—Tres mil doscientos millones —dice Bonney, despacio—. Nunca... —Se le corta la voz—. Nunca vi un cartel con tantos ceros.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1881 · ONE PIECE · DÍA ~227 · 18:40    ║
+║ Isla Momoiro · Reino Kamabakka               ║
+║ Patio de la fiesta, mesa principal           ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la mesa, lamiéndose la manteca      ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Recompensa: 3.200.000.000 berries  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 08:24, patio de Momoiro. "Ese es Dragon. Y la chica es Bonney, la hija de Kuma." Sanji: "Acabo de decirle a la hija de Bartholomew Kuma que soy el esclavo eterno de su belleza. Delante de él." Bonney: "Sí. Lo hiciste." Sanji a Dragon: "El padre de Luffy." Reverencia: "Soy Sanji. Cocinero de los Piratas del Sombrero de Paja. Del barco de su hijo." Dragon: "¿Come bien?" Sanji: "Come como un barril sin fondo..." Dragon: "Bien." Ivankov manda a Sanji a la cocina. Sanji: "Cien platos. Con las recetas del rey." A Facundo: "Esta vez te quedas a comer. De verdad. No me desaparezcas a mitad del primer plato como la última vez."
+ESTADO AL CIERRE: Día ~227 18:40, patio de Momoiro, fiesta. (Simulado: Sanji cocina las recetas del rey; Bonney come como Luffy y llama a Sanji para verlo ondular; Kuma con ropa nueva de cuatro manteles, se toca el cuello; Ivankov baila y cambia sexos; Dragon y Kuma hablan aparte, Dragon se ríe una vez; Kase come el pescado a la manteca de Sanji y le roza los tobillos.) Al atardecer, un News Coo trae el diario: "¡ATAQUE A MARY GEOISE! 'OJOS DE ECLIPSE' SECUESTRA AL EX SHICHIBUKAI KUMA DELANTE DE UN DRAGÓN CELESTIAL" (dibujo de Facundo con gato y de Sabo; carruaje vacío). NUEVA RECOMPENSA: 3.200.000.000 berries; amenaza de primer orden; movilización del Almirante de Flota. Bonney: "Tres mil doscientos millones... Nunca vi un cartel con tantos ceros." Todos callan; Dragon lo mira.

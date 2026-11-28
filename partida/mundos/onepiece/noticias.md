@@ -10,3 +10,4 @@
 - (Día 56) "Fuga en Impel Down: motín en los niveles inferiores." (sin detalles)
 - (Día 57, mañana) "FUGA MASIVA EN IMPEL DOWN: Monkey D. Luffy, Crocodile, Jinbe, Emporio Ivankov y cientos de presos escapan en un buque de la Marina." Transmisión de Marineford prevista en pantallas de Sabaody a mediodía.
 - Día 57 (tarde) · Diarios: MARINEFORD en primera plana. Foto borrosa de la transmisión: el cadalso, el pilar de fuego de Ace y Ojos de Eclipse con el gato al lado.
+- Día ~227 (tarde) · Diario mundial: "¡ATAQUE A MARY GEOISE! 'OJOS DE ECLIPSE' SECUESTRA AL EX SHICHIBUKAI KUMA DELANTE DE UN DRAGÓN CELESTIAL". Dibujo de testigo: hombre alto de pelo de dos colores con un gato y un rubio de sombrero de copa (Sabo); carruaje dorado vacío. Cartel nuevo: 'OJOS DE ECLIPSE' FACUNDO — 3.200.000.000 BERRIES. "El Gobierno Mundial lo declara amenaza de primer orden. Se ordena la movilización del Almirante de Flota."
