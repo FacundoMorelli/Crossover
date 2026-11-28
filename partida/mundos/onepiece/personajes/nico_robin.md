@@ -117,3 +117,4 @@ ESTADO: activa
 - T1863 · Facundo: "Sí. Me quedo contigo." Manos de Hana Hana cierran el cuaderno, doblan la capa, apagan la lámpara. "Te extrañé." (fundido). Duerme sobre su pecho, tranquila, mano sobre el dragón tatuado. Sigue dormida cuando entra Koala.
 - T1864 · Se despierta: "Buenos días, Koala. Cierra la puerta, por favor. Hay corriente." Al oír "Kuma", se tensa (la mano sobre el pecho de Facundo se cierra).
 - T1865 · Toca la última marca de la pared antes de salir; lleva su cuaderno a la torre. Aprieta la mano de Facundo al oír lo de Kuma.
+- T1868 · Le suelta la mano: "Un minuto. Lo voy a contar."

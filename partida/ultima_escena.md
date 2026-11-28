@@ -3,82 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1865)
-
-si, me visto y voy con robin a la torre
-
-## RESPUESTA 1 (T1865)
-
-> si, me visto y voy con robin a la torre
-
-> —Sí.
-
-Koala asiente rápido, colorada otra vez, y sale cerrando la puerta. La escuchas correr por el pasillo de piedra.
-
-Te vistes. Robin se levanta despacio, se pone una camisa larga, clara, unos pantalones oscuros, se ata el pelo atrás con un solo movimiento. Agarra el cuaderno de la mesa y se lo pone bajo el brazo, por costumbre. Antes de salir, se detiene frente a la pared, frente a las noventa y siete marcas, y pasa el dedo por la última. Después te agarra de la mano.
-
-Kase se sube a tu hombro.
-
-La fortaleza de Baltigo, de día, es un hormiguero blanco: revolucionarios de todas las edades cruzando patios, cargando cajas, entrenando con palos en los muros, discutiendo con mapas en la mano. Cuando pasan por el patio, varios se dan vuelta. Algunos te reconocen. Un chico joven, de pelo rapado, uno de los once a los que les enseñaste espada la última vez, deja caer su palo de práctica, se cuadra y te hace una reverencia torpe. Otros dos lo imitan.
-
-Escalera de caracol. El viento silba por las ventanas angostas.
-
-La torre de Dragon es igual que la recuerdas: el cuarto redondo, las ventanas a los cuatro lados, la mesa enorme cubierta de mapas, cartas, informes y Den Den Mushi dormidos. Están Corvin, de pie junto a una ventana, con su peinado alto y los anteojos de sol. Hack, el hombre pez enorme, de brazos cruzados junto a la puerta. Koala, que llegó antes y finge estar ordenando la carpeta.
-
-Sabo, con su sombrero de copa y su capa negra, sentado de costado en el borde de la mesa con una pierna colgando, se da vuelta cuando entran.
-
-Te ve.
-
-Salta de la mesa.
-
-—¡FACUNDO!
-
-Cruza el cuarto en tres pasos y te abraza con un brazo, fuerte, dándote palmadas en la espalda, y casi tira a Kase del hombro. Kase le clava una mirada asesina.
-
-—¡Volviste! ¡Robin, volvió! ¡Ace me va a matar, le prometí que le avisaba! —Se aparta, te agarra de los hombros, te mira de arriba abajo, sonriendo con la cicatriz de la cara—. ¿Dónde estuviste? No, no me digas. Robin me lo va a leer en su cuaderno.
-
-Robin sonríe de costado.
-
-—Sabo —dice una voz grave, al fondo.
-
-Dragon está de pie junto a la ventana del norte, de espaldas a todos, con la capa verde larga y la cara tatuada mirando el mar. Se da vuelta despacio. Te mira. Un segundo. Asiente una vez, como la última vez en el pasillo. Casi un saludo.
-
-—Llegaste en un buen momento —dice—. O en uno muy malo.
-
-Toma un papel de la mesa. Un informe escrito a mano, con letra apurada, arrugado como si hubiera viajado escondido.
-
-—Nuestros infiltrados en Mary Geoise —dice, sin levantar la voz—. Vegapunk terminó de reprogramar a Bartholomew Kuma hace tres semanas. Ya no queda nada de él adentro. Ni la memoria, ni la voluntad, ni el hombre. Solo la máquina. —Hace una pausa—. El Gobierno Mundial se lo regaló a los Dragones Celestiales. Lo tienen en Mary Geoise. Como esclavo.
-
-Nadie dice nada. Hack descruza los brazos. Koala baja la carpeta. Robin, a tu lado, te aprieta la mano.
-
-Dragon deja el papel sobre la mesa. Te mira a los ojos.
-
-—Sabo me contó lo que hiciste con Barbablanca. Una enfermedad que ningún médico del mundo podía curar, y tú le pusiste la mano encima. —La voz no le cambia, pero algo en los ojos sí—. Kuma era uno de los nuestros. Mi amigo.
-
-Una pausa larga. El viento silba en las ventanas.
-
-—¿Se le puede devolver lo que le quitaron?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1865 · ONE PIECE · DÍA ~227 · 08:02    ║
-║ Baltigo · torre de Dragon                    ║
-║ Junto a la mesa de mapas, con Robin          ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirando mal a Sabo       ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Dragon: "¿Se le puede devolver?"   ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1866)
+## COMANDO 1 (T1866)
 
 si se puede
 
-## RESPUESTA 2 (T1866)
+## RESPUESTA 1 (T1866)
 
 > si se puede
 
@@ -129,11 +58,11 @@ Robin, a tu lado, no dice nada. Solo te mira de costado, con el cuaderno bajo el
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1867)
+## COMANDO 2 (T1867)
 
 no necesito nada, quieren que vaya a buscarlo ahora?
 
-## RESPUESTA 3 (T1867)
+## RESPUESTA 2 (T1867)
 
 > no necesito nada, quieren que vaya a buscarlo ahora?
 
@@ -182,6 +111,73 @@ A tu lado, Robin te aprieta la mano. Despacio. Una vez.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1868)
+
+esta bien, igual vamos a ir directamente a donde esta Kuma y despues directamente a ivankov, capaz en 1 minuto pasa eso como mucho
+
+## RESPUESTA 3 (T1868)
+
+> esta bien, igual vamos a ir directamente a donde esta Kuma y despues directamente a ivankov, capaz en 1 minuto pasa eso como mucho
+
+> —Está bien. Igual vamos a ir directo a donde está Kuma, y después directo con Ivankov. Tal vez en un minuto, como mucho.
+
+Sabo se queda con el sombrero de copa a medio camino de la cabeza.
+
+—¿Un... minuto?
+
+Koala abre la boca y no le sale nada. Hack descruza los brazos otra vez. Corvin, con el auricular del Den Den Mushi ya en la mano, se queda quieto.
+
+Dragon no se ríe. Te mira. Y por primera vez desde que lo conoces, algo que se parece a una sonrisa le tira de la comisura de la boca, debajo del tatuaje, apenas, durante medio segundo.
+
+—Corvin —dice, sin dejar de mirarte—. Llama a Ivankov. Ahora. Que deje la puerta abierta.
+
+Corvin ya está marcando. El Den Den Mushi sobre la mesa abre los ojos, pone cara seria, hace "purupurupuru", y al tercer timbre contesta una voz exagerada, aguda y grave a la vez, que llena la torre entera:
+
+—¡¿Quién llama a esta hora tan horrible de la mañana?! ¡Hee-haw!
+
+—Iva-san. Es Corvin. Escucha bien. En un minuto te llega un paquete. —Corvin mira a Dragon, que asiente—. Es Kuma.
+
+Silencio del otro lado. El Den Den Mushi pone una cara de asombro enorme, con la boca abierta.
+
+—¡¿KUMA-BOY?! —grita Ivankov—. ¡¿Cómo que en un minuto?! ¡Vanaata, Corvin, ¿estás borracho?!
+
+—No viene solo. Viene con Sabo. Y con alguien más. —Corvin te mira de reojo—. Ojos de Eclipse.
+
+Otro silencio.
+
+—...Hee-haw —dice Ivankov, mucho más bajito—. Aquí los espero.
+
+Corvin corta.
+
+Sabo se pone el sombrero de copa. Se acomoda la capa negra. Se acerca a ti y te pone una mano en el hombro, el que no tiene a Kase, firme. Ya no sonríe. Tiene la cara seria del Jefe de Estado Mayor del Ejército Revolucionario.
+
+—Listo —dice.
+
+Koala se le acerca por detrás y le arregla el cuello de la capa, sin decir nada, con las manos temblando un poco. Después da un paso atrás.
+
+Robin te suelta la mano. Despacio. Te mira de costado, con el cuaderno bajo el brazo.
+
+—Un minuto —dice, serena—. Lo voy a contar.
+
+Dragon se queda junto a la mesa, con las dos manos apoyadas sobre el mapa de la Red Line. Te mira a los ojos. Cuando habla, la voz es baja, sin órdenes.
+
+—Tráemelo de vuelta, Facundo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1868 · ONE PIECE · DÍA ~227 · 08:09    ║
+║ Baltigo · torre de Dragon                    ║
+║ Con Sabo agarrado del hombro                 ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Kuma, en Mary Geoise               ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 08:06, torre de Dragon. Facundo: "No necesito nada. ¿Quieren que vaya a buscarlo ahora?" Dragon: "Ahora. Sí." Los Dragones Celestiales usan a Kuma como animal de carga (arrastra carruajes en Mary Geoise). CONDICIÓN: no traerlo a Baltigo (Vegapunk le puso un transmisor/rastreador); llevarlo a la isla Momoiro (Reino Kamabakka) con Ivankov. Corvin avisará a Ivankov por Den Den Mushi seguro en diez minutos. Sabo quiere ir: Kuma le enseñó a nadar; estudió los planos de Mary Geoise (establos de los esclavos); "quiero que sea yo el primero que vea cuando vuelva." Dragon espera la respuesta de Facundo. Robin le aprieta la mano.
+ESTADO AL CIERRE: Día ~227 08:09, torre de Dragon. Facundo: "...Tal vez en un minuto, como mucho." Sabo: "¿Un... minuto?" Dragon casi sonríe: "Corvin. Llama a Ivankov. Ahora. Que deje la puerta abierta." Ivankov por Den Den Mushi ("¡Hee-haw!", "¡¿KUMA-BOY?!", "¡Vanaata!"): "Aquí los espero." (sabe que viene Ojos de Eclipse). Sabo pone la mano en el hombro de Facundo: "Listo." Koala le arregla la capa. Robin: "Un minuto. Lo voy a contar." Dragon: "Tráemelo de vuelta, Facundo."

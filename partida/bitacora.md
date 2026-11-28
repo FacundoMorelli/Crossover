@@ -1867,3 +1867,4 @@ T1864 · ONE PIECE · Baltigo · "Hola, Koala." Informe de Mary Geoise sobre Kum
 T1865 · ONE PIECE · Torre de Dragon · Sabo lo abraza. Kuma, esclavo de los Dragones Celestiales sin conciencia. Dragon: "¿Se le puede devolver lo que le quitaron?"
 T1866 · ONE PIECE · Torre de Dragon · "Sí. Se puede." Dragon: Mary Geoise imposible para cualquiera... "¿Qué necesitas?"
 T1867 · ONE PIECE · Torre de Dragon · "¿Voy a buscarlo ahora?" Dragon: "Ahora." Kuma a Momoiro, no a Baltigo. Sabo quiere ir con él.
+T1868 · ONE PIECE · Torre de Dragon · "En un minuto." Ivankov avisado. Sabo listo. Dragon: "Tráemelo de vuelta."
