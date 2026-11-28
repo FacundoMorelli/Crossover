@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1843)
-
-si, es tuyo, levántalo
-
-## RESPUESTA 1 (T1843)
-
-> si, es tuyo, levántalo
-
-> —Sí, es tuyo. Levántalo.
-
-Jinwoo te mira un segundo más. Después asiente, una vez, corto.
-
-Camina despacio entre las hormigas caídas, hasta el cuerpo del Rey. Se detiene junto a él. Los coreanos lo miran sin entender: Choi con los anteojos torcidos, Baek todavía sentado en el piso, Ma Dongwook tocándose el pecho cerrado. Arriba, la cámara sigue grabando.
-
-Jinwoo extiende la mano sobre el cadáver.
-
-—Levántate.
-
-La sombra del Rey hormiga, en el piso de la caverna, se estremece. Se separa del cuerpo como tinta que se despega del papel. Sube. Toma forma. Primero las alas, negras, de humo. Después el caparazón, las garras, la cabeza alargada. Y por último los ojos: dos puntos de luz azul fría, donde antes había cientos de ojos rojos.
-
-La sombra del Rey se arrodilla frente a Jinwoo, con una garra en el piso y la cabeza baja.
-
-En la caverna, alguien deja caer una espada. El ruido metálico rebota en las paredes.
-
-Jinwoo mira a su nuevo soldado un rato largo. Algo en su cara se afloja, apenas, satisfecho.
-
-Y entonces la sombra levanta la cabeza. No mira a Jinwoo. Mira más allá de él, hacia ti. Los dos puntos de luz azul se te quedan clavados encima. La sombra, que hace unos minutos era un Rey que mataba cazadores de rango S de dos golpes, se encoge. Retrocede medio paso, sin levantarse, arrastrando la garra por el piso, hasta quedar detrás de las piernas de su nuevo amo.
-
-Jinwoo lo nota. Mira a su sombra. Después a ti. Se le escapa por la nariz algo que se parece mucho a una risa.
-
-—Se acuerda de ti —dice.
-
-Con un gesto de la mano, la sombra se hunde en el piso, en la sombra de Jinwoo, y desaparece.
-
-Durante unos segundos, en la caverna solo se escucha el siseo del veneno que gotea del techo.
-
-Después, pasos. Rápidos. Por encima de las hormigas caídas.
-
-Cha Hae-in cruza la caverna hacia ti. La armadura rota en el hombro, el pelo suelto pegado a la cara, la espada colgando de la mano. Se detiene a medio paso. Te mira de arriba abajo, como si te viera por primera vez. Y en cierto modo es así.
-
-Le tiemblan los labios. Se le llenan los ojos.
-
-—Me dijiste "te espero aquí" —dice. Se le quiebra la voz, entre una risa y un llanto—. En el hotel. Me dijiste que me ibas a esperar en el hotel.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1843 · SOLO LEVELING · DÍA 22 · 11:39  ║
-║ Isla de Jeju                                 ║
-║ Nido bajo el Hallasan · cámara de la reina   ║
-║ NIVEL 34 · EXP 524.130/530.000               ║
-║ FRAGMENTOS 340.805 · 1.282.800 won           ║
-║ Energía 97% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirando a Cha            ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Cha Hae-in frente a ti             ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1844)
+## COMANDO 1 (T1844)
 
 la abrazo, perdon amor, no queria que te pase nada
 
-## RESPUESTA 2 (T1844)
+## RESPUESTA 1 (T1844)
 
 > la abrazo, perdon amor, no queria que te pase nada
 
@@ -117,11 +58,11 @@ Señala con la barbilla al camarógrafo, que sigue sentado arriba, con la luz ro
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1845)
+## COMANDO 2 (T1845)
 
 agarrense de mi todos, o estén conectados entre ustedes. me teletransporto al buque
 
-## RESPUESTA 3 (T1845)
+## RESPUESTA 2 (T1845)
 
 > agarrense de mi todos, o estén conectados entre ustedes. me teletransporto al buque
 
@@ -206,6 +147,55 @@ Camina hacia ti. Se detiene a un paso. Te mira a los ojos un rato largo, sin dec
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1846)
+
+agarro el telefono
+
+## RESPUESTA 3 (T1846)
+
+> agarro el telefono
+
+Tomas el teléfono satelital. Es pesado, grueso, con una antena corta y gomosa, y todavía está tibio de la mano de Woo Jinchul.
+
+Del otro lado hay un ruido de fondo: voces, muchas, hablando todas a la vez, alguien que llora, alguien que grita "¡están vivos, todos, están todos vivos!", un aplauso que empieza en algún lado y se contagia. Una sala llena de gente.
+
+Después, una puerta que se cierra. El ruido se corta.
+
+Silencio. Una respiración pesada, lenta, de hombre grande y viejo.
+
+—Señor Morelli. —La voz grave de Go Gunhee, más ronca que en el balcón del gimnasio—. Estoy en la sala de crisis de la Asociación. Tenía la transmisión en la pantalla grande. Vi todo hasta que se cortó la señal.
+
+Una pausa larga. Escuchas cómo traga.
+
+—Hace cuatro años, cuando cayó Jeju, perdí a dos amigos de treinta años en la primera incursión. En la segunda, a once cazadores que yo mismo había firmado. En la tercera, a catorce. Cada vez me senté en esta misma silla y esperé que el teléfono sonara, y cada vez sonó para decirme cuántos no volvían. —Otra pausa—. Hoy rompí el apoyabrazos de la silla. Con la mano. Cuando ese... cuando el Rey se lanzó sobre Min y la vicemaestra Cha, y usted apareció de la nada.
+
+Se ríe, corto, sin alegría, con alivio.
+
+—No sé qué es usted. La medición de Woo dice que no tiene maná. Ningún cazador de este país podría haber parado a esa cosa con una mano. Y no voy a preguntarle cómo. —Respira hondo—. Pero Corea le debe dieciséis vidas. Y yo también.
+
+A tu lado, en la cubierta, Cha Hae-in sigue agarrada de tu mano libre, escuchando. Kase, en su nuca, abre un ojo.
+
+—Dentro de una hora, todo el país va a querer saber quién es usted —sigue Go Gunhee—. Los canales, los gremios, los políticos, las Asociaciones de otros países. Japón ya me llamó dos veces. Estados Unidos, una. —Una pausa—. No puedo protegerlo de eso para siempre. Pero puedo hacer algunas cosas.
+
+La voz se le vuelve más baja, más directa.
+
+—Así que se lo pregunto en serio, señor Morelli, de viejo a joven. ¿Qué quiere?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1846 · SOLO LEVELING · DÍA 22 · 11:45  ║
+║ Estrecho de Jeju                             ║
+║ Buque de la Asociación · cubierta            ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 1.282.800 won           ║
+║ Energía 95% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la nuca de Cha Hae-in               ║
+║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
+║ OBJETIVO: Go Gunhee: "¿Qué quiere?"          ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 11:43, cubierta del buque de la Asociación en el estrecho de Jeju. Cadena: Cha de la mano de Facundo, Min, Ma, Baek, Lim, los demás, Choi, el camarógrafo y Jinwoo (dos dedos en el hombro de Choi). Teletransporte al buque. Woo Jinchul (con teléfono satelital) cuenta 16. MISIÓN DE MUNDO CUMPLIDA (15/16; +25.000 EXP, +600 F). NIVEL 35 (hito: +4 stats, +15 puntos; habilidad Reflejo del Eclipse). Jinwoo se aparta. Woo, ojos rojos, ofrece el teléfono: "El presidente Go Gunhee está en la línea. Quiere hablar con usted."
+ESTADO AL CIERRE: Día 22 11:45, cubierta del buque. Facundo toma el teléfono satelital. Go Gunhee desde la sala de crisis de la Asociación: vio todo hasta que se cortó la señal; perdió amigos y cazadores en las tres incursiones anteriores (2 amigos, 11, 14); rompió el apoyabrazos al ver aparecer a Facundo; no va a preguntar cómo; "Corea le debe dieciséis vidas. Y yo también." En una hora todo el país querrá saber quién es; Japón llamó dos veces, EE. UU. una; no puede protegerlo para siempre pero puede hacer cosas. "¿Qué quiere?" Cha a su lado de la mano, escuchando.
