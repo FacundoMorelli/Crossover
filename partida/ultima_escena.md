@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1771)
-
-me gustan las cosas nuevas y no tengo otra cosa que hacer, a parte queria ver a cha de nuevo
-
-## RESPUESTA 1 (T1771)
-
-> me gustan las cosas nuevas y no tengo otra cosa que hacer, a parte queria ver a cha de nuevo
-
-> —Me gustan las cosas nuevas y no tengo otra cosa que hacer. Aparte, quería ver a Cha de nuevo.
-
-Por un segundo no se mueve nadie.
-
-Cha Hae-in se queda quieta con la mano en la correa de la espada. Se le ponen rojas las orejas y después las mejillas, rápido, como si alguien hubiera prendido una estufa. Abre la boca, la cierra y mira hacia el costado, a la nada, a un poste de luz.
-
-Jinwoo la mira a ella. Después a ti. Algo en la comisura de su boca se mueve, muy poco, casi nada. No llega a ser una sonrisa, pero se le parece.
-
-—Ya veo —dice.
-
-Saca las manos de los bolsillos, se acomoda el cuello de la chaqueta y vuelve a mirar a Kase un instante, como si el gato fuera lo único que todavía no le cierra. Después se da vuelta y camina hacia la camioneta de la Asociación, donde un hombre de traje lo espera con una carpeta. Los periodistas intentan cortarle el paso y él los esquiva sin mirarlos.
-
-Cha Hae-in sigue mirando el poste.
-
-—¡Vicemaestra! —grita el grandote del escudo desde la camioneta del gremio—. ¡El maestro Choi dice que nos vamos!
-
-Choi Jong-In ya está sentado en el asiento de adelante, con la puerta abierta, mirando el reloj.
-
-Cha Hae-in respira hondo, por la nariz, despacio. Por fin te mira. Sigue colorada, pero te sostiene la mirada.
-
-—Nadie... —empieza, y se corta. Se aclara la garganta—. Nadie me dice esas cosas así, en la cara.
-
-Mira la camioneta, mira tus manos vacías, mira a Kase y vuelve a ti.
-
-—No sabes qué son los cazadores. No tienes papeles, ¿verdad? —Baja la voz—. ¿Tienes dónde dormir esta noche?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1771 · SOLO LEVELING · DÍA 1 · 23:15   ║
-║ Seúl, Corea del Sur                          ║
-║ Gangnam, cinta del cordón de la Puerta       ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.815 · 0 won                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1772)
+## COMANDO 1 (T1772)
 
 no tengo nada
 
-## RESPUESTA 2 (T1772)
+## RESPUESTA 1 (T1772)
 
 > no tengo nada
 
@@ -97,11 +48,11 @@ Kase se estira en tu hombro, mira la cinta levantada y después la mira a ella.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1773)
+## COMANDO 2 (T1773)
 
 vayamos a ver
 
-## RESPUESTA 3 (T1773)
+## RESPUESTA 2 (T1773)
 
 > vayamos a ver
 
@@ -156,6 +107,47 @@ Duda. Se acomoda un mechón de pelo detrás de la oreja.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1774)
+
+si claro que puedes
+
+## RESPUESTA 3 (T1774)
+
+> si claro que puedes
+
+> —Sí, claro que puedes.
+
+A Cha Hae-in se le escapa una sonrisa. Es corta, pero esta vez no la esconde. Se le ve en los ojos antes que en la boca.
+
+—Bien —dice. Y después, más bajito, como para ella—: Bien.
+
+Se queda un segundo así, sin saber qué hacer con las manos. Mira la tarjeta llave en tu mano, después a Kase, que bosteza enorme, con todos los dientes.
+
+—No tienes teléfono, ¿verdad?
+
+No espera la respuesta. Ya sabe cuál es. Saca del bolsillo de la chaqueta un bolígrafo y, como no tiene papel, agarra la tarjetita del hotel que vino con la llave y escribe atrás, con letra prolija y apurada, un número de once cifras. Te la devuelve.
+
+—Es mi número. Si necesitas algo, llama desde la habitación. —Duda—. Aunque sea tarde.
+
+Da un paso hacia el ascensor. Se detiene y se da vuelta.
+
+—Termino en la oficina antes del mediodía. —Se le colorean otra vez las orejas—. ¿Te parece bien a la una? Puedo traerte a comer algo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1774 · SOLO LEVELING · DÍA 1 · 23:34   ║
+║ Seúl, Corea del Sur                          ║
+║ Gangnam, hotel · piso 22, puerta de la 2207  ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.815 · 0 won                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 1 23:32. Hotel de Gangnam (torre de vidrio oscuro, toldo dorado), piso 22, frente a la habitación 2207. Cha Hae-in pagó con su tarjeta negra; la recepcionista la reconoció, aceptó al gato y no pidió documento. Facundo tiene la tarjeta llave (en la mano). Desayuno 6 a 10. Cha: "Aquí estás bien." "Mañana tengo que ir a la oficina del gremio por el informe. Pero después... ¿puedo venir a verte?"
+ESTADO AL CIERRE: Día 1 23:34, puerta de la 2207. Facundo: "Sí, claro que puedes." Cha sonríe. Escribe su número de teléfono (11 cifras) atrás de la tarjetita del hotel y se la da: "Si necesitas algo, llama desde la habitación. Aunque sea tarde." Junto al ascensor: "Termino en la oficina antes del mediodía. ¿Te parece bien a la una? Puedo traerte a comer algo."

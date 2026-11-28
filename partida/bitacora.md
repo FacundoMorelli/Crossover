@@ -1773,3 +1773,4 @@ T1770 · SOLO LEVELING · Gangnam · "Soy un viajero." Tasación de Jinwoo. Jinw
 T1771 · SOLO LEVELING · Gangnam · "Quería ver a Cha de nuevo." Cha colorada; Jinwoo "Ya veo" y se va. Cha: "¿Tienes dónde dormir esta noche?"
 T1772 · SOLO LEVELING · Gangnam · "No tengo nada." Cha Hae-in deja ir al gremio y le ofrece pagarle un hotel a dos cuadras.
 T1773 · SOLO LEVELING · Hotel de Gangnam · Cha Hae-in le paga la habitación 2207. "¿Puedo venir a verte?"
+T1774 · SOLO LEVELING · Hotel de Gangnam · Cha le da su número; propone volver a la una con comida.
