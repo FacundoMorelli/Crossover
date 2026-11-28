@@ -16,3 +16,4 @@ ENCUENTROS:
 - T1740 · Sabe (por Facundo): el gato se llama Kase; él, Facundo Morelli. "Yo soy Alphonse. Alphonse Elric. Pero todos me dicen Al." Kase le parpadea despacio: "¡Me parpadeó! ¡Eso significa que le caigo bien! ¡Lo leí en un libro!" "Señor Morelli... ¿Puedo bajar? Solo un minuto. A acariciarlo. Prometo que tengo mucho cuidado. Los gatos me quieren mucho, aunque mi cuerpo sea... así."
 - T1741 · Baja corriendo (rompe una silla). Se agacha tras la reja con la mano abierta, esperando. KASE SE LE SUBE A LA PALMA y se enrosca. "Hermano. Hermano. Se me subió a la mano." RELACIÓN: encantado con Kase y con Facundo.
 - T1742 · "¡Un viajero! ¡Nosotros también viajamos, señor Morelli! Por todo Amestris. Por el Este, el Sur, Lior, Youswell... ¿Usted viaja buscando algo?"
+- T1743 · "Es verdad, subteniente. Me lo prestó. Se llama Kase. Se me subió solo."

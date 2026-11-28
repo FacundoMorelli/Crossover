@@ -1741,3 +1741,4 @@ T1739 · FULLMETAL · hospital militar · Camina. Al, desde la ventana: "¡Un ga
 T1740 · FULLMETAL · hospital · "Kase, y yo Facundo Morelli." Al se presenta. Ed: "¿Te cayó un tarro de pintura?" Al: "¿Puedo bajar a acariciarlo?"
 T1741 · FULLMETAL · hospital · Al baja; Kase se le sube a la mano. Ed: "¿De dónde eres? ¿De Xing? ¿De Creta?"
 T1742 · FULLMETAL · hospital · "Soy un viajero, de bastante lejos." Ed: "¿Allá hay alquimia?" Llegan Ross y Brosh: "¿Quién es usted?"
+T1743 · FULLMETAL · hospital · "Soy Facundo Morelli, un viajero." Ross se disculpa y pide documentos. Ed espera.

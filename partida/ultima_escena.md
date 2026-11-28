@@ -3,74 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1740)
-
-se llama Kase y yo Facundo Morelli
-
-## RESPUESTA 1 (T1740)
-
-> se llama Kase y yo Facundo Morelli
-
-> —Se llama Kase. Y yo, Facundo Morelli.
-
-—¡Kase! —La armadura lo repite como si le hubieras dado un regalo—. ¡Qué lindo nombre! Mucho gusto, Kase. Mucho gusto, señor Morelli. —Se lleva una mano enorme al pecho de metal, con un ruido de olla—. Yo soy Alphonse. Alphonse Elric. Pero todos me dicen Al.
-
-Kase, en tu hombro, levanta la vista hacia la ventana. Mira a la armadura un rato largo, con los ojos entrecerrados. Después parpadea despacio, una vez.
-
-—¡Me parpadeó! —Al se agarra del marco de la ventana con las dos manos—. ¡Hermano, el gato me parpadeó! ¡Eso significa que le caigo bien! ¡Lo leí en un libro!
-
-—¡Me importa un rábano lo que hace el gato!
-
-Al lado de la armadura aparece una cabeza. Rubia, despeinada, con una trenza larga a medio deshacer y un vendaje cruzándole la frente. Un chico. Bajo, tanto que tiene que pararse en puntas de pie para asomarse por el alféizar junto a la armadura, y eso parece ponerlo de muy mal humor. Tiene los ojos dorados, una camisa de hospital desabrochada y, donde debería estar el brazo derecho, un brazo de metal plateado, articulado, con los dedos de acero apoyados en el marco.
-
-Te mira de arriba abajo. El pelo. Los ojos. Los tatuajes. El gato. Frunce toda la cara.
-
-—¿Y tú quién eres? —grita, sin ninguna educación—. ¿Facundo qué? ¿Morelli? ¿Qué clase de nombre es ese? —Te señala con el dedo de metal—. ¿Y qué te pasó en el pelo? ¿Te cayó un tarro de pintura encima?
-
-—¡Hermano! —Al le da un codazo, que suena como dos ollas chocando—. ¡No seas maleducado!
-
-—¡No soy maleducado! ¡Es una pregunta!
-
-Al lo ignora. Vuelve a inclinarse hacia la calle, todo lo que puede, con los puntitos de luz brillando.
-
-—Señor Morelli... —Baja la voz, como quien pide un favor grande—. ¿Puedo bajar? Solo un minuto. A acariciarlo. —Se le nota la ilusión en cada palabra—. Prometo que tengo mucho cuidado. Los gatos me quieren mucho, aunque mi cuerpo sea... así.
-
-```
-╔══════════════════════════════════════════════╗
-║ EDWARD ELRIC                                 ║
-║ Alquimista Estatal · "de Acero"              ║
-║ PODER: alquimia sin círculo; automail        ║
-║        (brazo derecho, pierna izquierda)     ║
-║ AMENAZA: BAJA                                ║
-║ Diferencia estimada: x0,007 sobre ti         ║
-║ Vio algo que nadie debería ver. Le costó     ║
-║ un brazo y una pierna.                       ║
-║ COPIABLE · MISIÓN: ALTA                      ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1740 · FULLMETAL · DÍA 1 · 17:52       ║
-║ Ciudad Central, Amestris, 1914               ║
-║ Vereda del hospital militar                  ║
-║ NIVEL 33 · EXP 461.130/480.000               ║
-║ FRAGMENTOS 289.378 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1741)
+## COMANDO 1 (T1741)
 
 esta bien
 
-## RESPUESTA 2 (T1741)
+## RESPUESTA 1 (T1741)
 
 > esta bien
 
@@ -121,11 +58,11 @@ Después te mira a ti. A través de la reja. Esta vez no grita. Te estudia con l
 
 ---
 
-## COMANDO 3 (T1742)
+## COMANDO 2 (T1742)
 
 soy un viajero, de bastante lejos
 
-## RESPUESTA 3 (T1742)
+## RESPUESTA 2 (T1742)
 
 > soy un viajero, de bastante lejos
 
@@ -176,4 +113,59 @@ El soldado alto, el de la manta, se para detrás de ella y traga saliva.
 
 ---
 
-ESTADO AL CIERRE: Día 1 17:58, reja del hospital. Ed: "De bastante lejos no es un lugar." Al: "¡Nosotros también viajamos! Lior, Youswell... ¿Usted viaja buscando algo?" Ed: "Más lejos que Xing, supongo. ¿Allá hay alquimia? ¿Distinta?" Llegan la subteniente MARIA ROSS y el sargento BROSH (con una manta). Ross, mano en la funda de la pistola: "Estos dos chicos están bajo nuestra custodia. ¿Quién es usted y qué hace hablando con ellos?"
+## COMANDO 3 (T1743)
+
+mucho gusto soy Facundo Morelli, un viajero, a al le gusto mi gato y quiso conocerlo
+
+## RESPUESTA 3 (T1743)
+
+> mucho gusto soy Facundo Morelli, un viajero, a al le gustó mi gato y quiso conocerlo
+
+> —Mucho gusto. Soy Facundo Morelli, un viajero. A Al le gustó mi gato y quiso conocerlo.
+
+Ross mira a Al.
+
+Al está en cuclillas detrás de la reja, inmóvil como una estatua, con la mano de hierro abierta y el gato enorme enroscado en la palma, durmiendo. Los puntitos de luz del casco tiemblan de felicidad. Ni siquiera se dio vuelta cuando ella llegó.
+
+—Es verdad, subteniente —dice Al, bajito, sin moverse, para no despertarlo—. Me lo prestó. Se llama Kase. Se me subió solo.
+
+A Ross se le afloja un poco la mano en la funda. No del todo.
+
+—Ya veo. —Lo dice con el tono de quien conoce a Alphonse Elric desde hace pocos días y ya sabe exactamente qué pasa cuando hay un gato cerca—. Mucho gusto, señor Morelli.
+
+El soldado alto, detrás de ella, se asoma por encima de su hombro para ver mejor al gato.
+
+—Es enorme —susurra—. Nunca vi uno así. Subteniente, mire la cola.
+
+—Sargento Brosh.
+
+—Perdón.
+
+Ross se endereza otra vez. Te mira de arriba abajo una última vez, más tranquila pero sin bajar la guardia, con los ojos en el escudo extranjero de la camisa.
+
+—Le pido disculpas por la desconfianza, señor Morelli. Estos días la ciudad está... complicada. —Mira de reojo hacia la calle, hacia los carteles pegados en los postes—. Hay un asesino de Alquimistas Estatales suelto, y estos dos chicos tuvieron una semana difícil. Tenemos órdenes de no dejarlos solos con nadie que no conozcamos.
+
+Hace una pausa. Saca una libreta chiquita del bolsillo del uniforme, y un lápiz.
+
+—Por protocolo. —Se disculpa con una media sonrisa—. ¿Tiene documentos? ¿Algún papel de identidad, un permiso de viaje, un pasaporte? Siendo extranjero, debería haberle entregado algo la aduana en la frontera.
+
+Ed, al lado de su hermano, levanta una ceja. Te mira. Espera, con los brazos cruzados, muy interesado de golpe en la respuesta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1743 · FULLMETAL · DÍA 1 · 18:00       ║
+║ Ciudad Central, Amestris, 1914               ║
+║ Reja del hospital militar                    ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.378 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la mano de Al                       ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 18:00, reja del hospital. Ross se afloja un poco (Al confirma lo del gato). Brosh: "Es enorme. Mire la cola." Ross se disculpa (asesino de alquimistas suelto; órdenes). Libreta en mano: "¿Tiene documentos? Siendo extranjero, debería haberle entregado algo la aduana en la frontera." Ed, interesado, espera la respuesta.
