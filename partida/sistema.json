@@ -1,8 +1,8 @@
 {
-  "turno": 1848,
+  "turno": 1849,
   "mundo_actual": "sololeveling",
   "fecha_local": "Solo Leveling: Día 1 (arco de la Reevaluación / Puerta del Gremio de Cazadores)",
-  "hora": "Día 22, 11:56 (estrecho de Jeju)",
+  "hora": "Día 22, 11:58 (Seúl)",
   "edad": 18,
   "nivel": 35,
   "exp": 549130,
@@ -101,7 +101,7 @@
     "energia": 4006,
     "control": 4005
   },
-  "energia_actual_pct": 95,
+  "energia_actual_pct": 94,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [

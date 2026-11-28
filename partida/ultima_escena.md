@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1846)
-
-agarro el telefono
-
-## RESPUESTA 1 (T1846)
-
-> agarro el telefono
-
-Tomas el teléfono satelital. Es pesado, grueso, con una antena corta y gomosa, y todavía está tibio de la mano de Woo Jinchul.
-
-Del otro lado hay un ruido de fondo: voces, muchas, hablando todas a la vez, alguien que llora, alguien que grita "¡están vivos, todos, están todos vivos!", un aplauso que empieza en algún lado y se contagia. Una sala llena de gente.
-
-Después, una puerta que se cierra. El ruido se corta.
-
-Silencio. Una respiración pesada, lenta, de hombre grande y viejo.
-
-—Señor Morelli. —La voz grave de Go Gunhee, más ronca que en el balcón del gimnasio—. Estoy en la sala de crisis de la Asociación. Tenía la transmisión en la pantalla grande. Vi todo hasta que se cortó la señal.
-
-Una pausa larga. Escuchas cómo traga.
-
-—Hace cuatro años, cuando cayó Jeju, perdí a dos amigos de treinta años en la primera incursión. En la segunda, a once cazadores que yo mismo había firmado. En la tercera, a catorce. Cada vez me senté en esta misma silla y esperé que el teléfono sonara, y cada vez sonó para decirme cuántos no volvían. —Otra pausa—. Hoy rompí el apoyabrazos de la silla. Con la mano. Cuando ese... cuando el Rey se lanzó sobre Min y la vicemaestra Cha, y usted apareció de la nada.
-
-Se ríe, corto, sin alegría, con alivio.
-
-—No sé qué es usted. La medición de Woo dice que no tiene maná. Ningún cazador de este país podría haber parado a esa cosa con una mano. Y no voy a preguntarle cómo. —Respira hondo—. Pero Corea le debe dieciséis vidas. Y yo también.
-
-A tu lado, en la cubierta, Cha Hae-in sigue agarrada de tu mano libre, escuchando. Kase, en su nuca, abre un ojo.
-
-—Dentro de una hora, todo el país va a querer saber quién es usted —sigue Go Gunhee—. Los canales, los gremios, los políticos, las Asociaciones de otros países. Japón ya me llamó dos veces. Estados Unidos, una. —Una pausa—. No puedo protegerlo de eso para siempre. Pero puedo hacer algunas cosas.
-
-La voz se le vuelve más baja, más directa.
-
-—Así que se lo pregunto en serio, señor Morelli, de viejo a joven. ¿Qué quiere?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1846 · SOLO LEVELING · DÍA 22 · 11:45  ║
-║ Estrecho de Jeju                             ║
-║ Buque de la Asociación · cubierta            ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 1.282.800 won           ║
-║ Energía 95% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la nuca de Cha Hae-in               ║
-║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
-║ OBJETIVO: Go Gunhee: "¿Qué quiere?"          ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1847)
+## COMANDO 1 (T1847)
 
 nada señor, solo queria ayudarlos y no queria dejar que nadie muera de corea
 
-## RESPUESTA 2 (T1847)
+## RESPUESTA 1 (T1847)
 
 > nada señor, solo queria ayudarlos y no queria dejar que nadie muera de corea
 
@@ -115,11 +66,11 @@ Hace una pausa.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1848)
+## COMANDO 2 (T1848)
 
 no queria dejarlos morir, pero ustedes estaban dispuestos a dejar morir a los compañeros
 
-## RESPUESTA 3 (T1848)
+## RESPUESTA 2 (T1848)
 
 > no queria dejarlos morir, pero ustedes estaban dispuestos a dejar morir a los compañeros
 
@@ -174,6 +125,73 @@ Kase, en su nuca, le da un golpecito con la cabeza en la oreja.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1849)
+
+esta bien, me teletransporto con cha con su mama
+
+## RESPUESTA 3 (T1849)
+
+> esta bien, me teletransporto con cha con su mama
+
+> —Está bien.
+
+Cha Hae-in no te suelta la mano. Kase, en su nuca, cierra los ojos.
+
+La cubierta del buque, el mar, el sol, los médicos con las mantas, Jinwoo en la baranda: todo desaparece.
+
+...
+
+Calor. Olor a ajo, a caldo, a sésamo tostado. Una tele encendida a todo volumen.
+
+Aparecen en el medio del living del departamento del cuarto piso, entre la mesa baja y el sofá con la manta tejida. Las plantas en las ventanas. Las fotos de Cha Hae-in en las paredes, todas serias.
+
+En la tele, un canal de noticias repite una y otra vez el mismo video, la última imagen de la transmisión: la caverna, las hormigas caídas, el Rey muerto, y tú de pie en el medio. Abajo, un cartel en letras rojas: "JEJU: LOS 16 CAZADORES COREANOS, VIVOS". Y debajo, más chico: "¿QUIÉN ES FACUNDO MORELLI?".
+
+La señora Kang está sentada en el piso, frente a la tele, de rodillas sobre un almohadón, con el delantal de flores amarillas puesto y una taza de té de cebada entre las manos, que ya no humea. Tiene la cara hinchada, los ojos rojos, la boca abierta. No se movió de ahí en toda la mañana.
+
+Gira la cabeza.
+
+Los ve.
+
+La taza se le cae de las manos. Rueda por la alfombra sin romperse, derramando el té frío.
+
+—Hae-in... —dice. Casi no le sale la voz.
+
+Cha Hae-in te suelta la mano por primera vez desde la caverna y cruza el living en dos pasos, con la armadura rota y la espada a la espalda, y se arrodilla en el piso y abraza a su mamá. Fuerte. La señora Kang la agarra de la armadura, de la espalda, del pelo, de la cara, como si tuviera que comprobar que está entera, que es de verdad, y llora. Llora fuerte, sin vergüenza, con la boca abierta, como no lloró nunca delante de su hija. Cha Hae-in llora con ella, con la cara escondida en el delantal de flores.
+
+Kase salta de la nuca de Cha Hae-in al sofá, se sienta sobre la manta tejida, y los mira.
+
+En la tele, el presentador repite tu nombre.
+
+Pasan varios minutos así.
+
+Después la señora Kang levanta la cabeza por encima del hombro de su hija. Te mira. Con los ojos rojos, la cara mojada, el pelo entrecano revuelto.
+
+Se separa de Cha Hae-in despacio. Se pone de pie. Le cuesta: se apoya en la mesa baja. Camina hasta ti. Se detiene delante, desde abajo, casi dos cabezas más abajo. Te agarra la cara con las dos manos, igual que la última noche en la puerta.
+
+—"Todo lo que tenga en mis manos" —dice, con la voz rota—. Eso me dijiste. Aquí, en esta mesa.
+
+Te mira un rato largo, temblando.
+
+Después te da las dos palmadas en el brazo, fuertes. Se seca la cara con el delantal. Se suena la nariz. Y te mira otra vez, ya con otra cara, la cara de madre que no sabe qué otra cosa hacer con las manos.
+
+—¿Comiste algo? —pregunta—. Seguro que no comiste nada en todo el día.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1849 · SOLO LEVELING · DÍA 22 · 11:58  ║
+║ Seúl, Corea del Sur                          ║
+║ Casa de la señora Kang · living              ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 1.282.800 won           ║
+║ Energía 94% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el sofá, sobre la manta tejida      ║
+║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 11:56, cubierta del buque. Facundo a Goto: "No quería dejarlos morir. Pero ustedes estaban dispuestos a dejar morir a sus compañeros." Goto, en coreano: "Sí. Estábamos dispuestos." Reverencia profunda; todos los japoneses se inclinan. "Mis hombres murieron por una orden que yo obedecí... Matsumoto tampoco va a olvidarlo." "Gracias por enseñarle a un viejo lo que significa la palabra 'compañero', novio sin maná." Se van al helicóptero. Cha: "Quiero ir a ver a mamá. Ahora. Seguro estuvo mirando la tele."
+ESTADO AL CIERRE: Día 22 11:58, living de la señora Kang. "Está bien." Teletransporte con Cha (y Kase). Tele: "JEJU: LOS 16 CAZADORES COREANOS, VIVOS" / "¿QUIÉN ES FACUNDO MORELLI?". La señora Kang de rodillas frente a la tele toda la mañana; se le cae la taza; Cha la abraza; las dos lloran. Kase en el sofá. La señora Kang le toma la cara a Facundo: "'Todo lo que tenga en mis manos'. Eso me dijiste. Aquí, en esta mesa." Dos palmadas. "¿Comiste algo? Seguro que no comiste nada en todo el día."

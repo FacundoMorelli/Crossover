@@ -59,3 +59,4 @@
 - T1845 · TRIPULACIÓN Y FUNCIONARIOS DEL BUQUE ven aparecer de la nada a Facundo con los 16 coreanos, el camarógrafo y Jinwoo (teletransporte). Woo Jinchul presente.
 - T1846 · INTERNACIONAL: las Asociaciones de Japón (2 llamadas) y EE. UU. (1) ya preguntaron a Go Gunhee por Facundo (vieron la transmisión).
 - T1847 · GOTO vio la transmisión desde el helicóptero; deduce que Facundo pudo haber salvado a los japoneses (puede aparecer donde quiere).
+- T1849 · KANG MI-SOOK vio a Facundo aparecer de la nada en su living con Hae-in.

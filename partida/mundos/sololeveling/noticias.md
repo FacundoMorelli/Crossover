@@ -13,3 +13,4 @@
 - Día 8 · (interno, a los S) La Asociación convoca la 4.ª incursión a Jeju para dentro de dos semanas, con Japón.
 - Día 10 · Fotos borrosas de algo enorme, negro, con alas, cruzando el cielo de Seúl de madrugada (¿dron, monstruo, montaje?).
 - Día 21 · Anuncio oficial de la 4.ª incursión a Jeju; transmisión en vivo con camarógrafo de rango A. Pantalla gigante de Gangnam con las caras de los 16 coreanos; Cha Hae-in al final: "LA PRINCESA DE LA ESPADA".
+- Día 22 mediodía · Todos los canales: "JEJU: LOS 16 CAZADORES COREANOS, VIVOS" / "¿QUIÉN ES FACUNDO MORELLI?", repitiendo la última imagen de la transmisión.
