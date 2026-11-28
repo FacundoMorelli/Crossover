@@ -17,3 +17,4 @@ ESTADO: llega a la Puerta de Gangnam con el Gremio. ADULTA.
 - T1767 · Sabe (por Facundo) su nombre: Facundo Morelli. "Facundo Morelli. Mucho gusto. Yo soy Cha Hae-in." Reverencia corta y media sonrisa. "Y tu gato..." (la interrumpen). "Si sigues por acá cuando salgamos... Bueno. No sé cuánto vamos a tardar." Entra a la Puerta; antes gira la cabeza hacia la vereda.
 - T1768 · (Facundo la observa sin ser visto) Danza de la Espada en el túnel: la espada como una cinta; deja orcos en el piso a cada vuelta. Ve a Jinwoo extraer la sombra del chamán. A Jinwoo, bajito: "Tú tampoco hueles mal. Como el chico de afuera." (Le cuenta a Jinwoo, sin nombrarlo, que hay alguien que no huele.)
 - T1769 · Al salir busca a Facundo entre la multitud; sonrisa de alivio al verlo. Se lo señala a Jinwoo y va a la cinta: "Facundo. Te quedaste." (Recuerda su nombre.)
+- T1770 · Le cuenta a Jinwoo en voz baja que Facundo no sabía qué son los cazadores ni las Puertas.

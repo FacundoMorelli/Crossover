@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1767)
-
-me llamo Facundo Morelli, mucho gusto
-
-## RESPUESTA 1 (T1767)
-
-> me llamo Facundo Morelli, mucho gusto
-
-> —Me llamo Facundo Morelli. Mucho gusto.
-
-—Facundo Morelli. —Lo repite despacio, con un acento coreano que le ablanda las erres, como si quisiera acordarse—. Mucho gusto. Yo soy Cha Hae-in.
-
-Inclina la cabeza, una reverencia corta, formal, de las que se hacen a un desconocido. Pero cuando levanta la cara, tiene una media sonrisa que no le sale del todo, como si no estuviera acostumbrada a usarla.
-
-—Y tu gato...
-
-—¡VICEMAESTRA!
-
-Cha Hae-in cierra los ojos un segundo, con paciencia. Los abre.
-
-—Tengo que irme. —Da un paso atrás, sin darse vuelta todavía—. Si sigues por acá cuando salgamos... —Lo piensa. No termina la frase. Se le colorean otra vez las orejas—. Bueno. No sé cuánto vamos a tardar.
-
-Se da vuelta y camina rápido hacia la Puerta, con la espada larga golpeándole suave la espalda. El grandote del escudo la espera con cara de alivio. El hombre de los anteojos dorados le dice algo seco, sin mirarla. El chico de la chaqueta negra no dice nada; solo la mira pasar, y después, otra vez, por encima de su hombro, mira hacia la cinta. Hacia ti. Un segundo más largo que la primera vez.
-
-Después entran.
-
-Uno por uno, los cazadores del gremio cruzan el óvalo violeta, y la oscuridad del otro lado se los traga sin ruido, como si atravesaran una cortina de agua. El grandote del escudo. Dos magos con báculos. Un arquero. El hombre de los anteojos dorados, con una llama chiquita encendiéndose en la punta de los dedos. Cha Hae-in, que antes de cruzar gira la cabeza una vez hacia la vereda.
-
-El último es el chico de la chaqueta negra. Entra con las manos todavía en los bolsillos, como quien entra a un almacén.
-
-La multitud aplaude, filma, se dispersa de a poco. Los agentes de la Asociación ajustan las vallas. Una periodista con micrófono hace su nota delante de la cámara, de espaldas a la Puerta.
-
-Y tú, por primera vez, la miras de verdad.
-
-Algo en el pecho, en el lugar donde vive el Don de este mundo, se enciende solo. Ves la Puerta como si fuera transparente: el óvalo, los bordes que giran, y del otro lado, como en un plano dibujado con luz, una caverna enorme, de piedra húmeda, con decenas de figuras grandes y verdes que se mueven entre antorchas. Y en el fondo, en un trono de huesos, una más chica, encorvada, con un báculo, que brilla más que todas.
-
-[Puerta de Gangnam: rango A. Rango real: A. Sin trampas.]
-
-[Interior: 58 orcos altos · 1 chamán orco alto (jefe).]
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1767 · SOLO LEVELING · DÍA 1 · 21:47   ║
-║ Seúl, Corea del Sur                          ║
-║ Gangnam, cinta del cordón de la Puerta       ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.815 · 0 won                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1768)
+## COMANDO 1 (T1768)
 
 entro sin que nadie me vea y veo lo que hacen sin que me vean,
 
-## RESPUESTA 2 (T1768)
+## RESPUESTA 1 (T1768)
 
 > entro sin que nadie me vea y veo lo que hacen sin que me vean
 
@@ -175,11 +118,11 @@ Arriba, en tu saliente de roca, Kase mueve la punta de la cola.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1769)
+## COMANDO 2 (T1769)
 
 salgo antes que todos y de vuelta sin que me vean estoy en el mismo lugar de antes
 
-## RESPUESTA 3 (T1769)
+## RESPUESTA 2 (T1769)
 
 > salgo antes que todos y de vuelta sin que me vean estoy en el mismo lugar de antes
 
@@ -234,6 +177,62 @@ Jinwoo no dice nada. Te mira los ojos. Después le baja la vista a tus manos, a 
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1770)
+
+si, soy un viajero, uso tasación en sung (y acordate de leer bien todas las reglas, etc, por que se compacto y no quiero que pierdas el hilo)
+
+## RESPUESTA 3 (T1770)
+
+> si, soy un viajero, uso tasación en sung
+
+> —Sí. Soy un viajero.
+
+Lo miras a Jinwoo, y el Sistema hace lo suyo, frío, en silencio.
+
+```
+╔════════════════════════════════════════╗
+║ SUNG JINWOO                            ║
+║ Cazador de rango S (reevaluado)        ║
+║ PODER: Sombras (extracción y mando),   ║
+║        dagas · origen: sin datos       ║
+║ AMENAZA: BAJA                          ║
+║ Diferencia estimada: tú x65 sobre él   ║
+║ Se contiene: esconde parte de su maná  ║
+║ COPIABLE · MISIÓN: EXTREMA             ║
+╚════════════════════════════════════════╝
+```
+
+Jinwoo no parpadea mientras lo miras. Es como si sintiera que alguien lo está midiendo, pero no supiera desde dónde. Mueve apenas los dedos dentro del bolsillo de la chaqueta.
+
+—Un viajero —repite, sin tono.
+
+—No sabía qué son los cazadores —le dice Cha Hae-in en voz baja, como si fuera un dato importante—. Ni las Puertas.
+
+Jinwoo la mira un segundo, con una ceja apenas levantada, y vuelve a ti. Te mira la cicatriz. Los ojos, uno rojo y uno azul. Después a Kase, que le devuelve exactamente la misma mirada, con los mismos dos colores, sin mover un bigote.
+
+Algo en la cara de Jinwoo cambia, muy poco. No es desconfianza. Es la cara de alguien que está acostumbrado a ser el que esconde algo y que, por primera vez en mucho tiempo, sospecha que tiene enfrente a otro.
+
+Detrás de ellos, la periodista grita el nombre de Cha Hae-in y el camarógrafo corre hacia la cinta. Del otro lado, Choi Jong-In se acomoda los anteojos y mira la escena desde lejos, con impaciencia.
+
+Jinwoo no les hace caso. Da medio paso hacia la cinta, lo suficiente para que nadie más escuche.
+
+—Hay una Puerta de rango A en medio de la avenida, a las once de la noche —dice, tranquilo—. Y un viajero que no sabe qué es una Puerta se queda dos horas mirándola. —Te mira a los ojos—. ¿Por qué?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1770 · SOLO LEVELING · DÍA 1 · 23:13   ║
+║ Seúl, Corea del Sur                          ║
+║ Gangnam, cinta del cordón de la Puerta       ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.815 · 0 won                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 1 23:12. Facundo salió de la Puerta antes que todos sin ser visto; está en la cinta, mismo lugar. 23:10 sale el gremio. Cha Hae-in lo busca, lo encuentra, se lo señala a Jinwoo; ambos van a la cinta. Cha: "Facundo. Te quedaste." Jinwoo lo examina (busca algo que no está: su maná/sombra): "¿Tú eres el chico de afuera?"
+ESTADO AL CIERRE: Día 1 23:13, cinta de Gangnam. Facundo: "Sí. Soy un viajero." Tasación de Jinwoo (Sombras, dagas, origen sin datos; amenaza BAJA; tú x65 sobre él; se contiene; misión EXTREMA). Cha Hae-in le cuenta a Jinwoo que Facundo no sabía qué son cazadores ni Puertas. Jinwoo, aparte, en voz baja: "¿Por qué?" (un viajero que no sabe qué es una Puerta se queda dos horas mirándola). Choi Jong-In espera impaciente; periodista se acerca.
