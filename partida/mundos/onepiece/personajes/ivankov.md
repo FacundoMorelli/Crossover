@@ -11,3 +11,4 @@ ESTADO: en Momoiro, esperando.
 - T1871 · "¡NO LO TOQUES! ¡Si se lo sacan sin la llave, explota igual!" Ve el collar deshacerse en polvo violeta (Hakai): "...Hee-haw." (susurro)
 - T1873 · Se tapa la cara con la capa, llorando, en el reencuentro de Kuma y Bonney.
 - T1876 · Pide por Den Den Mushi comida, vino y ropa de la talla más grande. Tras ver a Dragon y Kuma: "¡¡SUFICIENTE!! ¡¡Tanto llanto me arruina el maquillaje, vanaata!! ¡¡Hoy en el Reino Kamabakka hay FIESTA!! ¡¡Comida para cien, vino para mil, y ropa nueva para Kuma-boy!! ¡¡Hee-haw!! ¡¡Y TÚ, Ojos de Eclipse!! ¡¡No te atrevas a desaparecer antes de que te sirva el primer plato!! ¡¡¿Me oíste?!!"
+- T1877 · "¿Sanji-boy? ¡El rubio de la ceja enroscada! ¡Hace cinco meses que está! ¡Corriendo por toda la isla, gritando, peleando con mis candies, y robándose las recetas del rey de la cocina una por una, como una rata!"

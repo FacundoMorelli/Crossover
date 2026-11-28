@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1874)
-
-soy Facundo Morelli, un viajero, le saco los grilletes, me llaman Ojos de eclipse
-
-## RESPUESTA 1 (T1874)
-
-> soy Facundo Morelli, un viajero, le saco los grilletes, me llaman Ojos de eclipse
-
-> —Soy Facundo Morelli. Un viajero.
-
-Te acercas. Bonney se pone tensa, con los puños esposados levantados, todavía apoyada en el pecho de su padre. Kuma le pone una mano enorme en la espalda, despacio. Ella baja los puños.
-
-Le agarras los grilletes de las muñecas. La piedra gris azulada es fría, pesada, áspera. A ella la aplasta: lo ves en cómo le tiemblan los brazos, en cómo le cuesta respirar. A ti no te hace nada. Ninguna de las frutas que llevas copiadas trae la debilidad del mar.
-
-Cierras la mano.
-
-El kairoseki cruje. Se raja. Se parte en dos pedazos que caen a las baldosas rosas con un golpe sordo. Te agachas, agarras los de los tobillos, y los partes igual, con los dedos, como si fueran de tiza.
-
-Bonney se queda mirando los pedazos en el piso. Se mira las muñecas libres, rojas, marcadas. Abre y cierra las manos. Respira hondo, una vez, larga, como quien sale de abajo del agua.
-
-> —Me llaman Ojos de Eclipse.
-
-Bonney levanta la cabeza de golpe.
-
-—¿Ojos de Eclipse? —Se le abren los ojos violetas—. ¿El de Marineford? ¿El que bajó a Puño de Fuego del cadalso delante de todo el mundo?
-
-Te mira de arriba abajo otra vez, ahora de otra manera: el pelo blanco y azul, los ojos, la cicatriz, el gato sentado al lado de su padre.
-
-—Vi tu foto en todos los diarios —dice, despacio—. Pensé que eras más alto.
-
-Kuma, detrás de ella, deja escapar algo que en otro hombre sería una risa. Bonney se da vuelta a mirarlo, sorprendida, como si no le hubiera escuchado reírse en años. Después vuelve a ti. Se seca la cara con el brazo libre. La boca le tiembla, todavía. Pero se cruza de brazos, como para que no se le note.
-
-—No sé qué hiciste —dice—. Ni cómo. Ni por qué. —Mira a su padre, que la mira a ella—. Pero... me lo devolviste.
-
-Se le quiebra la voz en la última palabra. Aprieta los dientes.
-
-—Te debo una. Una grande. —Te señala con el dedo—. Y yo pago mis deudas, Ojos de Eclipse.
-
-Detrás, Sabo se pone de pie de un salto, con el sombrero de copa en la mano, y se le borra la sonrisa.
-
-—¡Facundo! —Te mira con cara de pánico—. ¡El minuto! ¡Le dijiste a Robin un minuto! —Saca un reloj de bolsillo, lo mira—. ¡Pasaron cuatro!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1874 · ONE PIECE · DÍA ~227 · 08:14    ║
-║ Isla Momoiro · Reino Kamabakka               ║
-║ Patio frente al castillo de Ivankov          ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 94% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: sentado junto a Kuma                   ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Sabo: "¡Pasaron cuatro minutos!"   ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1875)
+## COMANDO 1 (T1875)
 
 me teletransporto con sabo a baltigo con robin
 
-## RESPUESTA 2 (T1875)
+## RESPUESTA 1 (T1875)
 
 > me teletransporto con sabo a baltigo con robin
 
@@ -133,11 +76,11 @@ Te mira.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1876)
+## COMANDO 2 (T1876)
 
 si, me teletransporto con dragon a momoiro
 
-## RESPUESTA 3 (T1876)
+## RESPUESTA 2 (T1876)
 
 > si, me teletransporto con dragon a momoiro
 
@@ -206,6 +149,65 @@ En la escalera, Ivankov suelta un sollozo enorme que retumba en todo el patio, y
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1877)
+
+esta bien, sanji esta?
+
+## RESPUESTA 3 (T1877)
+
+> esta bien, sanji esta?
+
+> —Está bien. ¿Sanji está?
+
+Ivankov se queda con el dedo en el aire.
+
+—¿Sanji-boy? —Pone los ojos en blanco, con un suspiro dramático que le infla la capa—. ¡El rubio de la ceja enroscada! ¡Claro que está! ¡Hace cinco meses que está! ¡Corriendo por toda la isla, gritando, peleando con mis candies, y robándose las recetas del rey de la cocina una por una, como una rata! —Se cruza de brazos—. ¡Ahora mismo debe estar en el...!
+
+No termina.
+
+Del otro lado del patio, detrás de una fila de setos rosas recortados en forma de corazón, se escucha un grito. Largo, desesperado, ronco, de hombre que corre por su vida.
+
+—¡¡¡ALÉJENSE DE MÍ, MONSTRUOS!!!
+
+Y por encima de los setos salta una figura delgada, de traje negro roto, corbata suelta, pelo rubio largo tapándole un ojo, un cigarro apagado en la boca, y una ceja enroscada que se le ve desde lejos. Aterriza en las baldosas rosas rodando, se levanta sin parar, y sigue corriendo.
+
+Detrás de él, por encima de los setos, saltan seis okamas enormes, con vestidos de volados, barba de tres días, labios pintados y los brazos abiertos.
+
+—¡¡SANJI-CHAN!! ¡¡VEN, QUE TE PREPARAMOS UN VESTIDO NUEVO!!
+
+—¡¡NI MUERTO!!
+
+Sanji cruza el patio a toda velocidad, esquivando okamas sentadas, saltando por encima de una mesa, mirando para atrás. No ve nada más. No ve a Kuma. No ve a Dragon. No ve a Bonney.
+
+Te ve a ti.
+
+Frena en seco. Las suelas de los zapatos chirrían sobre las baldosas. Se le cae el cigarro de la boca. Se queda congelado a dos metros, con el pelo revuelto, la camisa abierta, la cara colorada de correr, mirándote como si hubiera visto un fantasma.
+
+—¿...Facundo?
+
+Detrás de él, las seis okamas frenan también, chocándose entre ellas.
+
+Sanji te mira el pelo. Los ojos. El gato. Se le transforma la cara entera.
+
+—¡FACUNDO! —grita, y la voz se le quiebra de alivio—. ¡Por favor! ¡Por lo que más quieras! ¡Eres el único que puede! —Se te tira encima, te agarra de las solapas del sobretodo con las dos manos, temblando, con los ojos desorbitados—. ¡Sácame de esta isla! ¡Aunque sea un día! ¡Una hora! ¡Necesito ver una mujer de verdad! ¡UNA! ¡Te lo ruego!
+
+Detrás de ti, por primera vez en lo que va de la mañana, a Jewelry Bonney se le escapa una carcajada.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1877 · ONE PIECE · DÍA ~227 · 08:19    ║
+║ Isla Momoiro · Reino Kamabakka               ║
+║ Patio frente al castillo de Ivankov          ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 94% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirando a las okamas     ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Sanji: "¡Sácame de esta isla!"     ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 08:17, patio de Momoiro. "Sí." Robin: "Esta vez no cuento. Tómate el tiempo que haga falta." Teletransporte con Dragon (brazo tenso). Kuma sentado en el patio con Bonney en la rodilla. Dragon y Kuma se miran: "Dragon." "Kuma." KUMA SONRÍE. A Dragon le tiembla la mandíbula; le pone la mano en el hombro: "Bienvenido." Ivankov: "¡¡Hoy en el Reino Kamabakka hay FIESTA!! Comida para cien, vino para mil, ropa nueva para Kuma-boy... ¡¡Y TÚ, Ojos de Eclipse!! ¡¡No te atrevas a desaparecer antes de que te sirva el primer plato!!"
+ESTADO AL CIERRE: Día ~227 08:19, patio de Momoiro. "Está bien. ¿Sanji está?" Ivankov: hace cinco meses que está, peleando con sus candies y robando las recetas del rey. Sanji aparece saltando los setos perseguido por seis okamas ("¡¡SANJI-CHAN!! ¡¡VEN, QUE TE PREPARAMOS UN VESTIDO NUEVO!!" / "¡¡NI MUERTO!!"). Ve a Facundo, frena, se le cae el cigarro: "¿...Facundo?" Lo agarra de las solapas: "¡Sácame de esta isla! ¡Aunque sea un día! ¡Una hora! ¡Necesito ver una mujer de verdad! ¡UNA! ¡Te lo ruego!" Bonney se ríe por primera vez.

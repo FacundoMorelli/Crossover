@@ -1876,3 +1876,4 @@ T1873 · ONE PIECE · Buque prisión → Momoiro · Saca a Bonney de su celda. R
 T1874 · ONE PIECE · Momoiro · Rompe los grilletes de Bonney. "Me llaman Ojos de Eclipse." Bonney: "Te debo una." Sabo: "¡Pasaron cuatro minutos!"
 T1875 · ONE PIECE · Torre de Dragon · Vuelve con Sabo. Robin: "Cuatro minutos y once segundos. Llegas tarde." Dragon: "¿Me llevarías a ver a Kuma?"
 T1876 · ONE PIECE · Momoiro · Lleva a Dragon con Kuma. Kuma sonríe. "Bienvenido." Ivankov declara fiesta.
+T1877 · ONE PIECE · Momoiro · Sanji huye de las okamas y ve a Facundo: "¡Sácame de esta isla!" Bonney se ríe.

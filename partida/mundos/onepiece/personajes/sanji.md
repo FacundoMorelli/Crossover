@@ -16,3 +16,4 @@ ENCUENTROS:
 - T585 · Llega corriendo con bolsas. "¡¿Facundo?! ¡¿De dónde saliste?! ...Hay comida para uno más, supongo."
 - T664 · Ve a Robin dormida en el hombro de Facundo; muerde un trapo en silencio.
 - T918 · Día 57 · (simulado) Momoiro, perseguido por okamas; ruega que lo saquen. Al saber de las 99 recetas del rey, decide quedarse dos años. Avisado: dos años y Sabaody. Ve a Facundo y Luffy aparecer de la nada.
+- T1877 · Día ~227 08:19 · Momoiro (lleva ~5 meses: pelea con las candies, roba las recetas del rey). Salta los setos huyendo de seis okamas ("¡¡ALÉJENSE DE MÍ, MONSTRUOS!!"; "¡¡NI MUERTO!!"). Ve a Facundo, se le cae el cigarro: "¿...Facundo?" Lo agarra de las solapas: "¡FACUNDO! ¡Por favor! ¡Por lo que más quieras! ¡Eres el único que puede! ¡Sácame de esta isla! ¡Aunque sea un día! ¡Una hora! ¡Necesito ver una mujer de verdad! ¡UNA! ¡Te lo ruego!" (No vio todavía a Kuma, Dragon ni Bonney.)
