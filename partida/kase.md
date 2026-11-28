@@ -183,3 +183,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1741 (Fullmetal) · Se sube a la palma de hierro de Alphonse Elric y se enrosca.
 - T1757 (Fullmetal) · Baja solo del hombro, se sienta frente a Elicia Hughes (3 años, casi de su tamaño) y le apoya la frente en la palma de la mano.
 - T1763 (Fullmetal) · Duerme en las rodillas de Elicia en la cena; deja que Brosh le toque la cola y que Al le dé un beso.
+- T1777 · Seúl, tienda 24 h junto al río Han: elige las latas de atún parado en dos patas contra la heladera; el dueño no se anima a echarlo y le regala un platito de cartón.

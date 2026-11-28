@@ -1,13 +1,13 @@
 {
-  "turno": 1776,
+  "turno": 1777,
   "mundo_actual": "sololeveling",
   "fecha_local": "Solo Leveling: Día 1 (arco de la Reevaluación / Puerta del Gremio de Cazadores)",
-  "hora": "Día 2, 00:04 (Seúl)",
+  "hora": "Día 2, 00:09 (Seúl)",
   "edad": 18,
   "nivel": 34,
   "exp": 486130,
   "exp_siguiente_nivel": 530000,
-  "fragmentos": 298815,
+  "fragmentos": 298805,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -86,7 +86,7 @@
     },
     "sololeveling": {
       "moneda": "won",
-      "cantidad": 0,
+      "cantidad": 1292800,
       "cambio": "1 Fragmento = 130.000 won (fijado T1764)"
     }
   },

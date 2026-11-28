@@ -3,52 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1774)
-
-si claro que puedes
-
-## RESPUESTA 1 (T1774)
-
-> si claro que puedes
-
-> —Sí, claro que puedes.
-
-A Cha Hae-in se le escapa una sonrisa. Es corta, pero esta vez no la esconde. Se le ve en los ojos antes que en la boca.
-
-—Bien —dice. Y después, más bajito, como para ella—: Bien.
-
-Se queda un segundo así, sin saber qué hacer con las manos. Mira la tarjeta llave en tu mano, después a Kase, que bosteza enorme, con todos los dientes.
-
-—No tienes teléfono, ¿verdad?
-
-No espera la respuesta. Ya sabe cuál es. Saca del bolsillo de la chaqueta un bolígrafo y, como no tiene papel, agarra la tarjetita del hotel que vino con la llave y escribe atrás, con letra prolija y apurada, un número de once cifras. Te la devuelve.
-
-—Es mi número. Si necesitas algo, llama desde la habitación. —Duda—. Aunque sea tarde.
-
-Da un paso hacia el ascensor. Se detiene y se da vuelta.
-
-—Termino en la oficina antes del mediodía. —Se le colorean otra vez las orejas—. ¿Te parece bien a la una? Puedo traerte a comer algo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1774 · SOLO LEVELING · DÍA 1 · 23:34   ║
-║ Seúl, Corea del Sur                          ║
-║ Gangnam, hotel · piso 22, puerta de la 2207  ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.815 · 0 won                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1775)
+## COMANDO 1 (T1775)
 
 dale me parece bien, te espero aca
 
-## RESPUESTA 2 (T1775)
+## RESPUESTA 1 (T1775)
 
 > dale me parece bien, te espero aca
 
@@ -85,11 +44,11 @@ Sobre la mesita de luz hay un teléfono blanco y un control remoto. La tarjetita
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1776)
+## COMANDO 2 (T1776)
 
 dejo la tarjeta ahi y salgo a pasear con kase
 
-## RESPUESTA 3 (T1776)
+## RESPUESTA 2 (T1776)
 
 > dejo la tarjeta ahi y salgo a pasear con kase
 
@@ -134,6 +93,53 @@ Después se da vuelta y te mira.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1777)
+
+cambio fragmentos a won y le compro algo a kase
+
+## RESPUESTA 3 (T1777)
+
+> cambio fragmentos a won y le compro algo a kase
+
+Abres la tienda del Sistema con un pensamiento. Nadie más la ve.
+
+[Cambio: 10 Fragmentos → 1.300.000 won.]
+
+Los billetes aparecen doblados en el bolsillo del sobretodo, como si siempre hubieran estado ahí: verdes y amarillos, con caras de sabios antiguos y flores.
+
+Empujas la puerta de vidrio. Suena una campanita. Adentro hace calor y huele a fideos, a café de máquina y a plástico nuevo. El señor del mostrador levanta la vista de la tele, ve a Kase entrar detrás de ti con la cola levantada y abre la boca como para decir que no se puede. Kase lo mira. El señor cierra la boca.
+
+Kase va directo a la heladera del fondo, se para en dos patas y apoya una pata contra el vidrio, justo frente a las latas de atún.
+
+Tomas dos latas de atún, un sobrecito de premios para gato con un dibujo de un gato gordo sonriendo y una botellita de leche. El señor lo pasa todo por la caja sin dejar de mirar al gato de reojo.
+
+—Siete mil doscientos won.
+
+Le das un billete de diez mil. Te da el cambio en monedas y billetes chicos, y después, sin que le pidas nada, saca de abajo del mostrador un platito de cartón y lo pone encima de la bolsa.
+
+—Para el gato —dice, seco, y vuelve a mirar la tele.
+
+Afuera, el chico de la capucha te ve salir con la bolsa y con Kase pegado a los talones. Tiene la cara flaca, ojeras y unos diecisiete años. Deja de comer, con los palillos en el aire.
+
+Lo mira a Kase. Después te mira a ti, a la cara.
+
+—Tiene los ojos iguales a los tuyos —dice, en voz baja, casi sorprendido de haberlo dicho en voz alta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1777 · SOLO LEVELING · DÍA 2 · 00:09   ║
+║ Seúl, Corea del Sur                          ║
+║ Parque junto al río Han · tienda 24 horas    ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.292.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: a tus pies, mirando la bolsa           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Cha Hae-in vuelve a la una         ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 00:04. Tarjetita con el número de Cha en la mesita de luz de la 2207; Facundo lleva la llave. Paseo por Gangnam: noticiero público sobre Jeju (casi 4 años tomada, 3 incursiones fallidas, se analiza una 4.ª con Japón). Parque junto al río Han, tienda 24 h con mesa de plástico afuera; señor mayor en el mostrador; chico flaco con capucha comiendo ramyeon solo, mirando el río. Kase sentado frente al vidrio mirando la heladera, se da vuelta y mira a Facundo. 0 won.
+ESTADO AL CIERRE: Día 2 00:09. Cambió 10 Frag → 1.300.000 won. Compró en la tienda 24 h: 2 latas de atún, premios para gato, botellita de leche (7.200 won); el dueño le regaló un platito de cartón "para el gato". Quedan 1.292.800 won (en el bolsillo). Afuera, el chico de la capucha (~17, flaco, ojeras) deja de comer: "Tiene los ojos iguales a los tuyos."
