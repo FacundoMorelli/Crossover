@@ -3,56 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1820)
-
-te lo prometo, le doy un beso
-
-## RESPUESTA 1 (T1820)
-
-> te lo prometo, le doy un beso
-
-> —Te lo prometo.
-
-Le das un beso.
-
-Cha Hae-in cierra los ojos. Te suelta la mano y te agarra de la nuca, despacio, y se queda así un rato largo, con la frente pegada a la tuya cuando se separan, respirando contra tu boca. La lluvia sigue golpeando el vidrio. Kase, aplastado entre los dos, suelta un gruñido corto de protesta y no se mueve.
-
-—Te creo —dice ella, en un susurro.
-
-Se aparta un poco. Se saca el abrigo por fin, mojado en los hombros, y lo deja caer al piso sin cuidado, cosa que no le viste hacer nunca. Se suelta el pelo. Se acuesta de espaldas sobre la cama, al lado tuyo, con los brazos abiertos, mirando el techo, y suelta todo el aire de golpe, como después de salir de una Puerta.
-
-—Qué día —dice al techo.
-
-Kase se le sube encima de la panza y se echa ahí, enorme. Ella se ríe, sin aire, y le pone una mano encima del lomo.
-
-Se queda un rato así, acariciando al gato, en silencio. Después gira la cabeza sobre la colcha para mirarte.
-
-—Mañana empiezan los entrenamientos con los japoneses —dice—. En el centro de entrenamiento de la Asociación, en Yeouido. Viene Goto Ryuji, el maestro del gremio Draw Sword, el cazador más fuerte de Japón. Vamos a practicar formaciones juntos, para que nadie se estorbe allá adentro.
-
-Duda un segundo. Juega con el pelo largo de Kase entre los dedos.
-
-—Los entrenamientos no son secretos. Van periodistas, familiares, gente del gremio, a mirar desde las gradas. —Te mira de reojo, con media sonrisa—. ¿Quieres venir a verme?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1820 · SOLO LEVELING · DÍA 8 · 16:20   ║
-║ Seúl, Corea del Sur                          ║
-║ Hotel de Gangnam · habitación 2207           ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: echado sobre la panza de Cha           ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Incursión a Jeju en dos semanas    ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1821)
+## COMANDO 1 (T1821)
 
 si, claro que voy a ir a verte
 
-## RESPUESTA 2 (T1821)
+## RESPUESTA 1 (T1821)
 
 > si, claro que voy a ir a verte
 
@@ -157,11 +112,11 @@ Abre la caja de comida. Mira a Kase.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1822)
+## COMANDO 2 (T1822)
 
 si, le doy arroz a kase, mucho gusto soy Facundo
 
-## RESPUESTA 3 (T1822)
+## RESPUESTA 2 (T1822)
 
 > si, le doy arroz a kase, mucho gusto soy Facundo
 
@@ -204,6 +159,72 @@ En tu palma, Kase lame los últimos granos de arroz y levanta la cabeza para mir
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1823)
+
+no, confío en ella, es muy fuerte
+
+## RESPUESTA 3 (T1823)
+
+> no, confío en ella, es muy fuerte
+
+> —No. Confío en ella. Es muy fuerte.
+
+Min Byung-Gyu te mira un segundo. Después sonríe otra vez, despacio, con los ojos cerrándosele.
+
+—Tiene razón —dice—. Es la más fuerte de todos nosotros con una espada en la mano. Más que Choi, aunque él no lo admita. —Se ríe por la nariz—. Y ahora, además, tiene a alguien que la espera sin llorar. Eso también ayuda.
+
+Abajo suena un silbato. Termina la pausa. Min se pone de pie, cierra la caja de comida y le da a Kase, con la punta del dedo, un toquecito en la cabeza. Kase lo permite. Una sola vez.
+
+—Fue un gusto, Facundo. —Una inclinación corta—. Cuando volvamos de Jeju, lo invito a comer. Con la vicemaestra. Y con el gato.
+
+Baja las escaleras de dos en dos, trotando, y se pierde entre los cazadores de la arena.
+
+La tarde sigue. Más formaciones, más simulacros. Baek Yoonho se transforma, por primera vez delante de todos, en una bestia blanca enorme, mitad tigre, mitad hombre, con garras como cuchillos, y las gradas gritan. Choi Jong-In levanta un muro de fuego de cuarenta metros que hace subir la temperatura de todo el edificio. Cha Hae-in y Goto Ryuji repiten la formación de espadas tres veces más.
+
+```
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Transformación en bestia blanca              ║
+║ USUARIO: Baek Yoonho · Solo Leveling         ║
+║                                              ║
+║ MISIÓN: Pelear con Baek Yoonho transformado, ║
+║ sin usar ninguna transformación propia,      ║
+║ hasta que él vuelva a su forma humana.       ║
+║ DIFICULTAD: MEDIA                            ║
+╚══════════════════════════════════════════════╝
+```
+
+A las cinco termina el entrenamiento. Los cazadores se dispersan. Algunos se van a las duchas, otros hablan con la prensa junto a la valla de la arena.
+
+Goto Ryuji no se va. Se queda en el centro de la arena, con la katana envainada, secándose el cuello con una toalla, y mira hacia la grada. Hacia ti. Le dice algo a Cha Hae-in en japonés, y ella le contesta, corta, seca. Él se ríe, fuerte, una carcajada grave que se escucha en todo el edificio.
+
+Después camina hacia la grada. Se detiene abajo, junto a la baranda de la primera fila, a dos metros de ti, mirándote desde abajo con una sonrisa ancha, de lobo, y la toalla colgada al cuello. Habla en japonés, despacio, y el Sistema te lo da como si fuera tu idioma:
+
+—Así que tú eres el famoso novio sin maná. —Te mide de arriba abajo. Los hombros, las manos, la manera en que estás sentado—. La vicemaestra Cha es la mejor espada que vi fuera de Japón. Y eligió a un hombre que no puede entrar a una Puerta. —Ladea la cabeza, divertido—. Pero tienes manos de espadachín. Callos donde va la empuñadura. Y no me tienes miedo. Eso no lo tiene un civil.
+
+Le hace una seña a uno de sus cazadores, que le alcanza dos espadas de madera de práctica, gruesas, pesadas.
+
+Goto te tira una por encima de la baranda.
+
+—Baja —dice—. Cinco minutos. Quiero ver qué vio ella.
+
+Abajo, junto a las duchas, Cha Hae-in se queda quieta, mirándote, con la toalla en la mano.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1823 · SOLO LEVELING · DÍA 9 · 17:04   ║
+║ Seúl, Corea del Sur                          ║
+║ Yeouido · centro de entrenamiento, gradas    ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirando a Goto           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Goto te desafía (espada de madera) ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 9 13:12, gradas de Yeouido. "Sí. Mucho gusto, soy Facundo." Kase come arroz de la mano de Facundo. Min: su hermana tiene un gato; cuenta que hace 3 años curó a Cha (espalda abierta en Daegu; al despertar preguntó por los demás y volvió a entrar). Estuvo en la 3.ª incursión a Jeju: 24, volvieron 10; las hormigas son muchas, rápidas, piensan, atacan primero a los sanadores; Choi lo cubrió con fuego dos horas. "Usted no es cazador... ¿No le da miedo? Que vaya, digo." Cha mira desde abajo, curiosa.
+ESTADO AL CIERRE: Día 9 17:04, gradas de Yeouido. "No. Confío en ella. Es muy fuerte." Min: "Es la más fuerte de todos con una espada... tiene a alguien que la espera sin llorar." Invita a comer al volver de Jeju. Tarde: Baek Yoonho se transforma (bestia blanca; copia MEDIA emitida); muro de fuego de Choi. 17:00 fin. Goto Ryuji habla con Cha en japonés (ella seca, él ríe), se acerca a la baranda: "el famoso novio sin maná... tienes manos de espadachín... no me tienes miedo." Le tira una espada de madera: "Baja. Cinco minutos. Quiero ver qué vio ella." Cha mira quieta junto a las duchas.

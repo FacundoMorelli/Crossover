@@ -1,8 +1,8 @@
 {
-  "turno": 1822,
+  "turno": 1823,
   "mundo_actual": "sololeveling",
   "fecha_local": "Solo Leveling: Día 1 (arco de la Reevaluación / Puerta del Gremio de Cazadores)",
-  "hora": "Día 9, 13:12 (Seúl)",
+  "hora": "Día 9, 17:04 (Seúl)",
   "edad": 18,
   "nivel": 34,
   "exp": 486130,
@@ -1755,6 +1755,13 @@
       "mision": "Que Min Byung-Gyu salga vivo de la isla de Jeju.",
       "dificultad": "ALTA",
       "emitida": "T1821"
+    },
+    {
+      "poder": "Transformación en bestia blanca (Baek Yoonho)",
+      "mundo": "sololeveling",
+      "mision": "Pelear con Baek Yoonho transformado, sin usar ninguna transformación propia, hasta que él vuelva a su forma humana.",
+      "dificultad": "MEDIA",
+      "emitida": "T1823"
     }
   ],
   "misiones_de_copia_rechazadas": [],

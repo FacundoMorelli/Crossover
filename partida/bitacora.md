@@ -1822,3 +1822,4 @@ T1819 · SOLO LEVELING · Hotel de Gangnam · "Está bien, amor." Cha agradece q
 T1820 · SOLO LEVELING · Hotel de Gangnam · "Te lo prometo." Cha lo invita a ver mañana los entrenamientos con los japoneses en Yeouido.
 T1821 · SOLO LEVELING · Yeouido · Entrenamiento Corea-Japón. Tasa a Goto y a Min; copias de ambos. Min se sienta a su lado.
 T1822 · SOLO LEVELING · Yeouido · Min Byung-Gyu: la 3.ª incursión a Jeju (24→10), las hormigas atacan a los sanadores. "¿No le da miedo?"
+T1823 · SOLO LEVELING · Yeouido · "Confío en ella." Copia de Baek Yoonho emitida. Goto Ryuji le tira una espada de madera: "Quiero ver qué vio ella."

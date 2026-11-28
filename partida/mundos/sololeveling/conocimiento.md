@@ -42,3 +42,4 @@
 - T1820 · FACUNDO sabe por Cha: entrenamientos conjuntos con japoneses desde el Día 9 en el centro de la Asociación en Yeouido; Goto Ryuji (Draw Sword) participa; abiertos al público en gradas.
 - T1821 · ~200 espectadores, la prensa y los cazadores vieron a Facundo en la grada y a Cha saludándolo. MIN BYUNG-GYU se presenta.
 - T1822 · FACUNDO sabe por Min: 3.ª incursión a Jeju (24 entraron, 10 volvieron); hormigas rápidas, numerosas, inteligentes, atacan primero a sanadores.
+- T1823 · GOTO RYUJI deduce (manos con callos, actitud) que Facundo usa espada y no le teme. Lo desafía en público (prensa y cazadores presentes).
