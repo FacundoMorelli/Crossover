@@ -3,52 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1788)
-
-un tiempo seguramente
-
-## RESPUESTA 1 (T1788)
-
-> un tiempo seguramente
-
-> —Un tiempo, seguramente.
-
-Cha Hae-in asiente despacio, mirando al gato. No dice nada, pero los hombros se le aflojan, apenas, como si hubiera estado esperando otra respuesta y esta le cayera mejor.
-
-—Un tiempo —repite.
-
-Vuelve a comer, ahora un poco más rápido, más tranquila. Te pasa sin decir nada el recipiente de kimchi, después el de espinaca, después la lata de té de cebada, ya abierta. Kase la mira comer desde el brazo del sillón, con la cola colgando, y ella, sin dejar de comer, le acerca dos dedos a la cabeza, despacio. Kase no se aparta. Ella no llega a acariciarlo: solo deja los dedos cerca, y el gato los huele una vez y cierra los ojos.
-
-Cha Hae-in se queda quieta, sorprendida, con la boca un poco abierta.
-
-—No le caigo mal —dice, bajito, casi sin creerlo.
-
-Afuera, el sol de la tarde pega en las torres de vidrio y rebota en el techo de la habitación. Abajo, en la avenida, ya no queda nada de la Puerta de anoche: solo tránsito, gente con bolsas de compras, una fila larga frente a una cafetería.
-
-Cha Hae-in termina su arroz y deja los palillos cruzados sobre el cuenco vacío. Se limpia la boca con una servilleta. Te mira.
-
-—Hoy no tengo Puertas. El gremio me dio el día libre después del informe. —Duda, juega con la servilleta entre los dedos—. Si te vas a quedar un tiempo... no conoces nada de Seúl, ¿verdad? —Se le colorean las orejas otra vez—. Puedo mostrarte. Si quieres.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1788 · SOLO LEVELING · DÍA 2 · 13:20   ║
-║ Seúl, Corea del Sur                          ║
-║ Hotel de Gangnam · habitación 2207           ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.292.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el brazo del sillón, ojos cerrados  ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1789)
+## COMANDO 1 (T1789)
 
 si, me encantaría, vamos
 
-## RESPUESTA 2 (T1789)
+## RESPUESTA 1 (T1789)
 
 > si, me encantaría, vamos
 
@@ -91,11 +50,11 @@ El taxista los mira por el espejo retrovisor, esperando.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1790)
+## COMANDO 2 (T1790)
 
 la torre de namsan, quiero ver toda la ciudad
 
-## RESPUESTA 3 (T1790)
+## RESPUESTA 2 (T1790)
 
 > la torre de namsan, quiero ver toda la ciudad
 
@@ -142,6 +101,55 @@ Después mira los candados. Se queda mirándolos un rato largo. Un señor, junto
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1791)
+
+compro un candado y le digo que pongamos uno juntos
+
+## RESPUESTA 3 (T1791)
+
+> compro un candado y le digo que pongamos uno juntos
+
+Caminas hasta el kiosco. El señor de los candados te mira, mira a Kase, mira a la chica de gorra negra que se quedó en la baranda, y sonríe como quien ya vio esta escena mil veces.
+
+—Diez mil won. La lapicera va de regalo.
+
+Eliges uno. Pagas. Te da el candado con dos llavecitas atadas con un hilo y una lapicera negra de punta gruesa.
+
+Vuelves a la baranda y le dices a Cha Hae-in que pongan uno juntos.
+
+Cha Hae-in se queda quieta. Mira el candado en tu mano. Después a ti. Después otra vez el candado. Abre la boca y no le sale nada. Los anteojos de sol se le resbalan de los dedos; los atrapa antes de que caigan, sin mirar.
+
+Está roja. Las orejas, las mejillas, el cuello, todo.
+
+Detrás de ustedes, la pareja joven que estaba eligiendo el candado rojo los mira y la chica le da un codazo al novio, emocionada. Cha Hae-in los ve y se pone todavía más roja.
+
+—Yo... —dice, bajito—. Nunca... nadie...
+
+Respira hondo por la nariz, despacio, como hace siempre. Cierra los ojos un segundo. Cuando los abre, ya no mira el candado: te mira a ti, directo, aunque le tiembla un poco la boca.
+
+—Está bien —dice. Casi no se le oye—. Juntos.
+
+Te saca la lapicera de la mano, despacio, rozándote los dedos. Le quita la tapa con los dientes, sin darse cuenta de lo que hace, y se queda con la punta sobre el metal del candado, sin escribir.
+
+Levanta la vista.
+
+—¿Qué... qué escribimos?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1791 · SOLO LEVELING · DÍA 2 · 14:28   ║
+║ Seúl, Corea del Sur                          ║
+║ Monte Namsan · plaza de la torre, candados   ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirándola                ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 14:25, cima del monte Namsan, plaza de la torre con miles de candados. Cha pagó el taxi (y el teleférico). Vista de todo Seúl; se ven 3-4 Puertas violetas lejanas. Cha: "Desde aquí todo parece tranquilo. Aunque no lo esté." Mira los candados; un señor vende candados con lapicera; pareja joven eligiendo uno rojo. "Dicen que las parejas que ponen un candado aquí..." se corta, colorada: "Nada. Es una cosa de turistas. Mira, ahí está el palacio."
+ESTADO AL CIERRE: Día 2 14:28, Namsan. Facundo compró un candado (10.000 won, dos llavecitas, lapicera negra) y le propuso a Cha ponerlo juntos (indirecto). Cha, roja entera: "Yo... Nunca... nadie..." "Está bien. Juntos." Tiene la lapicera destapada sobre el candado: "¿Qué... qué escribimos?" Pareja joven mirando emocionada.

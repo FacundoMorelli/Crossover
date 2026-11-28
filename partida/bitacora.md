@@ -1790,3 +1790,4 @@ T1787 · SOLO LEVELING · Hotel de Gangnam · Cha le cuenta su olfato de maná; 
 T1788 · SOLO LEVELING · Hotel de Gangnam · "Un tiempo." Cha tiene el día libre y le ofrece mostrarle Seúl.
 T1789 · SOLO LEVELING · Gangnam · Sale con Cha Hae-in a conocer Seúl en taxi.
 T1790 · SOLO LEVELING · Namsan · Con Cha en la torre: toda la ciudad. Los candados de las parejas; Cha se corta colorada.
+T1791 · SOLO LEVELING · Namsan · Compra un candado y le propone a Cha ponerlo juntos. "Está bien. Juntos." "¿Qué escribimos?"

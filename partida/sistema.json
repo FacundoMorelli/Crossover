@@ -1,8 +1,8 @@
 {
-  "turno": 1790,
+  "turno": 1791,
   "mundo_actual": "sololeveling",
   "fecha_local": "Solo Leveling: Día 1 (arco de la Reevaluación / Puerta del Gremio de Cazadores)",
-  "hora": "Día 2, 14:25 (Seúl)",
+  "hora": "Día 2, 14:28 (Seúl)",
   "edad": 18,
   "nivel": 34,
   "exp": 486130,
@@ -86,7 +86,7 @@
     },
     "sololeveling": {
       "moneda": "won",
-      "cantidad": 1292800,
+      "cantidad": 1282800,
       "cambio": "1 Fragmento = 130.000 won (fijado T1764)"
     }
   },
