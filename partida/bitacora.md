@@ -1853,3 +1853,4 @@ T1850 · SOLO LEVELING · Casa de la señora Kang · Almuerzo. "¿Y ahora? ¿Qu�
 T1851 · SOLO LEVELING · Casa de la señora Kang · "En unos días me voy, pero voy a volver." Cha: "¿Podría ir contigo?"
 T1852 · SOLO LEVELING · Plaza del barrio · "No se puede, pero te voy a mostrar a dónde me voy." Cha: "Muéstrame."
 T1853 · SOLO LEVELING · Plaza del ginkgo · Abre una puerta al mundo de Dragon Ball delante de Cha. "¿Qué es eso?"
+T1854 · SOLO LEVELING · Plaza del ginkgo · "Es otro mundo. De ahí vengo." Cha entiende. "Tráeme una flor... para saber que existe."

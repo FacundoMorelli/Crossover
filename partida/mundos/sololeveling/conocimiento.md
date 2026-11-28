@@ -64,3 +64,4 @@
 - T1851 · CHA y KANG MI-SOOK saben (por Facundo) que se irá en unos días, por semanas o algún mes, y que volverá.
 ## QUIÉN SABE QUE VIENE DE OTRO LADO
 - T1853 · CHA HAE-IN vio una puerta de Facundo abierta a otro mundo (Dragon Ball: pradera, montañas, ciudad de cúpulas, pterodáctilo). Todavía no sabe qué es; Facundo se lo está mostrando. Nadie más presente.
+- T1854 · CHA HAE-IN SABE (por Facundo) que viene de otro mundo y que viaja a otros mundos. Vio uno (Dragon Ball) por la puerta. Nadie más lo sabe en este mundo.

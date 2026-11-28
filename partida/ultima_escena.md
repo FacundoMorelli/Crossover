@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1851)
-
-en unos dias me voy a ir, pero voy a volver a verla, capaz me voy por semanas o algun mes
-
-## RESPUESTA 1 (T1851)
-
-> en unos dias me voy a ir, pero voy a volver a verla, capaz me voy por semanas o algun mes
-
-> —En unos días me voy a ir. Pero voy a volver a verla. Tal vez me vaya por semanas, o algún mes.
-
-La señora Kang no dice nada enseguida. Mira a su hija.
-
-Cha Hae-in tiene los palillos quietos sobre el cuenco. No levanta la vista. Pero no está sorprendida: lo sabía. Se lo dijiste la primera noche, en la cama del hotel, con la cabeza sobre tu pecho. Respira hondo por la nariz, despacio. Una vez.
-
-Debajo de la mesa, te busca la mano y te la agarra.
-
-—Semanas —repite la señora Kang—. O algún mes.
-
-Se queda callada. Mira la foto de la pared, la del hombre de uniforme con el casco bajo el brazo. Después vuelve a ti.
-
-—Mi marido, cuando lo llamaban para un incendio grande, se iba días enteros. A veces una semana. —Se encoge de hombros, despacio—. Yo me quedaba aquí. Cocinando para veinte. Esperando que sonara el teléfono. —Te mira—. Y siempre volvía. Hasta la última.
-
-Agarra los palillos otra vez. Te pone otro huevo en el arroz, aunque ya no queda lugar.
-
-—Así que vas a volver. —No es una pregunta. Es una orden—. Y cuando vuelvas, vas a venir a comer. Primero aquí. Después a donde quieras.
-
-—Mamá... —murmura Cha Hae-in.
-
-—Y mientras tanto —sigue la señora Kang, sin hacerle caso—, estos días que te quedan, no te vas a pasar comiendo comida de hotel. Vas a comer aquí. Los dos. Todos los días.
-
-Se levanta con los platos vacíos y se va a la cocina, sin esperar respuesta, antes de que se le note en la cara lo que siente.
-
-Cha Hae-in se queda sentada a tu lado. Te aprieta la mano bajo la mesa. Por un rato no dice nada. En la tele, sin volumen, vuelven a pasar el video de la caverna: tú, el Rey, la garra en tu mano. Ella lo mira.
-
-—Semanas o meses —dice, bajito—. Cuando te vayas... ¿a dónde vas?
-
-Gira la cabeza. Te mira. Los ojos cansados, brillantes, sin miedo.
-
-—¿Podría ir contigo?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1851 · SOLO LEVELING · DÍA 22 · 12:34  ║
-║ Seúl, Corea del Sur                          ║
-║ Casa de la señora Kang · mesa del living     ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 1.282.800 won           ║
-║ Energía 95% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el piso, lamiéndose una pata        ║
-║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
-║ OBJETIVO: Cha: "¿Podría ir contigo?"         ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1852)
+## COMANDO 1 (T1852)
 
 No se puede, no por que no quiera, pero ven conmigo afuera, te voy a mostrar a donde me voy
 
-## RESPUESTA 2 (T1852)
+## RESPUESTA 1 (T1852)
 
 > No se puede, no por que no quiera, pero ven conmigo afuera, te voy a mostrar a donde me voy
 
@@ -103,11 +48,11 @@ Te mira. Tranquila. Con la cara seria de antes de entrar a una Puerta, pero con 
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1853)
+## COMANDO 2 (T1853)
 
 abro un portal al mundo de dragon ball
 
-## RESPUESTA 3 (T1853)
+## RESPUESTA 2 (T1853)
 
 > abro un portal al mundo de dragon ball
 
@@ -160,6 +105,63 @@ Gira la cabeza. Te mira. Con los ojos llenos de un cielo que no es el suyo.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1854)
+
+es otro mundo, de ahí vengo y a otros como ese voy
+
+## RESPUESTA 3 (T1854)
+
+> es otro mundo, de ahí vengo y a otros como ese voy
+
+> —Es otro mundo. De ahí vengo. Y a otros como ese voy.
+
+Cha Hae-in no dice nada.
+
+Se queda mirándote un rato largo. Después vuelve a mirar la puerta. El cielo azul del otro lado. Las montañas imposibles. La ciudad de cúpulas blancas. El animal de alas de cuero que ya se pierde detrás de una nube.
+
+Baja la mano, despacio, sin haber tocado el borde de luz.
+
+—Otro mundo —repite, en voz muy baja, como si probara cómo suena.
+
+Las hojas amarillas del ginkgo siguen cayendo a su alrededor y algunas se van volando por la puerta, hacia la pradera del otro lado, y desaparecen entre el pasto.
+
+—Por eso no hueles a nada —dice despacio, pensando en voz alta—. Por eso no sabías qué eran los cazadores. Ni las Puertas. Por eso la Asociación no te encontraba en ningún lado. —Se le escapa una risa corta, por la nariz, incrédula—. "Llegué caminando."
+
+Se le llenan los ojos. Pero no llora. Sonríe.
+
+—Y por eso no puedo ir contigo.
+
+No es una pregunta. Lo entendió sola.
+
+Se queda quieta frente a la puerta, con el viento del otro mundo moviéndole el pelo y la chamarra mostaza de su mamá. Respira hondo por la nariz una vez más, larga, como si quisiera guardarse ese aire, el olor a pasto y a tormenta de un lugar al que nunca va a ir.
+
+Después se da vuelta hacia ti.
+
+—¿Cuántos hay?
+
+Se le quiebra un poco la voz, pero sigue.
+
+—No me contestes. No importa. —Se seca los ojos rápido, con la manga de la chamarra—. Pero prométeme una cosa.
+
+Mira la pradera del otro lado. Hay flores entre el pasto, cerca del borde de la puerta: chiquitas, de un color entre el violeta y el naranja, que no existen en ningún jardín de Corea.
+
+—Cuando vuelvas —dice, bajito—, tráeme una flor de algún lugar donde estuviste. De uno que te haya gustado. —Te mira—. Para saber que existe.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1854 · SOLO LEVELING · DÍA 22 · 12:49  ║
+║ Seúl, Corea del Sur                          ║
+║ Plaza del barrio · puerta abierta            ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 1.282.800 won           ║
+║ Energía 95% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirando a Cha            ║
+║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
+║ OBJETIVO: Cha: "Tráeme una flor"             ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 12:47, plaza del ginkgo. Facundo abrió una puerta (viaje libre) al mundo de Dragon Ball (línea de luz blanca que se abre en dos hojas, bordes blancos y azules, zumbido grave). Del otro lado: cielo azul intenso, pradera, montañas puntiagudas, río, ciudad de cúpulas blancas a lo lejos con cosas volando, un pterodáctilo. Viento y olor a pasto y tormenta; hojas del ginkgo vuelan al otro lado. Kase reconoce el olor. Cha: "Eso... no es una Puerta. No huele a maná... Huele a un lugar donde vive gente." "Facundo. ¿Qué es eso?" (Nadie más en la plaza.)
+ESTADO AL CIERRE: Día 22 12:49, plaza del ginkgo, puerta a Dragon Ball abierta. Facundo: "Es otro mundo. De ahí vengo. Y a otros como ese voy." Cha entiende sola: por eso no huele, no sabía de cazadores ni Puertas, la Asociación no lo encontraba, "Llegué caminando"; "Y por eso no puedo ir contigo." "¿Cuántos hay? No me contestes. No importa." "Prométeme una cosa... Cuando vuelvas, tráeme una flor de algún lugar donde estuviste. De uno que te haya gustado. Para saber que existe." (Flores violeta-naranja cerca del borde, del lado de Dragon Ball.)
