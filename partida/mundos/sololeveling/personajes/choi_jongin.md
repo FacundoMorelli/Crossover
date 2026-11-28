@@ -17,3 +17,4 @@ ENCUENTROS:
 - T1768 · Magia de fuego: meteoritos del tamaño de un auto caen del techo de la caverna sobre los orcos. Mira a Jinwoo sorprendido.
 - T1772 · Cha Hae-in se queda con Facundo; Choi lo mira por encima de los anteojos, suspira y deja que se quede. Se va con el gremio. QUÉ SABE DE FACUNDO: aspecto; que Cha Hae-in se quedó con él.
 - T1786 · (por Cha Hae-in) En la oficina le preguntó por qué se quedó con "un chico sin maná". Ella: "un amigo". QUÉ SABE: que Facundo no tiene maná (deducción de la Asociación/su propia percepción: Velo), que es amigo de Cha.
+- T1799 · Día 2 ~20:00 · Llama dos veces a Cha Hae-in; ella no contesta. (Motivo: pendiente.)

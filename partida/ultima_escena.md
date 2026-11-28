@@ -3,56 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1796)
-
-vamos
-
-## RESPUESTA 1 (T1796)
-
-> vamos
-
-> —Vamos.
-
-Kase salta de la baranda a tu hombro. Cha Hae-in junta del piso la lata de café que se le cayó, la tira en un tacho y se vuelve a poner la gorra y los anteojos de sol, aunque ya es de noche. Cuando empiezan a caminar hacia el teleférico, te busca la mano. La encuentra. Entrelaza los dedos con los tuyos, despacio, y no la suelta.
-
-En la cabina roja, bajando entre los árboles oscuros, con la ciudad encendida delante, no dice nada. Solo te aprieta la mano de vez en cuando.
-
-Un taxi los lleva hacia el norte, por avenidas llenas de luces, hasta un barrio viejo de calles angostas. El mercado de Gwangjang es un túnel enorme de techo de chapa y lona, iluminado con lamparitas amarillas colgadas en hilera, lleno de gente, de vapor y de ruido. Huele a aceite caliente, a sésamo tostado, a pescado, a ajo, a carne a la plancha, a algo dulce frito. Los puestos están pegados uno al otro, con bancos de madera largos donde la gente come codo con codo: oficinistas, abuelos, estudiantes, turistas con cámaras.
-
-Señoras mayores con delantales gritan lo que venden. Hay fideos fríos, rollitos de arroz con algas cortados en rodajas, morcillas, pies de cerdo, pulpo vivo que todavía se mueve en el plato y que Kase mira con muchísimo interés.
-
-Cha Hae-in te lleva de la mano entre la gente, segura, como si conociera el camino de memoria, hasta un puesto donde una señora bajita, de pelo corto con permanente y un delantal floreado, muele frijoles en una piedra de molino enorme y después fríe la masa en una plancha llena de aceite. Los panqueques salen redondos, gruesos, dorados, crujientes por los bordes.
-
-—Dos, por favor —dice Cha Hae-in, y se sienta en el banco de madera frente a la plancha.
-
-La señora levanta la vista. Mira a Cha Hae-in. Mira la gorra, los anteojos de sol de noche. Entrecierra los ojos. Después mira a Kase en tu hombro, y a ti, de arriba abajo: el pelo blanco y azul, la cicatriz, los tatuajes. Y por último mira las dos manos, todavía entrelazadas sobre el banco.
-
-Sonríe, con todos los dientes.
-
-—Hae-in, querida —dice, fuerte, con la espátula en la mano—. Hace años que vienes sola a mi puesto. Años. —Te señala con la espátula—. ¿Y este? ¿Es tu novio?
-
-Cha Hae-in se queda helada. Te mira.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1796 · SOLO LEVELING · DÍA 2 · 18:40   ║
-║ Seúl, Corea del Sur                          ║
-║ Mercado de Gwangjang · puesto de panqueques  ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirando el pulpo         ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Cenar en Gwangjang con Cha         ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1797)
+## COMANDO 1 (T1797)
 
 si, soy su novio
 
-## RESPUESTA 2 (T1797)
+## RESPUESTA 1 (T1797)
 
 > si, soy su novio
 
@@ -97,11 +52,11 @@ Cha Hae-in sigue con la cara tapada con una mano. Entre los dedos, te mira. Se b
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1798)
+## COMANDO 2 (T1798)
 
 si, muy en serio, le doy un beso
 
-## RESPUESTA 3 (T1798)
+## RESPUESTA 2 (T1798)
 
 > si, muy en serio, le doy un beso
 
@@ -144,6 +99,59 @@ Espera, con el vasito en el aire, a que levantes el tuyo.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1799)
+
+brindó con ella, por nosotros
+
+## RESPUESTA 3 (T1799)
+
+> brindó con ella, por nosotros
+
+Levantas el vasito.
+
+> —Por nosotros.
+
+Los vasitos chocan con un tintineo chiquito. Cha Hae-in se toma el suyo de un trago, girando un poco la cara hacia el costado, como manda la costumbre, y lo deja sobre el banco con un golpecito. Se le escapa una tos corta. Se ríe.
+
+—Es fuerte —dice—. Siempre me olvido.
+
+La señora aplaude otra vez y vuelve a llenar los vasitos sin preguntar.
+
+Comen. Los panqueques están crujientes por afuera y suaves por adentro, con gusto a frijol tostado, a cerdo, a kimchi y a cebolla de verdeo. Cha Hae-in te enseña a mojarlos en la salsa con cebolla, a cortarlos con los palillos, a doblarlos. Come con hambre, despacio pero sin parar, y entre bocado y bocado te cuenta cosas, en voz baja, con la gorra hasta las cejas: que viene a este puesto desde que tenía dieciséis años; que la primera vez que vino lloró porque había salido de una Puerta muy fea y no quería volver a casa así; que la señora le dio un panqueque gratis y le dijo que comiera primero y llorara después.
+
+—Desde entonces vengo siempre que algo sale mal —dice—. O muy bien.
+
+Te mira de reojo.
+
+—Hoy es la primera vez que vengo porque algo sale muy bien.
+
+Kase termina el pescado frito, se lava la cara con una pata en el banco y después se mete entre los dos, apretado, calentito, y se echa ahí, con la cabeza sobre la pierna de Cha Hae-in. Ella se queda quieta, con los palillos en el aire, y lo mira como si le hubieran dado un regalo.
+
+En el bolsillo del pantalón le vibra el celular. Una vez. Dos. Ella lo saca, mira la pantalla un segundo —ves de reojo el logo de un gremio y un nombre: "Maestro Choi"— y lo vuelve a guardar sin contestar.
+
+—Es del gremio —dice—. Puede esperar a mañana.
+
+Cuando terminan, no queda nada en los platitos. La señora no les deja pagar ni un won, y cuando Cha Hae-in intenta dejarle plata escondida debajo del plato, la señora se la devuelve en la mano con un golpe de espátula en los nudillos.
+
+Salen del túnel del mercado a la calle. Es de noche, hace frío, y el aire huele a castañas y a escape. Cha Hae-in tiene las mejillas rojas, pero esta vez es el licor. Te agarra del brazo con las dos manos, apoyando el costado de la cabeza en tu hombro, del lado que no ocupa Kase.
+
+—¿Vamos? —dice, bajito—. Al hotel.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1799 · SOLO LEVELING · DÍA 2 · 20:05   ║
+║ Seúl, Corea del Sur                          ║
+║ Calle frente al mercado de Gwangjang         ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Volver al hotel con Cha            ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 18:44, Gwangjang. "Sí. Muy en serio." La besa; ella le devuelve el beso. Aplausos de la señora, el de los fideos fríos y oficinistas; un turista saca una foto. Cha: "Me van a reconocer y va a salir en internet" (sin enojo). Panqueques servidos; licor de arroz servido. Cha levanta el vasito con las dos manos: "Por... Por nosotros." Espera el brindis.
+ESTADO AL CIERRE: Día 2 20:05, calle frente al mercado de Gwangjang. Brindaron "Por nosotros"; cenaron panqueques (la casa invitó todo). Cha contó: va a ese puesto desde los 16; la primera vez lloró tras una Puerta fea y la señora le dio un panqueque. "Hoy es la primera vez que vengo porque algo sale muy bien." Kase se echó con la cabeza en su pierna. Llamada del "Maestro Choi" (dos vibraciones) sin contestar: "Puede esperar a mañana." Un poco achispada, del brazo de Facundo: "¿Vamos? Al hotel."
