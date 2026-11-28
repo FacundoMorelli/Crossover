@@ -1752,3 +1752,4 @@ T1750 · FULLMETAL · archivo · Se teletransporta entre Hughes y Lust. Lust: "E
 T1751 · FULLMETAL · archivo · Deja a Lust inconsciente sin daño (+25 Frag). Hughes: "Creo que hice la pregunta equivocada. ¿Qué es usted?"
 T1752 · FULLMETAL · archivo · "¿Por qué te andan buscando?" Hughes explica el círculo del país y sale hacia la cabina telefónica (donde espera Envy). Le deja a Lust.
 T1753 · FULLMETAL · cabina / archivo · Deja inconsciente a Envy (+25 Frag), lo lleva junto a Lust en el archivo y los vigila. Hughes, vivo, llama a Mustang desde la cabina.
+T1754 · FULLMETAL · archivo · Espera. Hughes habló con Mustang (llega mañana). Ve a Envy: "¿Ese de dónde salió? ¿Dónde estaba?"

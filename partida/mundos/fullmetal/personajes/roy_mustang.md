@@ -11,3 +11,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: en Ciudad del Este.
+- T1754 · (por teléfono, fuera de escena) Hughes lo llamó desde la cabina; viene a Central en el primer tren de mañana con Hawkeye y dos de los suyos. Sabe (por Hughes) parte de lo descubierto.

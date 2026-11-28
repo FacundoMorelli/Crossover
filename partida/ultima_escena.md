@@ -3,81 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1751)
-
-la dejo inconsciente sin lastimar a hughes
-
-## RESPUESTA 1 (T1751)
-
-> la dejo inconsciente sin lastimar a hughes
-
-Te mueves.
-
-La uña negra, suspendida a un metro de tu pecho, no llega a moverse. Para Lust, para Hughes, la sala no cambia: hay un hombre con un gato frente a ella, y al instante siguiente no hay nada, y una presión mínima en la nuca, exacta, justo donde va.
-
-Kase ni siquiera se mueve en tu brazo.
-
-Lust abre los ojos. Muy grandes, por primera vez de verdad. La boca roja se le entreabre para decir algo.
-
-Y se apaga.
-
-La uña-lanza se encoge de golpe, como un resorte, y vuelve a ser una uña pintada. Los brazos le caen. Las rodillas se le doblan. La atajas por la cintura antes de que toque el piso, con una mano, y la bajas despacio, con cuidado, hasta dejarla acostada boca arriba en el pasillo entre dos estanterías, sobre los papeles caídos. El pelo negro se le desparrama alrededor de la cabeza como tinta derramada. El tatuaje de la serpiente queda a la vista, rojo sobre la piel blanca.
-
-Respira. Lento. Duerme.
-
-Detrás de ti no se oye nada. Ni un paso, ni un roce. Hughes no se movió. Está exactamente donde estaba, con el cuchillo levantado a la altura del hombro, listo para tirar, sin ningún lugar adonde tirarlo. Sin un rasguño.
-
-[Lust: vencida. Fragmentos +25.]
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Dedos-lanza · Lanza Definitiva               ║
-║ USUARIO: Lust · Fullmetal Alchemist          ║
-║                                              ║
-║ MISIÓN: Detener con las manos desnudas las   ║
-║ diez lanzas de Lust a la vez, en una pelea   ║
-║ en la que ella vaya con todo.                ║
-║ DIFICULTAD: MEDIA                            ║
-╚══════════════════════════════════════════════╝
-```
-
-Hughes baja el cuchillo. Muy despacio.
-
-Se acerca, sin soltarlo del todo. Se agacha a un metro de Lust, sin tocarla. Mira el tatuaje del pecho. Mira la uña, ahora de largo normal. Mira la cara dormida, hermosa, tranquila. Se le mueve la mandíbula.
-
-—Esta mujer —dice, muy bajo, casi para sí mismo— me venía siguiendo desde el pasillo. Lo sentí en la nuca. —Traga saliva—. Le iba a tirar los cuatro cuchillos que tengo. Y algo me dice que se los iba a sacar como si fueran espinas.
-
-Levanta la vista hacia ti. Ya no hay ninguna máscara. Ni sonrisa, ni foto de Elicia. Solo un hombre de veintinueve años, pálido, con los anteojos torcidos y el cuchillo en la mano, que acaba de entender que esta noche iba a morir.
-
-—Señor Morelli. —La voz le sale ronca—. Hace un rato le pregunté por dónde entró al país. —Se le escapa algo que podría ser una risa—. Creo que hice la pregunta equivocada.
-
-Se pone de pie. Se acomoda los anteojos con un dedo que tiembla un poco.
-
-—¿Qué es usted?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1751 · FULLMETAL · DÍA 1 · 21:48       ║
-║ Ciudad Central, Amestris, 1914               ║
-║ Cuartel general, archivo del 2.º piso        ║
-║ NIVEL 33 · EXP 461.130/480.000               ║
-║ FRAGMENTOS 289.403 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tu brazo                            ║
-║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
-║ OBJETIVO: Hughes, esta noche                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1752)
+## COMANDO 1 (T1752)
 
 soy un viajero, bueno por que te andan buscando?
 
-## RESPUESTA 2 (T1752)
+## RESPUESTA 1 (T1752)
 
 > soy un viajero, bueno por que te andan buscando?
 
@@ -130,11 +60,11 @@ Hacia la calle. Hacia la cabina verde.
 
 ---
 
-## COMANDO 3 (T1753)
+## COMANDO 2 (T1753)
 
 me teletransporto a la cabina y dejo inconsciente a envy y dejo a los dos juntos para mirar que no despierten
 
-## RESPUESTA 3 (T1753)
+## RESPUESTA 2 (T1753)
 
 > me teletransporto a la cabina y dejo inconsciente a envy y dejo a los dos juntos para mirar que no despierten
 
@@ -200,4 +130,57 @@ Marca un número largo. Con los dedos que todavía le tiemblan un poco.
 
 ---
 
-ESTADO AL CIERRE: Día 1 21:54, archivo del 2.º piso. ENVY INCONSCIENTE (estaba junto a la cabina con forma de Gracia; al caer volvió a su forma real: pelo verde negro larguísimo, ropa negra ajustada, uróboros en el muslo). +25 Frag; misión de copia (cambio de forma). Facundo lo llevó al archivo y lo acostó junto a Lust; los vigila. Kase los olió y se sentó de espaldas. Hughes llegó a la cabina (no vio a nadie), descolgó, metió una moneda y marca el número de Mustang.
+## COMANDO 3 (T1754)
+
+espero a hughes
+
+## RESPUESTA 3 (T1754)
+
+> espero a hughes
+
+Esperas.
+
+La lámpara verde zumba sobre la mesa del fondo. Las estanterías crujen de vez en cuando, como cruje la madera vieja de noche. Afuera, lejos, pasa un carro con caballos. Kase termina de lamerse una pata y empieza con la otra.
+
+Lust y Envy no se mueven. Respiran. Las piedras rojas que llevan adentro laten despacio, cada una con sus miles de voces apretadas, quietas, como un enjambre dormido.
+
+Con el ki sigues a Hughes. Está en la cabina mucho tiempo. Diez minutos. Doce. La presencia se le mueve dentro del cubículo de vidrio: se apoya en la pared, se endereza, se agacha, se vuelve a apoyar. Habla. Mucho. Después menos. Después se queda quieto, con el tubo en la mano, un buen rato. Después cuelga.
+
+Vuelve. Rápido. Cruza la calle, sube la escalinata, pasa entre los guardias, sube la escalera de mármol de dos en dos. Lo sientes llegar al segundo piso. Por el pasillo. A la puerta.
+
+Entra al archivo con el mapa todavía apretado contra el pecho y la respiración agitada.
+
+—Ya está. Hablé con Roy. Viene en el primer tren de mañana, con Hawkeye y dos de los suyos. No le dije todo por teléfono, pero entendió. Siempre entiende. —Se acomoda los anteojos—. Me dijo que soy un idiota por quedarme solo en el cuartel de noche y que, si me pasaba algo, me iba a matar él mismo...
+
+Se detiene.
+
+Mira el piso. Mira a Lust, donde la dejaste. Y mira, al lado de ella, al otro.
+
+Al ser de pelo verde negro, larguísimo, desparramado sobre los papeles. La ropa negra. La cara afilada, sin edad, dormida. El tatuaje rojo en el muslo.
+
+Hughes da un paso atrás, sin darse cuenta. Se lleva la mano al cinturón, a los cuchillos. No los saca.
+
+—¿Y ese? —La voz le sale muy baja—. ¿Ese de dónde salió?
+
+Se acerca, despacio, y se agacha al lado de Envy, como hizo antes con Lust. Le mira el tatuaje. La cara. El pelo. Frunce el ceño, buscando algo en la memoria.
+
+—No lo vi nunca. —Levanta la vista hacia ti—. No estaba acá cuando me fui. ¿Dónde estaba?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1754 · FULLMETAL · DÍA 1 · 22:10       ║
+║ Ciudad Central, Amestris, 1914               ║
+║ Cuartel general, archivo del 2.º piso        ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.428 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: sentado de espaldas a los homúnculos   ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: Vigilar a Lust y a Envy            ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 22:10, archivo del 2.º piso. Hughes volvió de la cabina: habló con Mustang ~12 min; Roy viene en el primer tren de mañana con Hawkeye y dos de los suyos ("me dijo que soy un idiota por quedarme solo"). Ve a ENVY dormido junto a Lust; mano en los cuchillos sin sacarlos; se agacha, ve el uróboros en el muslo. "No lo vi nunca. No estaba acá cuando me fui. ¿Dónde estaba?"

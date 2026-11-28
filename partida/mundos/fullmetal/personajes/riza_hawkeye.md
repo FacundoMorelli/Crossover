@@ -11,3 +11,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: con Mustang en el Este.
+- T1754 · (fuera de escena) Viene a Central con Mustang en el primer tren de mañana.
