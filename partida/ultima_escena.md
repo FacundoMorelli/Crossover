@@ -147,9 +147,7 @@ Cha Hae-in tiene los palillos quietos en el aire, a medio camino de la boca. No 
 
 —Ayudas a la gente —repite la señora Kang, despacio.
 
-—Anteayer —dice Cha Hae-in, bajito, casi sin querer— había un chico... —Se corta. Deja los palillos sobre el cuenco—. Nada. Nada, mamá.
-
-La señora Kang la mira, levanta una ceja, y no pregunta. Vuelve a ti.
+Cha Hae-in deja los palillos sobre el cuenco, despacio, sin dejar de mirarte. La señora Kang la mira, levanta una ceja, y no pregunta. Vuelve a ti.
 
 —Ayudar a la gente no da de comer —dice, práctica, sin maldad—. Pero bueno. Mi marido era bombero. Tampoco ganaba mucho. —Señala con la barbilla una foto en la pared, la única donde no está su hija: un hombre de uniforme, sonriendo, con un casco bajo el brazo y los mismos hombros derechos de Cha Hae-in—. Ayudaba a la gente que lo necesitaba. Todos los días.
 
@@ -186,4 +184,4 @@ En el piso, Kase deja de comer y levanta la cabeza.
 
 ---
 
-ESTADO AL CIERRE: Día 4 19:22, casa de Kang Mi-sook. Facundo: "Soy un viajero. Ayudo a la gente que lo necesita." Cha empieza "Anteayer había un chico..." y se corta (¿sospecha de Dong-su? no tiene fuente: se calla). La señora Kang: su marido era bombero, ayudaba a la gente, murió en un incendio (foto en la pared). Su hija entra a Puertas todos los días y ella espera el teléfono. "Si algún día ella entra a uno de esos agujeros y no sale... ¿tú qué vas a hacer?"
+ESTADO AL CIERRE: Día 4 19:22, casa de Kang Mi-sook. Facundo: "Soy un viajero. Ayudo a la gente que lo necesita." Cha lo mira como si entendiera algo. La señora Kang: su marido era bombero, ayudaba a la gente, murió en un incendio (foto en la pared). Su hija entra a Puertas todos los días y ella espera el teléfono. "Si algún día ella entra a uno de esos agujeros y no sale... ¿tú qué vas a hacer?"
