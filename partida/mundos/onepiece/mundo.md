@@ -31,3 +31,4 @@ DON DE MUNDO: Shio Shio no Mi (ver sistema.json).
 - T1457 · Día ~121 · Reencuentro de Ace, Sabo y Luffy en Rusukaina, por Facundo (en el canon no se reúnen nunca los tres).
 - T1465 · Día ~121 · Barbablanca curado por completo de su enfermedad por Facundo (Transfiguración Ociosa).
 - T1869 · Día ~227 · Facundo y Sabo se llevan a Kuma de Mary Geoise delante de un Dragón Celestial (en el canon Kuma sigue esclavo hasta el Reverie).
+- T1870 · Día ~227 · Facundo le devuelve el alma, la memoria y la voluntad a Kuma con la Transfiguración Ociosa y le saca el rastreador de Vegapunk (en el canon Kuma no recupera la conciencia hasta mucho después, con Bonney). El collar explosivo de esclavo sigue activo.

@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1867)
-
-no necesito nada, quieren que vaya a buscarlo ahora?
-
-## RESPUESTA 1 (T1867)
-
-> no necesito nada, quieren que vaya a buscarlo ahora?
-
-> —No necesito nada. ¿Quieren que vaya a buscarlo ahora?
-
-Dragon no contesta enseguida.
-
-Te mira. Después mira el mapa de la Red Line, el círculo rojo en la cima. Después a Sabo, a Koala, a Hack, a Corvin. Todos lo miran a él. Nadie respira.
-
-—Ahora —dice, al fin—. Sí.
-
-Lo dice bajo, firme, como quien da la orden de una operación. Pero algo se le quiebra apenas en la voz, en la última sílaba, y se le nota a todos.
-
-—Los informes dicen que los Dragones Celestiales lo usan de... —se detiene— de animal de carga. Lo hacen arrastrar sus carruajes por las calles de Mary Geoise. Si lo cambian de dueño, o lo mandan a otro lugar, lo perdemos de vista. Cada día cuenta.
-
-Apoya un dedo en el mapa, sobre el círculo rojo.
-
-—Una condición. —Te mira—. No lo traigas aquí. Vegapunk le puso algo adentro: un transmisor, un rastreador. Todos los Pacifista lo tienen. Si traes a Kuma a Baltigo, aunque le devuelvas la memoria, la Marina va a saber dónde estamos en una hora. —Mueve el dedo por el mapa, hacia el sur—. Llévalo a la isla Momoiro. Al Reino Kamabakka. Ivankov está ahí. Es amigo de Kuma, y del ejército. Y es el único lugar del mundo donde un hombre de casi siete metros, con una Biblia en la mano y una máquina en el pecho, no llamaría la atención de nadie.
-
-Corvin se acomoda los anteojos.
-
-—Le aviso a Ivankov por el Den Den Mushi seguro —dice—. En diez minutos.
-
-—¡Yo voy con él! —Sabo ya está de pie, con el sombrero de copa en la mano—. ¡Kuma me enseñó a nadar cuando llegué al ejército! ¡No me voy a quedar aquí sentado!
-
-—Sabo...
-
-—¡Dragon-san, por favor! —Sabo te mira a ti, no a Dragon—. Facundo. Llévame contigo. Sé cómo es Mary Geoise por dentro. Estudié los planos que trajeron los infiltrados. Sé dónde están los establos de los esclavos. —Aprieta el sombrero entre los dedos—. Y si Kuma no me reconoce, quiero que me vea igual. Que sea yo el primero que vea cuando vuelva.
-
-Koala lo mira, pálida. Dragon no dice nada: te mira a ti, esperando.
-
-A tu lado, Robin te aprieta la mano. Despacio. Una vez.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1867 · ONE PIECE · DÍA ~227 · 08:06    ║
-║ Baltigo · torre de Dragon                    ║
-║ Junto a la mesa de mapas, con Robin          ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Sabo quiere ir a Mary Geoise       ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1868)
+## COMANDO 1 (T1868)
 
 esta bien, igual vamos a ir directamente a donde esta Kuma y despues directamente a ivankov, capaz en 1 minuto pasa eso como mucho
 
-## RESPUESTA 2 (T1868)
+## RESPUESTA 1 (T1868)
 
 > esta bien, igual vamos a ir directamente a donde esta Kuma y despues directamente a ivankov, capaz en 1 minuto pasa eso como mucho
 
@@ -123,11 +70,11 @@ Dragon se queda junto a la mesa, con las dos manos apoyadas sobre el mapa de la 
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1869)
+## COMANDO 2 (T1869)
 
 me teletransporto con sabo a donde esta kuma, despues me teletransporto directamente a ivankov con kuma
 
-## RESPUESTA 3 (T1869)
+## RESPUESTA 2 (T1869)
 
 > me teletransporto con sabo a donde esta kuma, despues me teletransporto directamente a ivankov con kuma
 
@@ -204,6 +151,77 @@ El collar del cuello pita. Una vez. Dos.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1870)
+
+uso la técnica de mahito para recuperar a kuma y sacarle el rastreador
+
+## RESPUESTA 3 (T1870)
+
+> uso la técnica de mahito para recuperar a kuma y sacarle el rastreador
+
+La burbuja del Ursus Shock crece en la palma de Kuma. El aire del patio se curva a su alrededor, como el calor sobre el asfalto. Las baldosas rosas debajo de sus pies empiezan a rajarse.
+
+Te mueves.
+
+Un paso, y ya estás al lado de Kuma, junto a su pierna enorme. Saltas. Le pones la mano abierta en el pecho, sobre la ropa rota, sobre el lugar donde los informes de Dragon decían que ya no quedaba nada.
+
+La Transfiguración Ociosa entra.
+
+Y adentro sientes su alma.
+
+No está vacía. Eso es lo primero que entiendes. Vegapunk no la borró: la apretó. La dobló sobre sí misma, una y otra vez, hasta dejarla chiquita, aplastada en un rincón, como una carta arrugada y metida en el fondo de un cajón cerrado con llave. Alrededor, el metal y los cables y las órdenes de la máquina la tapan, la rodean, le crecen encima como una enredadera.
+
+Pero ahí está. Todavía caliente.
+
+La despliegas. Despacio. Con cuidado. Como Robin desplegó la capa de la Legión sobre la mesa. Doblez por doblez. Y a medida que se abre, salen cosas: un pueblo de montaña, nevado, en el reino de Sorbet; una iglesia chiquita; una Biblia gastada; una mujer de pelo largo que se ríe; una nena de pelo rosa, en brazos, que agarra un dedo enorme con su mano diminuta; un nombre. Bonney.
+
+Las órdenes de la máquina se apartan, una por una, como cortinas.
+
+Y después, con la otra parte de la técnica, la que moldea el cuerpo, buscas el resto. Lo encuentras rápido: un objeto chico, metálico, frío, del tamaño de una nuez, enterrado entre las costillas de metal del lado izquierdo, pegado al corazón, que late con una luz propia y manda señales hacia afuera, constantes, como un faro. El rastreador. Le das forma a la carne y al metal alrededor, y lo empujas. Lo sacas. Sale por la piel del costado como una espina que el cuerpo expulsa, sin sangre, y cae a las baldosas rosas con un ruidito seco.
+
+Lo aplastas con el pie. Se apaga.
+
+Bajas la mano del pecho de Kuma y caes al piso, de pie.
+
+La burbuja del Ursus Shock, en la palma levantada, tiembla. Se encoge. Se deshace en el aire, como una pompa de jabón, con un soplido tibio que le levanta la falda a media docena de okamas.
+
+Kuma se queda quieto. Con la mano todavía en el aire.
+
+Parpadea.
+
+Por primera vez en meses, parpadea. Una vez. Dos. Los ojos se le humedecen. Le vuelve algo, poco a poco, como la luz a una ventana cuando sale el sol. Baja la mano despacio. Se mira la palma. Se mira las cadenas cortadas que le cuelgan de los hombros. Se mira la ropa rota, los pies descalzos, el patio rosa, las okamas, el castillo con forma de corazón.
+
+Baja la vista hacia el chico de sombrero de copa que tiene delante, con los brazos todavía abiertos, temblando.
+
+—...Sabo —dice. La voz grave, ronca, oxidada, como una puerta que no se abrió en mucho tiempo.
+
+Sabo baja los brazos. Se le doblan las rodillas. Se le llenan los ojos.
+
+Kuma levanta la cabeza. Mira alrededor, buscando algo, alguien, con una desesperación que le cambia la cara entera.
+
+—Bonney —dice—. ¿Dónde está Bonney?
+
+Y en ese momento, el collar de hierro negro que todavía tiene en el cuello, el de los esclavos de Mary Geoise, deja de pitar despacio. La luz roja se queda fija. Y empieza a sonar un pitido continuo, agudo, que no para.
+
+Ivankov, en la escalera, abre los ojos de par en par.
+
+—¡¡EL COLLAR!! —grita—. ¡¡Es un collar explosivo de los Dragones Celestiales!! ¡¡Si el esclavo se aleja de Mary Geoise, explota!! ¡¡Vanaata, va a volar media isla!!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1870 · ONE PIECE · DÍA ~227 · 08:10    ║
+║ Isla Momoiro · Reino Kamabakka               ║
+║ Patio frente al castillo de Ivankov          ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 97% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirando el collar        ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: ¡El collar de Kuma va a explotar!  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 08:10, patio frente al castillo de Ivankov, isla Momoiro. Mary Geoise: Kuma (casi 7 m) arrastraba con cadenas el carruaje dorado de un Dragón Celestial gordo con látigo; espalda con marcas de látigo (metal debajo), ropa en jirones, COLLAR DE ESCLAVO de hierro negro con luz roja (explosivo); cara vacía. El Dragón Celestial los vio ("¿Y ustedes de dónde salieron, plebeyos...?"). Kuma empezó a levantar la mano; Facundo lo tocó y se teletransportó con él y Sabo a Momoiro (cadenas cortadas; el carruaje quedó solo en la avenida). En Momoiro: okamas atónitos, Ivankov en la escalera. Kuma, programado, apunta la palma a Ivankov: URSUS SHOCK formándose. Sabo se pone delante de Ivankov: "¡Kuma, soy yo! ¡Soy Sabo!" El collar pita dos veces.
+ESTADO AL CIERRE: Día ~227 08:10, patio de Momoiro. Transfiguración Ociosa en el pecho de Kuma: su alma no estaba borrada sino doblada y aplastada; Facundo la despliega (recuerdos: pueblo nevado de Sorbet, iglesia, Biblia, una mujer, Bonney bebé de pelo rosa). Saca el rastreador (nuez metálica junto al corazón, entre costillas de metal izquierdas): lo expulsa por la piel y lo aplasta (apagado). El Ursus Shock se deshace. KUMA VUELVE EN SÍ: "...Sabo." "Bonney. ¿Dónde está Bonney?" Sabo cae de rodillas. EL COLLAR DE ESCLAVO (explosivo) pasa a pitido continuo, luz roja fija. Ivankov: "¡¡Es un collar explosivo de los Dragones Celestiales!! ¡¡Si el esclavo se aleja de Mary Geoise, explota!! ¡¡Vanaata, va a volar media isla!!"

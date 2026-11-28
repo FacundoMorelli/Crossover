@@ -306,3 +306,4 @@
 - T1865 · DRAGON sabe (por Sabo) que Facundo curó a Barbablanca con la mano. Alumnos de espada de Baltigo lo reconocen en el patio.
 - T1866 · DRAGON, SABO, KOALA, CORVIN, HACK, ROBIN saben (por Facundo) que a Kuma se le puede devolver lo que le quitaron.
 - T1869 · Un DRAGÓN CELESTIAL y guardias de Mary Geoise vieron a Facundo (Ojos de Eclipse, con gato) y a Sabo llevarse a Kuma. IVANKOV y decenas de OKAMAS de Momoiro los vieron llegar.
+- T1870 · IVANKOV, SABO y los OKAMAS ven a Facundo devolverle la conciencia a Kuma tocándole el pecho y sacarle el rastreador. QUIÉN VIO QUÉ PODERES: Transfiguración Ociosa (efecto) — Ivankov, Sabo, okamas.
