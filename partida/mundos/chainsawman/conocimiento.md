@@ -58,3 +58,4 @@ Quién sabe qué de Facundo en este mundo.
 - T1723 · MAKIMA VIO a Facundo TRANSFORMADO EN DRAGÓN y aparecer de la nada en su oficina (Teletransportación). Sabe que la encontró sin saber dónde estaba.
 - T1724 · MAKIMA vio la destransformación y los tatuajes de dragones; deduce que Facundo tiene el corazón de un demonio Dragón (híbrido).
 - T1726 · MAKIMA sabe (por Aki, llamada de esta mañana) que Denji se durmió sonriendo gracias a Facundo. Deduce que Facundo no tiene dónde dormir en Tokio.
+- T1727 · AKI sabe (por Makima, llamada antes de que llegara Facundo) que Facundo va a vivir en su departamento.

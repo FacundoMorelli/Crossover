@@ -1,2 +1,2 @@
 # GRUPO — CHAINSAW MAN
-Con quién anda: Makima y la División 4 (desde T1691). Bando: trabaja para Makima "hasta que esto termine" (los asesinos internacionales). Rango: colaborador externo, sin contrato. Pago: lo que pida (sin fijar).
+Con quién anda: Makima y la División 4. Desde T1727: va a vivir en el departamento de Aki con Denji y Power (habitación de las cajas), hasta que termine lo de los asesinos. Bando: colaborador externo de Makima, sin contrato ni paga. Tiene llave de repuesto del departamento.

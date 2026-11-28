@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1724)
-
-me destransformo
-
-## RESPUESTA 1 (T1724)
-
-> me destransformo
-
-Sueltas el segundo corazón.
-
-Las escamas se retiran como la marea. Bajan del cuello, de los hombros, de los brazos, se hunden en la piel sin dejar marca, y debajo vuelven a aparecer los tatuajes de dragones de siempre, como si nunca se hubieran ido. Las garras se acortan hasta ser dedos. Los cuernos se deshacen entre el pelo blanco y azul. Las alas se pliegan una última vez y desaparecen por el desgarro de la camisa, y la cola, antes de irse, barre la alfombra con un último movimiento perezoso que hace que uno de los perros levante la cabeza. Las pupilas, por último, vuelven a ser redondas.
-
-Queda un muchacho de dieciocho años, en una oficina en un piso alto, con la camisa blanca rota en la espalda, un gato en un hombro y una viejita dormida en el otro.
-
-Makima te mira hacer todo eso sin parpadear.
-
-—Un dragón —dice, al final, despacio. No es una pregunta—. No sabía que existiera un demonio Dragón. —Inclina la cabeza—. O que alguien tuviera su corazón.
-
-Lo dice como quien comenta una pieza rara en una colección ajena. Con cariño. Con codicia, muy en el fondo, tan en el fondo que casi no se nota.
-
-Rodea el escritorio. Camina hacia ti, sin apuro, sobre la alfombra, entre los perros, que bajan la cabeza a su paso. Se detiene a un metro. Mira a Santa Claus de cerca, la cara arrugada, la boca entreabierta, la bufanda roja colgando.
-
-—Así que esta es. —Le acomoda un mechón blanco detrás de la oreja con un dedo, con una delicadeza que da frío—. Tan chiquita. Y le causó tantas molestias a tanta gente.
-
-Se vuelve hacia la puerta de la oficina.
-
-—Déjela en el sillón, por favor. Ya mando a alguien.
-
-Levanta el teléfono negro de disco, marca dos números, dice "a mi oficina, ahora, cuatro, con restricciones de grado especial", y cuelga, todo en el mismo tono con el que pediría un café.
-
-Después vuelve a mirarte.
-
-—¿Y la fábrica, señor Morelli? —pregunta, con suavidad—. Las personas que ella había convertido. ¿Qué pasó con ellas cuando se durmió?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1724 · CHAINSAW MAN · DÍA 2 · 08:51    ║
-║ Tokio, otoño de 1997                         ║
-║ Seguridad Pública, oficina de Makima         ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.078 · 0 yenes                 ║
-║ Energía 97% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Entregar a Santa Claus a Makima    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1725)
+## COMANDO 1 (T1725)
 
 no vi la verdad
 
-## RESPUESTA 2 (T1725)
+## RESPUESTA 1 (T1725)
 
 > no vi la verdad
 
@@ -103,11 +52,11 @@ Kase, en tu otro hombro, mira las correas del carrito y aplasta las orejas.
 
 ---
 
-## COMANDO 3 (T1726)
+## COMANDO 2 (T1726)
 
 se los doy
 
-## RESPUESTA 3 (T1726)
+## RESPUESTA 2 (T1726)
 
 > se los doy
 
@@ -156,4 +105,53 @@ Lo dice como si te ofreciera una taza de té.
 
 ---
 
-ESTADO AL CIERRE: Día 2 08:56, oficina de Makima. Santa Claus entregada: atada al carrito (correas, mordaza), caja con cuchillo negro y frasco; bufanda roja doblada encima; se la llevaron. Makima: "Le debo una camisa." "Santa Claus era la peor. Pero no era la única. Esto no terminó." PROPUESTA: quedarse en el departamento de Aki (con Denji y Power), en la habitación de las cajas, hasta que esto termine. "No tiene dónde dormir en esta ciudad. Y a Denji le hizo bien." (Aki se lo dijo esta mañana).
+## COMANDO 3 (T1727)
+
+esta bien
+
+## RESPUESTA 3 (T1727)
+
+> esta bien
+
+> —Está bien.
+
+—Me alegra. —Y parece verdad. La sonrisa se le queda un rato más en la cara que de costumbre—. A Aki le va a costar un poco al principio. No le gustan los cambios. Pero es un buen chico. Y Power... —Se detiene, busca la palabra—. Power va a estar encantada con su gato. Aunque no lo diga.
+
+Abre el cajón de arriba del escritorio. Saca un sobre blanco, sin nada escrito, y una llave sola, plateada, en un llavero de cuero gastado. Lo deja todo sobre la madera, delante de ti.
+
+—La dirección está adentro. Y la llave es la de repuesto de Aki. Él ya lo sabe; lo llamé antes de que usted llegara. —Inclina la cabeza—. Me imaginé que iba a decir que sí.
+
+Se levanta. Va hasta el perchero de la esquina, abre un armario de madera que hay al lado, empotrado en la pared, que no habías visto. Adentro hay camisas blancas, colgadas, una al lado de la otra, todas iguales, planchadas. Elige una, la mira a contraluz, la mira a ti, y te la trae doblada sobre el brazo.
+
+—Es de las del uniforme. Las tenemos para cuando alguien vuelve de una misión con la ropa rota. —Te la tiende—. Pasa más seguido de lo que parece.
+
+En el escritorio, el teléfono negro suena una vez. Makima no lo atiende. Lo deja sonar.
+
+—Yo viajo a la tarde. Vuelvo en dos o tres días. —Te mira, tranquila—. Mientras tanto, si pasa algo, llame al número que le dejé en la casa de té. Kishibe atiende siempre. —Una pausa breve, y la sonrisa se le estira un poco—. Ah. Pero usted no lo agarró. Lo dejó en la mesa.
+
+Saca otra tarjeta igual del bolsillo y la pone encima del sobre.
+
+—Ahora sí.
+
+El teléfono suena otra vez. Esta vez lo levanta, pero tapa el auricular con la mano y no habla todavía. Te mira una última vez, con los anillos amarillos quietos.
+
+—Gracias, señor Morelli. Por todo. —Y después, más bajo, como quien dice algo solo para uno—: Cuídelos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1727 · CHAINSAW MAN · DÍA 2 · 08:58    ║
+║ Tokio, otoño de 1997                         ║
+║ Seguridad Pública, oficina de Makima         ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.078 · 0 yenes                 ║
+║ Energía 97% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Mudarse con Aki, Denji y Power     ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 2 08:58, oficina de Makima. Facundo aceptó vivir en el departamento de Aki. Sobre el escritorio: sobre blanco con la dirección, la llave de repuesto de Aki (llavero de cuero; Aki ya lo sabe), otra tarjeta con el número de Kishibe. Makima le dio una camisa blanca del uniforme (doblada). Viaja a la tarde, vuelve en 2-3 días. El teléfono suena; ella tapa el auricular: "Gracias, señor Morelli. Por todo. Cuídelos." Facundo todavía no tomó las cosas.

@@ -1725,3 +1725,4 @@ T1723 · CHAINSAW MAN · oficina de Makima · Santa inconsciente; los muñecos d
 T1724 · CHAINSAW MAN · oficina de Makima · Se destransforma. Makima: "Un dragón. No sabía que existiera." Pide a 4 agentes con restricciones. "¿Y la fábrica?"
 T1725 · CHAINSAW MAN · oficina de Makima · "No vi, la verdad." Makima manda a Kishibe a la fábrica con médicos. Entran cuatro agentes con correas y cadenas por Santa.
 T1726 · CHAINSAW MAN · oficina de Makima · Entrega a Santa. Makima: "Le debo una camisa. Esto no terminó." Propone que viva en el departamento de Aki con Denji y Power.
+T1727 · CHAINSAW MAN · oficina de Makima · "Está bien." Makima: dirección, llave de Aki, tarjeta, camisa del uniforme. Viaja a la tarde. "Cuídelos."
