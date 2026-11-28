@@ -3,80 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1871)
-
-uso hakai en el collar
-
-## RESPUESTA 1 (T1871)
-
-> uso hakai en el collar
-
-Levantas la mano hacia el cuello de Kuma.
-
-—¡NO LO TOQUES! —grita Ivankov—. ¡Si se lo sacan sin la llave, explota igual!
-
-No lo sacas.
-
-Apoyas los dedos sobre el hierro negro, sobre la luz roja fija que chilla. El Hakai sale de tu mano: una luz violeta, oscura, que no brilla sino que se traga la luz de alrededor, y envuelve el collar entero, de punta a punta, en un instante.
-
-El pitido se corta.
-
-El collar no explota. No se rompe. No se cae. Simplemente deja de existir: se deshace en polvo violeta, fino como ceniza, que el viento tibio de Momoiro levanta y se lleva hacia el mar, girando, hasta que no queda nada. Ni el hierro, ni la luz roja, ni el mecanismo, ni el explosivo de adentro. Solo el cuello de Kuma, con una marca más clara en la piel, de meses de tenerlo puesto.
-
-Silencio.
-
-Todo el patio de Momoiro se queda en silencio. Las decenas de okamas, quietas, con la boca abierta. Ivankov, en la escalera, con las manos en las mejillas.
-
-—...Hee-haw —dice, en un susurro.
-
-Kuma se lleva una mano al cuello. Lo toca. Despacio, con la almohadilla de la palma, como si no pudiera creer que no está. Después baja la mano. Te mira.
-
-Es la primera vez que te mira de verdad, desde Thriller Bark.
-
-Se queda mirándote un rato largo. Los ojos, que hace un minuto no tenían nada, se le llenan de algo que lo hace parecer muy viejo y muy joven al mismo tiempo. Te mira el pelo. Los ojos, rojo y azul. La cicatriz. A Kase.
-
-—Tú —dice, despacio, con la voz ronca—. Thriller Bark. El chico que me pidió que aguantara. —Hace una pausa—. El que se quedó de pie con todo el dolor de sus compañeros encima.
-
-Se arrodilla.
-
-Casi siete metros de hombre, de rodillas sobre las baldosas rosas, para quedar a la altura de tus ojos. Las cadenas cortadas le cuelgan de los hombros y tocan el piso.
-
-—Me preguntaste a dónde me gustaría ir de vacaciones —dice—. Y yo te pregunté por qué.
-
-Se le quiebra la voz.
-
-—Me buscaste. Allá arriba. Donde nadie llega.
-
-Sabo, a su lado, se le apoya contra el brazo, llorando sin vergüenza. Kuma le pone encima la mano enorme, sin mirarlo, como a un chico.
-
-Y vuelve a mirarte. Y en los ojos se le enciende otra vez esa desesperación.
-
-—Bonney —dice—. Mi hija. Jewelry Bonney. Cuando Vegapunk... cuando todavía me quedaba algo, la última vez que supe de ella estaba en el mar, buscándome. Si sabe que me tuvieron en Mary Geoise... —Traga—. Va a ir. Va a ir a buscarme allá arriba. Es igual de terca que su madre.
-
-Te agarra con dos dedos enormes del borde del sobretodo, suave.
-
-—¿Sabes dónde está mi hija?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1871 · ONE PIECE · DÍA ~227 · 08:11    ║
-║ Isla Momoiro · Reino Kamabakka               ║
-║ Patio frente al castillo de Ivankov          ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 96% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirando a Kuma           ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Kuma: "¿Sabes dónde está mi hija?" ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1872)
+## COMANDO 1 (T1872)
 
 uso el ki para buscar a bonney
 
-## RESPUESTA 2 (T1872)
+## RESPUESTA 1 (T1872)
 
 > uso el ki para buscar a bonney
 
@@ -123,11 +54,11 @@ Kase, en tu hombro, mira hacia el este. Hacia donde miraste tú.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1873)
+## COMANDO 2 (T1873)
 
 ya vengo, me teletransporto a bonney, la toco y me teletransporto con kuma de nuevo
 
-## RESPUESTA 3 (T1873)
+## RESPUESTA 2 (T1873)
 
 > ya vengo, me teletransporto a bonney, la toco y me teletransporto con kuma de nuevo
 
@@ -214,6 +145,63 @@ Te encuentra. Te mira de arriba abajo, con los ojos violetas entrecerrados, toda
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1874)
+
+soy Facundo Morelli, un viajero, le saco los grilletes, me llaman Ojos de eclipse
+
+## RESPUESTA 3 (T1874)
+
+> soy Facundo Morelli, un viajero, le saco los grilletes, me llaman Ojos de eclipse
+
+> —Soy Facundo Morelli. Un viajero.
+
+Te acercas. Bonney se pone tensa, con los puños esposados levantados, todavía apoyada en el pecho de su padre. Kuma le pone una mano enorme en la espalda, despacio. Ella baja los puños.
+
+Le agarras los grilletes de las muñecas. La piedra gris azulada es fría, pesada, áspera. A ella la aplasta: lo ves en cómo le tiemblan los brazos, en cómo le cuesta respirar. A ti no te hace nada. Ninguna de las frutas que llevas copiadas trae la debilidad del mar.
+
+Cierras la mano.
+
+El kairoseki cruje. Se raja. Se parte en dos pedazos que caen a las baldosas rosas con un golpe sordo. Te agachas, agarras los de los tobillos, y los partes igual, con los dedos, como si fueran de tiza.
+
+Bonney se queda mirando los pedazos en el piso. Se mira las muñecas libres, rojas, marcadas. Abre y cierra las manos. Respira hondo, una vez, larga, como quien sale de abajo del agua.
+
+> —Me llaman Ojos de Eclipse.
+
+Bonney levanta la cabeza de golpe.
+
+—¿Ojos de Eclipse? —Se le abren los ojos violetas—. ¿El de Marineford? ¿El que bajó a Puño de Fuego del cadalso delante de todo el mundo?
+
+Te mira de arriba abajo otra vez, ahora de otra manera: el pelo blanco y azul, los ojos, la cicatriz, el gato sentado al lado de su padre.
+
+—Vi tu foto en todos los diarios —dice, despacio—. Pensé que eras más alto.
+
+Kuma, detrás de ella, deja escapar algo que en otro hombre sería una risa. Bonney se da vuelta a mirarlo, sorprendida, como si no le hubiera escuchado reírse en años. Después vuelve a ti. Se seca la cara con el brazo libre. La boca le tiembla, todavía. Pero se cruza de brazos, como para que no se le note.
+
+—No sé qué hiciste —dice—. Ni cómo. Ni por qué. —Mira a su padre, que la mira a ella—. Pero... me lo devolviste.
+
+Se le quiebra la voz en la última palabra. Aprieta los dientes.
+
+—Te debo una. Una grande. —Te señala con el dedo—. Y yo pago mis deudas, Ojos de Eclipse.
+
+Detrás, Sabo se pone de pie de un salto, con el sombrero de copa en la mano, y se le borra la sonrisa.
+
+—¡Facundo! —Te mira con cara de pánico—. ¡El minuto! ¡Le dijiste a Robin un minuto! —Saca un reloj de bolsillo, lo mira—. ¡Pasaron cuatro!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1874 · ONE PIECE · DÍA ~227 · 08:14    ║
+║ Isla Momoiro · Reino Kamabakka               ║
+║ Patio frente al castillo de Ivankov          ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 94% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: sentado junto a Kuma                   ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Sabo: "¡Pasaron cuatro minutos!"   ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 08:13, patio de Momoiro. "Ya vengo." Teletransporte a la celda del buque prisión: Bonney (pelo rosa largo y sucio, ropa rota, descalza, grilletes de kairoseki en muñecas y tobillos, hombro lastimado de golpear la puerta) lo ve: "¿Qué demonios...?" Facundo la toca y vuelve a Momoiro (5 s). Bonney ve a Kuma: "...¿Papá?" Corre con los grilletes y lo abraza; Kuma llora: "Me acuerdo de todo, Bonney." Bonney: "¡Idiota! ¡Te busqué por todo el mar!..." Okamas, Ivankov y Sabo lloran. Kase sentado junto a ellos. Bonney a Facundo: "Tú. ¿Quién demonios eres tú?" (Sigue con los grilletes de kairoseki.)
+ESTADO AL CIERRE: Día ~227 08:14, patio de Momoiro. "Soy Facundo Morelli. Un viajero." Parte con los dedos los grilletes de kairoseki de muñecas y tobillos (a él no le afecta). "Me llaman Ojos de Eclipse." Bonney: "¿El de Marineford? ¿El que bajó a Puño de Fuego del cadalso...? Vi tu foto en todos los diarios. Pensé que eras más alto." Kuma casi se ríe. Bonney: "No sé qué hiciste. Ni cómo. Ni por qué. Pero... me lo devolviste. Te debo una. Una grande. Y yo pago mis deudas, Ojos de Eclipse." Sabo, con el reloj: "¡El minuto! ¡Le dijiste a Robin un minuto! ¡Pasaron cuatro!"

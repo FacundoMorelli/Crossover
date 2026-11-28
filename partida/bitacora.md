@@ -1873,3 +1873,4 @@ T1870 · ONE PIECE · Momoiro · Transfiguración Ociosa: Kuma recupera su alma 
 T1871 · ONE PIECE · Momoiro · Hakai en el collar explosivo: polvo. Kuma, libre: "Me buscaste." "¿Sabes dónde está mi hija?"
 T1872 · ONE PIECE · Momoiro · Busca a Bonney con ki: presa en un buque prisión de la Marina rumbo a Mary Geoise.
 T1873 · ONE PIECE · Buque prisión → Momoiro · Saca a Bonney de su celda. Reencuentro con Kuma. Bonney: "¿Quién demonios eres tú?"
+T1874 · ONE PIECE · Momoiro · Rompe los grilletes de Bonney. "Me llaman Ojos de Eclipse." Bonney: "Te debo una." Sabo: "¡Pasaron cuatro minutos!"

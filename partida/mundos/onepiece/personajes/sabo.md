@@ -35,3 +35,4 @@ RELACIÓN CON FACUNDO: le debe la memoria y la vida de Ace; lo mira como a algui
 - T1869 · Mary Geoise: ve a Kuma encadenado y azotado; se le contrae la cara; le clava la mano en el hombro a Facundo: "Kuma..." Momoiro: se pone delante de Ivankov con los brazos abiertos: "¡KUMA! ¡Kuma, soy yo! ¡Soy Sabo!"
 - T1870 · Kuma lo reconoce: "...Sabo." Se le doblan las rodillas, llora.
 - T1873 · Sentado en el piso del patio, ríe y llora mirando el cielo rosa.
+- T1874 · Con el reloj de bolsillo: "¡Facundo! ¡El minuto! ¡Le dijiste a Robin un minuto! ¡Pasaron cuatro!"
