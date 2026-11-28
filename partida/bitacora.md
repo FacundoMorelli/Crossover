@@ -1833,3 +1833,4 @@ T1830 · SOLO LEVELING · Sede de la Asociación · Jinwoo lo espera afuera: "No
 T1831 · SOLO LEVELING · Sede de la Asociación · "¿Y tú qué eres?" Jinwoo: "Un cazador. Nada más." "¿Vas a estar cerca?"
 T1832 · SOLO LEVELING · Yeouido · A Jinwoo: "Voy a estar cerca. No es necesario que uses tus sombras." Jinwoo: "...¿Cómo?"
 T1833 · SOLO LEVELING · Hotel de Gangnam · (simulados Días 11-21) Preparativos. Día 22, 05:30: Cha se va a Jeju. "Ya me tengo que ir."
+T1834 · SOLO LEVELING · Hotel de Gangnam · Despedida. "Cuídate mucho, amor." Cha: "Voy a volver. Entro."

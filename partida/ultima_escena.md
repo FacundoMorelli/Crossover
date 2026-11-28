@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1831)
-
-soy un viajero, nada más, pero me preguntas a mi, pero tu? que eres?
-
-## RESPUESTA 1 (T1831)
-
-> soy un viajero, nada más, pero me preguntas a mi, pero tu? que eres?
-
-> —Soy un viajero, nada más. Pero me preguntas a mí... ¿y tú? ¿Qué eres?
-
-Jinwoo no contesta enseguida.
-
-Te sostiene la mirada. En la avenida, detrás de él, pasa un autobús, una moto, una señora con un carrito de compras que los mira a los dos y apura el paso sin saber por qué.
-
-Y entonces, por primera vez desde que lo viste en la cinta de Gangnam, a Sung Jinwoo se le mueve la comisura de la boca. No es una sonrisa entera. Es la mitad de una. Cansada, un poco divertida, la cara de alguien que hizo una pregunta sabiendo que le iban a devolver exactamente la misma.
-
-—Un cazador —dice—. Nada más.
-
-Las mismas palabras. El mismo tono.
-
-Se queda un segundo así. Después la media sonrisa se le borra y mira hacia la sede de la Asociación, hacia el subsuelo donde siguen entrenando, donde está Cha Hae-in.
-
-—Dieciséis cazadores de rango S van a entrar a esa isla —dice, más bajo—. Las tres veces anteriores volvieron menos de la mitad. —Hace una pausa—. Yo no voy a ir. Mi madre estuvo dormida cuatro años. Acaba de despertar. Hoy a la mañana me hizo el desayuno. —Mueve la mandíbula—. No la voy a dejar.
-
-No te está pidiendo permiso. Te lo está diciendo como quien deja algo apoyado sobre una mesa.
-
-Vuelve a mirarte. Después a Kase. Después otra vez a ti.
-
-—No sé qué eres, viajero. Y me doy cuenta de que no me lo vas a decir. —Mete las manos en los bolsillos—. Pero ella te eligió a ti. Y ella no se equivoca con la gente.
-
-Se da vuelta para irse. Da dos pasos por la vereda. Se detiene sin girarse, de espaldas.
-
-—Si en esa isla pasa algo —dice, sin mirarte—, ¿vas a estar cerca?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1831 · SOLO LEVELING · DÍA 11 · 11:14  ║
-║ Seúl, Corea del Sur                          ║
-║ Vereda de la sede de la Asociación           ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirando a Jinwoo         ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Jinwoo: "¿Vas a estar cerca?"      ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1832)
+## COMANDO 1 (T1832)
 
 si, voy a estar cerca, no te preocupes, no es necesario que uses tus sombras para ir para allá, sigo caminando sin esperar respuesta
 
-## RESPUESTA 2 (T1832)
+## RESPUESTA 1 (T1832)
 
 > si, voy a estar cerca, no te preocupes, no es necesario que uses tus sombras para ir para allá, sigo caminando sin esperar respuesta
 
@@ -99,11 +50,11 @@ Son las once y media. Cha Hae-in sale a las siete.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1833)
+## COMANDO 2 (T1833)
 
 simula hasta jeju
 
-## RESPUESTA 3 (T1833)
+## RESPUESTA 2 (T1833)
 
 > simula hasta jeju
 
@@ -160,6 +111,57 @@ Se queda ahí un segundo, en el umbral, sin abrir la puerta.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1834)
+
+le doy un beso, te espero aquí, cuídate mucho amor
+
+## RESPUESTA 3 (T1834)
+
+> le doy un beso, te espero aquí, cuídate mucho amor
+
+Le das un beso.
+
+Cha Hae-in te agarra del cuello de la camisa con las dos manos, por encima de los guantes de la armadura, y te lo devuelve fuerte, largo, con los ojos cerrados. El metal frío de la hombrera te roza el brazo. La llavecita de la cadena te toca el pecho.
+
+> —Te espero aquí. Cuídate mucho, amor.
+
+Ella apoya la frente contra la tuya. Respira hondo por la nariz, una vez, como antes de entrar a una Puerta. Como si quisiera llevarse el olor de nada que tienes.
+
+—Voy a volver —dice, en un susurro—. Te lo prometo. Igual que tú me lo prometiste a mí.
+
+Se separa. Se acomoda la espada a la espalda. Abre la puerta.
+
+En el umbral se da vuelta una última vez. Mira a Kase, que sigue sentado, muy derecho, mirándola. Te mira a ti. Sonríe, chiquito, de costado, igual que la noche de la cinta en Gangnam.
+
+—Entro —dice.
+
+Y la puerta se cierra.
+
+Escuchas sus pasos por el pasillo alfombrado, rápidos, firmes. El timbre del ascensor. Las puertas de espejo que se abren y se cierran. Después, nada.
+
+Kase se queda mirando la puerta cerrada un rato largo. No se mueve.
+
+Desde el ventanal del piso veintidós, abajo, en la avenida todavía vacía del amanecer, ves salir una figura chiquita, gris plateada, con una espada a la espalda. Sube a una camioneta negra con el emblema de la Asociación. La puerta corrediza se cierra. La camioneta arranca y dobla en la esquina, hacia el norte, hacia el helipuerto.
+
+El cielo sobre Seúl se pone rosado.
+
+Sobre la mesita de luz, al lado del teléfono blanco, sigue la tarjetita del hotel con el número de Cha Hae-in escrito atrás, con su letra prolija, la primera noche.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1834 · SOLO LEVELING · DÍA 22 · 05:36  ║
+║ Seúl, Corea del Sur                          ║
+║ Hotel de Gangnam · habitación 2207           ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: mirando la puerta cerrada              ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Cha va camino a Jeju               ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 05:30, 2207. (Simulado Días 11-21: Cha entrena con los japoneses todos los días, cansada y callada; Kumamoto suspendido; Goto señala a Facundo con la katana (deuda en pie); Min trajo pescado seco para Kase y piensa ir a pescar con su padre tras Jeju; Jinwoo no apareció, pero el Día 14 dejó una lata de atún para gatos en la mesita (por las sombras); Día 19 segunda cena con la señora Kang (abrazo largo a Hae-in; a Facundo le tomó la cara); Día 21 anuncio oficial, transmisión en vivo con camarógrafo A; Cha no durmió.) Hoy: Cha con armadura completa gris plateada, espada, cadenita con placa y llavecita; camioneta de la Asociación → helipuerto → buque en el estrecho → isla. Acarició a Kase. Le tiemblan las manos. "Ya me tengo que ir." Quieta en el umbral.
+ESTADO AL CIERRE: Día 22 05:36, 2207. Beso de despedida. Facundo: "Te espero aquí. Cuídate mucho, amor." Cha: "Voy a volver. Te lo prometo. Igual que tú me lo prometiste a mí." "Entro." Se fue en la camioneta de la Asociación hacia el helipuerto. Facundo y Kase solos en la habitación (Kase mira la puerta). La tarjetita con su número en la mesita.
