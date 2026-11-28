@@ -11,3 +11,4 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: —
+- T1821 · Día 9 · Yeouido · Hombre mayor, corpulento, de traje, pelo canoso, presencia enorme; discurso corto por micrófono en el entrenamiento conjunto.

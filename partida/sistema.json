@@ -1,8 +1,8 @@
 {
-  "turno": 1820,
+  "turno": 1821,
   "mundo_actual": "sololeveling",
   "fecha_local": "Solo Leveling: Día 1 (arco de la Reevaluación / Puerta del Gremio de Cazadores)",
-  "hora": "Día 8, 16:20 (Seúl)",
+  "hora": "Día 9, 13:05 (Seúl)",
   "edad": 18,
   "nivel": 34,
   "exp": 486130,
@@ -1741,6 +1741,20 @@
       "mision": "Pelear con Sung Jinwoo en serio, los dos con todo, y que al terminar él te dé la mano.",
       "dificultad": "EXTREMA",
       "emitida": "T1768"
+    },
+    {
+      "poder": "Esgrima de Goto Ryuji (cortes a distancia con maná)",
+      "mundo": "sololeveling",
+      "mision": "Cruzar espadas con Goto Ryuji hasta que él reconozca tu técnica en voz alta.",
+      "dificultad": "MEDIA",
+      "emitida": "T1821"
+    },
+    {
+      "poder": "Sanación de Min Byung-Gyu",
+      "mundo": "sololeveling",
+      "mision": "Que Min Byung-Gyu salga vivo de la isla de Jeju.",
+      "dificultad": "ALTA",
+      "emitida": "T1821"
     }
   ],
   "misiones_de_copia_rechazadas": [],

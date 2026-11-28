@@ -1820,3 +1820,4 @@ T1817 · SOLO LEVELING · Barrio de la señora Kang · Le cuenta a Cha lo que pr
 T1818 · SOLO LEVELING · Seúl · (simulados Días 5-8) Vida con Cha. Día 8: anuncian la 4.ª incursión a Jeju en dos semanas; Cha va.
 T1819 · SOLO LEVELING · Hotel de Gangnam · "Está bien, amor." Cha agradece que no le pida no ir. "Prométeme que vas a estar aquí cuando vuelva."
 T1820 · SOLO LEVELING · Hotel de Gangnam · "Te lo prometo." Cha lo invita a ver mañana los entrenamientos con los japoneses en Yeouido.
+T1821 · SOLO LEVELING · Yeouido · Entrenamiento Corea-Japón. Tasa a Goto y a Min; copias de ambos. Min se sienta a su lado.
