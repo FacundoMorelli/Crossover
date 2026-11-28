@@ -1815,3 +1815,4 @@ T1812 · SOLO LEVELING · Seúl · (simulado) Residencia provisoria con Cha como
 T1813 · SOLO LEVELING · Casa de la señora Kang · Peras; la mamá de Cha se ríe y lo hace pasar. "¿Y qué haces de la vida?"
 T1814 · SOLO LEVELING · Casa de la señora Kang · "Ayudo a la gente." El papá de Cha, bombero, murió en un incendio. "Si ella no sale de una Puerta, ¿qué vas a hacer?"
 T1815 · SOLO LEVELING · Casa de la señora Kang · "Todo lo que tenga en mis manos." La señora Kang lo acepta. "¿La vas a traer otra vez a comer?"
+T1816 · SOLO LEVELING · Barrio de la señora Kang · "La voy a traer otra vez." "Cuídense. Los dos." Cha: "¿Qué te dijo?"

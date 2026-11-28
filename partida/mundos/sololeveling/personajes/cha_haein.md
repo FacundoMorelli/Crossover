@@ -53,3 +53,4 @@ QUÉ SABE DE FACUNDO (T1797): nombre; viajero; sin papeles; no sabía qué son c
 - T1813 · Le pasa la caja de peras a Facundo para que la entregue. "Mamá, por favor." (dos veces). Mira el techo cuando su mamá le sirve costillas a Facundo.
 - T1814 · Al oír "ayudo a la gente que lo necesita" mira a Facundo como si entendiera algo; deja los palillos, sin dejar de mirarlo. (No sabe nada de Dong-su.) Baja la vista cuando su mamá habla del padre. PADRE: bombero, murió en un incendio.
 - T1815 · Bajo la mesa le aprieta la mano y no la suelta (come torpe con la otra). Protesta con la cara tapada por las anécdotas. Va a cortar las peras. Desde la cocina: "¡Mamá! ¡¿Qué le estás diciendo?!"
+- T1816 · Trae las peras en gajos. "¿Qué le dijiste?" Bajo un farol, ojos rojos: "Nunca la había visto así. Riéndose así. Desde lo de papá." Agarrada a su solapa: "¿Qué te dijo? Cuando me mandó a la cocina. Dime la verdad."
