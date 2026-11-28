@@ -3,58 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1825)
-
-si vamos a casa( cuando es la pelea de entrenamientos que sung pelea con goto? si no tenes bien el canon fijate en el otro repo de solo leveling)
-
-## RESPUESTA 1 (T1825)
-
-> si vamos a casa
-
-> —Sí. Vamos a casa.
-
-Cha Hae-in se queda quieta contra tu hombro. Después se ríe bajito, sin levantar la cabeza, y se le colorean las orejas otra vez.
-
-—A casa —repite, despacio, como si probara cómo suena.
-
-Toman un taxi en la puerta del centro de entrenamiento. Yeouido se apaga detrás, con las torres de los bancos encendiéndose una por una contra el cielo violeta del atardecer. Cruzan el Han. Cha Hae-in va con la cabeza apoyada en la ventanilla, cansada, con la espada en su funda entre las rodillas y tu mano agarrada sobre el asiento. Kase duerme en tu falda.
-
-En el hotel ya nadie los espera en la puerta. El portero de guantes blancos les abre con la misma reverencia de siempre. La recepcionista del turno de la tarde le sonríe a Cha Hae-in, y esta vez Cha Hae-in le devuelve la sonrisa.
-
-Piso veintidós. Lucecita verde. Clic.
-
-Cha Hae-in apoya la espada contra la pared, junto a la puerta, como si viviera ahí desde siempre. Se saca los zapatos. Se tira de espaldas en la cama con los brazos abiertos. Kase se le sube a la panza.
-
-—Mañana no hay entrenamiento —dice al techo—. Pasado sí. El día once. Esa vez es en el gimnasio de la Asociación, más chico, sin prensa. Vamos a hacer combates de práctica, cuatro contra cuatro, coreanos contra japoneses, para conocernos.
-
-Acaricia a Kase.
-
-—Go Gunhee invitó a Sung Jinwoo a mirar. —Hace una pausa—. El del segundo despertar. El de la Puerta de Gangnam, el de la noche que nos conocimos. Quiere convencerlo de que venga a Jeju. Dicen que es muy fuerte, más de lo que la medición dijo. Choi está obsesionado con él.
-
-Gira la cabeza sobre la colcha para mirarte.
-
-—Tú también estás invitado, si quieres. Se lo pregunté a Choi. Dijo que sí, que total "el novio sin maná ya es parte del paisaje". —Sonríe—. ¿Vienes pasado mañana?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1825 · SOLO LEVELING · DÍA 9 · 18:10   ║
-║ Seúl, Corea del Sur                          ║
-║ Hotel de Gangnam · habitación 2207           ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: echado sobre la panza de Cha           ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Entrenamiento 4 vs 4 (Día 11)      ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1826)
+## COMANDO 1 (T1826)
 
 si, claro que voy. simula hasta el entrenamiento
 
-## RESPUESTA 2 (T1826)
+## RESPUESTA 1 (T1826)
 
 > si, claro que voy. simula hasta el entrenamiento
 
@@ -151,11 +104,11 @@ A tu lado, Jinwoo ya se está moviendo.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1827)
+## COMANDO 2 (T1827)
 
 dejo que jinwoo lo detenga y miro
 
-## RESPUESTA 3 (T1827)
+## RESPUESTA 2 (T1827)
 
 > dejo que jinwoo lo detenga y miro
 
@@ -236,6 +189,61 @@ Hace una pausa.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1828)
+
+por que no podía hacer nada y sabia que sung iba a llegar
+
+## RESPUESTA 3 (T1828)
+
+> por que no podía hacer nada y sabia que sung iba a llegar
+
+> —Porque no podía hacer nada. Y sabía que Sung iba a llegar.
+
+Go Gunhee levanta una ceja, gruesa, canosa. Te mira un segundo más.
+
+—Lo sabía —repite.
+
+Después se ríe. Una risa grave, corta, que le sacude los hombros anchos debajo del traje.
+
+—Choi, ¿oíste? El muchacho sin maná sabía. Y nosotros, con cuarenta años de Puertas entre los dos, no.
+
+Choi Jong-In no se ríe. Se acomoda los anteojos.
+
+—Sung Jinwoo te estuvo mirando toda la mañana, señor Morelli —dice, seco—. Más que a los combates.
+
+Go Gunhee mira hacia la puerta por donde salió Jinwoo. La sonrisa se le apaga despacio.
+
+—Lo invité para convencerlo de que venga a Jeju. —Apoya las manos en la baranda—. Antes de bajar me dijo que no. Que su madre acaba de despertar después de años, y que no la va a dejar sola. —Suspira, largo—. No puedo culparlo. Pero con él adentro, en esa isla, volvería todo el mundo. Sin él...
+
+No termina la frase. Se queda mirando el salón, donde los japoneses se llevan a Kumamoto en una camilla, inconsciente, y Goto discute en voz baja con Hoshino junto a los restos de la pared de hielo.
+
+Pasos rápidos en la escalera interna. La puerta del balcón se abre de golpe.
+
+Es Cha Hae-in, todavía en ropa de entrenamiento, con el pelo revuelto y la respiración agitada. Hace una reverencia rápida a Go Gunhee y a Choi, sin mirarlos, y cruza el balcón directo hacia ti. Se detiene a medio paso. Te mira de arriba abajo, como buscando algo, y después se ríe, sin aire, nerviosa.
+
+—No sé por qué subí corriendo —dice—. El que estaba en peligro era yo. —Se pasa una mano por el pelo—. Ni siquiera lo vi venir. Kumamoto. Estaba de espaldas. Si Sung no...
+
+Se calla. Te agarra la mano, delante de Go Gunhee y de Choi, sin importarle.
+
+En la sombra de ella, en el piso del balcón, no se ve nada raro. Pero Kase sigue mirándola fijo.
+
+—¿Viste lo que hizo? —pregunta Cha Hae-in, bajito, todavía con los ojos muy abiertos—. Con una mano. Los dos puños de un rango S, con una mano. Y no tiene olor, Facundo. Igual que tú. Cuando lo agarré del brazo, no olía a nada.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1828 · SOLO LEVELING · DÍA 11 · 10:55  ║
+║ Seúl, Corea del Sur                          ║
+║ Gimnasio de la Asociación · balcón           ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: mirando la sombra de Cha Hae-in        ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Jinwoo no irá a Jeju               ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 11 10:51, balcón del gimnasio. Facundo no se movió. Jinwoo bajó en un instante, atrapó los dos puños de Kumamoto con una mano y lo noqueó de un golpe al estómago. Goto lo desafió con la katana real: Jinwoo esquivó todo con las manos en los bolsillos; un corte a matar le rozó la mejilla; Jinwoo le sujetó la muñeca; Kei levantó un muro de hielo; Hoshino sujetó a Goto, Cha y Baek a Jinwoo; sin ganador. FACUNDO VIO (Ojo del Eclipse/percepción) que de la sombra de Jinwoo salieron dos manchas negras: una entró en la sombra de Goto y otra en la de Cha Hae-in (nadie más lo notó; Kase mira la sombra de Cha). Jinwoo se fue sin hablar. Go Gunhee a Facundo: todos se movieron, "Usted no. Ni siquiera parpadeó. Y su novia estaba de espaldas. ¿Por qué?"
+ESTADO AL CIERRE: Día 11 10:55, balcón. Facundo: "Porque no podía hacer nada. Y sabía que Sung iba a llegar." Gunhee se ríe ("el muchacho sin maná sabía"). Choi: "Sung Jinwoo te estuvo mirando toda la mañana... más que a los combates." Gunhee: Jinwoo le dijo que NO irá a Jeju (cuidar a su madre); "con él adentro volvería todo el mundo". Kumamoto en camilla. Cha sube corriendo, le toma la mano delante de Gunhee y Choi: "¿Viste lo que hizo? Con una mano... Y no tiene olor, Facundo. Igual que tú." Kase sigue mirando la sombra de Cha.

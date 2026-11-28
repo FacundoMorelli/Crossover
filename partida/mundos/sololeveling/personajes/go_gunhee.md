@@ -15,3 +15,4 @@ ESTADO: —
 - T1826 · Día 11 · Balcón del gimnasio: "El del secreto. Bienvenido, señor Morelli. Choi me habló de usted. Siéntese donde quiera." Apretón de manos capaz de romper dedos. Voz grave, sonrisa de abuelo. Suspira al ver perder a los coreanos.
 - T1827 · Se agarra de la baranda. Después, a Facundo: "Cuando Kumamoto se lanzó, todos en este balcón nos movimos. Choi se adelantó. Yo me agarré de la baranda. Usted no. Ni siquiera parpadeó. Y su novia estaba de espaldas. ¿Por qué?"
 QUÉ SABE DE FACUNDO (T1827): lo público, medición 0 (Woo), y que no reaccionó ante el ataque a Cha (observación).
+- T1828 · Facundo: "Porque no podía hacer nada. Y sabía que Sung iba a llegar." Levanta una ceja; se ríe: "Choi, ¿oíste? El muchacho sin maná sabía. Y nosotros, con cuarenta años de Puertas entre los dos, no." Jinwoo le dijo que no irá a Jeju (su madre acaba de despertar). "Con él adentro, en esa isla, volvería todo el mundo. Sin él..."
