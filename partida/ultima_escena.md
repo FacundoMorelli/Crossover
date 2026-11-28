@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1858)
-
-si, dile que vamos con gusto
-
-## RESPUESTA 1 (T1858)
-
-> si, dile que vamos con gusto
-
-> —Sí, dígale que vamos con gusto.
-
-—Bien. —La señora Kang asiente, satisfecha, como si hubiera ganado una discusión con alguien—. Así me gusta.
-
-Vuelve al pasillo. La escuchas marcar el número, esperar, y hablar fuerte, con voz de madre: que sí, que van, que a qué hora, que si el gato puede comer pescado crudo o solo cocido, que no se le ocurra al padre de Min cocinar solo porque los hombres no saben, que ella va a mandar kimchi. Cuelga.
-
-Vuelve al living secándose las manos en el delantal.
-
-—A las siete. En Mapo. La dirección te la manda Min al celular de mi hija, cuando lo prenda. —Mira a Cha Hae-in con los ojos entrecerrados—. Que lo vas a prender, ¿no?
-
-—Sí, mamá.
-
-—Y no se va con las manos vacías a la casa de un señor mayor. Llevan fruta. Y el kimchi que yo les preparo.
-
-Se va a la cocina sin esperar respuesta. Al rato se escucha el ruido de frascos de vidrio, del refrigerador que se abre y se cierra.
-
-Cha Hae-in se queda sentada a tu lado, con la cabeza todavía apoyada en tu hombro. Se ríe por la nariz, cansada.
-
-—Va a mandar kimchi para un regimiento.
-
-Se mira la ropa negra de combate, manchada de sudor, de polvo blanco de la caverna, con una mancha oscura de sangre de hormiga seca en la manga. Se huele el pelo. Arruga la nariz.
-
-—No puedo ir así a la casa del padre de Min. —Se endereza, te mira—. Necesito bañarme. Y dormir una hora. O dos. Desde ayer no duermo.
-
-Bosteza, tapándose la boca con el dorso de la mano, sin poder evitarlo. Se le cierran un poco los ojos.
-
-—¿Volvemos al hotel? —pregunta, bajito—. Un rato. Antes de la cena.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1858 · SOLO LEVELING · DÍA 22 · 13:14  ║
-║ Seúl, Corea del Sur                          ║
-║ Casa de la señora Kang · mesa del living     ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 1.282.800 won           ║
-║ Energía 96% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el sofá, dormitando                 ║
-║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
-║ OBJETIVO: Cena en casa de Min, 19:00 (Mapo)  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1859)
+## COMANDO 1 (T1859)
 
 simula un par de dias despidiendome de todos y yendo a one piece
 
-## RESPUESTA 2 (T1859)
+## RESPUESTA 1 (T1859)
 
 > simula un par de dias despidiendome de todos y yendo a one piece
 
@@ -145,11 +94,11 @@ Nico Robin se queda quieta, de espaldas, sin darse vuelta. La mano con la pluma 
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1860)
+## COMANDO 2 (T1860)
 
 si, soy yo amor, entro y la abrazo por detrás
 
-## RESPUESTA 3 (T1860)
+## RESPUESTA 2 (T1860)
 
 > si, soy yo amor, entro y la abrazo por detrás
 
@@ -202,6 +151,61 @@ Te aprieta los brazos.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1861)
+
+si, me reconocieron, y le doy un beso, y saco algo de ese mundo para que vea
+
+## RESPUESTA 3 (T1861)
+
+> si, me reconocieron, y le doy un beso, y saco algo de ese mundo para que vea
+
+> —Sí. Me reconocieron.
+
+Robin cierra los ojos un segundo. Sonríe.
+
+Le das un beso. Ella gira la cabeza hacia ti, sin soltarte los brazos, y te lo devuelve, despacio, sin apuro, como alguien que tuvo noventa y siete días para pensarlo. Kase, en la mesa, se da vuelta y mira la ventana.
+
+Después sacas algo del inventario.
+
+Aparece en tu mano, doblado: una capa corta, de tela gruesa, verde oscura, gastada en los bordes, con una capucha. En la espalda, bordado en blanco y azul, un escudo con dos alas cruzadas, una blanca y una azul.
+
+La capa de la Legión de Reconocimiento. La que te dio Erwin.
+
+Robin la mira. Se le detiene la respiración.
+
+La toma con las dos manos, despacio, como toma los libros viejos de la biblioteca de Baltigo, como si se pudiera deshacer. La despliega sobre la mesa, encima del cuaderno, sin importarle la tinta fresca. Pasa la yema de los dedos por el bordado de las alas. Por las costuras. Por un remiendo torcido en un costado, hecho a mano por alguien que no sabía coser. Por una mancha oscura, vieja, en el borde, que no salió con ningún lavado.
+
+—Las alas de la libertad —dice, en un susurro.
+
+Se lo sabe. Se lo contaste en Tequila Wolf, en la torre de Dragon, en las noches de Baltigo. Lo escribió en las primeras páginas del cuaderno que está debajo.
+
+Se lleva la capa a la cara. Respira hondo, con los ojos cerrados.
+
+—Huele a caballo —dice, y se ríe, bajito—. A pasto. A humo de leña. A metal. —Abre los ojos—. A gente que peleó mucho tiempo para poder ver el mar.
+
+Se queda mirándola un rato largo, con la capa entre las manos. Una mano extra le florece en el hombro y se apoya sobre la tuya, que todavía la abraza.
+
+—En Ohara me enseñaron que los libros son lo único que sobrevive —dice—. Que la gente se olvida, los países se caen, pero lo que está escrito queda. —Pasa otra vez el dedo por las alas—. Y ahora tengo en las manos algo de un mundo que ningún libro de aquí va a nombrar nunca.
+
+Gira la cabeza y te mira, de muy cerca, con los ojos húmedos y serenos.
+
+—Te reconocieron —repite—. ¿Quién fue el primero?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1861 · ONE PIECE · DÍA ~226 · 21:44    ║
+║ Baltigo · cuarto de Robin                    ║
+║ Junto a la mesa, abrazado a Robin            ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la mesa, mirando la ventana         ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: ¿Quién te reconoció primero?       ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~226 21:41, cuarto de Robin en Baltigo. "Sí, soy yo, amor." La abraza por detrás. Robin le agarra los brazos: "Hueles a otro lugar. A ajo. Y a lluvia. Y a algo que se quemó." Kase en la mesa; una mano de Hana Hana le rasca las orejas. "Noventa y siete días. Los conté" (marcas en la pared junto a la ventana; Koala: de presidiaria; Sabo: romántico; Dragon la miró). Le recuerda los dos pedidos (algo del mundo de los titanes para tocar; si lo reconocieron): "Empieza por la segunda. Pero no te sueltes."
+ESTADO AL CIERRE: Día ~226 21:44, cuarto de Robin. "Sí. Me reconocieron." Beso. Facundo saca la capa de la Legión de Reconocimiento (regalo de Erwin; alas de la libertad blanca y azul; remiendo torcido; mancha vieja). Robin la extiende sobre la mesa, la toca, la huele ("a caballo, a pasto, a humo de leña, a metal... a gente que peleó mucho tiempo para poder ver el mar"). "En Ohara me enseñaron que los libros son lo único que sobrevive... Y ahora tengo en las manos algo de un mundo que ningún libro de aquí va a nombrar nunca." "Te reconocieron. ¿Quién fue el primero?"
