@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1727)
-
-esta bien
-
-## RESPUESTA 1 (T1727)
-
-> esta bien
-
-> —Está bien.
-
-—Me alegra. —Y parece verdad. La sonrisa se le queda un rato más en la cara que de costumbre—. A Aki le va a costar un poco al principio. No le gustan los cambios. Pero es un buen chico. Y Power... —Se detiene, busca la palabra—. Power va a estar encantada con su gato. Aunque no lo diga.
-
-Abre el cajón de arriba del escritorio. Saca un sobre blanco, sin nada escrito, y una llave sola, plateada, en un llavero de cuero gastado. Lo deja todo sobre la madera, delante de ti.
-
-—La dirección está adentro. Y la llave es la de repuesto de Aki. Él ya lo sabe; lo llamé antes de que usted llegara. —Inclina la cabeza—. Me imaginé que iba a decir que sí.
-
-Se levanta. Va hasta el perchero de la esquina, abre un armario de madera que hay al lado, empotrado en la pared, que no habías visto. Adentro hay camisas blancas, colgadas, una al lado de la otra, todas iguales, planchadas. Elige una, la mira a contraluz, la mira a ti, y te la trae doblada sobre el brazo.
-
-—Es de las del uniforme. Las tenemos para cuando alguien vuelve de una misión con la ropa rota. —Te la tiende—. Pasa más seguido de lo que parece.
-
-En el escritorio, el teléfono negro suena una vez. Makima no lo atiende. Lo deja sonar.
-
-—Yo viajo a la tarde. Vuelvo en dos o tres días. —Te mira, tranquila—. Mientras tanto, si pasa algo, llame al número que le dejé en la casa de té. Kishibe atiende siempre. —Una pausa breve, y la sonrisa se le estira un poco—. Ah. Pero usted no lo agarró. Lo dejó en la mesa.
-
-Saca otra tarjeta igual del bolsillo y la pone encima del sobre.
-
-—Ahora sí.
-
-El teléfono suena otra vez. Esta vez lo levanta, pero tapa el auricular con la mano y no habla todavía. Te mira una última vez, con los anillos amarillos quietos.
-
-—Gracias, señor Morelli. Por todo. —Y después, más bajo, como quien dice algo solo para uno—: Cuídelos.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1727 · CHAINSAW MAN · DÍA 2 · 08:58    ║
-║ Tokio, otoño de 1997                         ║
-║ Seguridad Pública, oficina de Makima         ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.078 · 0 yenes                 ║
-║ Energía 97% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Mudarse con Aki, Denji y Power     ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1728)
+## COMANDO 1 (T1728)
 
 esta bien. simula unos dias
 
-## RESPUESTA 2 (T1728)
+## RESPUESTA 1 (T1728)
 
 > esta bien. simula unos días
 
@@ -111,11 +62,11 @@ Se da vuelta para irse. A mitad de camino hacia la escalera, sin girarse, agrega
 
 ---
 
-## COMANDO 3 (T1729)
+## COMANDO 2 (T1729)
 
 simula hasta que llegue makima
 
-## RESPUESTA 3 (T1729)
+## RESPUESTA 2 (T1729)
 
 > simula hasta que llegue makima
 
@@ -172,4 +123,71 @@ En el balcón, Aki apaga el cigarrillo contra la baranda, despacio, y no se da v
 
 ---
 
-ESTADO AL CIERRE: Día 4 21:40, living del departamento de Aki. Día tranquilo (Denji: mermelada y juego de cartas; Power quiere a Kase en la cabeza; Kase se echa pegado a su espalda mientras duerme). Aki callado toda la cena (curry), fumando en el balcón bajo la lluvia. Kishibe llamó (pasillo con eco, susurrando): "Llegó. Hace diez minutos. Ni siquiera fue a su oficina. Está bajando a las celdas. Sola. No sé por qué te llamo. Supongo que pensé que querías saberlo." Clic. (Canon: Makima mata a Quanxi y a sus fiends.) Aki apaga el cigarrillo sin darse vuelta.
+## COMANDO 3 (T1730)
+
+me teletransporto a las celdas con makima
+
+## RESPUESTA 3 (T1730)
+
+> me teletransporto a las celdas con makima
+
+Le devuelves el teléfono a Denji. Cierras los ojos, buscas el pozo enorme y quieto con miles de hilos. Está bajo tierra, muy cerca de la central, muy abajo.
+
+Dos dedos en la frente.
+
+Denji se queda con el tubo en la mano, mirando el lugar vacío donde estabas.
+
+Un pasillo de cemento. Largo, angosto, con el techo bajo, iluminado por tubos fluorescentes enjaulados que zumban y parpadean. Huele a humedad, a desinfectante y a algo debajo del desinfectante, viejo, que el desinfectante no alcanza a tapar. El piso está mojado. Gotea en algún lado. A los dos costados hay puertas de hierro con mirillas, cerradas, numeradas. Al fondo del pasillo, muy lejos, junto a la escalera, una silueta alta con una petaca que no se mueve: Kishibe.
+
+Y en el medio del pasillo, de espaldas a ti, Makima.
+
+Está parada frente a la única celda que no tiene puerta de hierro, sino barrotes, de piso a techo, gruesos como muñecas. Tiene las manos juntas delante del cuerpo. La trenza sobre el hombro. El abrigo negro todavía puesto, con gotas de lluvia en los hombros.
+
+Del otro lado de los barrotes, sentada en el piso de cemento con las piernas cruzadas y la espalda contra la pared, hay una mujer. Pelo blanco corto, despeinado. Un parche negro sobre un ojo. Traje negro, sin corbata. Las manos esposadas sobre las rodillas. No tiene miedo en la cara. No tiene nada. Mira a Makima como quien mira la lluvia.
+
+A su alrededor, apretadas contra ella, hay cuatro chicas. Fiends. Una con orejas de animal. Una con la cara llena de costuras. Una alta, con cuernos chiquitos. Y una más baja, con un gorrito y los ojos en espiral, que se ríe sola, bajito, y repite una palabra que no entiendes. Las cuatro miran a Makima. Una está llorando.
+
+Makima levanta la mano derecha. Despacio. Los dedos juntos, el índice y el mayor estirados, el pulgar arriba. Como un chico que juega a los pistoleros. La apunta hacia los barrotes.
+
+Y en ese momento te siente llegar. No con el ki, no con nada que pueda medir: la oye. El ruido mínimo de tu pie apoyándose en el cemento mojado detrás de ella.
+
+No baja la mano. Gira solo la cabeza, por encima del hombro.
+
+—Señor Morelli. —La voz es suave. No hay sorpresa en ella. Hay otra cosa, como una sonrisa que llega tarde—. Me encontró otra vez.
+
+Del otro lado de los barrotes, la mujer del parche desvía la mirada de Makima por primera vez. Te mira a ti. Al pelo, a los ojos, al gato que no traes.
+
+—Ah —dice Quanxi, en un japonés con acento, ronco, tranquilo—. Así que eres tú.
+
+```
+╔══════════════════════════════════════════════╗
+║ QUANXI                                       ║
+║ China · la primera cazadora de demonios      ║
+║ PODER: híbrida (Ballesta) · esgrima ·        ║
+║        velocidad extrema                     ║
+║ AMENAZA: BAJA                                ║
+║ Diferencia estimada: x0,011 sobre ti         ║
+║ Rendida. No le teme a morir. Le teme a que   ║
+║ ellas mueran.                                ║
+║ COPIABLE · MISIÓN: ALTA                      ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1730 · CHAINSAW MAN · DÍA 4 · 21:41    ║
+║ Tokio, otoño de 1997                         ║
+║ Central de Seguridad Pública, celdas         ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.078 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el departamento, con Power          ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 4 21:41, celdas subterráneas de la central. Facundo apareció detrás de Makima (Kase quedó en el departamento con Power; Denji lo vio desaparecer). Makima, frente a la celda de barrotes, tiene la mano en forma de pistola apuntando a Quanxi; no la baja; gira la cabeza: "Señor Morelli. Me encontró otra vez." Quanxi (pelo blanco corto, parche, esposada, sentada) con sus 4 fiends (orejas de animal; costuras; alta con cuernitos; Cosmo con gorrito, ojos en espiral, riéndose). Quanxi a Facundo: "Ah. Así que eres tú." Kishibe al fondo del pasillo, junto a la escalera.

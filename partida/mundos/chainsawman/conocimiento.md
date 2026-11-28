@@ -61,3 +61,4 @@ Quién sabe qué de Facundo en este mundo.
 - T1727 · AKI sabe (por Makima, llamada antes de que llegara Facundo) que Facundo va a vivir en su departamento.
 - T1728 · RUMOR (cazadores, Quanxi): alguien en Tokio se tragó una mano del Infierno (no saben quién; vieron la mano y el punto negro desde afuera). KISHIBE deduce que Facundo le ocultó algo a Makima.
 - T1729 · Facundo sabe (por Kishibe) que Makima volvió y bajó sola a las celdas.
+- T1730 · QUANXI sabe (por Kishibe, T1728) que quien se tragó la mano del Infierno es un muchacho de pelo blanco y azul con un gato; lo reconoce. DENJI vio a Facundo desaparecer del departamento.
