@@ -3,85 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1710)
-
-si, esta tranquilo y contento, durmiendo
-
-## RESPUESTA 1 (T1710)
-
-> si, esta tranquilo y contento, durmiendo
-
-> —Sí. Está tranquilo y contento. Durmiendo.
-
-Denji no dice nada enseguida.
-
-Se queda mirándote con la boca un poco abierta. Después baja la vista a su propio pecho, a la mano apoyada encima de la cuerda. Le cambia la cara de a poco: se le aflojan las cejas, se le estira la boca, y se le pone una sonrisa enorme, torcida, de chico, con todos los dientes de tiburón, que no se parece a ninguna de las que tuvo en toda la noche.
-
-—Qué bueno —dice, muy bajito. Y después, más fuerte, a nadie, con la voz un poco rota—: ¡Qué bueno, Pochita! ¡Duerme todo lo que quieras!
-
-Se frota la nariz con el dorso de la mano, rápido, de un lado y del otro.
-
-—No estoy llorando —anuncia—. Es la mayonesa.
-
-Power lo mira un momento, con los ojos en cruz entrecerrados. Después, sin decir nada, se sienta a su lado en la alfombra, hombro con hombro, y le pone en la mano el último sándwich de la bandeja. El de huevo. El bueno.
-
-—Power te lo regala —dice, mirando para otro lado—. Solo esta vez. Porque Power es generosa.
-
-Denji se lo come en dos bocados.
-
-Aki, en la pared, desvía la mirada hacia la ventana del fondo del pasillo, con la mandíbula apretada. Kobeni, en la puerta, llora sin hacer ruido, abrazada al cuchillo.
-
-Pasan quince minutos. Denji y Power se quedan dormidos ahí mismo, en la alfombra del pasillo, uno contra el otro, al lado de la bandeja vacía, con la tele de la 604 todavía prendida adentro. Kobeni se sienta en el umbral, despierta, con los ojos clavados en los tres asesinos de la pared. Aki fuma por fin un cigarrillo seco que encontró en el saco de Kurose.
-
-A las nueve y veinte se oyen pasos en la escalera. Muchos. Botas.
-
-Aparece primero un hombre alto, de unos cincuenta años, con el pelo canoso, cicatrices viejas cruzándole la cara, aros en las orejas y una petaca de metal en la mano. Camina sin apuro, un poco encorvado, como si le dolieran todos los huesos y no le importara. Detrás de él suben seis agentes de traje, con camillas plegadas y esposas.
-
-El hombre se detiene en el último escalón. Mira a los tres de la pared. Mira a Denji y Power dormidos en la alfombra. Mira a Aki.
-
-—Hayakawa.
-
-—Kishibe-san.
-
-Después te mira a ti. Al pelo, a los ojos, al gato en tus brazos. Toma un trago largo de la petaca sin dejar de mirarte.
-
-—Así que tú eres el del gato. —La voz es seca, rasposa, sin ningún interés aparente—. Makima no paraba de hablar de ti por teléfono. Y Makima no habla de nadie.
-
-```
-╔══════════════════════════════════════════════╗
-║ KISHIBE                                      ║
-║ Seguridad Pública · el cazador más fuerte    ║
-║ PODER: pactos múltiples (sin datos de cuáles)║
-║        · cuchillos · combate                 ║
-║ AMENAZA: MEDIA (para este mundo, alta)       ║
-║ Diferencia estimada: x0,011 sobre ti         ║
-║ Bebe para no sentir. Ve más de lo que dice.  ║
-║ COPIABLE · MISIÓN: ALTA (estilo y pactos)    ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1710 · CHAINSAW MAN · DÍA 1 · 21:20    ║
-║ Tokio, otoño de 1997                         ║
-║ Refugio: hotel, pasillo del 6.º piso         ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.903 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus brazos                          ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Refugio con la División 4          ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1711)
+## COMANDO 1 (T1711)
 
 si, soy yo, mucho gusto, simula hasta mañana con makima
 
-## RESPUESTA 2 (T1711)
+## RESPUESTA 1 (T1711)
 
 > si, soy yo, mucho gusto, simula hasta mañana con makima
 
@@ -146,11 +72,11 @@ Ella sirve el té, con calma, una taza y después la otra, sin derramar una gota
 
 ---
 
-## COMANDO 3 (T1712)
+## COMANDO 2 (T1712)
 
 me siento y le digo que no necesito dinero, ni nada
 
-## RESPUESTA 3 (T1712)
+## RESPUESTA 2 (T1712)
 
 > me siento y le digo que no necesito dinero, ni nada
 
@@ -197,4 +123,57 @@ Inclina la cabeza, apenas, con curiosidad verdadera.
 
 ---
 
-ESTADO AL CIERRE: Día 2 08:33, casa de té de Ginza. Facundo le dijo (indirecto) que no necesita dinero ni nada. Kase no tocó la leche; mira a Makima. Makima: "Todos quieren algo... Hasta Power." Le sirve pescado. Enumera lo que vio/sabe de él. "No le creo. No porque mienta. Creo que no miente. No le creo porque nadie es así." "Si no es dinero, y no es nada que yo pueda darle, ¿por qué nos ayuda?"
+## COMANDO 3 (T1713)
+
+soy un viajero que me gusta ayudar y que no le gusta matar, solo mate una vez, cuando intentaron hacerle algo a mi gato
+
+## RESPUESTA 3 (T1713)
+
+> soy un viajero que me gusta ayudar y que no le gusta matar, solo mate una vez, cuando intentaron hacerle algo a mi gato
+
+> —Soy un viajero al que le gusta ayudar y al que no le gusta matar. Solo maté una vez, cuando intentaron hacerle algo a mi gato.
+
+Makima baja la vista a Kase.
+
+Kase sigue sentado en tus rodillas, derecho, con la cola enroscada alrededor de las patas, mirándola de vuelta sin parpadear. Ella lo observa un rato largo. El collar negro. El colgante de eclipse. Los ojos, uno rojo y otro azul, iguales a los tuyos, con las pupilas como dos agujas.
+
+—Una sola vez —dice, sin levantar la vista del gato—. Por él.
+
+Se le dibuja una sonrisa nueva. Distinta a las otras. Más chica, más quieta, casi tierna.
+
+—Eso lo entiendo, señor Morelli. Mucho mejor que lo de no querer nada. —Vuelve a mirarte—. A todos nos gusta tener algo que sea nuestro. Algo que nadie más pueda tocar.
+
+Toma un poco de arroz con los palillos, lo come despacio, mastica, traga. Se limpia la comisura con la servilleta de tela, doblada en cuatro.
+
+—Le gusta ayudar. No le gusta matar. Y lo único que lo hace matar es que alguien toque lo que quiere. —Lo enumera con la misma voz con la que leería una ficha—. Es una persona muy simple, señor Morelli. Y le digo que es un halago. Las personas simples son las más difíciles de encontrar.
+
+Deja los palillos sobre el apoyo de cerámica, alineados.
+
+—Entonces le voy a pedir ayuda. No le voy a pagar, porque no quiere. Se la voy a pedir.
+
+Por la ventana entra un poco de sol, de golpe, entre las nubes. Le ilumina la mitad de la cara.
+
+—La mujer que hizo los muñecos se llama Santa Claus. Así la llaman. Viene de Alemania. Ayer usted le quitó cuarenta y nueve muñecos, y ella sabe cómo es usted, y sabe que tiene un gato. —Mira a Kase otra vez, apenas, y vuelve a ti—. Va a volver hoy. Más fuerte. Y yo no sé dónde está. Nadie lo sabe. Mis cazadores llevan tres días buscándola.
+
+Inclina la cabeza.
+
+—Usted siente a la gente. A través de las paredes, de los pisos. —La voz baja—. ¿Podría encontrarla?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1713 · CHAINSAW MAN · DÍA 2 · 08:37    ║
+║ Tokio, otoño de 1997                         ║
+║ Ginza, casa de té (cerrada para ustedes)     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.903 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tus rodillas, mirando a Makima      ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Desayuno con Makima                ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 2 08:37, casa de té de Ginza. Makima sabe que a Facundo le gusta ayudar, no le gusta matar y solo mató una vez, por su gato. Sonrisa nueva, casi tierna: "A todos nos gusta tener algo que sea nuestro." "Es una persona muy simple. Es un halago." Le pide ayuda (no paga): Santa Claus (Alemania) le perdió 49 muñecos, sabe cómo es él y que tiene gato; volverá hoy más fuerte; nadie sabe dónde está. "Usted siente a la gente. ¿Podría encontrarla?"
