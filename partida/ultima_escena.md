@@ -3,84 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1875)
-
-me teletransporto con sabo a baltigo con robin
-
-## RESPUESTA 1 (T1875)
-
-> me teletransporto con sabo a baltigo con robin
-
-Kase deja a Kuma y salta a tu hombro de un solo brinco, sin que nadie le diga nada.
-
-Sabo te agarra del brazo. Detrás, Bonney abre la boca para decir algo. Kuma levanta una mano enorme, despacio, como un saludo.
-
-El patio rosa desaparece.
-
-...
-
-Viento. Polvo blanco. Piedra pálida. Las cuatro ventanas de la torre de Dragon, con el desierto de Baltigo y el mar detrás.
-
-Aparecen junto a la mesa de mapas, en el mismo lugar del que se fueron.
-
-Nadie se movió. Koala sigue con la carpeta apretada contra el pecho. Corvin, con el auricular del Den Den Mushi en la mano. Hack, de brazos cruzados junto a la puerta. Dragon, con las dos manos apoyadas sobre el mapa de la Red Line.
-
-Y Robin, de pie junto a la ventana del este, con el cuaderno abierto en una mano y la pluma en la otra.
-
-Te mira. Mira la página. Escribe algo, con calma.
-
-—Cuatro minutos y once segundos —dice, serena, sin levantar la vista—. Lo anoté.
-
-Cierra el cuaderno. Te mira por encima, con una media sonrisa.
-
-—Llegas tarde.
-
-Sabo no la deja seguir. Se da vuelta hacia Dragon, con el sombrero de copa en la mano, la cara roja, los ojos todavía mojados, y habla todo de corrido, sin respirar:
-
-—¡Está bien! ¡Kuma está bien! ¡Facundo le puso la mano en el pecho y volvió, Dragon-san, volvió entero, se acuerda de todo, me dijo "Sabo", me reconoció! ¡Le sacó el rastreador del cuerpo y lo aplastó! ¡Tenía un collar de esclavo que iba a explotar y lo hizo polvo! ¡Polvo, Dragon-san! ¡Y después fue a buscar a su hija, a Bonney, que la tenía la Marina en un barco prisión, y la trajo, y están juntos, en Momoiro, con Iva-san, y lloraban, y las okamas lloraban, y yo...!
-
-Se le corta la voz. Se tapa la cara con el sombrero.
-
-Nadie dice nada.
-
-Dragon se queda quieto, con las manos sobre el mapa. Cierra los ojos. Respira hondo, una vez, larga, por la nariz. Los dedos sobre el mapa se le aflojan.
-
-Cuando abre los ojos, te mira.
-
-No dice gracias. No es un hombre de decir gracias. Pero rodea la mesa, despacio, y se detiene delante de ti, y te pone una mano en el hombro libre, el que no tiene a Kase. Pesada. Firme. Y la deja ahí.
-
-—Ojos de Eclipse —dice, bajo.
-
-Se queda así un segundo largo.
-
-Después saca la mano. Mira hacia la ventana del sur, hacia el mar, hacia donde queda Momoiro.
-
-—Hace once años que no veo a Kuma sonreír —dice—. Desde antes de que aceptara ser Shichibukai para protegernos. —Hace una pausa—. Quiero verlo. Hoy. Antes de que el Gobierno se entere de lo que pasó en Mary Geoise y empiece a revolver el mar.
-
-Te mira.
-
-—¿Me llevarías?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1875 · ONE PIECE · DÍA ~227 · 08:15    ║
-║ Baltigo · torre de Dragon                    ║
-║ Junto a la mesa de mapas                     ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 94% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Dragon: "¿Me llevarías?" (Momoiro) ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1876)
+## COMANDO 1 (T1876)
 
 si, me teletransporto con dragon a momoiro
 
-## RESPUESTA 2 (T1876)
+## RESPUESTA 1 (T1876)
 
 > si, me teletransporto con dragon a momoiro
 
@@ -149,11 +76,11 @@ En la escalera, Ivankov suelta un sollozo enorme que retumba en todo el patio, y
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1877)
+## COMANDO 2 (T1877)
 
 esta bien, sanji esta?
 
-## RESPUESTA 3 (T1877)
+## RESPUESTA 2 (T1877)
 
 > esta bien, sanji esta?
 
@@ -208,6 +135,67 @@ Detrás de ti, por primera vez en lo que va de la mañana, a Jewelry Bonney se l
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1878)
+
+ahi hay una sanju
+
+## RESPUESTA 3 (T1878)
+
+> ahi hay una sanju
+
+> —Ahí hay una, Sanji.
+
+Sanji suelta tus solapas. Gira la cabeza despacio, siguiendo tu mirada, como un perro que escucha la palabra "comida".
+
+Y la ve.
+
+Jewelry Bonney, sentada en el centro del patio, con el pelo rosa largo revuelto, la ropa rota, los pies descalzos, la cara todavía colorada de llorar y una carcajada a medio apagar en la boca.
+
+A Sanji se le paran todos los pelos de la cabeza. Se le abren los ojos tanto que parece que se le van a salir. Le sale humo de las orejas. Las pupilas se le transforman en dos corazones rojos enormes, que laten. Se le cae la mandíbula. Y todo el cuerpo se le pone a ondular, de los pies a la cabeza, como un fideo en agua hirviendo.
+
+—Una... —susurra—. Una... dama...
+
+Le corre una lágrima por la mejilla.
+
+—¡¡UNA DAMA DE VERDAD!! —Grita al cielo rosa de Momoiro, con los brazos abiertos, girando sobre un pie—. ¡¡CINCO MESES!! ¡¡CINCO MESES DE CANDIES Y BARBAS Y VESTIDOS DE VOLADOS!! ¡¡Y AHORA, UN ÁNGEL!! ¡¡UN ÁNGEL DE CABELLO DE ROSA!! ¡¡MELLORINE!! ¡¡MELLORINE!!
+
+Sale disparado hacia Bonney, bailando, haciendo ondas con los brazos, con una rosa que no sabes de dónde sacó entre los dientes.
+
+—¡Hermosa señorita! —canta, frenando delante de ella y haciendo una reverencia exagerada hasta el piso—. ¡Permítame presentarme! ¡Soy Sanji, el cocinero de los Sombrero de Paja, y desde este instante, el esclavo eterno de su belleza! ¿Tiene hambre? ¿Sed? ¿Frío? ¡Pídame lo que...!
+
+Bonney lo mira desde arriba, con una ceja levantada y la boca torcida. Se le escapa otra carcajada.
+
+—Qué asco —dice—. Me encanta.
+
+Sanji, todavía en reverencia, sube la mirada, lleno de corazones. Sube por los pies descalzos de Bonney. Por la rodilla en la que está sentada. Y sigue subiendo. Porque la rodilla no es de una silla. Es una rodilla enorme, cubierta de jirones de ropa. Y encima de la rodilla hay un muslo. Y un torso. Y unos hombros con cadenas cortadas colgando. Y arriba de todo, a casi siete metros, una cara.
+
+Una cara que Sanji conoce.
+
+La cara del hombre que, en Sabaody, le puso una palma en el pecho y lo mandó volando por los aires a esta isla del infierno.
+
+Los corazones de los ojos de Sanji se apagan, de golpe, como dos lámparas. La rosa se le cae de la boca. Se pone blanco. Después verde. Después blanco otra vez.
+
+Kuma lo mira desde arriba, con la mano enorme apoyada en la cabeza de su hija.
+
+—Hola —dice Kuma, grave.
+
+—¡¡¡¿¿¿KUMAAAAAAAAA???!!!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1878 · ONE PIECE · DÍA ~227 · 08:20    ║
+║ Isla Momoiro · Reino Kamabakka               ║
+║ Patio frente al castillo de Ivankov          ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 94% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirando a Sanji          ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Sanji descubre a Kuma              ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 08:19, patio de Momoiro. "Está bien. ¿Sanji está?" Ivankov: hace cinco meses que está, peleando con sus candies y robando las recetas del rey. Sanji aparece saltando los setos perseguido por seis okamas ("¡¡SANJI-CHAN!! ¡¡VEN, QUE TE PREPARAMOS UN VESTIDO NUEVO!!" / "¡¡NI MUERTO!!"). Ve a Facundo, frena, se le cae el cigarro: "¿...Facundo?" Lo agarra de las solapas: "¡Sácame de esta isla! ¡Aunque sea un día! ¡Una hora! ¡Necesito ver una mujer de verdad! ¡UNA! ¡Te lo ruego!" Bonney se ríe por primera vez.
+ESTADO AL CIERRE: Día ~227 08:20, patio de Momoiro. "Ahí hay una, Sanji." Sanji ve a Bonney: ojos de corazón, cuerpo de fideo, "¡¡UNA DAMA DE VERDAD!! ¡¡MELLORINE!!", rosa en los dientes, reverencia: "Soy Sanji, el cocinero de los Sombrero de Paja, y desde este instante, el esclavo eterno de su belleza!" Bonney: "Qué asco. Me encanta." Sanji sube la vista por la rodilla... y ve a KUMA (el que lo mandó volando desde Sabaody). Kuma: "Hola." Sanji: "¡¡¡¿¿¿KUMAAAAAAAAA???!!!"

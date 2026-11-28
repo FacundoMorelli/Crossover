@@ -18,3 +18,4 @@ ESTADO: activo
 - T1873 · Ve a Bonney; extiende los brazos temblando; la abraza entera y llora: "Me acuerdo. Me acuerdo de todo, Bonney. De todo."
 - T1874 · Casi se ríe cuando Bonney dice "Pensé que eras más alto" (ella lo mira sorprendida: no lo oía reír en años).
 - T1876 · Sentado en el patio (ninguna silla lo aguanta), Bonney en su rodilla; le acaricia el pelo. Ve a Dragon: "Dragon." SONRÍE (por primera vez en once años, según Dragon).
+- T1878 · Mano en la cabeza de Bonney, mira desde arriba a Sanji (al que mandó a Momoiro en Sabaody): "Hola."

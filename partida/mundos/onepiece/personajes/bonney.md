@@ -10,3 +10,4 @@ ESTADO: presa.
 - T1874 · Facundo: "Soy Facundo Morelli. Un viajero." Le parte los grilletes de kairoseki con los dedos. "Me llaman Ojos de Eclipse." "¿Ojos de Eclipse? ¿El de Marineford? ¿El que bajó a Puño de Fuego del cadalso delante de todo el mundo?" "Vi tu foto en todos los diarios. Pensé que eras más alto." Brazos cruzados: "No sé qué hiciste. Ni cómo. Ni por qué. Pero... me lo devolviste. Te debo una. Una grande. Y yo pago mis deudas, Ojos de Eclipse." QUÉ SABE (T1874): nombre Facundo Morelli, viajero, Ojos de Eclipse (diarios de Marineford); rompió kairoseki con los dedos.
 - T1876 · Sentada en la rodilla de Kuma, cabeza en su pecho. Mira a Dragon y Kuma sin entender del todo; mira a Facundo.
 - T1877 · Se le escapa una carcajada (la primera de la mañana) al ver a Sanji rogarle a Facundo.
+- T1878 · Sanji la corteja: ceja levantada, carcajada: "Qué asco. Me encanta."
