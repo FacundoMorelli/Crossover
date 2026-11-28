@@ -11,3 +11,4 @@ ESTADO: presa.
 - T1876 · Sentada en la rodilla de Kuma, cabeza en su pecho. Mira a Dragon y Kuma sin entender del todo; mira a Facundo.
 - T1877 · Se le escapa una carcajada (la primera de la mañana) al ver a Sanji rogarle a Facundo.
 - T1878 · Sanji la corteja: ceja levantada, carcajada: "Qué asco. Me encanta."
+- T1879 · Se dobla de risa sobre la rodilla de su padre.

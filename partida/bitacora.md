@@ -1878,3 +1878,4 @@ T1875 · ONE PIECE · Torre de Dragon · Vuelve con Sabo. Robin: "Cuatro minutos
 T1876 · ONE PIECE · Momoiro · Lleva a Dragon con Kuma. Kuma sonríe. "Bienvenido." Ivankov declara fiesta.
 T1877 · ONE PIECE · Momoiro · Sanji huye de las okamas y ve a Facundo: "¡Sácame de esta isla!" Bonney se ríe.
 T1878 · ONE PIECE · Momoiro · "Ahí hay una, Sanji." Sanji corteja a Bonney y descubre a Kuma: "¡¡¿KUMAAAA?!!"
+T1879 · ONE PIECE · Momoiro · "Tranquilo, Sanji." Kuma le pide perdón a Sanji. "¿Qué está pasando?"

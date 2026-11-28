@@ -19,3 +19,4 @@ ESTADO: activo
 - T1874 · Casi se ríe cuando Bonney dice "Pensé que eras más alto" (ella lo mira sorprendida: no lo oía reír en años).
 - T1876 · Sentado en el patio (ninguna silla lo aguanta), Bonney en su rodilla; le acaricia el pelo. Ve a Dragon: "Dragon." SONRÍE (por primera vez en once años, según Dragon).
 - T1878 · Mano en la cabeza de Bonney, mira desde arriba a Sanji (al que mandó a Momoiro en Sabaody): "Hola."
+- T1879 · A Sanji, agachado: "Lo siento. En Sabaody, Kizaru iba a matarlos. A todos. Y yo ya sabía que me quedaba poco de mí. No podía salvarlos de otra forma. Así que elegí, para cada uno, una isla donde pudiera sobrevivir. Y donde pudiera volverse más fuerte. A ti te mandé al lugar donde están las recetas del Attack Cuisine. Las noventa y nueve... No pensé en el resto de la isla."

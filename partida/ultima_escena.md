@@ -3,84 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1876)
-
-si, me teletransporto con dragon a momoiro
-
-## RESPUESTA 1 (T1876)
-
-> si, me teletransporto con dragon a momoiro
-
-> —Sí.
-
-Dragon asiente una vez. Se acomoda la capa verde. No dice nada más.
-
-Robin te mira desde la ventana, con el cuaderno contra el pecho.
-
-—Esta vez no cuento —dice—. Tómate el tiempo que haga falta.
-
-Le pones la mano a Dragon en el brazo. Es la primera vez que lo tocas. El brazo es duro como una viga, y está tenso, muy tenso, como el de alguien que se prepara para algo que no sabe si va a poder soportar.
-
-La torre desaparece.
-
-...
-
-Rosa. Sol. Viento tibio con olor a flores dulces.
-
-El patio de Momoiro está casi igual a como lo dejaste, cinco minutos atrás. Las okamas siguen ahí, algunas sentadas en el piso, sonándose la nariz con pañuelos de encaje. Ivankov, en la escalera, con la cara pintada corrida por las lágrimas, habla por un Den Den Mushi con alguien, a los gritos, pidiendo comida, vino, ropa de la talla más grande que exista.
-
-Y en el centro del patio, sentado sobre las baldosas rosas porque ninguna silla del reino aguantaría su peso, está Kuma. Bonney está sentada encima de su rodilla, como una nena, con la cabeza apoyada contra su pecho, los ojos cerrados, agarrada a los jirones de su ropa. Kuma le acaricia el pelo rosa, despacio, con la mano enorme, sin decir nada.
-
-Kuma levanta la vista.
-
-Te ve. Y ve al hombre que está a tu lado.
-
-La mano se le detiene sobre el pelo de Bonney. Bonney abre los ojos, siente que su padre se tensó, y gira la cabeza.
-
-Dragon da un paso adelante. Después otro. Se detiene a tres metros. No dice nada.
-
-Kuma lo mira. Un rato largo. Los dos, quietos. El viento de Momoiro les mueve las capas, la verde de Dragon, los jirones de la ropa de Kuma. Las okamas se callan, todas a la vez. Ivankov baja el Den Den Mushi.
-
-—Dragon —dice Kuma, al fin. La voz grave, ronca.
-
-—Kuma.
-
-Y entonces pasa. Despacio, como algo que hace mucho no se usa y tiene que acordarse cómo funciona: a Bartholomew Kuma se le levanta la comisura de la boca. Después la otra. La cara enorme, quieta, que el mundo conoció como la de un tirano sin expresión, se le arruga alrededor de los ojos.
-
-Sonríe.
-
-Dragon se queda quieto. No se mueve. Pero ves, desde un costado, cómo le tiembla la mandíbula debajo del tatuaje. Cómo aprieta los puños a los costados de la capa. Cómo baja la cabeza, apenas, un segundo, y la vuelve a levantar.
-
-Cruza los tres metros. Se para frente a Kuma, sentado en el piso, que aun así es más alto que él. Y le apoya la mano en el hombro. La misma mano pesada, firme, que te puso a ti en la torre.
-
-—Bienvenido —dice Dragon, en voz baja.
-
-Bonney los mira a los dos, de abajo, con los ojos violetas muy abiertos, sin entender del todo. Después te mira a ti.
-
-En la escalera, Ivankov suelta un sollozo enorme que retumba en todo el patio, y se recompone de golpe, abriendo los brazos, con la peluca violeta torcida.
-
-—¡¡SUFICIENTE!! —grita—. ¡¡Tanto llanto me arruina el maquillaje, vanaata!! ¡¡Hoy en el Reino Kamabakka hay FIESTA!! ¡¡Comida para cien, vino para mil, y ropa nueva para Kuma-boy!! ¡¡Hee-haw!! —Te señala con un dedo enorme, de uña pintada—. ¡¡Y TÚ, Ojos de Eclipse!! ¡¡No te atrevas a desaparecer antes de que te sirva el primer plato!! ¡¡¿Me oíste?!!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1876 · ONE PIECE · DÍA ~227 · 08:17    ║
-║ Isla Momoiro · Reino Kamabakka               ║
-║ Patio frente al castillo de Ivankov          ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 94% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Ivankov: "¡Hoy hay fiesta!"        ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1877)
+## COMANDO 1 (T1877)
 
 esta bien, sanji esta?
 
-## RESPUESTA 2 (T1877)
+## RESPUESTA 1 (T1877)
 
 > esta bien, sanji esta?
 
@@ -135,11 +62,11 @@ Detrás de ti, por primera vez en lo que va de la mañana, a Jewelry Bonney se l
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1878)
+## COMANDO 2 (T1878)
 
 ahi hay una sanju
 
-## RESPUESTA 3 (T1878)
+## RESPUESTA 2 (T1878)
 
 > ahi hay una sanju
 
@@ -196,6 +123,63 @@ Kuma lo mira desde arriba, con la mano enorme apoyada en la cabeza de su hija.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1879)
+
+tranquilo sanji
+
+## RESPUESTA 3 (T1879)
+
+> tranquilo sanji
+
+> —Tranquilo, Sanji.
+
+Sanji retrocede tres pasos de un salto, sin dejar de mirar a Kuma, y se choca de espaldas contra ti. Te agarra del brazo con las dos manos, temblando, y se esconde un poco detrás de tu hombro, del lado de Kase, que le bufa.
+
+—¡¿Tranquilo?! —Señala a Kuma con un dedo que le tiembla—. ¡¡Facundo, ese es el que me mandó aquí!! ¡¡El de Sabaody!! ¡¡El Shichibukai!! ¡¡Me puso la mano encima y me desperté en el cielo, volando sobre el mar, y caí aquí, en el medio de... de...!! —Hace un gesto desesperado hacia las seis okamas, que lo saludan con la mano, coquetas—. ¡¡DE ESTO!!
+
+Se le quiebra la voz.
+
+—¡¡Cinco meses!! ¡¡Y ahora está aquí, sentado, con... con una dama en la rodilla, diciéndome "hola"!!
+
+Bonney se ríe tanto que se dobla sobre la rodilla de su padre, agarrándose la panza.
+
+Kuma no se ríe. Se queda mirando a Sanji, desde arriba, con la cara tranquila. Después se agacha un poco, despacio, apoyando una mano en las baldosas, hasta que su cara enorme queda más cerca de la de Sanji. Sanji da otro paso atrás.
+
+—Lo siento —dice Kuma.
+
+Sanji se queda con la boca abierta.
+
+—En Sabaody, Kizaru iba a matarlos. A todos. Y yo ya sabía que me quedaba poco de mí. —La voz grave le sale despacio, como cuidando cada palabra—. No podía salvarlos de otra forma. Así que elegí, para cada uno, una isla donde pudiera sobrevivir. Y donde pudiera volverse más fuerte. —Hace una pausa—. A ti te mandé al lugar donde están las recetas del Attack Cuisine. Las noventa y nueve. Pensé que un cocinero... iba a querer aprenderlas.
+
+Sanji no dice nada. Se le cae un poco la mano del brazo.
+
+—No pensé —sigue Kuma, con algo que parece una disculpa muy honda, mirando a las okamas— en el resto de la isla.
+
+Silencio.
+
+Detrás, Ivankov suelta un "¡hee-haw!" ofendido.
+
+Sanji se queda quieto. Mira a Kuma. Mira a Bonney, que todavía se ríe. Mira a Dragon, de capa verde, que lo observa de brazos cruzados con una cara que no se entiende. Mira a Ivankov. Mira el castillo rosa.
+
+Después se da vuelta despacio hacia ti, todavía agarrado de tu brazo, con la cara confundida, sudada, la ceja enroscada temblando.
+
+—Facundo —dice, bajito—. ¿Qué está pasando? ¿Por qué Kuma habla? ¿Quién es ese de la capa verde que da miedo? ¿Y quién es la dama más hermosa del mundo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1879 · ONE PIECE · DÍA ~227 · 08:21    ║
+║ Isla Momoiro · Reino Kamabakka               ║
+║ Patio frente al castillo de Ivankov          ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 94% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, bufándole a Sanji        ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Sanji: "¿Qué está pasando?"        ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 08:20, patio de Momoiro. "Ahí hay una, Sanji." Sanji ve a Bonney: ojos de corazón, cuerpo de fideo, "¡¡UNA DAMA DE VERDAD!! ¡¡MELLORINE!!", rosa en los dientes, reverencia: "Soy Sanji, el cocinero de los Sombrero de Paja, y desde este instante, el esclavo eterno de su belleza!" Bonney: "Qué asco. Me encanta." Sanji sube la vista por la rodilla... y ve a KUMA (el que lo mandó volando desde Sabaody). Kuma: "Hola." Sanji: "¡¡¡¿¿¿KUMAAAAAAAAA???!!!"
+ESTADO AL CIERRE: Día ~227 08:21, patio de Momoiro. "Tranquilo, Sanji." Sanji se esconde detrás de Facundo (Kase le bufa): "¡¡Ese es el que me mandó aquí!! ¡¡Cinco meses!!" Bonney se dobla de risa. Kuma se agacha: "Lo siento. En Sabaody, Kizaru iba a matarlos... elegí, para cada uno, una isla donde pudiera sobrevivir y volverse más fuerte. A ti te mandé al lugar de las recetas del Attack Cuisine... No pensé en el resto de la isla." Ivankov: "¡hee-haw!" ofendido. Sanji: "Facundo, ¿qué está pasando? ¿Por qué Kuma habla? ¿Quién es ese de la capa verde que da miedo? ¿Y quién es la dama más hermosa del mundo?"
