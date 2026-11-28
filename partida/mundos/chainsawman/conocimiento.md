@@ -53,3 +53,4 @@ Quién sabe qué de Facundo en este mundo.
 - T1716 · MAKIMA sabe (por Facundo) que hay otros asesinos; él dijo no saber dónde. Ella sospecha que miente (deducción).
 - T1718 · SANTA CLAUS vio a Facundo aparecer de la nada sentado en su sofá (Teletransportación). EL CHOFER de Makima vio a Facundo desaparecer del cojín en la casa de té.
 - T1720 · SANTA CLAUS VIO la transformación en Dragón de Facundo (lo interpreta como un híbrido o pacto con un "demonio dragón").
+- T1721 · SANTA CLAUS VIO el aliento de escarcha de Facundo congelar la mano del Demonio del Infierno.

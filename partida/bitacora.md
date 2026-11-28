@@ -1719,3 +1719,4 @@ T1717 · CHAINSAW MAN · Ginza · "Puedo ir ahora, solo." Makima acepta; tarjeta
 T1718 · CHAINSAW MAN · fábrica del Sumida, sótano · Se teletransporta al sótano, sentado en un sofá. Santa Claus teje: "El joven del gato. Llegas temprano. ¿Quieres un té? Antes de que empecemos."
 T1719 · CHAINSAW MAN · fábrica, sótano · "Muéstrame todo lo que eres. Rápido." Santa anima a todos los muñecos e invoca al Demonio del Infierno: "Llévanos. A él, a su gato. Y a mí."
 T1720 · CHAINSAW MAN · fábrica, sótano · Se tira del aro: primera transformación en Dragón. Santa: "Un dragón." La mano del Demonio del Infierno empieza a cerrarse sobre ellos.
+T1721 · CHAINSAW MAN · fábrica, sótano · Congela la mano del Infierno con escarcha y agarra a Santa. Santa: "El Infierno ya aceptó." El hielo se agrieta.

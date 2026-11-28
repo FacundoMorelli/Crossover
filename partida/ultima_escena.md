@@ -3,78 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1718)
-
-me teletransporto a la fabrica y aparezco sentado en un sofa
-
-## RESPUESTA 1 (T1718)
-
-> me teletransporto a la fábrica y aparezco sentado en un sofá
-
-Dos dedos en la frente.
-
-La casa de té de Ginza desaparece: el olor a té verde, la carpa roja, el chofer con la puerta abierta en la vereda, que se queda mirando un cojín vacío.
-
-Y estás sentado.
-
-Es un sofá viejo, de terciopelo verde gastado, con los resortes vencidos y un almohadón bordado con un osito. Se hunde debajo de ti con un crujido largo. Kase, en tus rodillas, clava las uñas en tu pantalón, mira a su alrededor y no se mueve.
-
-Un sótano. Grande, de techo bajo, con vigas de hierro oxidado y el piso de cemento manchado de aceite. Huele a humedad, a lana, a polvo viejo y a algo dulce y podrido, como flores dentro de un jarrón al que nadie le cambió el agua. La única luz es una lámpara de pie con pantalla de flecos amarillos, al lado del sofá, que alumbra un círculo de piso y deja el resto en penumbra.
-
-En la penumbra hay estantes. Desde el piso hasta el techo, contra todas las paredes. Y en los estantes, muñecos. De lata, de porcelana, de trapo, de madera. Cientos. Soldaditos con tambores, bailarinas con tutú, payasos con la cara despintada, bebés de porcelana con los ojos de vidrio. Todos sentados, derechos, mirando hacia el centro del sótano. Hacia ti.
-
-Y en el centro, enfrente del sofá, a tres metros, en una mecedora de madera, hay una mujer.
-
-Es vieja. Muy vieja. Bajita, encorvada, con el pelo blanco recogido en un rodete, anteojos redondos en la punta de la nariz, un chal de lana gris sobre los hombros y una falda larga hasta los tobillos. En el regazo tiene una canasta de mimbre llena de ovillos de lana roja, y en las manos dos agujas de tejer que no dejan de moverse. Clic, clic, clic. Está tejiendo algo largo, rojo, que le cae por las rodillas hasta el piso.
-
-No levanta la vista.
-
-—Ah —dice. La misma voz de ayer, la del oficinista y de las cuarenta y seis bocas. Pero ahora sin retraso, sin eco, de verdad—. El joven del gato.
-
-Clic, clic, clic.
-
-—Llegas temprano, querido. —Termina una vuelta, cambia la aguja de mano, empieza otra, sin apuro—. Te esperaba esta tarde, con todos los otros. Con ese muchacho de la motosierra en el pecho, que es lo que en realidad vine a buscar. —Por fin levanta la vista, por encima de los anteojos. Tiene los ojos celestes, lechosos, tranquilos. Te mira el pelo. Los ojos. A Kase—. Pero me alegra que hayas venido primero. Y solo. Y sentado en mi sofá, como si fueras de la familia.
-
-Detrás de ella, en el estante más cercano, uno de los soldaditos de lata gira la cabeza hacia ti con un chirrido.
-
-—¿Quieres un té? —pregunta, amable—. Antes de que empecemos.
-
-```
-╔══════════════════════════════════════════════╗
-║ SANTA CLAUS                                  ║
-║ Asesina · Alemania                           ║
-║ PODER: pacto con el Demonio Muñeca           ║
-║        (convierte personas en muñecos);      ║
-║        algo más, debajo: sin datos           ║
-║ AMENAZA: BAJA                                ║
-║ Diferencia estimada: x0,009 sobre ti         ║
-║ Lo que ves no es todo lo que es.             ║
-║ COPIABLE · MISIÓN: ALTA                      ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1718 · CHAINSAW MAN · DÍA 2 · 08:46    ║
-║ Tokio, otoño de 1997                         ║
-║ Fábrica de juguetes del Sumida, sótano       ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.903 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus rodillas, uñas clavadas         ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Santa Claus (viva, si se puede)    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1719)
+## COMANDO 1 (T1719)
 
 no gracias, mejor mostrame todo lo que sos rapido
 
-## RESPUESTA 2 (T1719)
+## RESPUESTA 1 (T1719)
 
 > no gracias, mejor mostrame todo lo que sos rapido
 
@@ -129,11 +62,11 @@ Por las rajaduras del piso empieza a salir una luz roja, espesa, como sangre ilu
 
 ---
 
-## COMANDO 3 (T1720)
+## COMANDO 2 (T1720)
 
 me tiro de la oreja
 
-## RESPUESTA 3 (T1720)
+## RESPUESTA 2 (T1720)
 
 > me tiro de la oreja
 
@@ -190,4 +123,59 @@ Los dedos empiezan a cerrarse, despacio, alrededor de los tres.
 
 ---
 
-ESTADO AL CIERRE: Día 2 08:47, sótano de la fábrica. PRIMERA TRANSFORMACIÓN en Dragón (Corazón del Demonio Dragón): escamas negras con vetas rojas (izq.) y azules (der.), garras, alas (tiraron dos estantes), cola, cuernos, pupilas verticales, humo rojo y blanco. Camisa rota en la espalda. Kase quieto en sus rodillas. Santa retrocedió: "Un dragón. Ach, du lieber Gott." Muñecos quietos. El DEMONIO DEL INFIERNO sube: una mano gigantesca de piedra/hueso/carne con un ojo rojo en la palma, levanta el techo; los dedos se cierran despacio alrededor de Facundo, Kase y Santa ("Llévanos").
+## COMANDO 3 (T1721)
+
+le congelo la mano con escarcha y agarro a santa
+
+## RESPUESTA 3 (T1721)
+
+> le congelo la mano con escarcha y agarro a santa
+
+Abres la boca.
+
+No sale fuego. Sale el lado blanco: un chorro de escarcha azul, denso, rugiente, que sale de entre tus dientes como el aliento de un invierno entero y le pega de lleno a la mano del Infierno, en el centro de la palma, justo en el ojo rojo.
+
+El ojo se cubre de hielo en un parpadeo que no puede dar.
+
+Y el hielo se extiende. Por la palma, por los dedos de piedra y de hueso, por la carne vieja. Cruje, se trepa, se abre en ramas blancas como las venas de una hoja, llega a las puntas de los dedos que ya se estaban cerrando y los traba. Los dedos se detienen a medio camino, curvados sobre ustedes como las costillas de una ballena, blancos de escarcha, humeando de frío en el aire caliente que sube del pozo. La luz roja de las grietas se apaga hasta quedar en un resplandor sordo, debajo del hielo.
+
+El sótano entero baja diez grados de golpe. El aliento de todos se vuelve vapor. Los muñecos de porcelana de los estantes se cubren de una capa fina de escarcha.
+
+Santa Claus, al borde del pozo, con los brazos todavía abiertos, mira la mano congelada encima de su cabeza. Es la primera vez que no tiene nada que decir.
+
+La agarras.
+
+Con la garra izquierda, la de las vetas rojas, que está tibia, la tomas de la bufanda y del chal a la vez, por la nuca, y la levantas del piso como a un gato. Pesa casi nada. Las pantuflas le quedan colgando a medio metro del cemento roto. Los anteojos se le resbalan hasta la punta de la nariz.
+
+Kase, en tus rodillas, la mira desde abajo. Ella lo mira a él.
+
+Por un momento no pasa nada. Solo el hielo crujiendo sobre ustedes y la respiración de la vieja, chiquita, rápida.
+
+Después Santa Claus sonríe. No como abuela. Es otra sonrisa, más vieja todavía, que no le cabe en la cara.
+
+—Ah, querido —dice, colgada de tu garra, sin forcejear—. Qué cosa más linda hiciste.
+
+Arriba, los dedos congelados crujen. Una grieta. Otra. Finas, largas, que recorren el hielo desde adentro, como si lo de abajo estuviera haciendo fuerza.
+
+—Pero eso no se congela. —Santa Claus levanta la vista hacia la mano, con los ojos celestes lechosos llenos de luz roja—. Eso es el Infierno. Y el Infierno ya aceptó.
+
+Del pozo, bajo el hielo, sube un ruido. Grave, enorme, larguísimo. Como una puerta del tamaño de una montaña abriéndose muy, muy lejos.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1721 · CHAINSAW MAN · DÍA 2 · 08:48    ║
+║ Tokio, otoño de 1997                         ║
+║ Fábrica de juguetes del Sumida, sótano       ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.903 · 0 yenes                 ║
+║ Energía 99% · Ojos: bien                     ║
+║ Transformado: Dragón · Velo: persona común   ║
+║ Kase: en tus rodillas                        ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Santa Claus (viva, si se puede)    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 2 08:48, sótano. Facundo (Dragón) congeló con aliento de escarcha la mano del Demonio del Infierno (ojo y dedos trabados a medio cerrar; sótano -10 °C; muñecos con escarcha). Agarró a Santa por la nuca (bufanda y chal) con la garra izquierda; cuelga sin forcejear. Santa: "Qué cosa más linda hiciste. Pero eso no se congela. Eso es el Infierno. Y el Infierno ya aceptó." El hielo se agrieta desde adentro; del pozo sube un ruido como una puerta del tamaño de una montaña abriéndose. Energía 99%.
