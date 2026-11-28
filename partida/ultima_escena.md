@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1731)
-
-hola
-
-## RESPUESTA 1 (T1731)
-
-> hola
-
-> —Hola.
-
-Quanxi te mira un segundo más. Después inclina la cabeza, apenas, un saludo seco, de soldado a soldado.
-
-La fiend del gorrito y los ojos en espiral deja de reírse. Se te queda mirando con la boca abierta, y después se le ilumina toda la cara.
-
-—¡Halloween! —te dice, feliz, como si te estuviera dando la mejor noticia del mundo—. ¡Halloween, Halloween!
-
-—Cosmo —murmura Quanxi, sin mirarla, y la fiend se calla, pero sigue sonriéndote.
-
-La de las costuras se aprieta más contra el brazo de Quanxi. La de las orejas de animal se seca la cara con el dorso de la mano y te mira fijo, con los ojos rojos, como quien mira una puerta que acaba de aparecer en una pared.
-
-Makima no baja la mano.
-
-El índice y el mayor siguen estirados, apuntando a los barrotes, sin temblar. Pero se da vuelta un poco más hacia ti, lo justo para verte la cara entera bajo la luz que parpadea.
-
-—Kishibe le avisó. —No es una pregunta. Ni siquiera mira hacia el fondo del pasillo, donde la silueta de la petaca no se mueve—. Es un buen hombre. Demasiado sentimental para este trabajo. Siempre lo fue.
-
-El tubo fluorescente de arriba parpadea dos veces y vuelve.
-
-—Se entregó, señor Morelli. —Lo dice con suavidad, como quien explica algo a un chico—. Vino sola, de noche, y se sentó en el escritorio de Kishibe. Fue un gesto muy valiente. —Una pausa—. Pero también vino a Japón a arrancarle el corazón a Denji. Y sus chicas mataron a tres de mis agentes en Shinjuku hace cuatro días. Tenían familias.
-
-Inclina la cabeza.
-
-—Así que voy a hacer lo que se hace. Con cuidado. Sin que duela.
-
-Te mira. Los anillos amarillos, quietos.
-
-—Pero usted no vino a mirar. —Algo le cambia en la voz, apenas—. Nunca viene a mirar. Siempre viene a hacer algo.
-
-Espera.
-
-—¿Qué vino a pedirme?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1731 · CHAINSAW MAN · DÍA 4 · 21:42    ║
-║ Tokio, otoño de 1997                         ║
-║ Central de Seguridad Pública, celdas         ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.078 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el departamento, con Power          ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1732)
+## COMANDO 1 (T1732)
 
 no la mate
 
-## RESPUESTA 2 (T1732)
+## RESPUESTA 1 (T1732)
 
 > no la mate
 
@@ -121,11 +62,11 @@ Otro paso. Queda a un metro. Huele a lluvia y a algo dulce, como el aire antes d
 
 ---
 
-## COMANDO 3 (T1733)
+## COMANDO 2 (T1733)
 
 si, voy a ser yo
 
-## RESPUESTA 3 (T1733)
+## RESPUESTA 2 (T1733)
 
 > si, voy a ser yo
 
@@ -182,4 +123,59 @@ Una pausa.
 
 ---
 
-ESTADO AL CIERRE: Día 4 21:45, celdas. Facundo responde por Quanxi y sus fiends. Makima: "Bien." Ordena a Kishibe abrir la reja y quitar las esposas a las cinco. "Ahora son responsabilidad del señor Morelli. Lo que hagan, lo hace él. Si una de ellas le toca un pelo a Denji, o a cualquiera... no voy a ir a buscarla a ella." Kishibe las libera (Cosmo le toca la nariz). Quanxi, en el umbral, con sus 4 fiends pegadas: "No te conozco. No te debo nada. Vine a tu país a matar a un chico. ¿Por qué?"
+## COMANDO 3 (T1734)
+
+porque me gusta ayudar, nada más
+
+## RESPUESTA 3 (T1734)
+
+> porque me gusta ayudar, nada más
+
+> —Porque me gusta ayudar. Nada más.
+
+Quanxi no contesta enseguida.
+
+Te mira con el único ojo, de arriba abajo, despacio, como quien revisa un arma que le dieron y no sabe todavía si está cargada. El pelo blanco y azul. Las cicatrices. Los tatuajes que asoman por el cuello de la camisa del uniforme. Las manos, quietas al costado del cuerpo.
+
+—Ayudar —repite.
+
+Detrás de ella, la de las orejas de animal la tira de la manga, despacito. Quanxi no se da vuelta.
+
+—Hace veinte años conocí a un chico que decía eso. —Mira de reojo a Kishibe, que está apoyado en los barrotes con la petaca en la mano y la vista en el piso—. Que le gustaba ayudar. Que por eso cazaba demonios.
+
+Kishibe toma un trago largo. No dice nada.
+
+—Mira cómo terminó. —Quanxi vuelve a ti—. Borracho, en un sótano, abriéndole la reja a una mujer que vino a matar a uno de los suyos.
+
+Se le escapa algo por la nariz. No llega a ser una risa.
+
+Makima, a tu lado, mira la escena con la misma cara amable de siempre, las manos juntas sobre el abrigo. No interrumpe. Después de un momento, se da vuelta y empieza a caminar por el pasillo hacia la escalera, sin apuro, con los tacos resonando en el cemento mojado.
+
+—Buenas noches, señor Morelli —dice, sin girarse—. Cuídelas también a ellas.
+
+Sube la escalera. Los pasos se pierden.
+
+En cuanto desaparece, las cuatro fiends sueltan el aire al mismo tiempo, como si hubieran estado aguantándolo desde que llegaron. La de las costuras se sienta en el piso de golpe. Cosmo se pone a dar vueltas sobre sí misma con los brazos abiertos, cantando "Halloween" muy bajito.
+
+Quanxi no se relaja. Pero algo, en los hombros, baja un centímetro.
+
+—Bueno, viajero que ayuda. —Cruza los brazos—. Ahora somos tuyas, según ella. Cinco. Sin papeles, sin dinero, sin armas, en un país que nos quiere muertas. —Levanta la barbilla—. ¿Adónde nos llevas?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1734 · CHAINSAW MAN · DÍA 4 · 21:47    ║
+║ Tokio, otoño de 1997                         ║
+║ Central de Seguridad Pública, celdas         ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.078 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el departamento, con Power          ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Responder por Quanxi y sus fiends  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 4 21:47, celdas. "Porque me gusta ayudar. Nada más." Quanxi: "Hace veinte años conocí a un chico que decía eso" (Kishibe) "Mira cómo terminó." Makima se fue: "Buenas noches, señor Morelli. Cuídelas también a ellas." Las fiends se relajan (Cosmo da vueltas cantando). Quanxi: "Ahora somos tuyas, según ella. Cinco. Sin papeles, sin dinero, sin armas, en un país que nos quiere muertas. ¿Adónde nos llevas?" Kishibe apoyado en los barrotes.

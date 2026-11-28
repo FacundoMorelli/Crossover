@@ -1732,3 +1732,4 @@ T1730 · CHAINSAW MAN · celdas de la central · Se teletransporta detrás de Ma
 T1731 · CHAINSAW MAN · celdas · "Hola." Cosmo: "¡Halloween!" Makima: "Voy a hacer lo que se hace. Usted nunca viene a mirar. ¿Qué vino a pedirme?"
 T1732 · CHAINSAW MAN · celdas · "No la mates." Makima baja la mano: "No la voy a matar." Condición: "¿Va a responder usted por ella?"
 T1733 · CHAINSAW MAN · celdas · "Sí. Voy a ser yo." Makima libera a Quanxi y sus fiends bajo responsabilidad de Facundo. Quanxi: "¿Por qué?"
+T1734 · CHAINSAW MAN · celdas · "Me gusta ayudar." Quanxi: "Un chico decía eso hace veinte años. Mira cómo terminó." Makima: "Cuídelas también." Quanxi: "¿Adónde nos llevas?"

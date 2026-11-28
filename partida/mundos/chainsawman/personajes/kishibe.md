@@ -20,3 +20,4 @@ ENCUENTROS:
 - T1728 (registro de fuente) · En la rendición de Quanxi, ella le preguntó quién se tragó la mano del Infierno; él le dijo: "un muchacho de pelo blanco y azul, con un gato". T1730 · Al fondo del pasillo de las celdas, junto a la escalera, quieto.
 - T1731 · Makima deduce que él avisó a Facundo.
 - T1733 · "¿Así nomás?" Abre la reja con una llave oxidada y le quita las esposas a Quanxi y a las cuatro fiends. Cosmo le toca la nariz ("¡Halloween!"); él la deja.
+- T1734 · Quanxi cuenta que hace veinte años él decía que le gustaba ayudar. Toma un trago largo; no dice nada.
