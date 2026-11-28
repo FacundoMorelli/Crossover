@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1864)
-
-hola koala
-
-## RESPUESTA 1 (T1864)
-
-> hola koala
-
-> —Hola, Koala.
-
-Koala se queda con la boca abierta. Después la cierra. Después la vuelve a abrir.
-
-—¡"Hola, Koala"! —repite, con la voz aguda, y se pone colorada hasta las orejas, y no sabe si mirarte a ti o a la pared—. ¡Desapareces tres meses y me dices "hola, Koala"! ¡Con... con...! —Señala a Robin con la gorra, a la sábana, a todo, y se tapa los ojos con la gorra—. ¡Ay, perdón, perdón, perdón!
-
-Sobre tu pecho, Robin abre los ojos. Despacio. Sin moverse. Mira a Koala por debajo del pelo suelto, con la cara tranquila de quien no tiene ningún apuro.
-
-—Buenos días, Koala —dice, con la voz ronca de sueño—. Cierra la puerta, por favor. Hay corriente.
-
-—¡Perdón! —Koala se agacha a juntar las hojas de la carpeta del piso a manotazos, sin mirar, con la gorra todavía en la cara—. ¡Perdón! ¡Es que nadie sabía que habías vuelto! ¡Nadie! ¡Ni Sabo-kun! ¡Ni Dragon-san!
-
-Junta las últimas hojas. Se endereza. Se baja la gorra de la cara, despacio, todavía colorada, y te mira. Y se le escapa una sonrisa enorme, de oreja a oreja, que no puede esconder.
-
-—Bienvenido —dice, más bajito—. De verdad. Robin estaba...
-
-Robin la mira. Koala se calla.
-
-—...bien —termina Koala, rápido—. Estaba bien.
-
-Kase bosteza encima de la capa de la Legión.
-
-Koala aprieta la carpeta contra el pecho. La sonrisa se le apaga de a poco, y en su lugar aparece la cara de oficial del Ejército Revolucionario.
-
-—Dragon-san nos quiere a todos en la torre a las ocho. Llegó un informe de Mary Geoise, de los nuestros que están infiltrados. —Duda, mira a Robin—. Es sobre Kuma.
-
-Robin se queda quieta sobre tu pecho. La mano abierta sobre el dragón tatuado se te cierra un poco, apenas.
-
-Koala te mira a ti.
-
-—Si Dragon-san se entera de que estás en la base y no te llevé —dice—, me mata. —Hace una pausa—. ¿Vienes a la torre?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1864 · ONE PIECE · DÍA ~227 · 07:34    ║
-║ Baltigo · cuarto de Robin                    ║
-║ En la cama, con Robin                        ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: sobre la capa de la Legión, bostezando ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Reunión en la torre a las 8 (Kuma) ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1865)
+## COMANDO 1 (T1865)
 
 si, me visto y voy con robin a la torre
 
-## RESPUESTA 2 (T1865)
+## RESPUESTA 1 (T1865)
 
 > si, me visto y voy con robin a la torre
 
@@ -129,11 +74,11 @@ Una pausa larga. El viento silba en las ventanas.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1866)
+## COMANDO 2 (T1866)
 
 si se puede
 
-## RESPUESTA 3 (T1866)
+## RESPUESTA 2 (T1866)
 
 > si se puede
 
@@ -184,6 +129,59 @@ Robin, a tu lado, no dice nada. Solo te mira de costado, con el cuaderno bajo el
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1867)
+
+no necesito nada, quieren que vaya a buscarlo ahora?
+
+## RESPUESTA 3 (T1867)
+
+> no necesito nada, quieren que vaya a buscarlo ahora?
+
+> —No necesito nada. ¿Quieren que vaya a buscarlo ahora?
+
+Dragon no contesta enseguida.
+
+Te mira. Después mira el mapa de la Red Line, el círculo rojo en la cima. Después a Sabo, a Koala, a Hack, a Corvin. Todos lo miran a él. Nadie respira.
+
+—Ahora —dice, al fin—. Sí.
+
+Lo dice bajo, firme, como quien da la orden de una operación. Pero algo se le quiebra apenas en la voz, en la última sílaba, y se le nota a todos.
+
+—Los informes dicen que los Dragones Celestiales lo usan de... —se detiene— de animal de carga. Lo hacen arrastrar sus carruajes por las calles de Mary Geoise. Si lo cambian de dueño, o lo mandan a otro lugar, lo perdemos de vista. Cada día cuenta.
+
+Apoya un dedo en el mapa, sobre el círculo rojo.
+
+—Una condición. —Te mira—. No lo traigas aquí. Vegapunk le puso algo adentro: un transmisor, un rastreador. Todos los Pacifista lo tienen. Si traes a Kuma a Baltigo, aunque le devuelvas la memoria, la Marina va a saber dónde estamos en una hora. —Mueve el dedo por el mapa, hacia el sur—. Llévalo a la isla Momoiro. Al Reino Kamabakka. Ivankov está ahí. Es amigo de Kuma, y del ejército. Y es el único lugar del mundo donde un hombre de casi siete metros, con una Biblia en la mano y una máquina en el pecho, no llamaría la atención de nadie.
+
+Corvin se acomoda los anteojos.
+
+—Le aviso a Ivankov por el Den Den Mushi seguro —dice—. En diez minutos.
+
+—¡Yo voy con él! —Sabo ya está de pie, con el sombrero de copa en la mano—. ¡Kuma me enseñó a nadar cuando llegué al ejército! ¡No me voy a quedar aquí sentado!
+
+—Sabo...
+
+—¡Dragon-san, por favor! —Sabo te mira a ti, no a Dragon—. Facundo. Llévame contigo. Sé cómo es Mary Geoise por dentro. Estudié los planos que trajeron los infiltrados. Sé dónde están los establos de los esclavos. —Aprieta el sombrero entre los dedos—. Y si Kuma no me reconoce, quiero que me vea igual. Que sea yo el primero que vea cuando vuelva.
+
+Koala lo mira, pálida. Dragon no dice nada: te mira a ti, esperando.
+
+A tu lado, Robin te aprieta la mano. Despacio. Una vez.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1867 · ONE PIECE · DÍA ~227 · 08:06    ║
+║ Baltigo · torre de Dragon                    ║
+║ Junto a la mesa de mapas, con Robin          ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Sabo quiere ir a Mary Geoise       ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 08:04, torre de Dragon. Facundo: "Sí. Se puede." Dragon arruga el informe en el puño. Sabo: "¡Vamos a Mary Geoise...!" Dragon lo corta. Mary Geoise: cima de la Red Line, CP0, Caballeros Sagrados, almirantes a un llamado; ningún revolucionario salió vivo en veinte años; Kuma atacará a quien se acerque (programado). "Te vi en Marineford, Ojos de Eclipse... No te voy a preguntar si podrías entrar." "No eres un revolucionario. Nunca te lo pedí. Así que te lo pregunto como el amigo de un hombre al que le quitaron todo. ¿Qué necesitas?"
+ESTADO AL CIERRE: Día ~227 08:06, torre de Dragon. Facundo: "No necesito nada. ¿Quieren que vaya a buscarlo ahora?" Dragon: "Ahora. Sí." Los Dragones Celestiales usan a Kuma como animal de carga (arrastra carruajes en Mary Geoise). CONDICIÓN: no traerlo a Baltigo (Vegapunk le puso un transmisor/rastreador); llevarlo a la isla Momoiro (Reino Kamabakka) con Ivankov. Corvin avisará a Ivankov por Den Den Mushi seguro en diez minutos. Sabo quiere ir: Kuma le enseñó a nadar; estudió los planos de Mary Geoise (establos de los esclavos); "quiero que sea yo el primero que vea cuando vuelva." Dragon espera la respuesta de Facundo. Robin le aprieta la mano.

@@ -15,3 +15,4 @@ ESTADO: activo
 - T927 · "Me llamo Corvin. Del Ejército Revolucionario." No pregunta cómo se rompieron las cadenas. A Luffy ("¿Ustedes son buenos?"): "Intentamos serlo." Ordena atender a los presos y atar a los guardias; mandarán más barcos. Le tiende la mano a Robin: el comandante quiere hablar con ella.
 - T928 · Facundo pide poder visitar a Robin en su isla. "El lugar no existe en ningún mapa. Lo decide el comandante; se lo voy a decir. Si usted llegó hasta aquí sin barco, no creo que una isla escondida lo frene mucho." Se lleva a Robin.
 - T1865 · En la torre, junto a una ventana (peinado alto, lentes de sol).
+- T1867 · "Le aviso a Ivankov por el Den Den Mushi seguro. En diez minutos."
