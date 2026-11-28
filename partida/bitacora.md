@@ -1863,3 +1863,4 @@ T1860 · ONE PIECE · Baltigo · Abraza a Robin. "Noventa y siete días. Los con
 T1861 · ONE PIECE · Baltigo · "Me reconocieron." Le muestra a Robin la capa de la Legión. "¿Quién fue el primero?"
 T1862 · ONE PIECE · Baltigo · "Hange, la que reconoció primero." Robin lo escribe en su cuaderno. "Esta noche... ¿te quedas?"
 T1863 · ONE PIECE · Baltigo · Noche con Robin (fundido). A la mañana, Koala entra y lo ve: "¡¿Facundo?!"
+T1864 · ONE PIECE · Baltigo · "Hola, Koala." Informe de Mary Geoise sobre Kuma; reunión en la torre a las 8. "¿Vienes?"

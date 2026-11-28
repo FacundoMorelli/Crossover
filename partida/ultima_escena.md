@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1861)
-
-si, me reconocieron, y le doy un beso, y saco algo de ese mundo para que vea
-
-## RESPUESTA 1 (T1861)
-
-> si, me reconocieron, y le doy un beso, y saco algo de ese mundo para que vea
-
-> —Sí. Me reconocieron.
-
-Robin cierra los ojos un segundo. Sonríe.
-
-Le das un beso. Ella gira la cabeza hacia ti, sin soltarte los brazos, y te lo devuelve, despacio, sin apuro, como alguien que tuvo noventa y siete días para pensarlo. Kase, en la mesa, se da vuelta y mira la ventana.
-
-Después sacas algo del inventario.
-
-Aparece en tu mano, doblado: una capa corta, de tela gruesa, verde oscura, gastada en los bordes, con una capucha. En la espalda, bordado en blanco y azul, un escudo con dos alas cruzadas, una blanca y una azul.
-
-La capa de la Legión de Reconocimiento. La que te dio Erwin.
-
-Robin la mira. Se le detiene la respiración.
-
-La toma con las dos manos, despacio, como toma los libros viejos de la biblioteca de Baltigo, como si se pudiera deshacer. La despliega sobre la mesa, encima del cuaderno, sin importarle la tinta fresca. Pasa la yema de los dedos por el bordado de las alas. Por las costuras. Por un remiendo torcido en un costado, hecho a mano por alguien que no sabía coser. Por una mancha oscura, vieja, en el borde, que no salió con ningún lavado.
-
-—Las alas de la libertad —dice, en un susurro.
-
-Se lo sabe. Se lo contaste en Tequila Wolf, en la torre de Dragon, en las noches de Baltigo. Lo escribió en las primeras páginas del cuaderno que está debajo.
-
-Se lleva la capa a la cara. Respira hondo, con los ojos cerrados.
-
-—Huele a caballo —dice, y se ríe, bajito—. A pasto. A humo de leña. A metal. —Abre los ojos—. A gente que peleó mucho tiempo para poder ver el mar.
-
-Se queda mirándola un rato largo, con la capa entre las manos. Una mano extra le florece en el hombro y se apoya sobre la tuya, que todavía la abraza.
-
-—En Ohara me enseñaron que los libros son lo único que sobrevive —dice—. Que la gente se olvida, los países se caen, pero lo que está escrito queda. —Pasa otra vez el dedo por las alas—. Y ahora tengo en las manos algo de un mundo que ningún libro de aquí va a nombrar nunca.
-
-Gira la cabeza y te mira, de muy cerca, con los ojos húmedos y serenos.
-
-—Te reconocieron —repite—. ¿Quién fue el primero?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1861 · ONE PIECE · DÍA ~226 · 21:44    ║
-║ Baltigo · cuarto de Robin                    ║
-║ Junto a la mesa, abrazado a Robin            ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la mesa, mirando la ventana         ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: ¿Quién te reconoció primero?       ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1862)
+## COMANDO 1 (T1862)
 
 Una chica obsesionada con los inventos se llama Hange
 
-## RESPUESTA 2 (T1862)
+## RESPUESTA 1 (T1862)
 
 > Una chica obsesionada con los inventos se llama Hange
 
@@ -109,11 +54,11 @@ Se queda callada un momento. Después gira la cabeza y te mira, de muy cerca, co
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1863)
+## COMANDO 2 (T1863)
 
 si, me quedo contigo, le doy un beso
 
-## RESPUESTA 3 (T1863)
+## RESPUESTA 2 (T1863)
 
 > si, me quedo contigo, le doy un beso
 
@@ -172,6 +117,61 @@ La carpeta se le resbala de debajo del brazo. Las hojas se desparraman por el pi
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1864)
+
+hola koala
+
+## RESPUESTA 3 (T1864)
+
+> hola koala
+
+> —Hola, Koala.
+
+Koala se queda con la boca abierta. Después la cierra. Después la vuelve a abrir.
+
+—¡"Hola, Koala"! —repite, con la voz aguda, y se pone colorada hasta las orejas, y no sabe si mirarte a ti o a la pared—. ¡Desapareces tres meses y me dices "hola, Koala"! ¡Con... con...! —Señala a Robin con la gorra, a la sábana, a todo, y se tapa los ojos con la gorra—. ¡Ay, perdón, perdón, perdón!
+
+Sobre tu pecho, Robin abre los ojos. Despacio. Sin moverse. Mira a Koala por debajo del pelo suelto, con la cara tranquila de quien no tiene ningún apuro.
+
+—Buenos días, Koala —dice, con la voz ronca de sueño—. Cierra la puerta, por favor. Hay corriente.
+
+—¡Perdón! —Koala se agacha a juntar las hojas de la carpeta del piso a manotazos, sin mirar, con la gorra todavía en la cara—. ¡Perdón! ¡Es que nadie sabía que habías vuelto! ¡Nadie! ¡Ni Sabo-kun! ¡Ni Dragon-san!
+
+Junta las últimas hojas. Se endereza. Se baja la gorra de la cara, despacio, todavía colorada, y te mira. Y se le escapa una sonrisa enorme, de oreja a oreja, que no puede esconder.
+
+—Bienvenido —dice, más bajito—. De verdad. Robin estaba...
+
+Robin la mira. Koala se calla.
+
+—...bien —termina Koala, rápido—. Estaba bien.
+
+Kase bosteza encima de la capa de la Legión.
+
+Koala aprieta la carpeta contra el pecho. La sonrisa se le apaga de a poco, y en su lugar aparece la cara de oficial del Ejército Revolucionario.
+
+—Dragon-san nos quiere a todos en la torre a las ocho. Llegó un informe de Mary Geoise, de los nuestros que están infiltrados. —Duda, mira a Robin—. Es sobre Kuma.
+
+Robin se queda quieta sobre tu pecho. La mano abierta sobre el dragón tatuado se te cierra un poco, apenas.
+
+Koala te mira a ti.
+
+—Si Dragon-san se entera de que estás en la base y no te llevé —dice—, me mata. —Hace una pausa—. ¿Vienes a la torre?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1864 · ONE PIECE · DÍA ~227 · 07:34    ║
+║ Baltigo · cuarto de Robin                    ║
+║ En la cama, con Robin                        ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: sobre la capa de la Legión, bostezando ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Reunión en la torre a las 8 (Kuma) ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 07:32, cuarto de Robin. "Sí. Me quedo contigo." Beso; manos de Hana Hana cierran el cuaderno, doblan la capa y apagan la lámpara. "Te extrañé." (fundido). Robin durmió sobre su pecho. Mañana: campana; Koala abre la puerta (sin llave) gritando que Dragon quiere a todos en la torre a las 8 por un informe; ve a Facundo con Robin dormida encima; se le cae la carpeta: "¡¿Facundo?!" Kase la mira con desprecio desde la capa.
+ESTADO AL CIERRE: Día ~227 07:34, cuarto de Robin. "Hola, Koala." Koala, colorada, pide perdón, junta la carpeta; nadie sabía que volvió (ni Sabo ni Dragon). Robin despierta: "Buenos días, Koala. Cierra la puerta, por favor. Hay corriente." Koala: "Bienvenido... Robin estaba... bien." Informe de los infiltrados en Mary Geoise: es sobre Kuma (Robin se tensa). Reunión en la torre a las 8. "Si Dragon-san se entera de que estás en la base y no te llevé, me mata. ¿Vienes a la torre?"
