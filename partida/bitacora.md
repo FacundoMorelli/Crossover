@@ -1842,3 +1842,4 @@ T1839 · ISLA DE JEJU · Detiene la garra del Rey hormiga con una mano, en vivo.
 T1840 · ISLA DE JEJU · Puñetazo: el Rey hormiga estalla contra la pared. Ordena al enjambre atacar a los coreanos y se prepara para huir.
 T1841 · ISLA DE JEJU · Mata al Rey hormiga a puñetazos (copia del Rey). Haki del Rey: caen todas las hormigas de Jeju. +42.000 Frag, +38.000 EXP. Coreanos vivos. Jinwoo sale de la sombra de Cha.
 T1842 · ISLA DE JEJU · 16 semillas del ermitaño a los coreanos (en vivo). Jinwoo: "¿Me lo dejas?"
+T1843 · ISLA DE JEJU · Le deja el Rey a Jinwoo: "Levántate" (Beru). La sombra le teme a Facundo. Cha: "Me dijiste que me ibas a esperar en el hotel."

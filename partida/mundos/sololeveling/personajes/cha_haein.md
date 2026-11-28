@@ -75,3 +75,4 @@ QUÉ SABE DE FACUNDO (T1797): nombre; viajero; sin papeles; no sabía qué son c
 - T1839 · A espaldas de Facundo, la onda le vuela el pelo: "Facundo..." (susurro).
 - T1841 · Ve a Facundo matar al Rey hormiga a puñetazos y derribar a todas las hormigas con una onda (Haki del Rey) sin que a los coreanos les pase nada. Vivo/a. Ve a Jinwoo salir de la sombra de Cha.
 - T1842 · Come una semilla del ermitaño de Facundo: heridas cerradas, maná lleno.
+- T1843 · Ve a Jinwoo extraer al Rey. Cruza la caverna hacia Facundo, lo mira como por primera vez, ojos llenos: "Me dijiste 'te espero aquí'. En el hotel. Me dijiste que me ibas a esperar en el hotel." (entre risa y llanto)

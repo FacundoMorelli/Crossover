@@ -3,86 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1840)
-
-le pego un puño en el pecho
-
-## RESPUESTA 1 (T1840)
-
-> le pego un puño en el pecho
-
-El veneno violeta sube por la garganta del Rey.
-
-No llega a salir.
-
-Cierras la otra mano y le pegas en el pecho.
-
-Es un golpe corto, recto, sin vuelo, desde la cadera. El puño entra en el caparazón negro justo en el centro del tórax, donde las placas metálicas se juntan en una quilla, y el caparazón no se raja: estalla. Se parte hacia adentro en cien pedazos, como un plato que cae sobre piedra, con un crujido seco que retumba en toda la caverna.
-
-El Rey se dobla alrededor de tu puño.
-
-La boca se le abre del todo y el veneno sale, pero ya no hacia ti: sale hacia arriba, en un chorro violeta, espeso, que salpica el techo de la caverna y empieza a gotear y a sisear sobre la sustancia blanca de las paredes, derritiéndola.
-
-Y el Rey sale volando hacia atrás.
-
-Sigues teniendo su garra en la mano. Por un instante, el brazo negro se estira entre los dos como una cuerda. Después lo sueltas, y el cuerpo entero del Rey cruza la caverna de punta a punta, como una piedra lanzada por una catapulta, por encima del cadáver de la reina, y se estrella contra la pared del fondo. La roca se hunde. Se abre un cráter de cuatro metros. Caen piedras, polvo, pedazos de caparazón.
-
-Silencio.
-
-Después, un ruido chiquito, húmedo. Algo que se mueve dentro del cráter.
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Poder del Rey hormiga (fuerza, velocidad,    ║
-║ veneno paralizante, alas, mando del          ║
-║ enjambre, cambio de tamaño)                  ║
-║ USUARIO: Rey hormiga · Solo Leveling         ║
-║                                              ║
-║ MISIÓN: Vencer al Rey hormiga cuerpo a       ║
-║ cuerpo, sin armas ni poderes copiados.       ║
-║ DIFICULTAD: ALTA                             ║
-╚══════════════════════════════════════════════╝
-```
-
-El Rey sale del cráter arrastrándose. Tiene el pecho hundido, abierto, con un líquido negro y espeso saliéndole entre las placas rotas. Un ala está doblada en un ángulo que no es el suyo. Se apoya en una mano, en la otra. Se levanta, temblando, sobre las dos patas.
-
-Los cientos de ojos rojos te miran desde el otro lado de la caverna. Ya no tienen furia. Tienen otra cosa.
-
-Abre la boca y grita.
-
-No es el grito de la reina. Es más agudo, más corto, desesperado. Una orden.
-
-Y por el túnel de entrada, a tu izquierda, la caverna se llena.
-
-Hormigas. Cientos. Salen del túnel en una ola negra y roja, chocando unas contra otras, trepando por las paredes, por el techo, por encima del cadáver de la reina, como agua que revienta un dique. No van hacia el Rey. Van hacia los coreanos. Hacia Min, que sigue de rodillas junto a Ma Dongwook. Hacia Baek, que no termina de transformarse. Hacia Cha Hae-in, a dos pasos de ti, con la espada en la mano y el maná casi vacío.
-
-—¡Todos atrás! —grita Choi Jong-In, y le estallan llamas en las dos manos otra vez.
-
-Al fondo, el Rey despliega el ala sana. Mira hacia arriba. Hacia el techo de la caverna, donde el veneno derritió la pared blanca y se abrió un hueco hacia un túnel superior.
-
-Va a huir.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1840 · SOLO LEVELING · DÍA 22 · 11:32  ║
-║ Isla de Jeju                                 ║
-║ Nido bajo el Hallasan · cámara de la reina   ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, con el pelo erizado      ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: ¡Hormigas contra los coreanos!     ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1841)
+## COMANDO 1 (T1841)
 
 mato al rey hormiga y despues uso el haki del rey con el resto de las hormigas restantes
 
-## RESPUESTA 2 (T1841)
+## RESPUESTA 1 (T1841)
 
 > mato al rey hormiga y despues uso el haki del rey con el resto de las hormigas restantes
 
@@ -179,11 +104,11 @@ Y te mira a ti.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1842)
+## COMANDO 2 (T1842)
 
 te dije que no hacía falta que vengas, le doy una semilla del ermitaño a cada uno
 
-## RESPUESTA 3 (T1842)
+## RESPUESTA 2 (T1842)
 
 > te dije que no hacía falta que vengas, le doy una semilla del ermitaño a cada uno
 
@@ -238,6 +163,65 @@ Levanta la vista hacia ti.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1843)
+
+si, es tuyo, levántalo
+
+## RESPUESTA 3 (T1843)
+
+> si, es tuyo, levántalo
+
+> —Sí, es tuyo. Levántalo.
+
+Jinwoo te mira un segundo más. Después asiente, una vez, corto.
+
+Camina despacio entre las hormigas caídas, hasta el cuerpo del Rey. Se detiene junto a él. Los coreanos lo miran sin entender: Choi con los anteojos torcidos, Baek todavía sentado en el piso, Ma Dongwook tocándose el pecho cerrado. Arriba, la cámara sigue grabando.
+
+Jinwoo extiende la mano sobre el cadáver.
+
+—Levántate.
+
+La sombra del Rey hormiga, en el piso de la caverna, se estremece. Se separa del cuerpo como tinta que se despega del papel. Sube. Toma forma. Primero las alas, negras, de humo. Después el caparazón, las garras, la cabeza alargada. Y por último los ojos: dos puntos de luz azul fría, donde antes había cientos de ojos rojos.
+
+La sombra del Rey se arrodilla frente a Jinwoo, con una garra en el piso y la cabeza baja.
+
+En la caverna, alguien deja caer una espada. El ruido metálico rebota en las paredes.
+
+Jinwoo mira a su nuevo soldado un rato largo. Algo en su cara se afloja, apenas, satisfecho.
+
+Y entonces la sombra levanta la cabeza. No mira a Jinwoo. Mira más allá de él, hacia ti. Los dos puntos de luz azul se te quedan clavados encima. La sombra, que hace unos minutos era un Rey que mataba cazadores de rango S de dos golpes, se encoge. Retrocede medio paso, sin levantarse, arrastrando la garra por el piso, hasta quedar detrás de las piernas de su nuevo amo.
+
+Jinwoo lo nota. Mira a su sombra. Después a ti. Se le escapa por la nariz algo que se parece mucho a una risa.
+
+—Se acuerda de ti —dice.
+
+Con un gesto de la mano, la sombra se hunde en el piso, en la sombra de Jinwoo, y desaparece.
+
+Durante unos segundos, en la caverna solo se escucha el siseo del veneno que gotea del techo.
+
+Después, pasos. Rápidos. Por encima de las hormigas caídas.
+
+Cha Hae-in cruza la caverna hacia ti. La armadura rota en el hombro, el pelo suelto pegado a la cara, la espada colgando de la mano. Se detiene a medio paso. Te mira de arriba abajo, como si te viera por primera vez. Y en cierto modo es así.
+
+Le tiemblan los labios. Se le llenan los ojos.
+
+—Me dijiste "te espero aquí" —dice. Se le quiebra la voz, entre una risa y un llanto—. En el hotel. Me dijiste que me ibas a esperar en el hotel.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1843 · SOLO LEVELING · DÍA 22 · 11:39  ║
+║ Isla de Jeju                                 ║
+║ Nido bajo el Hallasan · cámara de la reina   ║
+║ NIVEL 34 · EXP 524.130/530.000               ║
+║ FRAGMENTOS 340.805 · 1.282.800 won           ║
+║ Energía 97% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirando a Cha            ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Cha Hae-in frente a ti             ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 11:36, cámara de la reina. A Jinwoo: "Te dije que no hacía falta que vinieras." (no contesta). Facundo da 16 semillas del ermitaño (aparecen en su mano, en vivo): todos los coreanos curados del todo y maná lleno (Ma Dongwook sin veneno, Baek humano sin heridas, Cha entera). Quedan 3 semillas. Min: "Esto no es curación. Esto es... todo. Todo de vuelta." Jinwoo mira al Rey muerto con el interés del "Levántate": "¿Me lo dejas?" (pide la sombra del Rey).
+ESTADO AL CIERRE: Día 22 11:39, cámara de la reina. Facundo: "Sí, es tuyo. Levántalo." Jinwoo: "Levántate." La sombra del Rey (Beru) se arrodilla ante él; después mira a Facundo, se encoge y retrocede detrás de Jinwoo. Jinwoo casi se ríe: "Se acuerda de ti." La guarda en su sombra. Todo en vivo; a alguien se le cayó la espada. Cha cruza la caverna hacia Facundo, ojos llenos: "Me dijiste 'te espero aquí'. En el hotel. Me dijiste que me ibas a esperar en el hotel."
