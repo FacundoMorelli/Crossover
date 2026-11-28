@@ -1882,3 +1882,4 @@ T1879 · ONE PIECE · Momoiro · "Tranquilo, Sanji." Kuma le pide perdón a Sanj
 T1880 · ONE PIECE · Momoiro · Presenta a Dragon y a Bonney a Sanji. Dragon: "¿Come bien?" Sanji cocinará cien platos: "Esta vez te quedas a comer."
 T1881 · ONE PIECE · Momoiro · (simulado) Fiesta de Ivankov. Diario: Mary Geoise. Nueva recompensa de Ojos de Eclipse: 3.200.000.000 berries.
 T1882 · ONE PIECE · Momoiro · "¿Tanto me van a poner?" Dragon: Akainu es Almirante de Flota e irá por los que quiere. "¿Qué vas a hacer?"
+T1883 · ONE PIECE · Momoiro · "¿Qué puedo hacer?" Dragon: que tocarlos cueste demasiado. Kuma dice dónde está cada Sombrero de Paja. Dragon: "Ve a contarle a Robin."

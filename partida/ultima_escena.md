@@ -3,88 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1880)
-
-ese es dragon y la chica es bonney la hija de kuma
-
-## RESPUESTA 1 (T1880)
-
-> ese es dragon y la chica es bonney la hija de kuma
-
-> —Ese es Dragon. Y la chica es Bonney, la hija de Kuma.
-
-Sanji se queda quieto.
-
-Primero procesa lo segundo. Lo ves pasar por la cara: los ojos van de Bonney a Kuma, de Kuma a Bonney, del pelo rosa a la cara enorme, de la cara enorme a la sonrisa torcida de ella. Se le abre la boca.
-
-—¿La... hija? —susurra—. ¿De... él?
-
-Kuma asiente. Una vez. Despacio. Con la mano enorme todavía apoyada en la cabeza de Bonney.
-
-Sanji se pone blanco otra vez.
-
-—Acabo de decirle a la hija de Bartholomew Kuma —murmura, con la mirada perdida— que soy el esclavo eterno de su belleza. Delante de él.
-
-—Sí —dice Bonney, encantada—. Lo hiciste.
-
-Y después Sanji procesa lo primero.
-
-Gira la cabeza, muy despacio, hacia el hombre de capa verde y cara tatuada, de brazos cruzados, que lo mira sin decir nada.
-
-—Dragon —repite Sanji—. Dragon el revolucionario. El hombre más buscado del mundo. —Traga—. El padre de Luffy.
-
-Dragon no contesta. Solo lo mira.
-
-Sanji se suelta de tu brazo. Se endereza. Se arregla la camisa rota, se acomoda la corbata suelta, se pasa la mano por el pelo rubio revuelto, y se para derecho, con los talones juntos, delante del hombre más buscado del mundo. Toda la ceja enroscada le tiembla. Pero no baja la vista.
-
-—Soy Sanji —dice, firme—. Cocinero de los Piratas del Sombrero de Paja. Del barco de su hijo.
-
-Y se inclina. Una reverencia corta, seria, de cocinero que se presenta ante el padre del capitán al que le da de comer todos los días.
-
-Dragon lo mira un rato largo. Después descruza los brazos.
-
-—¿Come bien? —pregunta.
-
-Sanji levanta la cabeza, sorprendido.
-
-—...Come como un barril sin fondo —dice—. Todo el día. Se roba la comida de los platos de los demás. Asalta el refrigerador de noche. Una vez se comió la carne de toda una semana en una noche.
-
-Algo se mueve en la cara de Dragon. Muy poco.
-
-—Bien —dice.
-
-En la escalera, Ivankov aplaude con sus manos enormes.
-
-—¡¡Perfecto, perfecto, perfecto!! —grita—. ¡¡Sanji-boy, a la cocina!! ¡¡Hoy tenemos invitados!! ¡¡Un revolucionario, un Shichibukai que volvió de entre los muertos, una dama de verdad, y Ojos de Eclipse!! ¡¡Hee-haw!!
-
-Sanji se da vuelta hacia el castillo rosa. Le cambia la cara. Se le enciende algo en los ojos que no es amor: es otra cosa. Se arremanga.
-
-—Cien platos —dice, en voz baja, para sí—. Con las recetas del rey.
-
-Después se da vuelta hacia ti, con el cigarro nuevo ya prendido en la boca, y por primera vez en toda la mañana sonríe tranquilo, como en la cocina del barco.
-
-—Facundo. Esta vez te quedas a comer. De verdad. —Te señala con el cigarro—. No me desaparezcas a mitad del primer plato como la última vez.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1880 · ONE PIECE · DÍA ~227 · 08:24    ║
-║ Isla Momoiro · Reino Kamabakka               ║
-║ Patio frente al castillo de Ivankov          ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 94% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Sanji: "Te quedas a comer"         ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1881)
+## COMANDO 1 (T1881)
 
 si, me quedo a comer, simula la fiesta
 
-## RESPUESTA 2 (T1881)
+## RESPUESTA 1 (T1881)
 
 > si, me quedo a comer, simula la fiesta
 
@@ -149,11 +72,11 @@ Todo el patio se queda en silencio. Las okamas. Ivankov, con una copa en la mano
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1882)
+## COMANDO 2 (T1882)
 
 eh, mierda, tanto me van a poner?
 
-## RESPUESTA 3 (T1882)
+## RESPUESTA 2 (T1882)
 
 > eh, mierda, tanto me van a poner?
 
@@ -208,6 +131,59 @@ Mira hacia el norte, hacia el mar, hacia donde queda Baltigo, y no dice el nombr
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1883)
+
+que puedo hacer?
+
+## RESPUESTA 3 (T1883)
+
+> que puedo hacer?
+
+> —¿Qué puedo hacer?
+
+Dragon no contesta enseguida. Mira el mar, el cielo rosa que se oscurece, las primeras estrellas encima de Momoiro.
+
+—Hay dos caminos, siempre —dice, al fin—. Esconder lo que quieres, o hacer que tocarlo cueste más de lo que vale.
+
+Se da vuelta.
+
+—Esconder no sirve contigo. Tu cara está en todos los diarios del mundo. —Mira a Kuma, a Bonney, a Sanji—. Y la gente que te quiere no se esconde. Ya lo viste.
+
+Kuma da un paso adelante, detrás de él. Se agacha, despacio, hasta quedar a tu altura.
+
+—Yo sé dónde están —dice, con la voz grave—. Los Sombrero de Paja. Los mandé yo, uno por uno, en Sabaody. Me acuerdo de cada isla. —Se toca el pecho, donde le pusiste la mano—. Ahora me acuerdo de todo. —Mira a Sanji—. El cocinero, aquí. El espadachín, en Kuraigana, con Mihawk. La navegante, en Weatheria, en el cielo. El tirador, en la isla Boin. El médico, en Torino. El carpintero, en Karakuri. El músico, en Namakura. —Hace una pausa—. Y tu capitán, con Rayleigh, en Rusukaina.
+
+—Y Robin en Baltigo —dice Dragon—. Que no está en ningún mapa. Pero Akainu tiene al Cipher Pol. Y el Cipher Pol tiene paciencia.
+
+Se queda callado.
+
+—En Marineford dejaste algo cuidando la flota de Barbablanca —sigue, despacio—. Algo que nadie ve. Que paró el volcán de Akainu. Todavía está ahí. Mis informes lo dicen: la Marina los alcanzó dos veces y no pudo hacerles un rasguño. —Te mira a los ojos—. No sé qué es. No te voy a preguntar. Pero si eso se puede hacer una vez, sobre una flota...
+
+No termina. No hace falta.
+
+Bonney te mira desde la rodilla de su padre. Sanji, con el cigarro apagado en la boca, también.
+
+—Y hay otra cosa —dice Dragon, más bajo—. Algo que ni tú puedes resolver con fuerza. —Mira hacia el norte, otra vez—. Hay una mujer en Baltigo que contó noventa y siete días en una pared. Antes de decidir nada, deberías ir a contarle lo que viene.
+
+Se cruza de brazos.
+
+—Ella sabe más de Akainu que nadie en esta mesa. Él quemó Ohara.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1883 · ONE PIECE · DÍA ~227 · 18:47    ║
+║ Isla Momoiro · Reino Kamabakka               ║
+║ Patio de la fiesta, mesa principal           ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la mesa, mirando al norte           ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Proteger a los tuyos de Akainu     ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 18:43, patio de Momoiro. "Eh... mierda. ¿Tanto me van a poner?" Bonney y las okamas se ríen. Sanji guarda el diario ("Luffy tiene trescientos... va a llorar de envidia"). Dragon, en voz baja: lo que importa es "movilización del Almirante de Flota": Sengoku se retiró hace dos meses; el nuevo Almirante de Flota es AKAINU. "Akainu no olvida. Y no perdona... No va a ir por ti. Sabe que no puede. Va a ir por todo lo que tengas cerca... Por los que quieres." Mira hacia Baltigo (Robin). "¿Qué vas a hacer, Ojos de Eclipse?"
+ESTADO AL CIERRE: Día ~227 18:47, patio de Momoiro. "¿Qué puedo hacer?" Dragon: dos caminos: esconder o hacer que tocarlo cueste más de lo que vale; esconder no sirve. Kuma recuerda dónde mandó a cada Sombrero de Paja: Sanji aquí; Zoro en Kuraigana con Mihawk; Nami en Weatheria; Usopp en Boin; Chopper en Torino; Franky en Karakuri; Brook en Namakura; Luffy con Rayleigh en Rusukaina. Robin en Baltigo (el CP tiene paciencia). Dragon: el Bankai sigue protegiendo la flota de Barbablanca ("si eso se puede hacer una vez, sobre una flota..."). "Hay una mujer en Baltigo que contó noventa y siete días en una pared. Antes de decidir nada, deberías ir a contarle lo que viene. Ella sabe más de Akainu que nadie en esta mesa. Él quemó Ohara."

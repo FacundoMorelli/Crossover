@@ -21,3 +21,4 @@ ESTADO: activo
 - T1878 · Mano en la cabeza de Bonney, mira desde arriba a Sanji (al que mandó a Momoiro en Sabaody): "Hola."
 - T1879 · A Sanji, agachado: "Lo siento. En Sabaody, Kizaru iba a matarlos. A todos. Y yo ya sabía que me quedaba poco de mí. No podía salvarlos de otra forma. Así que elegí, para cada uno, una isla donde pudiera sobrevivir. Y donde pudiera volverse más fuerte. A ti te mandé al lugar donde están las recetas del Attack Cuisine. Las noventa y nueve... No pensé en el resto de la isla."
 - T1881 · Camisa de cuatro manteles cosida por las okamas. Come poco, mira a su hija; se toca el cuello. Habla aparte con Dragon y le pone la mano en el hombro.
+- T1883 · "Yo sé dónde están. Los Sombrero de Paja. Los mandé yo... Me acuerdo de cada isla. Ahora me acuerdo de todo." Sanji aquí; Zoro en Kuraigana con Mihawk; Nami en Weatheria; Usopp en Boin; Chopper en Torino; Franky en Karakuri; Brook en Namakura; Luffy con Rayleigh en Rusukaina.
