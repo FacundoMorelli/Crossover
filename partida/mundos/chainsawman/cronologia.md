@@ -21,3 +21,5 @@ Fuente: canon/chainsawman/ (manga). Llegada: Día 1, fines de octubre de 1997, 1
 - Día 2-4 · (T1728) Facundo vive con Aki, Denji y Power. 387 ex muñecos despiertan en la fábrica (canon: había que cortarlos). Tolka y su maestro se van de Japón (canon: Tolka se sacrifica en el Infierno). Los americanos restantes también se van. Día 3 noche: QUANXI SE ENTREGA a Kishibe con sus 4 fiends (canon: se rinde tras el Infierno). Día 4 noche: Makima vuelve de viaje (canon: mata a Quanxi y a dos fiends).
 - PRÓXIMO: Power traumatizada por la Oscuridad NO ocurre (no hubo Infierno). Arco del Demonio Pistola (noviembre-diciembre): Hokkaido, pacto de Aki con Makima, el Pistola ataca y posee a Aki.
 - Día 4-6 · (T1736) Quanxi y fiends en Nerima bajo responsabilidad de Facundo. Ataques de demonios a la mitad. Plazo de Quanxi: Día 8 noche.
+- Día 7-8 · (T1737) Quanxi y fiends trasladadas por Facundo (vuelo de Dragón) a una isla del Pacífico.
+- Día 9 18:40 · (T1737) Facundo se va de Chainsaw Man (viaje libre). El canon sigue: Pistola en noviembre-diciembre.

@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1734)
-
-porque me gusta ayudar, nada más
-
-## RESPUESTA 1 (T1734)
-
-> porque me gusta ayudar, nada más
-
-> —Porque me gusta ayudar. Nada más.
-
-Quanxi no contesta enseguida.
-
-Te mira con el único ojo, de arriba abajo, despacio, como quien revisa un arma que le dieron y no sabe todavía si está cargada. El pelo blanco y azul. Las cicatrices. Los tatuajes que asoman por el cuello de la camisa del uniforme. Las manos, quietas al costado del cuerpo.
-
-—Ayudar —repite.
-
-Detrás de ella, la de las orejas de animal la tira de la manga, despacito. Quanxi no se da vuelta.
-
-—Hace veinte años conocí a un chico que decía eso. —Mira de reojo a Kishibe, que está apoyado en los barrotes con la petaca en la mano y la vista en el piso—. Que le gustaba ayudar. Que por eso cazaba demonios.
-
-Kishibe toma un trago largo. No dice nada.
-
-—Mira cómo terminó. —Quanxi vuelve a ti—. Borracho, en un sótano, abriéndole la reja a una mujer que vino a matar a uno de los suyos.
-
-Se le escapa algo por la nariz. No llega a ser una risa.
-
-Makima, a tu lado, mira la escena con la misma cara amable de siempre, las manos juntas sobre el abrigo. No interrumpe. Después de un momento, se da vuelta y empieza a caminar por el pasillo hacia la escalera, sin apuro, con los tacos resonando en el cemento mojado.
-
-—Buenas noches, señor Morelli —dice, sin girarse—. Cuídelas también a ellas.
-
-Sube la escalera. Los pasos se pierden.
-
-En cuanto desaparece, las cuatro fiends sueltan el aire al mismo tiempo, como si hubieran estado aguantándolo desde que llegaron. La de las costuras se sienta en el piso de golpe. Cosmo se pone a dar vueltas sobre sí misma con los brazos abiertos, cantando "Halloween" muy bajito.
-
-Quanxi no se relaja. Pero algo, en los hombros, baja un centímetro.
-
-—Bueno, viajero que ayuda. —Cruza los brazos—. Ahora somos tuyas, según ella. Cinco. Sin papeles, sin dinero, sin armas, en un país que nos quiere muertas. —Levanta la barbilla—. ¿Adónde nos llevas?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1734 · CHAINSAW MAN · DÍA 4 · 21:47    ║
-║ Tokio, otoño de 1997                         ║
-║ Central de Seguridad Pública, celdas         ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.078 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el departamento, con Power          ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Responder por Quanxi y sus fiends  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1735)
+## COMANDO 1 (T1735)
 
 les gustaría ir a otro país a empezar de nuevo?
 
-## RESPUESTA 2 (T1735)
+## RESPUESTA 1 (T1735)
 
 > les gustaría ir a otro país a empezar de nuevo?
 
@@ -123,11 +68,11 @@ Quanxi suspira. Se pasa una mano por el pelo blanco, corto, despeinado. Te vuelv
 
 ---
 
-## COMANDO 3 (T1736)
+## COMANDO 2 (T1736)
 
 simula un par de dias
 
-## RESPUESTA 3 (T1736)
+## RESPUESTA 2 (T1736)
 
 > simula un par de días
 
@@ -180,4 +125,79 @@ En la cocina, Aki deja de lavar un plato y te mira por encima del hombro.
 
 ---
 
-ESTADO AL CIERRE: Día 6 21:10, living del departamento de Aki. Quanxi y sus 4 fiends viven en un departamento de Nerima (de un ex compañero de Kishibe; llave de bronce). Facundo las llevó en taxi el Día 4 y volvió a lo de Aki. Día 5: Aki, en el balcón: "nunca vi a nadie hacer que Makima bajara la mano". Noticiero: ataques de demonios bajaron a la mitad. Día 6: Power intentó bañar a Kase y perdió. Kishibe llamó: las chicas bien; Tsugihagi le hizo un dibujo; Long pregunta por el mar. Mensaje textual de Quanxi: "Dos días. No tengo más paciencia que esta. Si el viajero tiene un plan, que venga a decírmelo a la cara. Si no tiene, nos vamos solas." Aki mira a Facundo desde la cocina.
+## COMANDO 3 (T1737)
+
+simula tambien llevándolas a otro lado y despidiéndome de todos
+
+## RESPUESTA 3 (T1737)
+
+> simula también llevándolas a otro lado y despidiéndome de todos
+
+Día 7, a la mañana. Vas a Nerima. Quanxi te abre la puerta con la cadena puesta, te mira por la rendija y recién después la saca. Las cuatro están sentadas en fila en el tatami, como en una sala de espera. Les explicas el plan a la cara, como pidió. Quanxi escucha todo sin interrumpir, de brazos cruzados. Cuando terminas, se queda callada mucho rato. Después dice "está bien", nada más, y Long se pone a llorar.
+
+En la tienda del Sistema cambias doscientos Fragmentos por dólares, en billetes usados, en un sobre marrón. Se los das a Quanxi. Ella los cuenta, uno por uno, sin expresión, y los guarda en el saco sin agradecer. A la media hora, cuando cree que no la miras, saca uno, lo mira a contraluz y lo vuelve a guardar.
+
+Día 7, a la noche. Una azotea de Nerima, sin luna. Tiras del aro. Las alas se despliegan contra el cielo de Tokio. Quanxi se sube a tu espalda sin decir una palabra, agarrada de un cuerno. Tsugihagi y la de los cuernitos, que se llama Pingtsi, te abrazan el cuello. Long y Cosmo van en tus brazos, envueltas en la manta del baúl del taxi. Kase va adentro de tu camisa, con la cabeza afuera, furioso.
+
+Vuelas toda la noche hacia el sur. Por encima de las nubes, del mar negro, de las luces de los barcos. Cosmo canta "Halloween" durante cuatro horas seguidas. Long no grita ni una vez: mira el mar, abajo, sin parpadear.
+
+Día 8, al amanecer. Una isla chica en el sur del Pacífico, lejos de todo, verde, con una playa blanca en forma de medialuna, palmeras y un pueblo de pescadores de cuarenta personas que viven en casas sobre pilotes y no tienen teléfono. En el pueblo no hay ningún cazador de demonios. El último demonio que vieron fue hace veinte años, una anguila, y se murió sola. Hay una casa vacía al final de la playa, de madera, con el techo de hojas de palma, que era de un pescador que se fue a vivir con su hija a otra isla.
+
+Las bajas en la arena. Long se saca las sandalias, camina hasta el agua y se mete hasta las rodillas, vestida, y se queda ahí, quieta, con las orejas de zorro paradas, mirando el horizonte. Tsugihagi se ríe por primera vez desde que la conoces. Pingtsi se tira de espaldas en la arena. Cosmo corre en círculos alrededor de una palmera.
+
+Quanxi se queda a tu lado. Mira a las cuatro. Mira el mar. Se saca el saco negro, despacio, y lo dobla sobre el brazo.
+
+No te da las gracias. Te mira un segundo con el único ojo, y después mira para otro lado, hacia el agua.
+
+—Si algún día alguien te viene a matar —dice, sin mirarte—, avísame. Llego en una semana.
+
+Es lo más parecido a un abrazo que vas a recibir de ella.
+
+Día 8, a la noche. Vuelves a Tokio. A la mañana siguiente le cuentas a Makima, en su oficina, que Quanxi y sus fiends están lejos de Japón, en un lugar donde no van a molestar a nadie. Makima te escucha con las manos juntas sobre el escritorio. Cuando terminas, sonríe. "Entonces ya no son de mi ciudad", dice. "Y usted ya no tiene que responder por ellas ante mí." Y después, con la misma suavidad: "Pero sí ante usted mismo". Cuando le dices que te vas, la sonrisa no cambia. "La habitación de las cajas va a seguir ahí", dice. "Aki no la va a tocar. Yo me voy a encargar." Te acompaña hasta la puerta de la oficina. No te da la mano. "Vuelva, señor Morelli", dice. No es una pregunta.
+
+Kishibe te espera en el estacionamiento, apoyado en un auto que no es suyo, con la petaca. Te la ofrece. Es la primera vez que la comparte con alguien. Cuando se la devuelves, te dice, mirando el cielo, que en treinta años es la primera semana en la que no se murió ninguno de los suyos. Y que no se la piensa contar a nadie, porque nadie le va a creer.
+
+Kobeni, en la escalera de la central, te hace una reverencia de noventa grados, temblando, y sale corriendo antes de que puedas decir nada. Sato, en la puerta, te saluda con dos dedos en la frente, como un soldado.
+
+Día 9, a la tarde. El departamento de Aki.
+
+Denji te da el chicle. Otro chicle, uno nuevo, sin abrir, que compró con su plata en el kiosco de abajo. Te lo pone en la mano con mucha ceremonia y te dice que es un regalo de despedida y que es de menta, que es el mejor. Después te pregunta si vas a volver. Y después, más bajito, si en el lugar adonde vas vas a sentir a Pochita igual. Se toca el pecho. Antes de que contestes, dice que no importa, que está bien, que ahora sabe que está contento.
+
+Power no sale de su cuarto. Grita desde adentro que no le importa, que el gato era feo, que Power tiene a Miau y es mucho mejor. Cuando Kase rasca la puerta, una sola vez, la puerta se abre de golpe y Power sale con la cara roja y mojada, levanta a Kase en brazos, lo aprieta contra el pecho, le dice algo al oído que nadie escucha, y te lo devuelve. Kase se deja. Después Power se vuelve a encerrar y grita que no estaba llorando, que era la cebolla.
+
+Miau se sienta en la ventana y mira a Kase irse.
+
+Aki te acompaña hasta la puerta del edificio. En la vereda, bajo el cielo gris, se prende un cigarrillo. Esta vez sí lo enciende. Fuma la mitad sin decir nada. Después, mirando la calle:
+
+—No sé qué eres. —Echa el humo—. Y no te lo voy a preguntar. Denji duerme mejor desde que llegaste. Power también, aunque no lo admita. —Una pausa—. Y yo.
+
+Tira el cigarrillo. Lo pisa.
+
+—Cuídate, Facundo.
+
+Se da vuelta y sube. No mira para atrás.
+
+Día 9, 18:40. La azotea del edificio de Aki. Tokio entero debajo, encendiendo sus luces en el atardecer: la torre, los neones, los trenes elevados. Abajo, por la ventana del tercer piso, se ve la luz de la cocina y la silueta de Aki con el delantal puesto, cortando algo. En el balcón, Miau.
+
+Kase está en tu hombro. En el bolsillo tienes un chicle de menta.
+
+Solo falta abrir la puerta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1737 · CHAINSAW MAN · DÍA 9 · 18:40    ║
+║ Tokio, noviembre de 1997                     ║
+║ Azotea del edificio de Aki                   ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.878 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Abrir la puerta (viaje libre)      ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 9 18:40, azotea del edificio de Aki. Quanxi y sus 4 fiends (Long, Tsugihagi, Pingtsi, Cosmo) viven en una isla chica del sur del Pacífico (pueblo de pescadores, sin cazadores; casa de madera al final de la playa), con 200 Fragmentos en dólares. Quanxi: "Si algún día alguien te viene a matar, avísame. Llego en una semana." Despedidas: Makima ("ya no son de mi ciudad"; "la habitación de las cajas va a seguir ahí"; "Vuelva, señor Morelli"), Kishibe (compartió la petaca; primera semana en 30 años sin muertos de los suyos), Kobeni (reverencia y huye), Sato (saludo militar), Denji (chicle de menta; Pochita), Power (abrazó a Kase), Aki ("Denji duerme mejor... Power también... Y yo. Cuídate, Facundo."). Falta abrir la puerta. MISIÓN DE MUNDO NO CUMPLIDA.

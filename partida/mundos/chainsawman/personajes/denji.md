@@ -31,3 +31,4 @@ ENCUENTROS:
 - T1729 · (sim) Se come medio frasco de mermelada de frutilla; le enseña a Facundo un juego de cartas inventado con reglas que cambian cuando pierde. Atiende a Kishibe: "Es para ti. El viejo de la petaca. Dice que es urgente."
 - T1730 · VIO a Facundo desaparecer del living con el teléfono en la mano.
 - T1736 · (sim) Cuenta a gritos que Facundo desapareció del living. Dice que los ataques bajaron "por él".
+- T1737 · Le regala a Facundo un chicle de menta nuevo comprado con su plata ("es el mejor"). Pregunta si va a volver y si en el lugar adonde va va a sentir a Pochita igual; "no importa, está bien, ahora sé que está contento." RELACIÓN: cariño; Facundo es su amigo.

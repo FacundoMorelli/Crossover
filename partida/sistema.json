@@ -1,13 +1,13 @@
 {
-  "turno": 1736,
+  "turno": 1737,
   "mundo_actual": "chainsawman",
-  "fecha_local": "Chainsaw Man: Día 6, comienzos de noviembre de 1997",
-  "hora": "21:10 (Tokio)",
+  "fecha_local": "Chainsaw Man: Día 9, noviembre de 1997",
+  "hora": "18:40 (Tokio)",
   "edad": 18,
   "nivel": 33,
   "exp": 441130,
   "exp_siguiente_nivel": 480000,
-  "fragmentos": 289078,
+  "fragmentos": 288878,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -722,6 +722,11 @@
       "objeto": "Llave de repuesto del departamento de Aki (llavero de cuero) + sobre con la dirección + tarjeta con el número de Kishibe",
       "cantidad": 1,
       "detalle": "T1727-1728, de Makima."
+    },
+    {
+      "objeto": "Chicle de menta sin abrir (regalo de despedida de Denji)",
+      "cantidad": 1,
+      "detalle": "T1737, Chainsaw Man. Comprado con su plata en el kiosco de abajo."
     }
   ],
   "copias": [
@@ -2448,7 +2453,7 @@
       "naruto": "Llegada Día 1 07:40 (T1305). SALIDA Día 10 ~00:00 (medianoche) (T1440), por una puerta en la calle de Ichiraku, ante todos. Prometió a Naruto volver. Corre.",
       "naruto_salida": "Día 10 ~00:00 (T1440).",
       "dragonball_salida_T1680": "Salida sábado año 778 19:40, colina del parque central. Corre al ritmo de Facundo.",
-      "chainsawman": "Llegada Día 1, fines de octubre de 1997, 19:30 (T1681). Corre al ritmo de Facundo."
+      "chainsawman": "Llegada Día 1 (fines de oct. 1997) 19:30. Salida Día 9 18:40 (T1737), azotea del edificio de Aki, Tokio. Corre al ritmo de Facundo. MISIÓN DE MUNDO NO CUMPLIDA (Aki vivo tras el Pistola; el ataque del Pistola es en nov-dic 1997)."
     },
     "puerta_abierta": true,
     "historial_misiones": {

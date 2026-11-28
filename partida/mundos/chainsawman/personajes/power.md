@@ -30,3 +30,4 @@ ENCUENTROS:
 - T1728 · (sim) Presenta a Miau (gato chico, flaco, blanco y gris). Llora de emoción cuando Kase y Miau se duermen juntos ("era la cebolla de Aki"). Kase duerme a sus pies; ella se hace la dormida y no se mueve para no despertarlo. Pregunta si en los lugares de Facundo hay "sangre rica".
 - T1729 · (sim) Intenta toda la mañana que Kase se le suba a la cabeza (pescado, leche, una media de Denji). Se duerme en el tatami; Kase se echa pegado a su espalda. Pregunta si "la china" es linda; esconde las zanahorias bajo el arroz.
 - T1736 · (sim) Dice que vio desaparecer a Facundo "más impresionante". Día 6: intenta bañar a Kase y pierde.
+- T1737 · Encerrada en su cuarto: "¡No le importa, el gato era feo!" Cuando Kase rasca la puerta, sale llorando, lo abraza, le dice algo al oído y lo devuelve. "No estaba llorando, era la cebolla." RELACIÓN: cariño (con Kase sobre todo).

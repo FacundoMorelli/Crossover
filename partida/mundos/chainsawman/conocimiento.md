@@ -64,3 +64,4 @@ Quién sabe qué de Facundo en este mundo.
 - T1730 · QUANXI sabe (por Kishibe, T1728) que quien se tragó la mano del Infierno es un muchacho de pelo blanco y azul con un gato; lo reconoce. DENJI vio a Facundo desaparecer del departamento.
 - T1732 · MAKIMA deduce (rumor de la mano del Infierno + captura de Santa) que fue Facundo quien se tragó la mano del Infierno en el sótano.
 - T1733 · KISHIBE, QUANXI y las fiends oyeron el acuerdo: Facundo responde por ellas ante Makima.
+- T1737 · QUANXI y sus FIENDS vieron a Facundo transformado en Dragón (vuelo). MAKIMA sabe que Quanxi está fuera de Japón (no dónde). Todos (Aki, Denji, Power, Kobeni, Kishibe, Sato, Makima) saben que Facundo se va.

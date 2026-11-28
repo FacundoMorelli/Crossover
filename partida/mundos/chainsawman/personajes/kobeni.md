@@ -23,3 +23,4 @@ ENCUENTROS:
 - T1708 · "Yo no quiero saber qué se siente de mí. Por favor no me digas."
 - T1710 · Llora sin ruido con la historia de Denji. Queda despierta en el umbral vigilando a los asesinos.
 - T1711 · Se duerme sentada en el umbral a las 4, con el cuchillo en las rodillas.
+- T1737 · Reverencia de noventa grados, temblando, y sale corriendo.

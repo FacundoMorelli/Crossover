@@ -260,3 +260,6 @@
 - RECOMPENSA: 20.000 EXP · 500 Fragmentos
 - VENCE: nunca · CAMBIADA: no
 - DON: Corazón del Demonio Dragón (híbrido), maestría 30.
+
+## CHAINSAW MAN — SALIDA (T1737)
+- Salida Día 9 (noviembre de 1997) 18:40, azotea del edificio de Aki. Misión de Mundo NO cumplida (Aki vivo tras el Pistola). La habitación de las cajas queda reservada. El reloj corre al ritmo de Facundo.
