@@ -47,3 +47,4 @@
 - T1825 · FACUNDO sabe por Cha: entrenamiento 4 vs 4 el Día 11 en el gimnasio de la Asociación, sin prensa; Go Gunhee invitó a Jinwoo a mirar para convencerlo de ir a Jeju.
 - T1827 · FACUNDO vio las sombras de Jinwoo esconderse en Goto y Cha (fuente: lo vio). GO GUNHEE notó que Facundo no reaccionó cuando atacaban a Cha.
 - T1828 · CHA HAE-IN compara: Jinwoo no huele a maná "igual que tú" (Facundo). GUNHEE y CHOI oyen a Facundo decir que sabía que Sung llegaría (no investigan).
+- T1830 · JINWOO sabe (por su sombra escondida en Cha) que Kase se quedó mirando la sombra de Cha; no siente ningún maná en Facundo; deduce que Facundo esconde algo.

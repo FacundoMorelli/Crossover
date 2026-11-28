@@ -1829,3 +1829,4 @@ T1826 · SOLO LEVELING · Gimnasio de la Asociación · (simulado) Entrenamiento
 T1827 · SOLO LEVELING · Gimnasio de la Asociación · Jinwoo noquea a Kumamoto; duelo con Goto sin ganador. Facundo ve las sombras de Jinwoo esconderse en Goto y Cha. Go Gunhee: "¿Por qué no se movió?"
 T1828 · SOLO LEVELING · Gimnasio de la Asociación · "Sabía que Sung iba a llegar." Jinwoo no irá a Jeju. Cha: "No tiene olor. Igual que tú."
 T1829 · SOLO LEVELING · Gimnasio de la Asociación · "Es muy fuerte." Cha entiende que Jinwoo no vaya. ¿Quedarse a mirar o ir al hotel?
+T1830 · SOLO LEVELING · Sede de la Asociación · Jinwoo lo espera afuera: "No siento nada en ti... tu gato miró algo que no tenía por qué ver. ¿Qué eres?"
