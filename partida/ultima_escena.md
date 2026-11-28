@@ -3,67 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1770)
-
-si, soy un viajero, uso tasación en sung (y acordate de leer bien todas las reglas, etc, por que se compacto y no quiero que pierdas el hilo)
-
-## RESPUESTA 1 (T1770)
-
-> si, soy un viajero, uso tasación en sung
-
-> —Sí. Soy un viajero.
-
-Lo miras a Jinwoo, y el Sistema hace lo suyo, frío, en silencio.
-
-```
-╔════════════════════════════════════════╗
-║ SUNG JINWOO                            ║
-║ Cazador de rango S (reevaluado)        ║
-║ PODER: Sombras (extracción y mando),   ║
-║        dagas · origen: sin datos       ║
-║ AMENAZA: BAJA                          ║
-║ Diferencia estimada: tú x65 sobre él   ║
-║ Se contiene: esconde parte de su maná  ║
-║ COPIABLE · MISIÓN: EXTREMA             ║
-╚════════════════════════════════════════╝
-```
-
-Jinwoo no parpadea mientras lo miras. Es como si sintiera que alguien lo está midiendo, pero no supiera desde dónde. Mueve apenas los dedos dentro del bolsillo de la chaqueta.
-
-—Un viajero —repite, sin tono.
-
-—No sabía qué son los cazadores —le dice Cha Hae-in en voz baja, como si fuera un dato importante—. Ni las Puertas.
-
-Jinwoo la mira un segundo, con una ceja apenas levantada, y vuelve a ti. Te mira la cicatriz. Los ojos, uno rojo y uno azul. Después a Kase, que le devuelve exactamente la misma mirada, con los mismos dos colores, sin mover un bigote.
-
-Algo en la cara de Jinwoo cambia, muy poco. No es desconfianza. Es la cara de alguien que está acostumbrado a ser el que esconde algo y que, por primera vez en mucho tiempo, sospecha que tiene enfrente a otro.
-
-Detrás de ellos, la periodista grita el nombre de Cha Hae-in y el camarógrafo corre hacia la cinta. Del otro lado, Choi Jong-In se acomoda los anteojos y mira la escena desde lejos, con impaciencia.
-
-Jinwoo no les hace caso. Da medio paso hacia la cinta, lo suficiente para que nadie más escuche.
-
-—Hay una Puerta de rango A en medio de la avenida, a las once de la noche —dice, tranquilo—. Y un viajero que no sabe qué es una Puerta se queda dos horas mirándola. —Te mira a los ojos—. ¿Por qué?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1770 · SOLO LEVELING · DÍA 1 · 23:13   ║
-║ Seúl, Corea del Sur                          ║
-║ Gangnam, cinta del cordón de la Puerta       ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.815 · 0 won                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1771)
+## COMANDO 1 (T1771)
 
 me gustan las cosas nuevas y no tengo otra cosa que hacer, a parte queria ver a cha de nuevo
 
-## RESPUESTA 2 (T1771)
+## RESPUESTA 1 (T1771)
 
 > me gustan las cosas nuevas y no tengo otra cosa que hacer, a parte queria ver a cha de nuevo
 
@@ -108,11 +52,11 @@ Mira la camioneta, mira tus manos vacías, mira a Kase y vuelve a ti.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1772)
+## COMANDO 2 (T1772)
 
 no tengo nada
 
-## RESPUESTA 3 (T1772)
+## RESPUESTA 2 (T1772)
 
 > no tengo nada
 
@@ -153,6 +97,65 @@ Kase se estira en tu hombro, mira la cinta levantada y después la mira a ella.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1773)
+
+vayamos a ver
+
+## RESPUESTA 3 (T1773)
+
+> vayamos a ver
+
+> —Vayamos a ver.
+
+Pasas por debajo de la cinta. Cha Hae-in la suelta detrás de ti y camina a tu lado, por la vereda, esquivando a los últimos curiosos. Un par de personas la reconocen y sacan el celular; ella baja la cabeza y apura el paso, sin decir nada.
+
+Son dos cuadras de Gangnam de noche: carteles de neón en coreano, una tienda de conveniencia abierta con la luz blanca, un local de pollo frito con olor a aceite y ajo, un taxi esperando con el motor prendido. En una pantalla gigante, en la esquina, repiten la imagen de la Puerta apagándose y la cara de Cha Hae-in saliendo de ella. Ella no la mira.
+
+El hotel es una torre de vidrio oscuro con un toldo dorado en la entrada y un portero de guantes blancos. Adentro, piso de mármol, un arreglo de flores enorme y música de piano bajita.
+
+La recepcionista levanta la vista, sonríe en automático y, cuando ve quién es, se le congela la sonrisa.
+
+—¡Ca... cazadora Cha Hae-in! Bienvenida.
+
+Después ve a Kase. Abre la boca para decir algo, mira otra vez a Cha Hae-in y la cierra.
+
+—Una habitación —dice Cha Hae-in, y deja una tarjeta negra sobre el mostrador—. Para él. Viene con el gato.
+
+—Por supuesto. Por supuesto, no hay ningún problema.
+
+La recepcionista teclea rápido. Te mira, mira tus manos vacías, y por un segundo parece que va a pedirte un documento. Cha Hae-in la mira, tranquila, sin decir nada, y la recepcionista no lo pide.
+
+—Piso veintidós. —Te da una tarjeta de plástico con el logo del hotel—. El desayuno es de seis a diez. Si necesita algo para... para el gatito, marque el nueve.
+
+Kase la mira con los dos ojos, rojo y azul, y ella da un pasito atrás.
+
+El ascensor es de espejos. Cha Hae-in sube contigo hasta el veintidós, mirando los números que cambian. No dice nada durante todo el viaje, pero se nota que está buscando qué decir.
+
+La puerta del ascensor se abre. Pasillo de alfombra, luz amarilla, silencio. La habitación 2207 está a unos pasos.
+
+Ella se detiene frente a la puerta, con las manos juntas adelante, y te mira.
+
+—Bueno. —Respira—. Aquí estás bien.
+
+Duda. Se acomoda un mechón de pelo detrás de la oreja.
+
+—Mañana tengo que ir a la oficina del gremio por el informe. —Te mira de reojo—. Pero después... ¿puedo venir a verte?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1773 · SOLO LEVELING · DÍA 1 · 23:32   ║
+║ Seúl, Corea del Sur                          ║
+║ Gangnam, hotel · piso 22, puerta de la 2207  ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.815 · 0 won                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 1 23:16, cinta de Gangnam. Facundo: "No tengo nada." Cha Hae-in manda al gremio irse sin ella ("mañana paso por la oficina con el informe"); Choi acepta con un suspiro. Cha levanta la cinta: "Ven. Hay un hotel a dos cuadras. Es bueno. Yo lo pago." "¿Lo dejan entrar a un hotel? Si no, buscamos otro." (por Kase)
+ESTADO AL CIERRE: Día 1 23:32. Hotel de Gangnam (torre de vidrio oscuro, toldo dorado), piso 22, frente a la habitación 2207. Cha Hae-in pagó con su tarjeta negra; la recepcionista la reconoció, aceptó al gato y no pidió documento. Facundo tiene la tarjeta llave (en la mano). Desayuno 6 a 10. Cha: "Aquí estás bien." "Mañana tengo que ir a la oficina del gremio por el informe. Pero después... ¿puedo venir a verte?"
