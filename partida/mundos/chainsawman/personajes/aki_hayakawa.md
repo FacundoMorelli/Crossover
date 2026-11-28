@@ -29,3 +29,4 @@ ENCUENTROS:
 - T1708 · Apaga la radio. "Mañana a la mañana. Desayuno con la señorita Makima. No le pasa a mucha gente."
 - T1710 · Desvía la mirada, mandíbula apretada, con lo de Pochita. Fuma un cigarrillo seco del saco de Kurose.
 - T1711 · Guardia por turnos con Facundo toda la noche; no se duerme. Le tapa la boca a Power a las 7.
+- T1711 (registro de fuente) · Al entregar a los prisioneros, le informa a Kishibe lo visto: las semillas que curan y que Facundo desapareció de la 604. Kishibe se lo pasa a Makima por teléfono esa noche.
