@@ -1851,3 +1851,4 @@ T1848 · SOLO LEVELING · Buque · A Goto: "Estaban dispuestos a dejar morir a s
 T1849 · SOLO LEVELING · Casa de la señora Kang · Lleva a Cha con su mamá. "Todo lo que tenga en mis manos. Eso me dijiste." "¿Comiste algo?"
 T1850 · SOLO LEVELING · Casa de la señora Kang · Almuerzo. "¿Y ahora? ¿Qué vas a hacer?"
 T1851 · SOLO LEVELING · Casa de la señora Kang · "En unos días me voy, pero voy a volver." Cha: "¿Podría ir contigo?"
+T1852 · SOLO LEVELING · Plaza del barrio · "No se puede, pero te voy a mostrar a dónde me voy." Cha: "Muéstrame."

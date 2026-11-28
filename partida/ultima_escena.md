@@ -3,78 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1849)
-
-esta bien, me teletransporto con cha con su mama
-
-## RESPUESTA 1 (T1849)
-
-> esta bien, me teletransporto con cha con su mama
-
-> —Está bien.
-
-Cha Hae-in no te suelta la mano. Kase, en su nuca, cierra los ojos.
-
-La cubierta del buque, el mar, el sol, los médicos con las mantas, Jinwoo en la baranda: todo desaparece.
-
-...
-
-Calor. Olor a ajo, a caldo, a sésamo tostado. Una tele encendida a todo volumen.
-
-Aparecen en el medio del living del departamento del cuarto piso, entre la mesa baja y el sofá con la manta tejida. Las plantas en las ventanas. Las fotos de Cha Hae-in en las paredes, todas serias.
-
-En la tele, un canal de noticias repite una y otra vez el mismo video, la última imagen de la transmisión: la caverna, las hormigas caídas, el Rey muerto, y tú de pie en el medio. Abajo, un cartel en letras rojas: "JEJU: LOS 16 CAZADORES COREANOS, VIVOS". Y debajo, más chico: "¿QUIÉN ES FACUNDO MORELLI?".
-
-La señora Kang está sentada en el piso, frente a la tele, de rodillas sobre un almohadón, con el delantal de flores amarillas puesto y una taza de té de cebada entre las manos, que ya no humea. Tiene la cara hinchada, los ojos rojos, la boca abierta. No se movió de ahí en toda la mañana.
-
-Gira la cabeza.
-
-Los ve.
-
-La taza se le cae de las manos. Rueda por la alfombra sin romperse, derramando el té frío.
-
-—Hae-in... —dice. Casi no le sale la voz.
-
-Cha Hae-in te suelta la mano por primera vez desde la caverna y cruza el living en dos pasos, con la armadura rota y la espada a la espalda, y se arrodilla en el piso y abraza a su mamá. Fuerte. La señora Kang la agarra de la armadura, de la espalda, del pelo, de la cara, como si tuviera que comprobar que está entera, que es de verdad, y llora. Llora fuerte, sin vergüenza, con la boca abierta, como no lloró nunca delante de su hija. Cha Hae-in llora con ella, con la cara escondida en el delantal de flores.
-
-Kase salta de la nuca de Cha Hae-in al sofá, se sienta sobre la manta tejida, y los mira.
-
-En la tele, el presentador repite tu nombre.
-
-Pasan varios minutos así.
-
-Después la señora Kang levanta la cabeza por encima del hombro de su hija. Te mira. Con los ojos rojos, la cara mojada, el pelo entrecano revuelto.
-
-Se separa de Cha Hae-in despacio. Se pone de pie. Le cuesta: se apoya en la mesa baja. Camina hasta ti. Se detiene delante, desde abajo, casi dos cabezas más abajo. Te agarra la cara con las dos manos, igual que la última noche en la puerta.
-
-—"Todo lo que tenga en mis manos" —dice, con la voz rota—. Eso me dijiste. Aquí, en esta mesa.
-
-Te mira un rato largo, temblando.
-
-Después te da las dos palmadas en el brazo, fuertes. Se seca la cara con el delantal. Se suena la nariz. Y te mira otra vez, ya con otra cara, la cara de madre que no sabe qué otra cosa hacer con las manos.
-
-—¿Comiste algo? —pregunta—. Seguro que no comiste nada en todo el día.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1849 · SOLO LEVELING · DÍA 22 · 11:58  ║
-║ Seúl, Corea del Sur                          ║
-║ Casa de la señora Kang · living              ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 1.282.800 won           ║
-║ Energía 94% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el sofá, sobre la manta tejida      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1850)
+## COMANDO 1 (T1850)
 
 no, tienes razón no comi nada
 
-## RESPUESTA 2 (T1850)
+## RESPUESTA 1 (T1850)
 
 > no, tienes razón no comi nada
 
@@ -119,11 +52,11 @@ Te sostiene la mirada.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1851)
+## COMANDO 2 (T1851)
 
 en unos dias me voy a ir, pero voy a volver a verla, capaz me voy por semanas o algun mes
 
-## RESPUESTA 3 (T1851)
+## RESPUESTA 2 (T1851)
 
 > en unos dias me voy a ir, pero voy a volver a verla, capaz me voy por semanas o algun mes
 
@@ -174,6 +107,51 @@ Gira la cabeza. Te mira. Los ojos cansados, brillantes, sin miedo.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1852)
+
+No se puede, no por que no quiera, pero ven conmigo afuera, te voy a mostrar a donde me voy
+
+## RESPUESTA 3 (T1852)
+
+> No se puede, no por que no quiera, pero ven conmigo afuera, te voy a mostrar a donde me voy
+
+> —No se puede. No porque no quiera. Pero ven conmigo afuera. Te voy a mostrar a dónde me voy.
+
+Cha Hae-in te mira. No pregunta nada. Asiente.
+
+Se levanta. Kase deja de lamerse la pata, mira a los dos, y salta a tu hombro.
+
+—¡Mamá, salimos un momento! —dice Cha Hae-in hacia la cocina.
+
+—¡Abríguense! —contesta la señora Kang, sin asomarse, con la voz un poco rara, entre el ruido del agua y los platos.
+
+Cha Hae-in agarra de la entrada una chamarra vieja de su mamá, color mostaza, demasiado ancha para ella, y se la pone encima de la ropa negra de combate. Se pone los tenis sin atarlos. Bajan por la escalera, no por el ascensor, cuatro pisos, en silencio, de la mano.
+
+Afuera, la calle del barrio está tranquila. Es mediodía, pero casi no hay nadie: todo el mundo está adentro, mirando la tele. Por las ventanas abiertas de los departamentos se escucha la misma voz de presentador, repitiendo lo mismo en todos los pisos. Una bicicleta pasa despacio, con un repartidor que mira el celular. Al fondo de la calle, detrás de los edificios bajos de ladrillo, hay una plaza chiquita, con dos bancos de madera, un tobogán despintado y un árbol de ginkgo enorme, amarillo, que tira hojas como monedas cada vez que sopla el viento.
+
+Cha Hae-in camina contigo hasta la plaza sin preguntar. Está vacía. Las hojas amarillas cubren el piso como una alfombra.
+
+Se detiene debajo del ginkgo. Se mete las manos en los bolsillos de la chamarra mostaza de su mamá. Se da vuelta hacia ti.
+
+Te mira. Tranquila. Con la cara seria de antes de entrar a una Puerta, pero con los ojos abiertos de par en par, como una nena que espera ver algo que le prometieron.
+
+—Aquí no hay nadie —dice, bajito—. Muéstrame.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1852 · SOLO LEVELING · DÍA 22 · 12:46  ║
+║ Seúl, Corea del Sur                          ║
+║ Plaza del barrio de la señora Kang · ginkgo  ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 1.282.800 won           ║
+║ Energía 95% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
+║ OBJETIVO: Cha: "Muéstrame."                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 12:34, mesa de la señora Kang. Facundo: "En unos días me voy a ir. Pero voy a volver a verla. Tal vez me vaya por semanas, o algún mes." Cha lo sabía; le toma la mano bajo la mesa. Señora Kang: su marido se iba días por incendios y siempre volvía, "hasta la última". "Así que vas a volver. Y cuando vuelvas, vas a venir a comer." Estos días comerán ahí, los dos, todos los días. Se va a la cocina. Cha: "Cuando te vayas... ¿a dónde vas? ¿Podría ir contigo?"
+ESTADO AL CIERRE: Día 22 12:46, plaza vacía del barrio de la señora Kang, bajo un ginkgo amarillo. Facundo: "No se puede. No porque no quiera. Pero ven conmigo afuera. Te voy a mostrar a dónde me voy." Cha asiente sin preguntar; se pone una chamarra mostaza vieja de su mamá. Bajan por la escalera. Barrio vacío (todos ven la tele). Bajo el ginkgo, Cha: "Aquí no hay nadie. Muéstrame."
