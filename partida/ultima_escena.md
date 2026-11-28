@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1805)
-
-soy Facundo Morelli, un viajero, y el novio de Hae-in
-
-## RESPUESTA 1 (T1805)
-
-> soy Facundo Morelli, un viajero, y el novio de Hae-in
-
-> —Soy Facundo Morelli. Un viajero. Y el novio de Hae-in.
-
-A tu lado, Cha Hae-in se pone derecha, muy derecha, y no dice nada. Pero no baja la vista.
-
-Choi Jong-In se queda quieto un segundo. Después algo le tira de la comisura de la boca. No es una sonrisa: es la cara de un hombre que esperaba una excusa, un nombre de gremio, una amenaza, cualquier cosa menos una respuesta así de simple, dicha así, en su propia oficina.
-
-—Facundo Morelli —repite, despacio, como si probara el nombre—. Un viajero.
-
-Se da vuelta, vuelve detrás del escritorio y se sienta en su sillón de cuero negro. Junta las puntas de los dedos delante de la cara.
-
-—Señor Morelli, voy a ser franco con usted. A mí no me importa con quién sale mi vicemaestra. —Mira a Cha Hae-in, por encima de los anteojos—. Ya es hora, si me pregunta. Hace años que se lo digo.
-
-Cha Hae-in se pone roja hasta las orejas.
-
-—Maestro...
-
-—Lo que me importa —sigue Choi, sin cambiar el tono— es que esta mañana, a las siete, me llamó la Asociación de Cazadores. —Golpea con un dedo una carpeta sobre el escritorio—. El departamento de Vigilancia. Ellos también vieron la foto. Y les llamó la atención lo mismo que a mí: que la cazadora de rango S más famosa de Corea está con alguien que no aparece en ningún lado. Ni en el registro de despertados, ni en migraciones, ni en ningún padrón. Como si hubiera caído del cielo.
-
-Se acomoda los anteojos.
-
-—El jefe de Vigilancia, Woo Jinchul, viene en camino. Quiere hacerle una medición de maná. Nada formal. Solo para quedarse tranquilos. —Hace una pausa—. Después de lo de Jeju, la Asociación se pone nerviosa con todo lo que no entiende.
-
-Mira a Kase, que lo mira a él desde tu hombro sin parpadear.
-
-—Usted no está obligado. No es cazador, no tiene ningún deber con la Asociación. —Te mira otra vez a los ojos—. Pero si se niega, van a seguir preguntando. Y van a preguntarle a ella.
-
-Cha Hae-in aprieta los puños a los costados.
-
-Choi espera, con los dedos juntos.
-
-—¿Acepta la medición, señor Morelli?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1805 · SOLO LEVELING · DÍA 3 · 11:14   ║
-║ Seúl, Corea del Sur                          ║
-║ Gremio de Cazadores · piso 38, oficina Choi  ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirando a Choi           ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Medición de maná (Asociación)      ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1806)
+## COMANDO 1 (T1806)
 
 si, acepto, no hay problema
 
-## RESPUESTA 2 (T1806)
+## RESPUESTA 1 (T1806)
 
 > si, acepto, no hay problema
 
@@ -132,11 +77,11 @@ Se cruza de brazos.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1807)
+## COMANDO 2 (T1807)
 
 soy un viajero, de muy lejos, llegué caminando
 
-## RESPUESTA 3 (T1807)
+## RESPUESTA 2 (T1807)
 
 > soy un viajero, de muy lejos, llegué caminando
 
@@ -195,6 +140,71 @@ Cha Hae-in te mira.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1808)
+
+vayamos por adelante nosotros 2
+
+## RESPUESTA 3 (T1808)
+
+> vayamos por adelante nosotros 2
+
+> —Vayamos por adelante. Nosotros dos.
+
+Cha Hae-in te mira un segundo. Después asiente. Respira hondo por la nariz, como antes de entrar a una Puerta.
+
+—Está bien.
+
+Choi Jong-In se recuesta en el sillón y se acomoda los anteojos. Por primera vez, sonríe de verdad: corto, de costado.
+
+—Valiente —dice—. O loco. —Hace un gesto hacia la puerta—. Vayan. Les mando dos guardias para que no los aplasten.
+
+Cha Hae-in toma la tarjeta blanca de la Asociación del escritorio, la mira, y se la guarda en el bolsillo del pantalón. Después te agarra la mano.
+
+En el ascensor principal, de espejos, bajando treinta y ocho pisos, no se suelta. Se mira en el espejo, se acomoda el pelo atado, se baja el suéter. No se pone la gorra ni los anteojos de sol. Los deja guardados.
+
+—Nunca hablé con la prensa de algo que no fuera una Puerta —dice, mirando los números—. Nunca.
+
+Planta baja. El vestíbulo del gremio es enorme, de mármol blanco y vidrio, con el emblema en el piso. Dos guardias de traje negro los esperan junto a las puertas giratorias. Del otro lado del vidrio, en la vereda, la valla, las cámaras, los fotógrafos. Uno de ellos los ve a través del vidrio y grita algo. Todos se dan vuelta al mismo tiempo, como una ola.
+
+Los flashes empiezan antes de que crucen la puerta.
+
+Afuera, el ruido es una pared. Clics de cámaras, decenas, como granizo. Micrófonos con logos de canales que se estiran por encima de la valla. Gente que grita el nombre de ella. Los dos guardias se ponen adelante y abren un pequeño espacio en la vereda, frente a la valla.
+
+—¡Vicemaestra Cha! ¡Vicemaestra Cha, por aquí!
+
+—¡¿Es verdad que es su novio?!
+
+—¡¿Desde cuándo están juntos?!
+
+—¡¿Es cazador?! ¡¿De qué gremio?!
+
+Kase, en tu hombro, mira los flashes con los ojos entrecerrados y las orejas aplastadas hacia atrás, profundamente ofendido.
+
+Cha Hae-in se queda quieta frente a la valla, con tu mano agarrada. Levanta la otra mano, despacio, con la palma abierta, como pidiendo silencio. Y por algún motivo, funciona: el ruido baja, poco a poco, hasta que solo quedan los clics.
+
+—Sí —dice ella, clara, con la voz que usa en las incursiones—. Es mi novio.
+
+Un murmullo enorme. Más flashes.
+
+Una periodista de la primera fila, de traje rojo —la misma presentadora del noticiero de la pantalla gigante—, se estira por encima de la valla con el micrófono, directo hacia ti, no hacia ella.
+
+—¡Señor! ¡Señor, una pregunta! —Las cámaras te apuntan todas a la vez—. ¡Toda Corea quiere saberlo! ¿Quién es usted?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1808 · SOLO LEVELING · DÍA 3 · 12:02   ║
+║ Seúl, Corea del Sur                          ║
+║ Vereda del Gremio de Cazadores · la prensa   ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, ofendido por los flashes ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: La prensa pregunta quién eres      ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 3 11:49, oficina de Choi. Facundo: "Soy un viajero. De muy lejos. Llegué caminando." Woo levanta una ceja, suspira, "Bien" (no investiga). Sin maná, no es amenaza. Dejó una tarjeta de la Asociación: trámite de residencia provisoria para indocumentados con garante; Cha: "Yo respondo por él." Mañana (Día 4) 10:00 en la sede de la Asociación. Woo avisó: prensa también en la puerta de atrás. Choi ofrece comunicado / él habla / o salen los dos por adelante ("si le quitan el misterio, en tres días se aburren"). Cha: "¿Qué hacemos?"
+ESTADO AL CIERRE: Día 3 12:02, vereda frente al Gremio de Cazadores. Choi: "Valiente. O loco." manda dos guardias. Cha guardó la tarjeta de la Asociación en su bolsillo; sin gorra ni anteojos; de la mano. Prensa: flashes, preguntas. Cha pide silencio con la mano: "Sí. Es mi novio." La presentadora de traje rojo, micrófono hacia Facundo, todas las cámaras: "¡Toda Corea quiere saberlo! ¿Quién es usted?" (en vivo).
