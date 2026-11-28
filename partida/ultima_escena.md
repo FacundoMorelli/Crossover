@@ -3,82 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1757)
-
-miro
-
-## RESPUESTA 1 (T1757)
-
-> miro
-
-Miras.
-
-Hughes cae de rodillas en la alfombra de flores y abre los brazos. Elicia baja el último escalón y corre hacia él, con el conejo de trapo volando detrás de ella, y se le tira encima. Él la abraza. La aprieta contra el pecho, contra el mapa doblado, contra la foto de ella que lleva en el bolsillo, y esconde la cara en su pelo despeinado, y se queda así.
-
-No dice nada. Le tiemblan los hombros.
-
-—Papi, me aprietas —se queja Elicia, sin soltarlo.
-
-—Ya sé, mi amor. Ya sé. Perdón.
-
-No afloja.
-
-Gracia cruza la sala despacio. Pasa al lado de los dos cuerpos de negro sin mirarlos, como si no existieran. Se arrodilla al lado de su marido, en la alfombra, y le pone una mano en la nuca. Él levanta la cara. Se miran. Los anteojos torcidos, la cara pálida, los ojos mojados. Ella no pregunta nada. Le endereza los anteojos con dos dedos, con mucho cuidado, como quien acomoda un cuadro.
-
-—Llegaste tarde a la cena —le dice, bajito. La voz le tiembla apenas.
-
-—Perdón.
-
-—Ya me pediste perdón por eso cien veces este año.
-
-—Esta vez... —A Hughes se le quiebra la voz. Se ríe, llorando—. Esta vez es en serio, Gracia.
-
-Ella lo abraza a él, y a Elicia en el medio, y se quedan los tres así en el piso de la sala, entre la mesa puesta para tres y los dos homúnculos dormidos.
-
-Kase te mira desde el hombro. Parpadea despacio.
-
-Elicia es la primera en soltarse. Saca la cabeza de entre los brazos de sus padres, con el pelo todavía más despeinado, y te mira a ti. Después a Kase. Se le olvida todo lo demás.
-
-Camina hacia ti, descalza, con el conejo de trapo arrastrando, y se para delante, con la cabeza echada para atrás para verte entero. Llega a la altura de tus rodillas.
-
-—Hola —dice—. ¿El gatito es tuyo? ¿Muerde?
-
-Kase baja de tu hombro. Solo. Se sienta en la alfombra, frente a ella, con la cola enroscada en las patas. Es casi del mismo tamaño que Elicia. La mira. Ella lo mira. Le acerca la mano con el conejo, despacito. Kase huele el conejo. Después le olfatea los dedos. Después, sin apuro, le apoya la frente en la palma de la mano.
-
-Elicia se ríe. Una risa enorme, de nena, que llena la sala.
-
-Hughes la mira reírse. Se seca la cara con la manga del uniforme, se pone de pie, despacio, ayudado por Gracia. Se acomoda la chaqueta. Respira hondo, una, dos veces, y cuando te mira otra vez, ya es el teniente coronel de nuevo, aunque con los ojos todavía rojos.
-
-—Gracia, este es el señor Facundo Morelli. —Lo dice con la voz ronca—. Esta noche me salvó la vida. Dos veces. —Hace una pausa—. Y la tuya, creo. Y la de Elicia.
-
-Gracia te mira con los ojos muy abiertos. Se lleva las dos manos a la boca.
-
-Hughes mira a los dos cuerpos dormidos en la alfombra de su sala. Después a ti.
-
-—Roy llega en el primer tren de la mañana. —Se pasa la mano por la barba—. Pero no podemos tenerlos acá hasta entonces. Ni llevarlos a ninguna celda del Ejército, porque no sé quién los mandó. Y no sé cuánto tiempo duermen. —Baja la voz, mirando de reojo a Elicia, que acaricia a Kase—. Señor Morelli, usted los durmió. ¿Sabe cuándo se despiertan? ¿Y qué hacemos con ellos?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1757 · FULLMETAL · DÍA 1 · 22:20       ║
-║ Ciudad Central, Amestris, 1914               ║
-║ Casa de los Hughes, sala                     ║
-║ NIVEL 33 · EXP 461.130/480.000               ║
-║ FRAGMENTOS 289.428 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la alfombra, con Elicia             ║
-║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
-║ OBJETIVO: Hughes y su familia                ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1758)
+## COMANDO 1 (T1758)
 
 los llevo conmigo y los vigilo hasta que llegue mustang
 
-## RESPUESTA 2 (T1758)
+## RESPUESTA 1 (T1758)
 
 > los llevo conmigo y los vigilo hasta que llegue mustang
 
@@ -154,11 +83,11 @@ Se saca un guante, despacio, dedo por dedo, sin dejar de mirarte.
 
 ---
 
-## COMANDO 3 (T1759)
+## COMANDO 2 (T1759)
 
 porque me gusta ayudar, nada más
 
-## RESPUESTA 3 (T1759)
+## RESPUESTA 2 (T1759)
 
 > porque me gusta ayudar, nada más
 
@@ -233,4 +162,58 @@ Junta las manos detrás de la espalda.
 
 ---
 
-ESTADO AL CIERRE: Día 2 08:15, iglesia abandonada. Mustang: "La gente que ayuda sin pedir nada termina muerta o pidiendo algo muy grande después. Tú no tienes cara de estar muerto." Hawkeye nota que Kase tiene los mismos ojos que Facundo. Mustang (mano derecha desnuda) frente a Lust y Envy: estuvo en Ishval, nunca vio nada así; los tatuajes como los del laboratorio. "Así que, viajero que ayuda: ¿qué son?"
+## COMANDO 3 (T1760)
+
+son homúnculos, creados por alguien muy arriba en el ejército
+
+## RESPUESTA 3 (T1760)
+
+> son homúnculos, creados por alguien muy arriba en el ejército
+
+> —Son homúnculos. Creados por alguien muy arriba en el Ejército.
+
+Nadie dice nada.
+
+Las palomas del campanario se mueven arriba, entre las vigas. Una pluma baja despacio, girando, por la luz gris que entra por el techo roto, y cae sobre el pelo negro de Lust.
+
+—Homúnculos. —Mustang lo dice como quien prueba una palabra en un idioma muerto—. Los de los tratados antiguos. Los hombrecitos del frasco. La vida artificial.
+
+Hughes se apoya en el respaldo de un banco podrido, que cruje.
+
+—Eso es un cuento de alquimistas, Roy. Un ejercicio teórico. Lo leímos en la academia.
+
+—También era un cuento lo de meter un alma en una armadura. —Mustang no aparta la vista de Lust—. Y hay un chico de catorce años en el hospital de Central que es exactamente eso.
+
+Se agacha, por fin. Despacio. Queda en cuclillas a un metro de ella, con la mano derecha desnuda apoyada en la rodilla, sin tocarla. Mira el tatuaje del pecho de cerca. La serpiente que se muerde la cola. La estrella en el medio.
+
+—Uróboros —murmura—. El símbolo de lo que no tiene principio ni fin. Lo que se come a sí mismo y nunca muere. —Levanta la vista hacia ti—. ¿Por eso Hughes pensó que se iba a sacar los cuchillos como espinas? ¿Por eso no la pueden matar?
+
+Hawkeye da un paso adelante, sin bajar la pistola. Es la primera vez que habla sin que nadie le pregunte.
+
+—"Alguien muy arriba en el Ejército". —Lo repite con la voz baja, controlada, demasiado controlada—. Señor Morelli, el teniente coronel Hughes encontró un círculo de transmutación dibujado con sangre sobre todo el país. Con Ishval adentro. —Una pausa mínima—. Yo estuve en Ishval.
+
+Mustang se endereza. Se sacude la rodilla del pantalón. Cuando te mira, ya no hay ironía en la cara. No hay nada. Solo los ojos negros, quietos, muy serios.
+
+—"Muy arriba" —dice—. En el Ejército de Amestris, "muy arriba" son unas veinte personas. Generales. El alto mando. —Da un paso hacia ti—. Y una sola por encima de todas ellas.
+
+Se detiene a dos metros del banco. Kase lo mira desde tus rodillas.
+
+—¿Cuánto de arriba, viajero?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1760 · FULLMETAL · DÍA 2 · 08:18       ║
+║ Afueras de Central, iglesia abandonada       ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.428 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tus rodillas                        ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: Lust y Envy, con Mustang           ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 2 08:18, iglesia abandonada. Facundo dijo que son homúnculos, creados por alguien muy arriba en el Ejército. Mustang: "Los de los tratados antiguos. Los hombrecitos del frasco." Hughes: "Un cuento de alquimistas." Mustang: "También era un cuento meter un alma en una armadura." Uróboros: "lo que se come a sí mismo y nunca muere". Hawkeye: "Yo estuve en Ishval." Mustang: "Muy arriba son unas veinte personas. Generales. Y una sola por encima de todas ellas. ¿Cuánto de arriba, viajero?"
