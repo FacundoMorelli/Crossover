@@ -1,5 +1,5 @@
 {
-  "turno": 1838,
+  "turno": 1839,
   "mundo_actual": "sololeveling",
   "fecha_local": "Solo Leveling: Día 1 (arco de la Reevaluación / Puerta del Gremio de Cazadores)",
   "hora": "Día 22, 11:31 (Jeju)",
@@ -449,7 +449,7 @@
   },
   "velo": {
     "activo": true,
-    "poder_mostrado": "Solo Leveling: persona común, no despertada; sin olor de maná (desde T1764)"
+    "poder_mostrado": "persona común (maná 0); PERO a la vista, en vivo, detuvo la garra del Rey hormiga con una mano (T1839)"
   },
   "armas": [
     {

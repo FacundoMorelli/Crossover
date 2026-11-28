@@ -18,3 +18,4 @@ QUÉ SABE DE FACUNDO: lo público; novio de Cha.
 - T1823 · Facundo: "No. Confío en ella. Es muy fuerte." "Tiene razón. Es la más fuerte de todos nosotros con una espada en la mano. Más que Choi, aunque él no lo admita. Y ahora, además, tiene a alguien que la espera sin llorar." Toquecito a Kase (lo permite). "Cuando volvamos de Jeju, lo invito a comer. Con la vicemaestra. Y con el gato."
 - T1833 · Trae a la grada una caja de pescado seco para Kase (de su hermana, desde Busan). Tras Jeju quiere un mes de vacaciones, el primero en seis años, para pescar con su padre en una isla del sur.
 - T1837 · Día 22 · Cura sin parar en la cámara de la reina; curando a Baek envenenado cuando entra el Rey.
+- T1839 · De rodillas curando a Ma Dongwook, mira a Facundo sin parpadear. (VIVO gracias a Facundo: el puño del Rey se detuvo a mitad de camino.)

@@ -1838,3 +1838,4 @@ T1835 · ISLA DE JEJU · Se teletransporta sin ser visto. Siente al Rey hormiga 
 T1836 · ISLA DE JEJU · Mira la llegada de los cazadores. Coreanos al nido; japoneses de cebo. El Rey hormiga vuela hacia el equipo de Kenzo.
 T1837 · ISLA DE JEJU · Mueren el Equipo Charlie, Kei e Ippei. Cha decapita a la reina. El Rey entra furioso a la cámara de los coreanos.
 T1838 · ISLA DE JEJU · Aparece frente al Rey hormiga cuando se lanza contra Min y Cha. En vivo. Tasación del Rey.
+T1839 · ISLA DE JEJU · Detiene la garra del Rey hormiga con una mano, en vivo. El Rey siente miedo; prepara veneno.

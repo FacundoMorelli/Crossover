@@ -10,3 +10,4 @@ ENCUENTROS:
 - T1821-T1823 · Entrenamiento en Yeouido; se transforma delante de todos.
 QUÉ SABE DE FACUNDO: lo público
 ESTADO: irá a Jeju
+- T1839 · A medio transformar, queda quieto a mitad de un gruñido mirando a Facundo detener al Rey.
