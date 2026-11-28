@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1743)
-
-mucho gusto soy Facundo Morelli, un viajero, a al le gusto mi gato y quiso conocerlo
-
-## RESPUESTA 1 (T1743)
-
-> mucho gusto soy Facundo Morelli, un viajero, a al le gustó mi gato y quiso conocerlo
-
-> —Mucho gusto. Soy Facundo Morelli, un viajero. A Al le gustó mi gato y quiso conocerlo.
-
-Ross mira a Al.
-
-Al está en cuclillas detrás de la reja, inmóvil como una estatua, con la mano de hierro abierta y el gato enorme enroscado en la palma, durmiendo. Los puntitos de luz del casco tiemblan de felicidad. Ni siquiera se dio vuelta cuando ella llegó.
-
-—Es verdad, subteniente —dice Al, bajito, sin moverse, para no despertarlo—. Me lo prestó. Se llama Kase. Se me subió solo.
-
-A Ross se le afloja un poco la mano en la funda. No del todo.
-
-—Ya veo. —Lo dice con el tono de quien conoce a Alphonse Elric desde hace pocos días y ya sabe exactamente qué pasa cuando hay un gato cerca—. Mucho gusto, señor Morelli.
-
-El soldado alto, detrás de ella, se asoma por encima de su hombro para ver mejor al gato.
-
-—Es enorme —susurra—. Nunca vi uno así. Subteniente, mire la cola.
-
-—Sargento Brosh.
-
-—Perdón.
-
-Ross se endereza otra vez. Te mira de arriba abajo una última vez, más tranquila pero sin bajar la guardia, con los ojos en el escudo extranjero de la camisa.
-
-—Le pido disculpas por la desconfianza, señor Morelli. Estos días la ciudad está... complicada. —Mira de reojo hacia la calle, hacia los carteles pegados en los postes—. Hay un asesino de Alquimistas Estatales suelto, y estos dos chicos tuvieron una semana difícil. Tenemos órdenes de no dejarlos solos con nadie que no conozcamos.
-
-Hace una pausa. Saca una libreta chiquita del bolsillo del uniforme, y un lápiz.
-
-—Por protocolo. —Se disculpa con una media sonrisa—. ¿Tiene documentos? ¿Algún papel de identidad, un permiso de viaje, un pasaporte? Siendo extranjero, debería haberle entregado algo la aduana en la frontera.
-
-Ed, al lado de su hermano, levanta una ceja. Te mira. Espera, con los brazos cruzados, muy interesado de golpe en la respuesta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1743 · FULLMETAL · DÍA 1 · 18:00       ║
-║ Ciudad Central, Amestris, 1914               ║
-║ Reja del hospital militar                    ║
-║ NIVEL 33 · EXP 461.130/480.000               ║
-║ FRAGMENTOS 289.378 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la mano de Al                       ║
-║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1744)
+## COMANDO 1 (T1744)
 
 realmente no, no tengo nada
 
-## RESPUESTA 2 (T1744)
+## RESPUESTA 1 (T1744)
 
 > realmente no, no tengo nada
 
@@ -115,11 +60,11 @@ Ross se vuelve hacia ti, con el brazo extendido hacia la avenida, hacia la mole 
 
 ---
 
-## COMANDO 3 (T1745)
+## COMANDO 2 (T1745)
 
 si, la acompaño
 
-## RESPUESTA 3 (T1745)
+## RESPUESTA 2 (T1745)
 
 > si, la acompaño
 
@@ -192,4 +137,53 @@ Se le abren los ojos detrás de los anteojos. Mira el pelo. Mira los ojos de dos
 
 ---
 
-ESTADO AL CIERRE: Día 1 18:20, Oficina de Investigaciones del cuartel general (3.er piso). Kase volvió al hombro de Facundo; Al: "¿Va a volver?". Brosh quedó con los Elric. Ross llevó a Facundo con HUGHES: oficina desordenada, mapa de Amestris con marcas rojas y líneas (el patrón del círculo); Hughes, pálido, tapó un mapa con una carpeta al oír la puerta; luego máscara alegre. Ve a Facundo y a Kase: "¿Y quién es este caballero tan pintoresco?" y le pone delante la foto de Elicia (3 años): "¿No es la niña más hermosa que vio en su vida?" Tasación: "Sabe algo que no debería saber. Esta noche lo están buscando."
+## COMANDO 3 (T1746)
+
+si, es muy linda, soy Facundo Morelli, un viajero
+
+## RESPUESTA 3 (T1746)
+
+> si, es muy linda, soy Facundo Morelli, un viajero
+
+> —Sí, es muy linda. Soy Facundo Morelli, un viajero.
+
+—¡¿Muy linda?! —Hughes se lleva la foto al pecho, ofendido y feliz al mismo tiempo—. ¡Es la más linda! ¡La más linda de Amestris! ¡Del mundo! —Mira la foto otra vez, con una ternura enorme—. Ayer aprendió a decir "papi, te quiero" en dos idiomas. Bueno, en uno. Pero lo dijo dos veces.
+
+Ross se aclara la garganta.
+
+—Teniente coronel...
+
+—Sí, sí, sí. —Hughes se guarda la foto con cuidado en el bolsillo de la camisa, justo sobre el corazón, y le da dos palmaditas—. El trámite. Facundo Morelli, viajero. Mucho gusto, señor Morelli. Maes Hughes. —Te tiende la mano. Tiene un apretón firme, cálido, y unos ojos detrás de los anteojos que, debajo de la sonrisa, no dejan de mirarte con mucha atención—. ¿Y su amigo de cuatro patas?
+
+—Se llama Kase, teniente coronel —dice Ross—. El señor Morelli no tiene documentos. Lo encontré en el hospital, hablando con los hermanos Elric. Alphonse se hizo amigo del gato.
+
+—Claro que sí. —Hughes se ríe—. Ese chico se hace amigo de cualquier cosa con bigotes.
+
+Vuelve al escritorio. Mueve una pila de carpetas para hacer lugar, con cuidado de no tocar la que tapa el mapa. Saca de un cajón un formulario impreso, una lapicera de pluma, y se sienta. Moja la pluma en el tintero.
+
+—Bueno, señor Morelli. Formulario 17-B, "Extranjero sin documentación en territorio de Amestris". Es más aburrido que el nombre. —Empieza a escribir, con letra rápida y prolija—. Nombre, Facundo Morelli. Ocupación, viajero. —Sonríe sin levantar la vista—. Eso me va a costar explicarlo arriba, pero bueno.
+
+Escribe un poco más. Después se detiene. Levanta la vista por encima de los anteojos, y te mira con la pluma en el aire.
+
+—Lo importante para el formulario, y la parte que siempre me da más curiosidad —dice, con mucha amabilidad—, es por dónde entró. Las fronteras de Amestris están vigiladas en todos lados: el desierto del Este, las montañas de Briggs al norte, la frontera de Creta, la de Aerugo. —Inclina un poco la cabeza—. ¿Por cuál pasó, señor Morelli? ¿Y hace cuánto?
+
+En el escritorio, junto a su codo, la carpeta que tapa el otro mapa tiene una esquina levantada. Debajo se ve una línea roja trazada con regla y un pedazo de un círculo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1746 · FULLMETAL · DÍA 1 · 18:23       ║
+║ Ciudad Central, Amestris, 1914               ║
+║ Cuartel general, Oficina de Investigaciones  ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.378 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 18:23, Oficina de Investigaciones. Hughes feliz por Elicia ("la más linda del mundo"); se presenta (Maes Hughes), le da la mano. Ross: sin documentos; Al se hizo amigo del gato. Hughes llena el formulario 17-B ("Extranjero sin documentación"). Pregunta: "¿Por dónde entró? ¿El desierto del Este, Briggs, Creta, Aerugo? ¿Y hace cuánto?" La carpeta que tapa el mapa tiene una esquina levantada (línea roja, pedazo de círculo).

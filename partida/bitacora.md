@@ -1744,3 +1744,4 @@ T1742 · FULLMETAL · hospital · "Soy un viajero, de bastante lejos." Ed: "¿Al
 T1743 · FULLMETAL · hospital · "Soy Facundo Morelli, un viajero." Ross se disculpa y pide documentos. Ed espera.
 T1744 · FULLMETAL · hospital · "No tengo nada." Ross: "Acompáñeme al cuartel general; Investigaciones; hoy está de guardia el teniente coronel Hughes."
 T1745 · FULLMETAL · cuartel general · Con Ross a Investigaciones. Hughes tapa un mapa, sonríe y le muestra la foto de Elicia.
+T1746 · FULLMETAL · Investigaciones · "Es muy linda. Soy Facundo Morelli." Hughes llena el formulario 17-B: "¿Por dónde entró? ¿Y hace cuánto?"
