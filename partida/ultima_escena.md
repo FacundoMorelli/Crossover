@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1790)
-
-la torre de namsan, quiero ver toda la ciudad
-
-## RESPUESTA 1 (T1790)
-
-> la torre de namsan, quiero ver toda la ciudad
-
-> —La torre de Namsan. Quiero ver toda la ciudad.
-
-—Namsan —le dice Cha Hae-in al taxista, y el taxi arranca.
-
-Cruzan el río Han por un puente largo, de muchos carriles. Abajo, el agua brilla verde y gris, con barcos de turistas y gente andando en bicicleta por las orillas. Kase mira por la ventanilla con las orejas para adelante. Cha Hae-in mira a Kase. De vez en cuando, cuando cree que no te das cuenta, te mira a ti.
-
-Del otro lado del río, la ciudad cambia: edificios más viejos, calles más angostas, letreros de comida colgando uno encima del otro. Y en el medio, como una isla verde, una montaña cubierta de árboles amarillos y rojos, con una torre blanca y fina en la punta, que pincha el cielo.
-
-El taxi los deja al pie de la montaña. Cha Hae-in paga antes de que puedas sacar la plata, rápida, sin mirar.
-
-Suben en un teleférico, una cabina roja colgada de un cable, con otros turistas: una familia con dos nenes que pegan la cara al vidrio, una pareja de ancianos tomados de la mano, tres estudiantes que sacan fotos. La cabina se balancea y sube por encima de las copas de los árboles. Debajo, el bosque de otoño parece fuego.
-
-Uno de los nenes ve a Kase y le grita a su mamá. Kase lo ignora con una dignidad absoluta.
-
-Arriba, en la cima, hace más frío y sopla viento. La torre se levanta encima de ustedes, blanca y altísima. Y alrededor de la plaza, en las barandas, en los árboles de metal, en las rejas que dan al vacío, hay miles de candados. Miles. De todos los colores, unos encima de otros, oxidados y nuevos, grandes y chiquitos, con nombres escritos con marcador, con corazones, con fechas.
-
-Y más allá de los candados, la ciudad.
-
-Seúl entera, abajo, hasta donde alcanza la vista: un mar de edificios grises y blancos que llega hasta las montañas azules del horizonte, el río Han atravesándola como una cinta de plata, los puentes, las torres de Gangnam del otro lado, chiquitas como juguetes. Se ve todo. Se ve también, entre los edificios, en tres o cuatro lugares lejanos, el brillo violeta de Puertas abiertas, como luces de un árbol de navidad mal puesto.
-
-Cha Hae-in se apoya en la baranda a tu lado, con los anteojos de sol en la mano. El viento le mueve el pelo.
-
-—Desde aquí todo parece tranquilo —dice—. Aunque no lo esté.
-
-Después mira los candados. Se queda mirándolos un rato largo. Un señor, junto a un kiosco, vende candados nuevos con una lapicera de regalo, y una pareja joven está eligiendo uno rojo.
-
-—Dicen que las parejas que ponen un candado aquí... —empieza Cha Hae-in, y se corta en seco. Se pone colorada hasta el cuello—. Nada. Es una cosa de turistas. —Señala rápido hacia el norte, a cualquier lado—. Mira, ahí está el palacio.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1790 · SOLO LEVELING · DÍA 2 · 14:25   ║
-║ Seúl, Corea del Sur                          ║
-║ Monte Namsan · plaza de la torre, candados   ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.292.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, con el viento en la cara ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1791)
+## COMANDO 1 (T1791)
 
 compro un candado y le digo que pongamos uno juntos
 
-## RESPUESTA 2 (T1791)
+## RESPUESTA 1 (T1791)
 
 > compro un candado y le digo que pongamos uno juntos
 
@@ -103,11 +52,11 @@ Levanta la vista.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1792)
+## COMANDO 2 (T1792)
 
 lo que quieras
 
-## RESPUESTA 3 (T1792)
+## RESPUESTA 2 (T1792)
 
 > lo que quieras
 
@@ -154,6 +103,51 @@ Cha Hae-in desata el hilo de las dos llavecitas. Se queda con una en la palma de
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1793)
+
+cada uno nos quedamos con la nuestra
+
+## RESPUESTA 3 (T1793)
+
+> cada uno nos quedamos con la nuestra
+
+> —Cada uno se queda con la suya.
+
+Tomas la llavecita de entre sus dedos. Es chiquita, plateada, liviana, todavía tibia de su mano.
+
+Cha Hae-in asiente. Se queda mirando la suya en la palma un momento más. Después se saca del cuello, de debajo del suéter, una cadenita fina de plata que no habías visto, con una sola placa de metal colgando: su placa de cazadora, con el emblema del gremio grabado. Abre el cierre, pasa la llavecita por la cadena, al lado de la placa, y se la vuelve a poner debajo del suéter, contra el pecho.
+
+Lo hace sin mirarte. Pero cuando termina, sí te mira, y sonríe. Esta vez no se tapa ni mira hacia otro lado.
+
+La pareja joven del candado rojo pasa junto a ustedes de vuelta hacia el teleférico. La chica le dice algo al oído al novio y se ríen bajito. Cha Hae-in los escucha y, por primera vez, no se pone más roja de lo que ya está.
+
+Kase se estira hacia el candado desde tu hombro y lo huele. Estornuda una vez, chiquito.
+
+Cha Hae-in se ríe. Una risa de verdad, corta y clara, que se lleva el viento.
+
+Se apoya otra vez en la baranda, al lado tuyo, más cerca que antes. El hombro le queda casi pegado a tu brazo. Abajo, Seúl sigue brillando, y el sol empieza a bajar despacio hacia las montañas del oeste, poniendo todo un poco dorado.
+
+—Cuando se ponga el sol, toda la ciudad se enciende —dice, mirando el horizonte—. Desde aquí se ve como si fuera de luces. —Hace una pausa—. Falta un rato todavía.
+
+Te mira de reojo.
+
+—Podemos esperar. O podemos bajar y ir al mercado a comer. Lo que tú quieras.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1793 · SOLO LEVELING · DÍA 2 · 14:36   ║
+║ Seúl, Corea del Sur                          ║
+║ Monte Namsan · plaza de la torre, candados   ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 14:32, Namsan. Candado escrito por Cha: "Facundo" / corazón chiquito (tachado y repasado) / "Hae-in" / fecha. "Se me resbaló la lapicera." Lo cerraron juntos en la reja (entre uno azul oxidado y uno rosado con forma de corazón). Cha tiene una llavecita; te ofrece la otra: se pueden tirar en el buzón de metal con forma de corazón, "o... cada uno se queda con la suya."
+ESTADO AL CIERRE: Día 2 14:36, Namsan. Cada uno se queda con su llavecita (Facundo la tiene en la mano/bolsillo). Cha pasa la suya por su cadenita de plata, junto a su placa de cazadora, debajo del suéter. Sonríe sin taparse. Kase huele el candado y estornuda; Cha se ríe de verdad. Hombro casi pegado al brazo de Facundo. "Cuando se ponga el sol, toda la ciudad se enciende... Podemos esperar. O podemos bajar y ir al mercado a comer. Lo que tú quieras."
