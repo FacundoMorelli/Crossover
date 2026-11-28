@@ -1749,3 +1749,4 @@ T1747 · FULLMETAL · Investigaciones · "Entré por el desierto del Este." Hugh
 T1748 · FULLMETAL · Investigaciones · "Puedo buscar un hotel." Hughes recomienda el Lindemann. Ross se va. Hughes: "Tengo un trabajo importante esta noche." El mapa del círculo a la vista.
 T1749 · FULLMETAL · plaza del cuartel · Vigila a Hughes con el ki. 21:47: Lust entra al archivo donde está Hughes; Envy espera en la cabina telefónica.
 T1750 · FULLMETAL · archivo · Se teletransporta entre Hughes y Lust. Lust: "Estás entre mi trabajo y yo. Córrete." Uña a un metro de su pecho.
+T1751 · FULLMETAL · archivo · Deja a Lust inconsciente sin daño (+25 Frag). Hughes: "Creo que hice la pregunta equivocada. ¿Qué es usted?"

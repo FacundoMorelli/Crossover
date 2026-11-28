@@ -21,3 +21,4 @@
 
 ## QUIÉN VIO QUÉ PODERES
 - T1750 · HUGHES y LUST: Facundo aparece de la nada (Teletransportación).
+- T1751 · HUGHES VIO a Facundo dejar inconsciente a Lust en un instante (velocidad imperceptible).

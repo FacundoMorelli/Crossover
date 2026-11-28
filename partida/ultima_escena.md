@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1748)
-
-todavía no tengo nada, puedo buscar un hotel
-
-## RESPUESTA 1 (T1748)
-
-> todavía no tengo nada, puedo buscar un hotel
-
-> —Todavía no tengo nada. Puedo buscar un hotel.
-
-—Un hotel. Muy bien. —Hughes escribe algo rápido en el formulario—. "A confirmar". Eso los de arriba lo odian, pero que se aguanten.
-
-Deja la pluma en el tintero. Se rasca la barba, pensando.
-
-—Si me permite una recomendación de local... A dos cuadras de acá, sobre la avenida, está el Hotel Lindemann. No es lujoso, pero las sábanas están limpias, la dueña es viuda de un sargento y no hace preguntas, y el desayuno tiene pan de manteca. —Se le ilumina un poco la cara—. Gracia dice que es el segundo mejor pan de manteca de Central. El primero es el de ella, obviamente.
-
-Se pone de pie. Recoge el formulario, lo sopla una última vez y lo mete en una carpeta que pone encima de una pila, que pone encima de otra pila. Después vuelve a mirar el reloj de pared. Seis y treinta y dos.
-
-—Subteniente Ross, muchas gracias por traerlo. Ya está todo en regla. —Le sonríe—. Vuelva con los chicos, que si Edward se escapa del hospital, el mayor Armstrong va a llorar, y nadie quiere ver eso.
-
-—Sí, teniente coronel. —Ross hace el saludo militar, la mano en la sien. Te mira a ti, con una media sonrisa más tranquila que antes—. Bienvenido a Central, señor Morelli. Que tenga buena estadía.
-
-Sale. La puerta se cierra detrás de ella.
-
-Hughes rodea el escritorio y te acompaña hasta la puerta, con una mano amistosa en el hombro, el que no ocupa Kase. Te abre.
-
-—Bueno, señor Morelli. Fue un gusto. Si necesita algo mientras esté en la ciudad, ya sabe dónde encontrarme. —Se da dos golpecitos en el pecho, sobre el bolsillo donde guardó la foto—. Y si algún día pasa por mi casa, Gracia le va a hacer pastel de quiche. Y Elicia le va a querer tocar el gato, eso seguro.
-
-Pero ya no te mira a ti. Mira por encima de tu hombro, hacia el fondo del pasillo, hacia la escalera de mármol, donde no hay nadie. Después vuelve a mirarte, y la sonrisa sigue ahí, pero los ojos ya están en otro lado.
-
-—Ahora, si me disculpa —dice, bajando un poco la voz—, tengo un trabajo que terminar esta noche. Es importante.
-
-Te sostiene la puerta abierta, esperando que salgas.
-
-Detrás de él, sobre el escritorio, la carpeta que tapaba el mapa se cayó al piso cuando él se levantó. El mapa está a la vista: Amestris entera, y encima, trazado en rojo con regla y compás, uniendo ciudades, fuertes y pueblos, un círculo enorme lleno de líneas que se cruzan.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1748 · FULLMETAL · DÍA 1 · 18:33       ║
-║ Ciudad Central, Amestris, 1914               ║
-║ Cuartel general, Oficina de Investigaciones  ║
-║ NIVEL 33 · EXP 461.130/480.000               ║
-║ FRAGMENTOS 289.378 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1749)
+## COMANDO 1 (T1749)
 
 salgo y uso el ki para vigilar a hughes
 
-## RESPUESTA 2 (T1749)
+## RESPUESTA 1 (T1749)
 
 > salgo y uso el ki para vigilar a hughes
 
@@ -107,11 +54,11 @@ La primera presencia entra en el archivo.
 
 ---
 
-## COMANDO 3 (T1750)
+## COMANDO 2 (T1750)
 
 me teletransporto a hughes en frente a el de espaldas
 
-## RESPUESTA 3 (T1750)
+## RESPUESTA 2 (T1750)
 
 > me teletransporto a hughes enfrente de él de espaldas
 
@@ -181,4 +128,74 @@ Detrás de ti, Hughes levanta el cuchillo.
 
 ---
 
-ESTADO AL CIERRE: Día 1 21:48, archivo del 2.º piso del cuartel general. Facundo (con Kase en el brazo) apareció entre Hughes y LUST, de espaldas a Hughes. Hughes, cuchillo en mano: "¿Morelli? ¿Cómo...?" Lust (vestido negro, uróboros rojo en el pecho): "Y tú, ¿de dónde saliste? No estabas en ningún lado hace un momento. Ahora estás en el medio. Entre mi trabajo y yo." Su uña-lanza negra suspendida a un metro del pecho de Facundo: "Te pido que te corras. No vine por ti." Hughes levanta el cuchillo. Envy espera en la cabina telefónica de afuera.
+## COMANDO 3 (T1751)
+
+la dejo inconsciente sin lastimar a hughes
+
+## RESPUESTA 3 (T1751)
+
+> la dejo inconsciente sin lastimar a hughes
+
+Te mueves.
+
+La uña negra, suspendida a un metro de tu pecho, no llega a moverse. Para Lust, para Hughes, la sala no cambia: hay un hombre con un gato frente a ella, y al instante siguiente no hay nada, y una presión mínima en la nuca, exacta, justo donde va.
+
+Kase ni siquiera se mueve en tu brazo.
+
+Lust abre los ojos. Muy grandes, por primera vez de verdad. La boca roja se le entreabre para decir algo.
+
+Y se apaga.
+
+La uña-lanza se encoge de golpe, como un resorte, y vuelve a ser una uña pintada. Los brazos le caen. Las rodillas se le doblan. La atajas por la cintura antes de que toque el piso, con una mano, y la bajas despacio, con cuidado, hasta dejarla acostada boca arriba en el pasillo entre dos estanterías, sobre los papeles caídos. El pelo negro se le desparrama alrededor de la cabeza como tinta derramada. El tatuaje de la serpiente queda a la vista, rojo sobre la piel blanca.
+
+Respira. Lento. Duerme.
+
+Detrás de ti no se oye nada. Ni un paso, ni un roce. Hughes no se movió. Está exactamente donde estaba, con el cuchillo levantado a la altura del hombro, listo para tirar, sin ningún lugar adonde tirarlo. Sin un rasguño.
+
+[Lust: vencida. Fragmentos +25.]
+
+```
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Dedos-lanza · Lanza Definitiva               ║
+║ USUARIO: Lust · Fullmetal Alchemist          ║
+║                                              ║
+║ MISIÓN: Detener con las manos desnudas las   ║
+║ diez lanzas de Lust a la vez, en una pelea   ║
+║ en la que ella vaya con todo.                ║
+║ DIFICULTAD: MEDIA                            ║
+╚══════════════════════════════════════════════╝
+```
+
+Hughes baja el cuchillo. Muy despacio.
+
+Se acerca, sin soltarlo del todo. Se agacha a un metro de Lust, sin tocarla. Mira el tatuaje del pecho. Mira la uña, ahora de largo normal. Mira la cara dormida, hermosa, tranquila. Se le mueve la mandíbula.
+
+—Esta mujer —dice, muy bajo, casi para sí mismo— me venía siguiendo desde el pasillo. Lo sentí en la nuca. —Traga saliva—. Le iba a tirar los cuatro cuchillos que tengo. Y algo me dice que se los iba a sacar como si fueran espinas.
+
+Levanta la vista hacia ti. Ya no hay ninguna máscara. Ni sonrisa, ni foto de Elicia. Solo un hombre de veintinueve años, pálido, con los anteojos torcidos y el cuchillo en la mano, que acaba de entender que esta noche iba a morir.
+
+—Señor Morelli. —La voz le sale ronca—. Hace un rato le pregunté por dónde entró al país. —Se le escapa algo que podría ser una risa—. Creo que hice la pregunta equivocada.
+
+Se pone de pie. Se acomoda los anteojos con un dedo que tiembla un poco.
+
+—¿Qué es usted?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1751 · FULLMETAL · DÍA 1 · 21:48       ║
+║ Ciudad Central, Amestris, 1914               ║
+║ Cuartel general, archivo del 2.º piso        ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.403 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tu brazo                            ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: Hughes, esta noche                 ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 21:48, archivo del 2.º piso. LUST INCONSCIENTE (sin daño), acostada boca arriba entre las estanterías (+25 Frag). Misión de copia emitida (Dedos-lanza). Hughes ileso; se agacha junto a ella, ve el uróboros; sin máscara: "Creo que hice la pregunta equivocada. ¿Qué es usted?" ENVY sigue afuera esperando en la cabina telefónica.

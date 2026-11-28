@@ -7,3 +7,4 @@ MISIÓN DE MUNDO: Que Maes Hughes siga vivo cuando termine el Día Prometido.
 VELO: nadie siente su poder (tampoco la alkahestria, ni Padre, ni Pride, ni los sentidos de los homúnculos). El Ojo Definitivo de Bradley ve lo que se ve, no la fuerza.
 ## CAMBIOS POR CULPA DE FACUNDO
 (ninguno todavía)
+- T1751 · Lust neutralizada (inconsciente) en el archivo del cuartel general (canon: hiere a Hughes y escapa).
