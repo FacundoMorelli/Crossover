@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1891)
-
-es un trato akainu, le doy la mano
-
-## RESPUESTA 1 (T1891)
-
-> es un trato akainu, le doy la mano
-
-> —Es un trato, Akainu.
-
-Te levantas del sillón. Le das la mano.
-
-El magma te envuelve los dedos, la palma, la muñeca. Hierve. Burbujea. Sisea. Un calor que derrite acorazados, que quemó Ohara.
-
-No te hace nada.
-
-La piel de tu mano no se enrojece. No se ampolla. No humea. El magma corre alrededor de tus dedos como agua tibia alrededor de una piedra de río. Le aprietas la mano. Firme. Una vez.
-
-Akainu baja la vista hacia las dos manos juntas.
-
-Por primera vez desde que entraste, se le ve la sorpresa en la cara. No la esconde a tiempo. Le dura medio segundo: los ojos chicos, negros, abiertos un poco más de lo normal, mirando tu mano intacta dentro de la suya de magma. Después la cara se le cierra otra vez, dura como roca enfriada.
-
-Retira la mano. El magma se le vuelve carne de a poco, gris, después rosada. Se la mira. Se mira la palma. Después te mira a ti.
-
-—Un año —dice—. Desde esta noche a las doce.
-
-Mira el reloj de la pared. Las once y dieciséis.
-
-—Tienes cuarenta y cuatro minutos de ventaja, Ojos de Eclipse. —Se acomoda la gorra con la gaviota—. Después, toda la Marina del mundo va a tener una sola orden.
-
-Se da vuelta. Camina hacia el ventanal rajado, de espaldas. Se cruza las manos detrás de la espalda. Mira el puerto, los buques, la luna.
-
-—Y Nico Robin. —Lo dice sin darse vuelta—. Durante un año, el Gobierno Mundial va a fingir que no existes. —Una pausa larga—. Disfrútalo.
-
-Robin, a tu lado, se queda quieta. Mira la espalda de Akainu, la capa blanca, la palabra JUSTICIA. Respira hondo, una vez, muy larga, por la nariz. Le tiemblan un poco las manos. Pero no baja la vista. Hasta el final.
-
-Kase se levanta de la pila de informes del escritorio. Se estira. Pisa con una pata, despacio, a propósito, el informe que está encima de todos, y le deja una marca de polvo blanco de Baltigo en la portada. Después salta a tu hombro.
-
-Akainu, en el ventanal, no se da vuelta.
-
-—Fuera de mi oficina —dice.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1891 · ONE PIECE · DÍA ~227 · 23:16    ║
-║ Nuevo Cuartel General de la Marina           ║
-║ Oficina del Almirante de Flota               ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 99% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Trato sellado (el año: desde 0:00) ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1892)
+## COMANDO 1 (T1892)
 
 agarro a robin y me teletransporto a baltigo
 
-## RESPUESTA 2 (T1892)
+## RESPUESTA 1 (T1892)
 
 > agarro a robin y me teletransporto a baltigo
 
@@ -121,11 +64,11 @@ Levanta la vista hacia ti. Ya no llora. Se le dibuja una sonrisa que no le habí
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1893)
+## COMANDO 2 (T1893)
 
 esta bien amor, mañana vamos, le doy un beso y despues voy a venir un poco menos, me voy a mantener entre otros mundos
 
-## RESPUESTA 3 (T1893)
+## RESPUESTA 2 (T1893)
 
 > esta bien amor, mañana vamos, le doy un beso y despues voy a venir un poco menos, me voy a mantener entre otros mundos
 
@@ -182,6 +125,59 @@ Se queda callada. Después, más bajito:
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1894)
+
+capaz cada 2 meses amor, cuanto queda para que terminen los dos años?
+
+## RESPUESTA 3 (T1894)
+
+> capaz cada 2 meses amor, cuanto queda para que terminen los dos años?
+
+> —Tal vez cada dos meses, amor. ¿Cuánto falta para que terminen los dos años?
+
+—Cada dos meses —repite Robin, despacio.
+
+Asiente. No dice nada sobre eso. Pero mira la pared, las noventa y siete marcas, y se le nota que ya está contando.
+
+Después se estira por encima de Kase, sin despertarlo del todo, hasta la mesa, y agarra el cuaderno. No el de "Los mundos de Facundo": otro, más gastado, de tapas de cuero, lleno de fechas, mapas y nombres tachados. Lo abre en una página del final. Pasa el dedo por una columna de números escritos con su letra chiquita.
+
+—Marineford fue hace ciento setenta días —dice—. Luffy mandó el mensaje en el diario: "3D2Y". Tres de los días, dos años. Nos juntamos en Sabaody dentro de dos años desde ese día.
+
+Hace la cuenta en voz baja, moviendo los labios, con la pluma en el aire.
+
+—Faltan quinientos sesenta días, más o menos. —Levanta la vista—. Un año y medio. Un poco más. Diecinueve meses.
+
+Cierra el cuaderno sobre las rodillas. Se queda pensando, con el ceño apenas fruncido. Y después, despacio, se le endurece un poco la cara, como cuando lee algo en un poneglyph que no le gusta.
+
+—Facundo. —Te mira—. El trato con Akainu dura un año. Desde esta noche.
+
+Se toca la página con el dedo.
+
+—Termina seis meses antes de Sabaody.
+
+Se queda callada. El viento de Baltigo silba por la rendija de la ventana.
+
+—Cuando se termine el año —dice, bajito—, Akainu va a poder volver a buscarnos a todos. A mí. A Luffy. A los demás. Y nosotros vamos a estar todavía separados, entrenando cada uno en su isla. —Una pausa—. Seis meses. Sin el trato. Sin ti en este mundo, si sigues escondiéndote.
+
+Te mira de costado, serena, pero con los dedos apretando el cuaderno.
+
+—No te lo digo para que te preocupes —dice—. Te lo digo porque soy la que lleva la cuenta. —Una media sonrisa—. ¿Lo pensaste?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1894 · ONE PIECE · DÍA ~227 · 23:25    ║
+║ Baltigo · cuarto de Robin                    ║
+║ Sentado en la cama, con Robin                ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 99% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: medio dormido en las piernas de Robin  ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: El trato termina 6 meses antes     ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 23:22, cuarto de Robin. "Está bien, amor. Mañana vamos." Beso. "Y después voy a venir un poco menos. Me voy a mantener entre otros mundos." Robin lo entiende: "Para que no te encuentren... Un año buscando a un hombre que no está. Fufu. Pobre Sakazuki." "Veinte años me escondí yo. Y ahora, por mí, te vas a esconder tú." "Voy a hacer otra pared. Del otro lado de la ventana. Y cada vez que vuelvas, aunque sea por una noche, la voy a borrar entera y empezar de nuevo." "¿Cuánto es 'un poco menos', Facundo?" (Mañana: ciudad y librería.)
+ESTADO AL CIERRE: Día ~227 23:25, cuarto de Robin. "Tal vez cada dos meses, amor. ¿Cuánto falta para que terminen los dos años?" Robin, con su cuaderno de cuero: Marineford fue hace 170 días; mensaje "3D2Y"; faltan ~560 días (~19 meses) para Sabaody. "El trato con Akainu dura un año. Desde esta noche. Termina seis meses antes de Sabaody." Cuando termine, Akainu podrá buscarlos a todos y seguirán separados: "Seis meses. Sin el trato. Sin ti en este mundo, si sigues escondiéndote." "Te lo digo porque soy la que lleva la cuenta. ¿Lo pensaste?"
