@@ -29,3 +29,4 @@ QUÉ SABE DE FACUNDO (T1805): nombre Facundo Morelli; viajero; novio de Cha Hae-
 - T1828 · "Sung Jinwoo te estuvo mirando toda la mañana, señor Morelli. Más que a los combates."
 - T1829 · "A la una seguimos con las formaciones de retirada. Los japoneses quieren repetir el ejercicio de la cámara de la reina. Sin Kumamoto, por suerte."
 - T1839 · Ve a Facundo detener la garra del Rey con una mano; la onda le apaga medio fuego; boca abierta.
+- T1841 · Ve a Facundo matar al Rey hormiga a puñetazos y derribar a todas las hormigas con una onda (Haki del Rey) sin que a los coreanos les pase nada. Vivo/a. Ve a Jinwoo salir de la sombra de Cha.

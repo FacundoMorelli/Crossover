@@ -31,3 +31,5 @@ QUÉ SABE DE FACUNDO (T1830): no siente nada en él (ni maná residual; Velo); n
 - T1832 · Facundo, al pasar: "Sí, voy a estar cerca. No te preocupes. No es necesario que uses tus sombras para ir para allá." Se le corta la respiración; muy bajo: "...¿Cómo?" Lo mira irse de frente, manos fuera de los bolsillos: la cara de alguien que descubre que no es el único que ve lo que ve. Se va por su sombra.
 QUÉ SABE DE FACUNDO (T1832): que Facundo sabe de sus sombras y de su capacidad de viajar por ellas (Facundo se lo dijo); que dice que estará cerca en Jeju.
 - T1833 · No vuelve a aparecer. Día 14: deja una lata de atún para gatos en la mesita de la 2207 (nadie subió; por las sombras).
+- T1841 · Día 22 11:33 · Sale de la sombra de Cha Hae-in (Intercambio de Sombras), ojos azules encendidos, listo para pelear. Ve al Rey hormiga muerto, miles de hormigas caídas, a todos los coreanos vivos y a Min entero. Mira a Facundo. (Llegó por el Rey; su sombra en Cha le avisó.)
+QUÉ SABE DE FACUNDO (T1841): todo lo que se vio en vivo (y lo que le contó su sombra): paró la garra con una mano, mató al Rey a puñetazos, la onda que derribó a todas las hormigas.

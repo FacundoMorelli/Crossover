@@ -19,3 +19,4 @@ QUÉ SABE DE FACUNDO: lo público; novio de Cha.
 - T1833 · Trae a la grada una caja de pescado seco para Kase (de su hermana, desde Busan). Tras Jeju quiere un mes de vacaciones, el primero en seis años, para pescar con su padre en una isla del sur.
 - T1837 · Día 22 · Cura sin parar en la cámara de la reina; curando a Baek envenenado cuando entra el Rey.
 - T1839 · De rodillas curando a Ma Dongwook, mira a Facundo sin parpadear. (VIVO gracias a Facundo: el puño del Rey se detuvo a mitad de camino.)
+- T1841 · Ve a Facundo matar al Rey hormiga a puñetazos y derribar a todas las hormigas con una onda (Haki del Rey) sin que a los coreanos les pase nada. Vivo/a. Ve a Jinwoo salir de la sombra de Cha.

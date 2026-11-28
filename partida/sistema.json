@@ -1,13 +1,13 @@
 {
-  "turno": 1840,
+  "turno": 1841,
   "mundo_actual": "sololeveling",
   "fecha_local": "Solo Leveling: Día 1 (arco de la Reevaluación / Puerta del Gremio de Cazadores)",
-  "hora": "Día 22, 11:32 (Jeju)",
+  "hora": "Día 22, 11:33 (Jeju)",
   "edad": 18,
   "nivel": 34,
-  "exp": 486130,
+  "exp": 524130,
   "exp_siguiente_nivel": 530000,
-  "fragmentos": 298805,
+  "fragmentos": 340805,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -101,7 +101,7 @@
     "energia": 4002,
     "control": 4001
   },
-  "energia_actual_pct": 100,
+  "energia_actual_pct": 97,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -449,7 +449,7 @@
   },
   "velo": {
     "activo": true,
-    "poder_mostrado": "persona común (maná 0); PERO a la vista, en vivo, detuvo la garra del Rey hormiga con una mano (T1839)"
+    "poder_mostrado": "persona común (maná 0 para cualquier medición); PERO en vivo mató al Rey hormiga a puñetazos y derribó todas las hormigas de Jeju con el Haki del Rey (T1841)"
   },
   "armas": [
     {
@@ -1326,6 +1326,22 @@
         "R2: todo lo que Bills llega a hacer en su canon"
       ],
       "dominio": "total"
+    },
+    {
+      "poder": "Poder del Rey hormiga (Beru en el canon)",
+      "de": "Rey hormiga",
+      "mundo": "sololeveling",
+      "cuando": "T1841, Día 22, cámara de la reina de Jeju",
+      "incluye": [
+        "fuerza y velocidad del Rey",
+        "caparazón/garras (como poder, sin cambiar el cuerpo salvo al usarlo)",
+        "veneno paralizante",
+        "alas y vuelo",
+        "mando del enjambre (insectos/hormigas)",
+        "cambio de tamaño",
+        "(etapas futuras según R2: curación absorbida y habla, si corresponde)"
+      ],
+      "mision": "Vencer al Rey hormiga cuerpo a cuerpo, sin armas ni poderes copiados (cumplida)"
     }
   ],
   "misiones_de_copia_activas": [
@@ -1785,13 +1801,6 @@
       "dificultad": "MEDIA",
       "emitida": "T1827",
       "estado": "IMPOSIBLE: el usuario murió en Jeju (T1837)"
-    },
-    {
-      "poder": "Poder del Rey hormiga (fuerza, velocidad, veneno paralizante, alas, mando del enjambre, cambio de tamaño)",
-      "mundo": "sololeveling",
-      "mision": "Vencer al Rey hormiga cuerpo a cuerpo, sin armas ni poderes copiados.",
-      "dificultad": "ALTA",
-      "emitida": "T1840"
     }
   ],
   "misiones_de_copia_rechazadas": [],
@@ -2559,6 +2568,18 @@
       "quien": "Padre (con Ed y todos), Gluttony, Sloth, Pride, Kimblee, 312 soldados inmortales",
       "como": "Día Prometido (simulación T1762)",
       "fragmentos": 8787
+    },
+    {
+      "mundo": "sololeveling",
+      "quien": "Rey hormiga (jefe oculto de la Puerta de Jeju)",
+      "como": "muerto a puñetazos, cuerpo a cuerpo (T1841), en vivo",
+      "fragmentos": 1000
+    },
+    {
+      "mundo": "sololeveling",
+      "quien": "~8.200 hormigas de Jeju (soldados, obreras, guardia)",
+      "como": "Haki del Rey sobre toda la isla (T1841): caen todas, no se vuelven a mover",
+      "fragmentos": 41000
     }
   ],
   "viaje": {
