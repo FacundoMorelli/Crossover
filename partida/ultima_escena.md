@@ -155,7 +155,7 @@ Se acomoda los anteojos torcidos con un dedo, con la mano que ya no le tiembla. 
 
 Choi saca la radio, la mira, y no contesta. Te mira a ti.
 
-—Señor Morelli. —Hace una pausa. Por primera vez desde que lo conoces, no sabe bien qué decir—. Los helicópteros están en la costa, a cuatro kilómetros. Hay miles de... cuerpos entre aquí y allá. Y tengo a todo el país mirando por esa cámara.
+—Señor Morelli. —Hace una pausa. Por primera vez desde que lo conoces, no sabe bien qué decir—. Los helicópteros están en la costa, a cuatro kilómetros. Hay miles de... cuerpos entre aquí y allá. Y todo el país estuvo mirando por esa cámara hasta hace un momento.
 
 Señala con la barbilla al camarógrafo, que sigue sentado arriba, con la luz roja encendida.
 
