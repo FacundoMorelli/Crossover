@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1850)
-
-no, tienes razón no comi nada
-
-## RESPUESTA 1 (T1850)
-
-> no, tienes razón no comi nada
-
-> —No. Tiene razón. No comí nada.
-
-—¡Lo sabía! —La señora Kang levanta las manos al techo—. Matan reyes de hormigas y no desayunan. Igualita a su padre, esta.
-
-Se va a la cocina a paso rápido, secándose la cara con el delantal, y empieza a abrir la heladera, a sacar recipientes, a prender las hornillas, a golpear ollas. No para de hablar en todo el tiempo, sola, en voz alta, sin que nadie le conteste: que ella sabía, que lo sabía desde la primera noche, que un chico que trae peras no puede ser mala persona, que se desmayó, sí, se desmayó cuando él apareció en la tele de la nada, que la vecina del tercero tuvo que subir a echarle agua en la cara.
-
-Cha Hae-in se ríe en el piso del living, todavía de rodillas, con las lágrimas cayéndole todavía. Se saca la armadura pieza por pieza, con dedos lentos, cansados: las hombreras, la placa del pecho, los brazales. Las deja apiladas sobre la alfombra, al lado de la taza caída. Se queda con la ropa de abajo, negra, ajustada, manchada de sudor y de polvo blanco. La cadenita con la placa y la llavecita le cuelga sobre el pecho.
-
-Su celular, en el bolsillo, vibra sin parar. Lo saca, mira la pantalla un segundo —cientos de mensajes, decenas de llamadas perdidas, el nombre de Choi, el de Min, el de la Asociación, números desconocidos— y lo apaga del todo. Lo tira sobre el sofá, al lado de Kase, que lo mira con desprecio.
-
-En diez minutos la mesa baja está llena. Arroz recién hecho, guiso de kimchi del día anterior recalentado, huevos fritos, algas tostadas, tres platitos de banchan, sopa de algas. Y para Kase, en el piso, un platito con pescado sin espinas.
-
-La señora Kang te sienta en la cabecera otra vez. Te llena el cuenco de arroz hasta arriba. Te pone un huevo frito encima, con sus palillos. Después otro.
-
-—Come. Come todo.
-
-Comen. La tele sigue encendida con el volumen bajo, y la señora Kang no la apaga: cada tanto la mira de reojo, cuando aparece tu cara, y se le escapa una risita incrédula por la nariz. Cha Hae-in come con hambre, despacio, sentada a tu lado, apoyada contra tu hombro, sin hablar.
-
-Cuando ya casi terminan, la señora Kang deja los palillos sobre el cuenco. Te mira.
-
-—Bueno. —Junta las manos sobre la mesa, como la primera noche—. Ya no le puedo decir a nadie en el barrio que el novio de mi hija no trabaja de nada. —Se le escapa una risa—. Aunque tampoco sé bien qué decirles que hace.
-
-Te sostiene la mirada.
-
-—Facundo. Mi hija me contó que eres un viajero. Que algún día te vas a ir. —Hace una pausa—. Y ahora todo el país sabe tu nombre. —Mira a su hija, que deja de comer—. ¿Y ahora? ¿Qué vas a hacer?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1850 · SOLO LEVELING · DÍA 22 · 12:25  ║
-║ Seúl, Corea del Sur                          ║
-║ Casa de la señora Kang · mesa del living     ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 1.282.800 won           ║
-║ Energía 95% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el piso, comiendo pescado           ║
-║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
-║ OBJETIVO: "¿Y ahora? ¿Qué vas a hacer?"      ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1851)
+## COMANDO 1 (T1851)
 
 en unos dias me voy a ir, pero voy a volver a verla, capaz me voy por semanas o algun mes
 
-## RESPUESTA 2 (T1851)
+## RESPUESTA 1 (T1851)
 
 > en unos dias me voy a ir, pero voy a volver a verla, capaz me voy por semanas o algun mes
 
@@ -107,11 +58,11 @@ Gira la cabeza. Te mira. Los ojos cansados, brillantes, sin miedo.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1852)
+## COMANDO 2 (T1852)
 
 No se puede, no por que no quiera, pero ven conmigo afuera, te voy a mostrar a donde me voy
 
-## RESPUESTA 3 (T1852)
+## RESPUESTA 2 (T1852)
 
 > No se puede, no por que no quiera, pero ven conmigo afuera, te voy a mostrar a donde me voy
 
@@ -152,6 +103,63 @@ Te mira. Tranquila. Con la cara seria de antes de entrar a una Puerta, pero con 
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1853)
+
+abro un portal al mundo de dragon ball
+
+## RESPUESTA 3 (T1853)
+
+> abro un portal al mundo de dragon ball
+
+Levantas una mano delante de ti, debajo del ginkgo.
+
+Tarda unos segundos. Cha Hae-in los cuenta sin darse cuenta, con los labios.
+
+Primero, en el aire, entre las hojas amarillas que caen, aparece una línea. Fina, vertical, de luz blanca, como un corte en una tela. Después la línea se abre. Despacio, hacia los costados, como una puerta de dos hojas, hasta quedar del alto de un hombre y del ancho de dos. Los bordes brillan, blancos y azules, y zumban apenas, un sonido grave que se siente más en el pecho que en los oídos.
+
+No es violeta. No gira. No se parece en nada a una Puerta de las que ella conoce.
+
+Y del otro lado no hay una mazmorra.
+
+Hay un cielo.
+
+Un cielo enorme, de un azul más intenso que cualquier cielo que haya visto en Seúl, con nubes blancas, gordas, que pasan rápido. Una pradera verde que se pierde hasta unas montañas lejanas, puntiagudas, imposibles, como dibujadas con un pincel. Un río que brilla. Y a lo lejos, en el horizonte, una ciudad: edificios redondos, blancos, con forma de cúpula, y cosas que vuelan entre ellos, chiquitas, que no son pájaros ni aviones.
+
+El viento del otro lado entra por la puerta. Huele a pasto mojado, a flores que no existen en Corea, a algo limpio, eléctrico, como el aire antes de una tormenta. Le mueve el pelo a Cha Hae-in hacia atrás. Las hojas amarillas del ginkgo que caen cerca de la puerta se van volando hacia el otro lado y se pierden en la pradera.
+
+Por encima de las montañas lejanas pasa algo grande, volando. Alas de cuero, cuello largo, una cola. Un animal que en este mundo solo existe en los museos, en esqueletos.
+
+Kase, en tu hombro, levanta la nariz y huele el aire del otro lado, despacio, con los ojos entrecerrados. Conoce ese olor.
+
+Cha Hae-in no se mueve.
+
+Tiene las manos todavía en los bolsillos de la chamarra mostaza. La boca un poco abierta. Los ojos, muy abiertos, reflejando el azul del otro cielo. Respira por la nariz, hondo, una vez, como hace siempre. Y se le escapa un ruido chiquito de la garganta, entre la sorpresa y algo parecido al miedo.
+
+—Eso... no es una Puerta —dice, muy bajito.
+
+Saca una mano del bolsillo. La levanta, despacio, hacia el borde de luz. Se detiene a unos centímetros, sin tocarlo, con los dedos temblando.
+
+—No huele a maná. No huele a monstruos. Huele a... —Se le corta la voz—. Huele a un lugar donde vive gente.
+
+Gira la cabeza. Te mira. Con los ojos llenos de un cielo que no es el suyo.
+
+—Facundo. ¿Qué es eso?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1853 · SOLO LEVELING · DÍA 22 · 12:47  ║
+║ Seúl, Corea del Sur                          ║
+║ Plaza del barrio · puerta abierta            ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 1.282.800 won           ║
+║ Energía 95% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, oliendo el otro aire     ║
+║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
+║ OBJETIVO: Cha: "¿Qué es eso?"                ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 12:46, plaza vacía del barrio de la señora Kang, bajo un ginkgo amarillo. Facundo: "No se puede. No porque no quiera. Pero ven conmigo afuera. Te voy a mostrar a dónde me voy." Cha asiente sin preguntar; se pone una chamarra mostaza vieja de su mamá. Bajan por la escalera. Barrio vacío (todos ven la tele). Bajo el ginkgo, Cha: "Aquí no hay nadie. Muéstrame."
+ESTADO AL CIERRE: Día 22 12:47, plaza del ginkgo. Facundo abrió una puerta (viaje libre) al mundo de Dragon Ball (línea de luz blanca que se abre en dos hojas, bordes blancos y azules, zumbido grave). Del otro lado: cielo azul intenso, pradera, montañas puntiagudas, río, ciudad de cúpulas blancas a lo lejos con cosas volando, un pterodáctilo. Viento y olor a pasto y tormenta; hojas del ginkgo vuelan al otro lado. Kase reconoce el olor. Cha: "Eso... no es una Puerta. No huele a maná... Huele a un lugar donde vive gente." "Facundo. ¿Qué es eso?" (Nadie más en la plaza.)

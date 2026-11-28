@@ -62,3 +62,5 @@
 - T1849 · KANG MI-SOOK vio a Facundo aparecer de la nada en su living con Hae-in.
 - T1850 · KANG MI-SOOK sabe por Hae-in que Facundo es viajero y algún día se irá.
 - T1851 · CHA y KANG MI-SOOK saben (por Facundo) que se irá en unos días, por semanas o algún mes, y que volverá.
+## QUIÉN SABE QUE VIENE DE OTRO LADO
+- T1853 · CHA HAE-IN vio una puerta de Facundo abierta a otro mundo (Dragon Ball: pradera, montañas, ciudad de cúpulas, pterodáctilo). Todavía no sabe qué es; Facundo se lo está mostrando. Nadie más presente.
