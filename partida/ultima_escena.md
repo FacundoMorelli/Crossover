@@ -3,74 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1863)
-
-si, me quedo contigo, le doy un beso
-
-## RESPUESTA 1 (T1863)
-
-> si, me quedo contigo, le doy un beso
-
-> —Sí. Me quedo contigo.
-
-Le das un beso.
-
-Robin cierra el cuaderno despacio, sin mirar, con una mano extra que le florece en la mesa. Otra mano dobla la capa verde de la Legión y la deja con cuidado sobre la pila de libros más cercana. Otra apaga la lámpara de aceite. Las suyas, las de verdad, no te sueltan.
-
-El cuarto queda a oscuras, con la luz blanca de la luna entrando por la ventana angosta, sobre las noventa y siete marcas de la pared.
-
-Kase salta de la mesa, cruza el cuarto sin hacer ruido y se acomoda sobre la capa de la Legión, encima de los libros, de espaldas a los dos.
-
-—Te extrañé —dice Robin, en un susurro, contra tu boca.
-
-...
-
-Más tarde, mucho más tarde, el viento de Baltigo sigue golpeando la ventana.
-
-Robin duerme sobre tu pecho, en la cama angosta, con el pelo largo suelto desparramado sobre tu piel. Respira despacio, tranquila, como alguien que no durmió así en mucho tiempo. Tiene una mano abierta sobre el dragón tatuado, encima de tu corazón.
-
-...
-
-El sol entra por la ventana angosta, blanco, frío.
-
-Una campana suena a lo lejos, en algún patio de la fortaleza. Pasos en el pasillo de piedra. Voces de revolucionarios que se despiertan, que bajan a desayunar, que discuten sobre un envío de armas.
-
-Y después, unos golpes en la puerta. Tres, rápidos, alegres.
-
-—¡Robin! —Una voz de mujer joven, enérgica, del otro lado—. ¡Robin, despierta! ¡Dragon quiere a todos en la torre a las ocho! ¡Llegó un informe de...!
-
-La puerta se abre sin esperar respuesta. No tiene llave: nunca tuvo.
-
-En el umbral aparece Koala, con el pelo corto naranja revuelto, la gorra en la mano, una carpeta bajo el brazo y la boca abierta a mitad de la frase.
-
-Te ve.
-
-Ve a Robin, dormida sobre tu pecho, con la sábana hasta los hombros. Ve a Kase, que levanta la cabeza desde la capa verde y la mira con los dos ojos, rojo y azul, con absoluto desprecio.
-
-La carpeta se le resbala de debajo del brazo. Las hojas se desparraman por el piso de piedra.
-
-—¡¿Facundo?!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1863 · ONE PIECE · DÍA ~227 · 07:32    ║
-║ Baltigo · cuarto de Robin                    ║
-║ En la cama, con Robin dormida encima         ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: sobre la capa de la Legión, despierto  ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Koala en la puerta: "¡¿Facundo?!"  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1864)
+## COMANDO 1 (T1864)
 
 hola koala
 
-## RESPUESTA 2 (T1864)
+## RESPUESTA 1 (T1864)
 
 > hola koala
 
@@ -121,11 +58,11 @@ Koala te mira a ti.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1865)
+## COMANDO 2 (T1865)
 
 si, me visto y voy con robin a la torre
 
-## RESPUESTA 3 (T1865)
+## RESPUESTA 2 (T1865)
 
 > si, me visto y voy con robin a la torre
 
@@ -192,6 +129,61 @@ Una pausa larga. El viento silba en las ventanas.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1866)
+
+si se puede
+
+## RESPUESTA 3 (T1866)
+
+> si se puede
+
+> —Sí. Se puede.
+
+Nadie se mueve.
+
+Dragon te sostiene la mirada. No dice nada. No cambia la cara. Pero la mano que tenía apoyada sobre el informe, sobre la mesa, se cierra despacio en un puño, y el papel se arruga entre los dedos.
+
+Detrás de él, Corvin se saca los anteojos de sol. Hack da un paso adelante, sin darse cuenta.
+
+—Se puede —repite Koala, en un susurro, con la carpeta apretada contra el pecho.
+
+Sabo es el primero en reaccionar. Golpea la mesa con la palma abierta, tan fuerte que salta un Den Den Mushi dormido y abre un ojo, ofendido.
+
+—¡Entonces vamos! —Se da vuelta hacia Dragon, con los ojos brillantes—. ¡Vamos a Mary Geoise, sacamos a Kuma de ahí, Facundo le pone la mano encima y...!
+
+—Sabo. —La voz de Dragon, baja, lo corta en seco.
+
+Sabo se calla. Se queda con la mano en la mesa.
+
+Dragon suelta el informe arrugado. Rodea la mesa despacio y se acerca a la ventana del norte, de espaldas a todos, y mira el mar. Se queda así un rato largo. El viento le mueve la capa verde.
+
+—Mary Geoise —dice, sin darse vuelta— es la fortaleza más vigilada del mundo. Está en la cima de la Red Line, a diez mil metros sobre el mar. Tiene al Cipher Pol cero, a los Caballeros Sagrados, a los almirantes a un llamado. Ningún revolucionario que entró ahí salió vivo en veinte años. —Una pausa—. Y Kuma ya no es Kuma. Si alguien se le acerca, lo va a atacar. Con todo lo que tiene. Es lo que le programaron.
+
+Se da vuelta. Te mira desde la ventana, con la luz blanca del desierto detrás.
+
+—Te vi en Marineford, Ojos de Eclipse. Delante de todo el mundo. Y Sabo me contó lo de Barbablanca. —Hace una pausa—. No te voy a preguntar si podrías entrar. Me imagino la respuesta.
+
+Se acerca a la mesa. Apoya las dos manos sobre los mapas, sobre uno de la Red Line, con un círculo rojo en la cima.
+
+—No eres un revolucionario. Nunca te lo pedí. —Te mira a los ojos—. Así que te lo pregunto como el amigo de un hombre al que le quitaron todo. ¿Qué necesitas?
+
+Robin, a tu lado, no dice nada. Solo te mira de costado, con el cuaderno bajo el brazo y la mano todavía agarrada a la tuya.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1866 · ONE PIECE · DÍA ~227 · 08:04    ║
+║ Baltigo · torre de Dragon                    ║
+║ Junto a la mesa de mapas, con Robin          ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Dragon: "¿Qué necesitas?" (Kuma)   ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 08:02, torre de Dragon. Robin toca la última de las 97 marcas, lleva su cuaderno. En el patio, alumnos de espada se cuadran ante Facundo. En la torre: Corvin, Hack, Koala, Sabo (abrazo: "¡Ace me va a matar, le prometí que le avisaba!"), Dragon ("Llegaste en un buen momento. O en uno muy malo."). Informe: hace tres semanas Vegapunk terminó de reprogramar a Kuma (sin memoria, voluntad ni hombre); el Gobierno se lo regaló a los Dragones Celestiales: esclavo en Mary Geoise. Dragon: Sabo le contó lo de Barbablanca; "Kuma era uno de los nuestros. Mi amigo. ¿Se le puede devolver lo que le quitaron?"
+ESTADO AL CIERRE: Día ~227 08:04, torre de Dragon. Facundo: "Sí. Se puede." Dragon arruga el informe en el puño. Sabo: "¡Vamos a Mary Geoise...!" Dragon lo corta. Mary Geoise: cima de la Red Line, CP0, Caballeros Sagrados, almirantes a un llamado; ningún revolucionario salió vivo en veinte años; Kuma atacará a quien se acerque (programado). "Te vi en Marineford, Ojos de Eclipse... No te voy a preguntar si podrías entrar." "No eres un revolucionario. Nunca te lo pedí. Así que te lo pregunto como el amigo de un hombre al que le quitaron todo. ¿Qué necesitas?"

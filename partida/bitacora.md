@@ -1865,3 +1865,4 @@ T1862 · ONE PIECE · Baltigo · "Hange, la que reconoció primero." Robin lo es
 T1863 · ONE PIECE · Baltigo · Noche con Robin (fundido). A la mañana, Koala entra y lo ve: "¡¿Facundo?!"
 T1864 · ONE PIECE · Baltigo · "Hola, Koala." Informe de Mary Geoise sobre Kuma; reunión en la torre a las 8. "¿Vienes?"
 T1865 · ONE PIECE · Torre de Dragon · Sabo lo abraza. Kuma, esclavo de los Dragones Celestiales sin conciencia. Dragon: "¿Se le puede devolver lo que le quitaron?"
+T1866 · ONE PIECE · Torre de Dragon · "Sí. Se puede." Dragon: Mary Geoise imposible para cualquiera... "¿Qué necesitas?"
