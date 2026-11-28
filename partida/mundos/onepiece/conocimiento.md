@@ -303,3 +303,4 @@
 - T1861 · ROBIN tocó un objeto del mundo de los titanes (la capa de la Legión de Reconocimiento) y sabe por Facundo que allá lo reconocieron.
 - T1862 · ROBIN sabe (por Facundo) que en el mundo de los titanes una inventora llamada Hange fue la primera en reconocerlo. (No sabe de Ymir ni de otras parejas: R9.)
 - T1863 · KOALA ve a Facundo en Baltigo, en el cuarto de Robin.
+- T1865 · DRAGON sabe (por Sabo) que Facundo curó a Barbablanca con la mano. Alumnos de espada de Baltigo lo reconocen en el patio.

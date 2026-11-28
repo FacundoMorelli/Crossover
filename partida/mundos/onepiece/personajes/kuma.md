@@ -9,3 +9,4 @@ ESTADO: activo
 - T810 · Facundo le pide "Aguanta". Kuma espera con el Ursus Shock en la mano mientras Facundo duerme a sus compañeros. Pregunta: "¿Por qué?"
 - T811 · Acepta el trato de Facundo: le pasa todo el dolor de la tripulación. Facundo lo aguanta de pie. "Trato cumplido." Se va sin ninguna cabeza.
 - T1864 · Día ~227 · (informe de los revolucionarios infiltrados en Mary Geoise, por Koala) Hay noticias sobre Kuma. (Canon del timeskip: Vegapunk lo convirtió en Pacifista total, sin conciencia, esclavo de los Dragones Celestiales.)
+- T1865 · (informe leído por Dragon) Vegapunk terminó de reprogramarlo hace tres semanas: sin memoria, voluntad ni conciencia. Regalado a los Dragones Celestiales: esclavo en Mary Geoise.

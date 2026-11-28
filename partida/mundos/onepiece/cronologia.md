@@ -194,3 +194,4 @@
 - Días ~129-226 · (en paralelo, sin Facundo) Sigue el timeskip: entrenamientos de los Sombrero de Paja dispersos; Robin con los revolucionarios en Baltigo; flota de Barbablanca protegida por el Bankai. (Simular lo ocurrido según lo que Facundo pueda saber.)
 - Día ~226 21:40 · (T1859) Facundo vuelve a Baltigo, al pasillo del cuarto de Robin.
 - Día ~227 · Llega a Baltigo un informe importante; Dragon reúne a todos en la torre a las 8.
+- Día ~206 · (canon del timeskip) Vegapunk termina de reprogramar a Kuma; el Gobierno Mundial se lo entrega a los Dragones Celestiales como esclavo en Mary Geoise.

@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1862)
-
-Una chica obsesionada con los inventos se llama Hange
-
-## RESPUESTA 1 (T1862)
-
-> Una chica obsesionada con los inventos se llama Hange
-
-> —Una chica obsesionada con los inventos. Se llama Hange.
-
-—Hange —repite Robin, despacio, como quien prueba el sabor de una palabra en otro idioma.
-
-Se le escapa una risa suave.
-
-—Fufu. Obsesionada con los inventos. —Te mira de reojo—. Por cómo lo dices, me imagino que le diste muchas cosas para inventar.
-
-No espera la respuesta. Suelta uno de tus brazos, sin soltar el otro, y agarra la pluma. Abre el cuaderno de la tapa con su letra, "Los mundos de Facundo", y busca una página. Ves que ya está escrito hasta la mitad: hojas y hojas de letra chiquita, ordenada, con fechas, con títulos subrayados. "El mundo de los titanes", dice uno. "Las tres murallas." "Shiganshina." "Eren." "El mar." Debajo de cada uno, lo que le contaste, palabra por palabra, como si lo hubiera grabado.
-
-Pasa a una página en blanco. Moja la pluma. Escribe, con la letra más prolija que le viste nunca:
-
-"Hange. La primera que lo reconoció al volver."
-
-Sopla la tinta. Deja la pluma.
-
-Kase se da vuelta desde la ventana y mira el cuaderno. Se le acerca, huele la página fresca y estornuda, chiquito. Robin se ríe y le aparta la nariz con una mano extra que le florece en la mesa.
-
-—Siempre que vuelves —dice, sin dejar de mirar la página—, el cuaderno se queda chico.
-
-Se recuesta contra ti, contra tu pecho, con la capa verde de la Legión sobre las rodillas, la mano todavía agarrada a tu brazo. Afuera, por la ventana angosta, el viento de Baltigo levanta polvo blanco bajo la luna, y abajo, lejos, el mar golpea los acantilados.
-
-—Es tarde —dice, bajito—. Y yo no dormí bien en noventa y siete días.
-
-Se queda callada un momento. Después gira la cabeza y te mira, de muy cerca, con una media sonrisa serena.
-
-—Mañana me cuentas cómo es Hange. Y qué inventó con lo que le diste. —Te aprieta el brazo—. Esta noche... ¿te quedas?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1862 · ONE PIECE · DÍA ~226 · 21:48    ║
-║ Baltigo · cuarto de Robin                    ║
-║ Junto a la mesa, abrazado a Robin            ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la mesa, junto al cuaderno          ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Robin: "Esta noche... ¿te quedas?" ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1863)
+## COMANDO 1 (T1863)
 
 si, me quedo contigo, le doy un beso
 
-## RESPUESTA 2 (T1863)
+## RESPUESTA 1 (T1863)
 
 > si, me quedo contigo, le doy un beso
 
@@ -117,11 +66,11 @@ La carpeta se le resbala de debajo del brazo. Las hojas se desparraman por el pi
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1864)
+## COMANDO 2 (T1864)
 
 hola koala
 
-## RESPUESTA 3 (T1864)
+## RESPUESTA 2 (T1864)
 
 > hola koala
 
@@ -172,6 +121,77 @@ Koala te mira a ti.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1865)
+
+si, me visto y voy con robin a la torre
+
+## RESPUESTA 3 (T1865)
+
+> si, me visto y voy con robin a la torre
+
+> —Sí.
+
+Koala asiente rápido, colorada otra vez, y sale cerrando la puerta. La escuchas correr por el pasillo de piedra.
+
+Te vistes. Robin se levanta despacio, se pone una camisa larga, clara, unos pantalones oscuros, se ata el pelo atrás con un solo movimiento. Agarra el cuaderno de la mesa y se lo pone bajo el brazo, por costumbre. Antes de salir, se detiene frente a la pared, frente a las noventa y siete marcas, y pasa el dedo por la última. Después te agarra de la mano.
+
+Kase se sube a tu hombro.
+
+La fortaleza de Baltigo, de día, es un hormiguero blanco: revolucionarios de todas las edades cruzando patios, cargando cajas, entrenando con palos en los muros, discutiendo con mapas en la mano. Cuando pasan por el patio, varios se dan vuelta. Algunos te reconocen. Un chico joven, de pelo rapado, uno de los once a los que les enseñaste espada la última vez, deja caer su palo de práctica, se cuadra y te hace una reverencia torpe. Otros dos lo imitan.
+
+Escalera de caracol. El viento silba por las ventanas angostas.
+
+La torre de Dragon es igual que la recuerdas: el cuarto redondo, las ventanas a los cuatro lados, la mesa enorme cubierta de mapas, cartas, informes y Den Den Mushi dormidos. Están Corvin, de pie junto a una ventana, con su peinado alto y los anteojos de sol. Hack, el hombre pez enorme, de brazos cruzados junto a la puerta. Koala, que llegó antes y finge estar ordenando la carpeta.
+
+Sabo, con su sombrero de copa y su capa negra, sentado de costado en el borde de la mesa con una pierna colgando, se da vuelta cuando entran.
+
+Te ve.
+
+Salta de la mesa.
+
+—¡FACUNDO!
+
+Cruza el cuarto en tres pasos y te abraza con un brazo, fuerte, dándote palmadas en la espalda, y casi tira a Kase del hombro. Kase le clava una mirada asesina.
+
+—¡Volviste! ¡Robin, volvió! ¡Ace me va a matar, le prometí que le avisaba! —Se aparta, te agarra de los hombros, te mira de arriba abajo, sonriendo con la cicatriz de la cara—. ¿Dónde estuviste? No, no me digas. Robin me lo va a leer en su cuaderno.
+
+Robin sonríe de costado.
+
+—Sabo —dice una voz grave, al fondo.
+
+Dragon está de pie junto a la ventana del norte, de espaldas a todos, con la capa verde larga y la cara tatuada mirando el mar. Se da vuelta despacio. Te mira. Un segundo. Asiente una vez, como la última vez en el pasillo. Casi un saludo.
+
+—Llegaste en un buen momento —dice—. O en uno muy malo.
+
+Toma un papel de la mesa. Un informe escrito a mano, con letra apurada, arrugado como si hubiera viajado escondido.
+
+—Nuestros infiltrados en Mary Geoise —dice, sin levantar la voz—. Vegapunk terminó de reprogramar a Bartholomew Kuma hace tres semanas. Ya no queda nada de él adentro. Ni la memoria, ni la voluntad, ni el hombre. Solo la máquina. —Hace una pausa—. El Gobierno Mundial se lo regaló a los Dragones Celestiales. Lo tienen en Mary Geoise. Como esclavo.
+
+Nadie dice nada. Hack descruza los brazos. Koala baja la carpeta. Robin, a tu lado, te aprieta la mano.
+
+Dragon deja el papel sobre la mesa. Te mira a los ojos.
+
+—Sabo me contó lo que hiciste con Barbablanca. Una enfermedad que ningún médico del mundo podía curar, y tú le pusiste la mano encima. —La voz no le cambia, pero algo en los ojos sí—. Kuma era uno de los nuestros. Mi amigo.
+
+Una pausa larga. El viento silba en las ventanas.
+
+—¿Se le puede devolver lo que le quitaron?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1865 · ONE PIECE · DÍA ~227 · 08:02    ║
+║ Baltigo · torre de Dragon                    ║
+║ Junto a la mesa de mapas, con Robin          ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirando mal a Sabo       ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Dragon: "¿Se le puede devolver?"   ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 07:34, cuarto de Robin. "Hola, Koala." Koala, colorada, pide perdón, junta la carpeta; nadie sabía que volvió (ni Sabo ni Dragon). Robin despierta: "Buenos días, Koala. Cierra la puerta, por favor. Hay corriente." Koala: "Bienvenido... Robin estaba... bien." Informe de los infiltrados en Mary Geoise: es sobre Kuma (Robin se tensa). Reunión en la torre a las 8. "Si Dragon-san se entera de que estás en la base y no te llevé, me mata. ¿Vienes a la torre?"
+ESTADO AL CIERRE: Día ~227 08:02, torre de Dragon. Robin toca la última de las 97 marcas, lleva su cuaderno. En el patio, alumnos de espada se cuadran ante Facundo. En la torre: Corvin, Hack, Koala, Sabo (abrazo: "¡Ace me va a matar, le prometí que le avisaba!"), Dragon ("Llegaste en un buen momento. O en uno muy malo."). Informe: hace tres semanas Vegapunk terminó de reprogramar a Kuma (sin memoria, voluntad ni hombre); el Gobierno se lo regaló a los Dragones Celestiales: esclavo en Mary Geoise. Dragon: Sabo le contó lo de Barbablanca; "Kuma era uno de los nuestros. Mi amigo. ¿Se le puede devolver lo que le quitaron?"

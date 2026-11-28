@@ -28,3 +28,4 @@ RELACIÓN CON FACUNDO: le debe la memoria y la vida de Ace; lo mira como a algui
 - T1463 · Se presenta a Barbablanca: "Gracias por cuidar a mi hermano." Declina ser su hijo: "ya tengo un lugar. Un hombre de capa verde que me sacó del mar y nunca me pidió nada. Y dos hermanos." Conoce a los comandantes en la fiesta.
 - T1467 · Despedida de Ace al amanecer en la proa (Ace: si vuelve a desaparecer, quemará el Gobierno Mundial para encontrarlo). Vuelve a Baltigo con Facundo. Koala le tira carpetas y lo abraza.
 - T1471 · Una tarde en la muralla con dos botellas: le cuenta a Facundo recuerdos de la infancia con Ace y Luffy, uno tras otro.
+- T1865 · Torre: salta de la mesa: "¡FACUNDO!" Abrazo con palmadas (casi tira a Kase). "¡Volviste! ¡Robin, volvió! ¡Ace me va a matar, le prometí que le avisaba! ¿Dónde estuviste? No, no me digas. Robin me lo va a leer en su cuaderno." Le contó a Dragon la curación de Barbablanca.
