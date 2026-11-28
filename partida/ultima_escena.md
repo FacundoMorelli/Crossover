@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1860)
-
-si, soy yo amor, entro y la abrazo por detrás
-
-## RESPUESTA 1 (T1860)
-
-> si, soy yo amor, entro y la abrazo por detrás
-
-> —Sí, soy yo, amor.
-
-Empujas la puerta. Cruzas el cuarto en dos pasos, entre las pilas de libros del piso, y la abrazas por detrás, por encima de los hombros, con la cara junto a la suya.
-
-Robin no se da vuelta.
-
-Se queda quieta un segundo, con la pluma todavía en la mano. Después la deja sobre el cuaderno, despacio, con cuidado, para no manchar la página. Levanta las dos manos y te agarra los antebrazos, fuerte, apretándolos contra su pecho. Apoya la mejilla en tu brazo. Cierra los ojos.
-
-Respira hondo.
-
-—Hueles a otro lugar —dice, muy bajito—. A ajo. Y a lluvia. Y a algo que se quemó.
-
-Kase salta de tu hombro a la mesa, camina por encima del cuaderno abierto sin pisar la tinta fresca, y se le sienta delante, mirándola. Robin abre los ojos y lo mira. Se le escapa una risa suave, por la nariz.
-
-—Fufu. Hola, Kase.
-
-Una mano extra le florece en el borde de la mesa, al lado del gato, y le rasca detrás de las orejas. Kase se deja.
-
-Robin no te suelta los brazos.
-
-—Noventa y siete días —dice, con la voz tranquila, serena, como si leyera una línea de un libro—. Los conté. Hice una marca en la pared, al lado de la ventana, cada mañana. Koala dice que es de presidiaria. —Una pausa—. Sabo dice que es romántico. Dragon no dijo nada. Pero la miró.
-
-Gira la cabeza, por fin, apenas, lo justo para mirarte de reojo, de muy cerca. Los ojos azules, serenos, con algo que brilla en el fondo.
-
-—Te dejé ir al mundo de los titanes —dice—. Te pedí dos cosas antes de que te fueras. ¿Te acuerdas?
-
-Sonríe, de costado.
-
-—Algo de ese mundo, para tocarlo. Y que me contaras si te reconocieron.
-
-Te aprieta los brazos.
-
-—Empieza por la segunda. —Hace una pausa—. Pero no te sueltes.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1860 · ONE PIECE · DÍA ~226 · 21:41    ║
-║ Baltigo · cuarto de Robin                    ║
-║ Junto a la mesa, abrazado a Robin            ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la mesa, frente a Robin             ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Robin: ¿te reconocieron?           ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1861)
+## COMANDO 1 (T1861)
 
 si, me reconocieron, y le doy un beso, y saco algo de ese mundo para que vea
 
-## RESPUESTA 2 (T1861)
+## RESPUESTA 1 (T1861)
 
 > si, me reconocieron, y le doy un beso, y saco algo de ese mundo para que vea
 
@@ -115,11 +58,11 @@ Gira la cabeza y te mira, de muy cerca, con los ojos húmedos y serenos.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1862)
+## COMANDO 2 (T1862)
 
 Una chica obsesionada con los inventos se llama Hange
 
-## RESPUESTA 3 (T1862)
+## RESPUESTA 2 (T1862)
 
 > Una chica obsesionada con los inventos se llama Hange
 
@@ -166,6 +109,69 @@ Se queda callada un momento. Después gira la cabeza y te mira, de muy cerca, co
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1863)
+
+si, me quedo contigo, le doy un beso
+
+## RESPUESTA 3 (T1863)
+
+> si, me quedo contigo, le doy un beso
+
+> —Sí. Me quedo contigo.
+
+Le das un beso.
+
+Robin cierra el cuaderno despacio, sin mirar, con una mano extra que le florece en la mesa. Otra mano dobla la capa verde de la Legión y la deja con cuidado sobre la pila de libros más cercana. Otra apaga la lámpara de aceite. Las suyas, las de verdad, no te sueltan.
+
+El cuarto queda a oscuras, con la luz blanca de la luna entrando por la ventana angosta, sobre las noventa y siete marcas de la pared.
+
+Kase salta de la mesa, cruza el cuarto sin hacer ruido y se acomoda sobre la capa de la Legión, encima de los libros, de espaldas a los dos.
+
+—Te extrañé —dice Robin, en un susurro, contra tu boca.
+
+...
+
+Más tarde, mucho más tarde, el viento de Baltigo sigue golpeando la ventana.
+
+Robin duerme sobre tu pecho, en la cama angosta, con el pelo largo suelto desparramado sobre tu piel. Respira despacio, tranquila, como alguien que no durmió así en mucho tiempo. Tiene una mano abierta sobre el dragón tatuado, encima de tu corazón.
+
+...
+
+El sol entra por la ventana angosta, blanco, frío.
+
+Una campana suena a lo lejos, en algún patio de la fortaleza. Pasos en el pasillo de piedra. Voces de revolucionarios que se despiertan, que bajan a desayunar, que discuten sobre un envío de armas.
+
+Y después, unos golpes en la puerta. Tres, rápidos, alegres.
+
+—¡Robin! —Una voz de mujer joven, enérgica, del otro lado—. ¡Robin, despierta! ¡Dragon quiere a todos en la torre a las ocho! ¡Llegó un informe de...!
+
+La puerta se abre sin esperar respuesta. No tiene llave: nunca tuvo.
+
+En el umbral aparece Koala, con el pelo corto naranja revuelto, la gorra en la mano, una carpeta bajo el brazo y la boca abierta a mitad de la frase.
+
+Te ve.
+
+Ve a Robin, dormida sobre tu pecho, con la sábana hasta los hombros. Ve a Kase, que levanta la cabeza desde la capa verde y la mira con los dos ojos, rojo y azul, con absoluto desprecio.
+
+La carpeta se le resbala de debajo del brazo. Las hojas se desparraman por el piso de piedra.
+
+—¡¿Facundo?!
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1863 · ONE PIECE · DÍA ~227 · 07:32    ║
+║ Baltigo · cuarto de Robin                    ║
+║ En la cama, con Robin dormida encima         ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: sobre la capa de la Legión, despierto  ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Koala en la puerta: "¡¿Facundo?!"  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~226 21:48, cuarto de Robin. Facundo: "Una chica obsesionada con los inventos. Se llama Hange." Robin: "Por cómo lo dices, me imagino que le diste muchas cosas para inventar." Abre "Los mundos de Facundo" (escrito hasta la mitad: el mundo de los titanes, las tres murallas, Shiganshina, Eren, el mar) y escribe: "Hange. La primera que lo reconoció al volver." Kase estornuda sobre la página. "Siempre que vuelves, el cuaderno se queda chico." "Es tarde... no dormí bien en noventa y siete días. Mañana me cuentas cómo es Hange... Esta noche... ¿te quedas?"
+ESTADO AL CIERRE: Día ~227 07:32, cuarto de Robin. "Sí. Me quedo contigo." Beso; manos de Hana Hana cierran el cuaderno, doblan la capa y apagan la lámpara. "Te extrañé." (fundido). Robin durmió sobre su pecho. Mañana: campana; Koala abre la puerta (sin llave) gritando que Dragon quiere a todos en la torre a las 8 por un informe; ve a Facundo con Robin dormida encima; se le cae la carpeta: "¡¿Facundo?!" Kase la mira con desprecio desde la capa.

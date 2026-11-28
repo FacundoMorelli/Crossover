@@ -19,3 +19,4 @@ ESTADO: activa
 - T1453 · Corre a Sabo cuando cae; arrodillada a su lado: "¡Sabo-kun, mírame!"
 - T1455 · Le dejan los informes de Sabo: "¡Son tres meses de informes atrasados!" "¡No te estoy diciendo que sí!"
 - T1467 · Recibe a Sabo tirándole una carpeta, abrazándolo y tirándole otra. Intenta acariciar a Kase; Kase la mira hasta que retira la mano.
+- T1863 · Día ~227 07:32 · Golpea y abre la puerta del cuarto de Robin (sin llave): "¡Robin, despierta! ¡Dragon quiere a todos en la torre a las ocho! ¡Llegó un informe de...!" Ve a Facundo en la cama con Robin dormida; se le cae la carpeta: "¡¿Facundo?!" QUÉ SABE: que Facundo volvió a Baltigo (lo ve).
