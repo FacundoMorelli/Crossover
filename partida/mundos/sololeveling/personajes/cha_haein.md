@@ -77,3 +77,4 @@ QUÉ SABE DE FACUNDO (T1797): nombre; viajero; sin papeles; no sabía qué son c
 - T1842 · Come una semilla del ermitaño de Facundo: heridas cerradas, maná lleno.
 - T1843 · Ve a Jinwoo extraer al Rey. Cruza la caverna hacia Facundo, lo mira como por primera vez, ojos llenos: "Me dijiste 'te espero aquí'. En el hotel. Me dijiste que me ibas a esperar en el hotel." (entre risa y llanto)
 - T1844 · Facundo la abraza: "Perdón, amor. No quería que te pasara nada." Suelta la espada; lo abraza con toda su fuerza y llora sobre el dragón del pecho. Kase en su nuca: se ríe llorando. "No me pidas perdón. No te atrevas a pedirme perdón." "No sé qué eres. Y no me importa. Dijiste que hay cosas que son secreto. Pero estás aquí. Y estamos todos vivos. Todos."
+- T1848 · Mira irse a los japoneses con ojos brillantes. "Facundo. Quiero ir a ver a mamá. Ahora. Seguro estuvo mirando la tele. Seguro se desmayó cuando apareciste."

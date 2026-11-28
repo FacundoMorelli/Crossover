@@ -3,100 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1845)
-
-agarrense de mi todos, o estén conectados entre ustedes. me teletransporto al buque
-
-## RESPUESTA 1 (T1845)
-
-> agarrense de mi todos, o estén conectados entre ustedes. me teletransporto al buque
-
-> —Agárrense de mí todos, o estén conectados entre ustedes.
-
-Por un segundo nadie se mueve. Se miran entre ellos, en la caverna, entre los cuerpos de miles de hormigas.
-
-Cha Hae-in es la primera. Levanta su espada del piso, se la cuelga a la espalda, y te agarra la mano. Fuerte. Sin soltarla.
-
-Después Min Byung-Gyu se pone de pie y le agarra el otro brazo a ella. Ma Dongwook, riéndose todavía, nervioso, le pone la mano en el hombro a Min. Baek Yoonho, en silencio, toma la de Ma. Lim Taegyu, los demás, uno por uno, se van agarrando de una mano, de un hombro, de una correa de armadura, formando una cadena torcida entre las hormigas caídas, como chicos en una excursión del colegio. Choi Jong-In es el último coreano: se acomoda los anteojos, suspira, y le apoya la mano en el hombro a Baek.
-
-Arriba, el camarógrafo baja de la saliente resbalando por la pared, con la cámara apretada contra el pecho, y se agarra del cinturón de Lim Taegyu sin que nadie se lo pida.
-
-Jinwoo se queda donde está, junto al cadáver del Rey, con las manos en los bolsillos. Te mira. Tú lo miras. Después de un segundo, camina hasta la cadena y apoya dos dedos en el hombro de Choi Jong-In, que se pone rígido.
-
-Kase, en la nuca de Cha Hae-in, cierra los ojos.
-
-La caverna desaparece.
-
-...
-
-Viento. Sal. Sol. Gritos de gaviotas.
-
-Aparecen todos juntos, en cadena, en la cubierta de un buque enorme, gris, con el emblema de la Asociación de Cazadores pintado en la chimenea. A lo lejos, sobre el mar azul, la costa negra de Jeju, en silencio. Alrededor, en la cubierta, decenas de personas: marineros, técnicos con auriculares, médicos de la Asociación con camillas preparadas, un grupo de funcionarios de traje junto a unas pantallas portátiles que muestran el último fotograma de la transmisión, congelado: tu cara, en la caverna, con el Rey hormiga muerto a tus pies.
-
-Todos se dan vuelta al mismo tiempo.
-
-Alguien deja caer una tablet. Un médico se sienta en el piso de la cubierta, sin darse cuenta.
-
-Y en el medio, de traje negro, con los anteojos de sol puestos y un teléfono satelital en la mano, Woo Jinchul. Te mira. Mira la cadena de cazadores coreanos detrás de ti, uno por uno, vivos, enteros, con las armaduras rotas pero de pie. Cuenta. Lo ves contar, moviendo apenas los labios.
-
-Dieciséis.
-
-[Los cazadores coreanos de la incursión a la isla de Jeju volvieron vivos.]
-
-```
-╔══════════════════════════════════════════════╗
-║ MISIÓN DE MUNDO CUMPLIDA                     ║
-║ Mundo: Solo Leveling                         ║
-║                                              ║
-║ Todos los cazadores coreanos de la           ║
-║ incursión a la isla de Jeju volvieron vivos. ║
-║ RECOMPENSA: 25.000 EXP · 600 Fragmentos      ║
-║ Mundos completados: 15/16                    ║
-╚══════════════════════════════════════════════╝
-```
-
-[Has subido de nivel.]
-
-```
-╔══════════════════════════════════════════════╗
-║ NIVEL 35 · HITO                              ║
-║ +4 a todos los stats · +15 puntos            ║
-║                                              ║
-║ HABILIDAD DEL SISTEMA: REFLEJO DEL ECLIPSE   ║
-║ Un doble exacto de ti, con todos tus         ║
-║ poderes, durante una hora. Lo que él         ║
-║ percibe, lo percibes tú.                     ║
-╚══════════════════════════════════════════════╝
-```
-
-Cha Hae-in no te suelta la mano. Mira el buque, el mar, el sol, la costa de Jeju a lo lejos, como si no pudiera creer que está afuera. Min Byung-Gyu se sienta en la cubierta y se pone a reír, tapándose la cara con las dos manos. Jinwoo saca los dedos del hombro de Choi y da un paso atrás, apartándose de la cadena.
-
-Woo Jinchul se saca los anteojos de sol. Tiene los ojos rojos.
-
-Camina hacia ti. Se detiene a un paso. Te mira a los ojos un rato largo, sin decir nada. Después levanta el teléfono satelital, que todavía tiene en la mano.
-
-—Señor Morelli —dice, con la voz ronca—. El presidente Go Gunhee está en la línea. —Te ofrece el teléfono—. Quiere hablar con usted.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1845 · SOLO LEVELING · DÍA 22 · 11:43  ║
-║ Estrecho de Jeju                             ║
-║ Buque de la Asociación · cubierta            ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 1.282.800 won           ║
-║ Energía 95% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la nuca de Cha Hae-in               ║
-║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
-║ OBJETIVO: Go Gunhee al teléfono              ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1846)
+## COMANDO 1 (T1846)
 
 agarro el telefono
 
-## RESPUESTA 2 (T1846)
+## RESPUESTA 1 (T1846)
 
 > agarro el telefono
 
@@ -141,11 +52,11 @@ La voz se le vuelve más baja, más directa.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1847)
+## COMANDO 2 (T1847)
 
 nada señor, solo queria ayudarlos y no queria dejar que nadie muera de corea
 
-## RESPUESTA 3 (T1847)
+## RESPUESTA 2 (T1847)
 
 > nada señor, solo queria ayudarlos y no queria dejar que nadie muera de corea
 
@@ -204,6 +115,65 @@ Hace una pausa.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1848)
+
+no queria dejarlos morir, pero ustedes estaban dispuestos a dejar morir a los compañeros
+
+## RESPUESTA 3 (T1848)
+
+> no queria dejarlos morir, pero ustedes estaban dispuestos a dejar morir a los compañeros
+
+> —No quería dejarlos morir. Pero ustedes estaban dispuestos a dejar morir a sus compañeros.
+
+Goto Ryuji no se mueve.
+
+Te sostiene la mirada. Las manos se le cierran sobre la empuñadura de la katana, tan fuerte que la vaina cruje contra el piso de metal de la cubierta. Detrás de él, Hoshino baja la vista. Kanae se muerde el labio. Kumamoto, con una venda en la cabeza, mira hacia el mar.
+
+El viento del estrecho le mueve el pelo largo a Goto sobre la cara. No se lo aparta.
+
+—Sí —dice, al fin. En coreano. Torpe, con acento, pero en coreano, para que lo escuchen todos—. Estábamos dispuestos.
+
+Se queda callado un rato largo. Los marineros de alrededor dejaron de moverse. Los médicos, con las camillas, también.
+
+Después, despacio, Goto Ryuji suelta la katana. La deja apoyada contra la baranda. Da un paso atrás. Junta los pies.
+
+Y se inclina.
+
+No es la inclinación corta de los saludos en la arena. Es una reverencia profunda, de la cintura, con la espalda recta y la cabeza baja, las manos a los costados, sostenida. Delante de ti. Delante de los coreanos. Delante de los suyos.
+
+Hoshino se inclina detrás de él. Después Kanae. Después los demás japoneses, uno por uno. Hasta Kumamoto, último, con la venda en la cabeza.
+
+—Mis hombres murieron por una orden que yo obedecí —dice Goto, con la cabeza baja, hacia el piso—. No por las hormigas. Por mí. —Una pausa—. No lo voy a olvidar. Y Matsumoto tampoco va a olvidarlo, cuando vuelva a Tokio.
+
+Se endereza. Te mira. La cara cansada, sucia de polvo, sin la sonrisa de lobo.
+
+—Gracias por enseñarle a un viejo lo que significa la palabra "compañero", novio sin maná.
+
+Recoge la katana, se la vuelve a poner en la cintura, y se va caminando hacia el helicóptero con sus cazadores detrás, en silencio.
+
+En la cubierta, por un momento, nadie dice nada. Después los médicos vuelven a moverse, los marineros también. Alguien empieza a repartir mantas y botellas de agua.
+
+Cha Hae-in te aprieta la mano. La miras: está mirando a los japoneses irse, con los ojos brillantes. Después te mira a ti.
+
+—Facundo —dice, bajito, con la voz cansada—. Quiero ir a ver a mamá. Ahora. —Se le escapa una risita que se le quiebra a la mitad—. Seguro estuvo mirando la tele. Seguro se desmayó cuando apareciste.
+
+Kase, en su nuca, le da un golpecito con la cabeza en la oreja.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1848 · SOLO LEVELING · DÍA 22 · 11:56  ║
+║ Estrecho de Jeju                             ║
+║ Buque de la Asociación · cubierta            ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 1.282.800 won           ║
+║ Energía 95% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la nuca de Cha Hae-in               ║
+║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
+║ OBJETIVO: Cha quiere ir a ver a su mamá      ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 11:52, cubierta del buque. Facundo a Gunhee: "Nada, señor. Solo quería ayudarlos..." Gunhee ríe y llora; pone el nombre y la residencia de Facundo bajo protección de la Asociación (nadie accede; si lo molestan o lo quieren reclutar, que lo llamen a él). "Gracias... Por Min" (Min le había pedido que le dijera a su padre que no irían a pescar). Corta. Llega el helicóptero de Draw Sword: Goto (sin sonreír), Hoshino, Kanae, Kumamoto y pocos más (Mari viva; muertos: Akari, Kenzo, Tatsumi, Kei, Ippei). Goto: Matsumoto ordenó retirarse y lo obedeció; perdió a cinco. Apoya la katana: "Me debías una pelea... Ya no. Ya vi lo que vio ella." "¿Por qué no bajaste por los míos?"
+ESTADO AL CIERRE: Día 22 11:56, cubierta del buque. Facundo a Goto: "No quería dejarlos morir. Pero ustedes estaban dispuestos a dejar morir a sus compañeros." Goto, en coreano: "Sí. Estábamos dispuestos." Reverencia profunda; todos los japoneses se inclinan. "Mis hombres murieron por una orden que yo obedecí... Matsumoto tampoco va a olvidarlo." "Gracias por enseñarle a un viejo lo que significa la palabra 'compañero', novio sin maná." Se van al helicóptero. Cha: "Quiero ir a ver a mamá. Ahora. Seguro estuvo mirando la tele."

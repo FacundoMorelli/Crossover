@@ -1847,3 +1847,4 @@ T1844 · ISLA DE JEJU · Abraza a Cha: "Perdón, amor." "Estamos todos vivos." C
 T1845 · SOLO LEVELING · Buque de la Asociación · Saca a todos de Jeju. MISIÓN DE MUNDO CUMPLIDA (15/16). NIVEL 35: Reflejo del Eclipse. Go Gunhee al teléfono.
 T1846 · SOLO LEVELING · Buque · Go Gunhee al teléfono: "Corea le debe dieciséis vidas. ¿Qué quiere?"
 T1847 · SOLO LEVELING · Buque · A Gunhee: "Nada, solo quería ayudar." Protección de la Asociación. Goto: "¿Por qué no bajaste por los míos?"
+T1848 · SOLO LEVELING · Buque · A Goto: "Estaban dispuestos a dejar morir a sus compañeros." Reverencia de los japoneses. Cha quiere ver a su mamá.
