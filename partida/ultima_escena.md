@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1833)
-
-simula hasta jeju
-
-## RESPUESTA 1 (T1833)
-
-> simula hasta jeju
-
-...
-
-Los once días que faltan pasan rápido.
-
-Cha Hae-in entrena todos los días con los japoneses. Sale del hotel a las siete de la mañana con la espada a la espalda y vuelve a la noche, cada vez más cansada y más callada. Las formaciones de retirada, los ejercicios de la cámara de la reina, las simulaciones con hologramas de hormigas que la Asociación armó con los videos de la tercera incursión. Algunas noches se duerme vestida, encima de la colcha, antes de que termine de bañarse el agua de la bañera. Otras se queda despierta con la cabeza en tu pecho, mirando el techo, sin hablar, y tú le escuchas el corazón, que late rápido aunque esté quieta.
-
-Kumamoto no vuelve a los entrenamientos. Lo suspendieron. Goto Ryuji, cada vez que te ve en la grada del gimnasio, te señala con la punta de la katana envainada y sonríe: la deuda sigue en pie.
-
-Min Byung-Gyu te trae una vez a la grada una caja de pescado seco para Kase, que su hermana mandó desde Busan. Te cuenta que después de Jeju piensa tomarse un mes de vacaciones, el primero en seis años, e ir a pescar con su padre a una isla del sur.
-
-Jinwoo no vuelve a aparecer. Ni en la Asociación, ni en la calle. Pero el día catorce, una noche, al volver al hotel, encuentras sobre la mesita de luz de la 2207, junto al teléfono blanco, una lata de atún para gatos que no compró nadie. La recepcionista jura que nadie subió. Kase la huele, mira hacia la sombra de la cortina durante un rato largo, y después se la come.
-
-El día diecinueve, Cha Hae-in te lleva otra vez a cenar a la casa de su mamá, como prometiste. La señora Kang cocina para treinta. No habla de Jeju en toda la cena. Cuando se van, abraza a su hija en la puerta mucho más tiempo que la vez anterior, sin decir nada, y a ti te agarra la cara con las dos manos, desde abajo, y te mira a los ojos un rato largo. Después te da las dos palmadas en el brazo y cierra la puerta verde.
-
-El día veintiuno, la Asociación anuncia oficialmente la incursión. Todos los canales la cubren. La transmitirán en vivo, con un camarógrafo de rango A que va con el equipo coreano. En la pantalla gigante de Gangnam ponen las caras de los dieciséis coreanos, una por una. La de Cha Hae-in aparece al final, la más grande, con su nombre en letras doradas: "LA PRINCESA DE LA ESPADA".
-
-Esa noche no duerme.
-
-...
-
-El día veintidós amanece despejado, frío, con un cielo azul pálido sobre Seúl.
-
-Son las cinco y media de la mañana. La habitación 2207 está a oscuras, salvo por la luz gris del amanecer que entra por el ventanal y por la lámpara chiquita de la mesita.
-
-Cha Hae-in está de pie junto a la puerta, con la armadura de combate completa: liviana, gris plateada, ajustada al cuerpo, con el emblema del Gremio de Cazadores en el hombro. La espada larga a la espalda. El pelo atado alto, apretado. La cadenita de plata con la placa de cazadora y la llavecita del candado de Namsan colgándole por encima de la armadura.
-
-Abajo, en la puerta del hotel, la espera una camioneta de la Asociación que la va a llevar al helipuerto. Desde ahí, helicóptero hasta un buque en el estrecho. Desde el buque, la isla.
-
-Kase está sentado en el piso, frente a ella, muy derecho, mirándola. No se movió desde que ella se levantó.
-
-Cha Hae-in se agacha y le pasa la mano por la cabeza, despacio, de la frente a la nuca. Kase cierra los ojos y la deja.
-
-Después se endereza y te mira. Tiene la cara tranquila, seria, la cara que tiene antes de cada Puerta. Pero le tiemblan un poco las manos, y se las junta delante para que no se note.
-
-—Ya me tengo que ir —dice.
-
-Se queda ahí un segundo, en el umbral, sin abrir la puerta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1833 · SOLO LEVELING · DÍA 22 · 05:30  ║
-║ Seúl, Corea del Sur                          ║
-║ Hotel de Gangnam · habitación 2207           ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: sentado frente a Cha, mirándola        ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Hoy es la incursión a Jeju         ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1834)
+## COMANDO 1 (T1834)
 
 le doy un beso, te espero aquí, cuídate mucho amor
 
-## RESPUESTA 2 (T1834)
+## RESPUESTA 1 (T1834)
 
 > le doy un beso, te espero aquí, cuídate mucho amor
 
@@ -115,11 +54,11 @@ Sobre la mesita de luz, al lado del teléfono blanco, sigue la tarjetita del hot
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1835)
+## COMANDO 2 (T1835)
 
 me teletransporto a jeju sin que nadie me vea
 
-## RESPUESTA 3 (T1835)
+## RESPUESTA 2 (T1835)
 
 > me teletransporto a jeju sin que nadie me vea
 
@@ -172,6 +111,71 @@ El Rey ya está despierto.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1836)
+
+espero escondido a que lleguen los cazadores y miro
+
+## RESPUESTA 3 (T1836)
+
+> espero escondido a que lleguen los cazadores y miro
+
+Te quedas en la saliente de roca negra, pegado a la pared, en la sombra. Kase no se despega de tu cuello.
+
+Las horas pasan despacio. El sol sube sobre el mar. Las hormigas siguen con sus patrullas allá abajo, sin saber que estás ahí. Debajo de la montaña, el punto oscuro del Rey va y viene por los túneles del este, inquieto, cada vez más rápido, como algo encerrado que busca la salida.
+
+A las nueve y media se escucha el ruido.
+
+Primero lejos, sobre el mar: un zumbido grave que crece. Después se ven: cuatro helicópteros negros con el emblema de la Asociación, en formación, volando bajo sobre el agua desde el buque. Las hormigas de la costa levantan las cabezas, todas a la vez, y las antenas se les mueven como pasto con viento.
+
+El primer helicóptero se queda suspendido sobre una explanada de tierra al pie de la montaña, a tres kilómetros de tu saliente. Una figura de traje gris claro se asoma por la puerta abierta. Choi Jong-In levanta una mano. Del cielo caen meteoritos de fuego, cinco, diez, veinte, y la explanada estalla en llamas naranjas, y las hormigas que había ahí dejan de existir. Cuando el humo se despeja, hay un círculo negro, humeante, vacío.
+
+Los helicópteros bajan. Los cazadores saltan.
+
+No los ves bien desde tan lejos: figuras chiquitas, de colores. Pero los sientes, con el ki y con el Ojo del Eclipse, cada uno con su maná. El de Choi, caliente, naranja. El de Baek, salvaje, blanco. El de Min Byung-Gyu, verde, suave, en el medio de todos. Y el de ella: plateado, afilado, firme como el filo de su espada, adelante de todo.
+
+Cha Hae-in.
+
+Un punto chiquito, de otro color, sigue a los coreanos desde atrás, a distancia. El camarógrafo de la transmisión.
+
+Los japoneses bajan en otro punto, al oeste, y hacen lo que dijo Goto: hacen ruido. Mucho. Sientes cómo se abren en abanico, diez puntos de maná fuertes, blancos, y cómo las hormigas de toda la isla empiezan a correr hacia ellos, cientos, miles, saliendo de los agujeros como agua de una canilla rota. El maná de Goto Ryuji brilla en el centro, enorme, cortando, cortando, cortando. La sombra de Jinwoo sigue pegada a la suya, quieta, invisible para todos menos para ti.
+
+Mientras tanto, los coreanos bajan por un agujero grande al pie de la montaña. Al nido.
+
+Los sigues con el Ojo del Eclipse por los túneles. Bajan rápido, en formación, como en los entrenamientos. Choi deja una pared de fuego en la entrada para que nada los siga. Matan hormigas guardia en las galerías. Llegan a una cámara llena de huevos.
+
+Ahí, el punto plateado de Cha Hae-in se detiene de golpe, frente a algo. Un huevo enorme, más grande que los demás, partido al medio. Vacío. La sientes quedarse quieta, mucho rato. Entiende lo que significa.
+
+Pero siguen. Bajan más. Hacia la reina.
+
+Y afuera, en la costa este, el punto oscuro sale a la superficie.
+
+Lo ves. Por primera vez con tus propios ojos, a lo lejos, a cuatro kilómetros: algo emerge de un agujero en la costa este, entre los esqueletos de unos hoteles. No es tan grande como las hormigas soldado. Es más chico. Del tamaño de un hombre alto, erguido sobre dos patas, con un caparazón negro, brillante, casi metálico, y dos alas transparentes plegadas en la espalda. Se queda quieto en la luz del sol. Gira la cabeza.
+
+Mira hacia el oeste. Hacia el ruido. Hacia los japoneses.
+
+Más cerca de él, a un kilómetro, separado del grupo principal, hay un equipo de tres japoneses limpiando una zona. Tres puntos de maná blancos: uno verde, suave, de sanadora, y dos de combate. Uno de ellos, el más rápido, lo conoces. Kenzo Tanaka.
+
+El Rey hormiga abre las alas.
+
+En un segundo ya no está donde estaba. Va hacia ellos.
+
+Kase te clava las uñas en el hombro.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1836 · SOLO LEVELING · DÍA 22 · 10:42  ║
+║ Isla de Jeju                                 ║
+║ Ladera del Hallasan · saliente de roca negra ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: clavándote las uñas en el hombro       ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: ¡El Rey va por el equipo de Kenzo! ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 05:37, isla de Jeju, saliente de roca negra en la ladera del Hallasan. Facundo y Kase se teletransportaron sin ser vistos. Isla en ruinas, miles de agujeros, hormigas del tamaño de caballos patrullando. Buque de la Asociación en la costa sur; los helicópteros no llegaron (faltan horas). Con ki y Ojo del Eclipse: la isla hueca de túneles; la reina y su guardia en el centro bajo la montaña; el REY HORMIGA ya nació (huevo roto) y se mueve solo, rápido, por los túneles del este, más fuerte que la reina y que cualquier cazador de Seúl.
+ESTADO AL CIERRE: Día 22 10:42, saliente del Hallasan. 09:30 llegaron 4 helicópteros; Choi limpió la zona de salto con meteoritos. Coreanos (Choi, Baek, Min, Cha adelante; camarógrafo atrás) bajaron al nido; Choi dejó pared de fuego en la entrada; en la cámara de los huevos Cha vio el huevo enorme roto (entendió); siguen hacia la reina. Japoneses de cebo al oeste, atraen miles de hormigas; Goto corta (sombra de Jinwoo pegada a él). El REY HORMIGA salió a la superficie en la costa este (Facundo lo ve a 4 km: tamaño de hombre alto, erguido, caparazón negro metálico, alas transparentes), abrió las alas y va hacia el equipo de 3 japoneses aislado a 1 km de él (Akari sanadora, Kenzo Tanaka, Tatsumi). Kase clava las uñas. (Facundo observó todo por ki/Ojo del Eclipse a distancia: no vio técnicas de cerca.)

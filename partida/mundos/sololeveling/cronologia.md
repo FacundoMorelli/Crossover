@@ -20,3 +20,5 @@ Llegada: Día 1, 21:40 (T1764).
 - Días 11-21 · Entrenamientos conjuntos; Kumamoto suspendido.
 - Día 22 · Incursión a Jeju: camioneta → helipuerto → buque en el estrecho → isla.
 - Día 22 05:37 · (canon) El Rey hormiga ya nació (huevo roto en el nido) y recorre solo los túneles del este. Los cazadores aún no llegaron (buque en la costa sur).
+- Día 22 09:30 · Llegan 4 helicópteros; Choi limpia la zona de salto. Coreanos al nido (pared de fuego en la entrada); Cha ve el huevo enorme eclosionado. Japoneses de cebo al oeste.
+- Día 22 10:42 · El Rey hormiga sale a la superficie en la costa este y vuela hacia el Equipo Charlie (Akari, Kenzo, Tatsumi).

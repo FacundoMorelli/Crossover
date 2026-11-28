@@ -1835,3 +1835,4 @@ T1832 · SOLO LEVELING · Yeouido · A Jinwoo: "Voy a estar cerca. No es necesar
 T1833 · SOLO LEVELING · Hotel de Gangnam · (simulados Días 11-21) Preparativos. Día 22, 05:30: Cha se va a Jeju. "Ya me tengo que ir."
 T1834 · SOLO LEVELING · Hotel de Gangnam · Despedida. "Cuídate mucho, amor." Cha: "Voy a volver. Entro."
 T1835 · ISLA DE JEJU · Se teletransporta sin ser visto. Siente al Rey hormiga ya nacido, suelto por los túneles.
+T1836 · ISLA DE JEJU · Mira la llegada de los cazadores. Coreanos al nido; japoneses de cebo. El Rey hormiga vuela hacia el equipo de Kenzo.
