@@ -19,3 +19,4 @@ ESTADO: llega a la Puerta de Gangnam con el Gremio. ADULTA.
 - T1769 · Al salir busca a Facundo entre la multitud; sonrisa de alivio al verlo. Se lo señala a Jinwoo y va a la cinta: "Facundo. Te quedaste." (Recuerda su nombre.)
 - T1770 · Le cuenta a Jinwoo en voz baja que Facundo no sabía qué son los cazadores ni las Puertas.
 - T1771 · Facundo: "...Aparte, quería ver a Cha de nuevo." Se pone colorada (orejas y mejillas), mira un poste. "Nadie... Nadie me dice esas cosas así, en la cara." "No sabes qué son los cazadores. No tienes papeles, ¿verdad? ¿Tienes dónde dormir esta noche?" RELACIÓN: interés, curiosidad, se preocupa por él.
+- T1772 · Facundo: "No tengo nada." Grita al gremio: "¡Váyanse sin mí! ¡Mañana paso por la oficina con el informe!" Levanta la cinta: "Ven. Hay un hotel a dos cuadras de aquí. Es bueno. Yo lo pago." "¿Lo dejan entrar a un hotel? Si no, buscamos otro." (Kase)

@@ -15,3 +15,4 @@ ENCUENTROS:
 - T1766 · Junto a la Puerta: traje gris claro, alto, pelo engominado hacia atrás, anteojos finos de marco dorado, impaciencia elegante. Llama a Cha Hae-in con un gesto seco.
 - T1767 · Le dice algo seco a Cha Hae-in; entra a la Puerta con una llama chiquita en la punta de los dedos.
 - T1768 · Magia de fuego: meteoritos del tamaño de un auto caen del techo de la caverna sobre los orcos. Mira a Jinwoo sorprendido.
+- T1772 · Cha Hae-in se queda con Facundo; Choi lo mira por encima de los anteojos, suspira y deja que se quede. Se va con el gremio. QUÉ SABE DE FACUNDO: aspecto; que Cha Hae-in se quedó con él.

@@ -1771,3 +1771,4 @@ T1768 · SOLO LEVELING · Puerta de Gangnam · Entra sin ser visto y observa la 
 T1769 · SOLO LEVELING · Gangnam · Sale de la Puerta sin ser visto. Cha Hae-in y Jinwoo se le acercan en la cinta. "¿Tú eres el chico de afuera?"
 T1770 · SOLO LEVELING · Gangnam · "Soy un viajero." Tasación de Jinwoo. Jinwoo: ¿por qué se quedó dos horas mirando la Puerta?
 T1771 · SOLO LEVELING · Gangnam · "Quería ver a Cha de nuevo." Cha colorada; Jinwoo "Ya veo" y se va. Cha: "¿Tienes dónde dormir esta noche?"
+T1772 · SOLO LEVELING · Gangnam · "No tengo nada." Cha Hae-in deja ir al gremio y le ofrece pagarle un hotel a dos cuadras.

@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1769)
-
-salgo antes que todos y de vuelta sin que me vean estoy en el mismo lugar de antes
-
-## RESPUESTA 1 (T1769)
-
-> salgo antes que todos y de vuelta sin que me vean estoy en el mismo lugar de antes
-
-Cuando los cazadores del gremio empiezan a juntar los cristales de maná del piso de la cámara, ya no estás en la saliente.
-
-Subes el túnel en espiral por arriba, de roca en roca, sin ruido, con Kase pegado al cuello. Los orcos que quedaron en los túneles laterales no te sienten pasar. Cruzas el óvalo violeta en el mismo parpadeo en que lo cruzaste al entrar. La avenida de Gangnam se vuelve a encender de golpe: las luces, las sirenas apagadas que giran, el murmullo de la gente.
-
-Nadie te ve salir. Un segundo después estás en el mismo lugar de antes, del lado de afuera de la cinta, entre la chica del celular y el señor de traje. Ninguno de los dos nota que te fuiste.
-
-Kase baja de tu cuello al hombro, se sacude y se lame una pata, como si no hubiera pasado nada.
-
-Pasa el tiempo. La periodista hace dos conexiones más en vivo. Un vendedor ambulante pasa con una caja de latas de café caliente. La multitud se achica un poco y después vuelve a crecer cuando alguien grita que la Puerta "se está apagando".
-
-Es verdad: el óvalo violeta gira más despacio y pierde brillo.
-
-A las once y diez sale el gremio. Primero el grandote del escudo, sudado, con una sonrisa enorme. Después los magos, cargando bolsas llenas de cristales. Después Choi Jong-In, sin una arruga en el traje, acomodándose los anteojos. La gente aplaude y las cámaras se vuelven locas.
-
-Después sale Cha Hae-in.
-
-Detrás de ella, último, con las manos otra vez en los bolsillos de la chaqueta negra, sale Sung Jinwoo.
-
-Cha Hae-in no mira las cámaras. Mira la cinta. Recorre la multitud con los ojos, de izquierda a derecha, rápido, y se detiene en ti.
-
-Se le escapa una sonrisa chiquita, como de alivio.
-
-Le dice algo a Jinwoo, sin mirarlo, y te señala con la barbilla.
-
-Jinwoo sigue la dirección. Te mira. Esta vez no aparta la vista. Te mira a ti y después a Kase. Frunce apenas el ceño, igual que en la cámara del trono.
-
-Cha Hae-in camina hacia la cinta, esquivando a dos periodistas que le ponen el micrófono adelante. Jinwoo, después de un segundo, la sigue.
-
-Se detienen frente a ti, del otro lado de la cinta.
-
-—Facundo —dice Cha Hae-in. Se le nota que se acordó del nombre desde adentro—. Te quedaste.
-
-Jinwoo no dice nada. Te mira los ojos. Después le baja la vista a tus manos, a tus pies, al piso de la avenida, como si buscara algo que no está.
-
-—¿Tú eres el chico de afuera? —pregunta, al final, con voz tranquila.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1769 · SOLO LEVELING · DÍA 1 · 23:12   ║
-║ Seúl, Corea del Sur                          ║
-║ Gangnam, cinta del cordón de la Puerta       ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.815 · 0 won                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1770)
+## COMANDO 1 (T1770)
 
 si, soy un viajero, uso tasación en sung (y acordate de leer bien todas las reglas, etc, por que se compacto y no quiero que pierdas el hilo)
 
-## RESPUESTA 2 (T1770)
+## RESPUESTA 1 (T1770)
 
 > si, soy un viajero, uso tasación en sung
 
@@ -118,11 +59,11 @@ Jinwoo no les hace caso. Da medio paso hacia la cinta, lo suficiente para que na
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1771)
+## COMANDO 2 (T1771)
 
 me gustan las cosas nuevas y no tengo otra cosa que hacer, a parte queria ver a cha de nuevo
 
-## RESPUESTA 3 (T1771)
+## RESPUESTA 2 (T1771)
 
 > me gustan las cosas nuevas y no tengo otra cosa que hacer, a parte queria ver a cha de nuevo
 
@@ -167,6 +108,51 @@ Mira la camioneta, mira tus manos vacías, mira a Kase y vuelve a ti.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1772)
+
+no tengo nada
+
+## RESPUESTA 3 (T1772)
+
+> no tengo nada
+
+> —No tengo nada.
+
+Cha Hae-in te mira. Mira la avenida, llena de vallas, de cámaras, de gente que ya empieza a irse a sus casas. Después vuelve a mirarte, con el ceño un poco fruncido, como quien hace una cuenta que no le gusta.
+
+—¡Vicemaestra! —insiste el grandote.
+
+Ella se da vuelta hacia la camioneta del gremio.
+
+—¡Váyanse sin mí! —le grita, más fuerte de lo que esperabas de ella—. ¡Mañana paso por la oficina con el informe!
+
+El grandote abre la boca, sorprendido, y mira a Choi Jong-In. Choi la mira por encima de los anteojos dorados, un segundo largo, después te mira a ti y suspira, como si no tuviera ganas de discutir a esta hora. Hace un gesto seco con la mano. La puerta de la camioneta se cierra. La camioneta arranca.
+
+Cha Hae-in levanta la cinta con una mano, para que pases por abajo.
+
+—Ven —dice—. Hay un hotel a dos cuadras de aquí. Es bueno. Yo lo pago.
+
+Lo dice rápido y mirando el piso, como si fuera algo práctico y nada más, pero las orejas siguen rojas.
+
+Kase se estira en tu hombro, mira la cinta levantada y después la mira a ella.
+
+—¿Lo dejan entrar a un hotel? —pregunta Cha Hae-in, más bajito, señalando al gato con la barbilla—. Si no, buscamos otro.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1772 · SOLO LEVELING · DÍA 1 · 23:16   ║
+║ Seúl, Corea del Sur                          ║
+║ Gangnam, cinta del cordón de la Puerta       ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.815 · 0 won                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 1 23:15, cinta de Gangnam. Facundo: "Me gustan las cosas nuevas... Aparte, quería ver a Cha de nuevo." Cha Hae-in colorada. Jinwoo casi sonríe: "Ya veo." y se va a la camioneta de la Asociación. Gremio se va (Choi espera). Cha: "Nadie me dice esas cosas así, en la cara." "No tienes papeles, ¿verdad? ¿Tienes dónde dormir esta noche?"
+ESTADO AL CIERRE: Día 1 23:16, cinta de Gangnam. Facundo: "No tengo nada." Cha Hae-in manda al gremio irse sin ella ("mañana paso por la oficina con el informe"); Choi acepta con un suspiro. Cha levanta la cinta: "Ven. Hay un hotel a dos cuadras. Es bueno. Yo lo pago." "¿Lo dejan entrar a un hotel? Si no, buscamos otro." (por Kase)
