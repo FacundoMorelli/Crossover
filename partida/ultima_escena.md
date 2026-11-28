@@ -3,56 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1787)
-
-si, muy bien, gracias por la comida
-
-## RESPUESTA 1 (T1787)
-
-> si, muy bien, gracias por la comida
-
-> —Sí, muy bien. Gracias por la comida.
-
-—De nada. —Lo dice rápido, mirando los palillos, y se le nota que le gustó escucharlo.
-
-Se acerca la caja de bulgogi y la destapa. El vapor sube con olor a soja, a pera, a ajo tostado. Toma un poco de carne con los palillos, la apoya sobre el arroz y come, despacio, con la espalda derecha, como si alguien le hubiera enseñado a comer así de muy chica.
-
-Al tercer bocado se detiene. Te mira de reojo. Respira por la nariz, hondo, como hizo en la cinta.
-
-—Es raro —dice, bajito—. Casi nunca puedo comer tranquila con alguien al lado.
-
-Mueve el arroz con los palillos.
-
-—Desde que desperté, el maná de los demás me... —busca la palabra— me huele. A casi todos los cazadores los siento como algo pesado, sucio. Aunque se bañen, aunque sean buenas personas. Es el maná, no ellos. —Se encoge un poco de hombros—. En las reuniones del gremio, a veces tengo que salir a tomar aire. La gente cree que soy antipática.
-
-Se lleva otro bocado a la boca. Lo mastica. Traga.
-
-—Contigo no pasa nada. No hueles a nada. —Se corrige, rápido, con las orejas rojas—. O sea, hueles a jabón del hotel. Pero no a maná. Nada. Es como... como estar al lado de una ventana abierta.
-
-Kase, que terminó la comida premium, se sube al brazo del sillón, al lado de ella, y se sienta. Cha Hae-in lo mira sorprendida, sin moverse, con los palillos en el aire.
-
-—¿Cuánto tiempo te vas a quedar en Seúl, Facundo? —pregunta, sin mirarte, mirando al gato.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1787 · SOLO LEVELING · DÍA 2 · 13:08   ║
-║ Seúl, Corea del Sur                          ║
-║ Hotel de Gangnam · habitación 2207           ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.292.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el brazo del sillón, junto a Cha    ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1788)
+## COMANDO 1 (T1788)
 
 un tiempo seguramente
 
-## RESPUESTA 2 (T1788)
+## RESPUESTA 1 (T1788)
 
 > un tiempo seguramente
 
@@ -89,11 +44,11 @@ Cha Hae-in termina su arroz y deja los palillos cruzados sobre el cuenco vacío.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1789)
+## COMANDO 2 (T1789)
 
 si, me encantaría, vamos
 
-## RESPUESTA 3 (T1789)
+## RESPUESTA 2 (T1789)
 
 > si, me encantaría, vamos
 
@@ -136,6 +91,57 @@ El taxista los mira por el espejo retrovisor, esperando.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1790)
+
+la torre de namsan, quiero ver toda la ciudad
+
+## RESPUESTA 3 (T1790)
+
+> la torre de namsan, quiero ver toda la ciudad
+
+> —La torre de Namsan. Quiero ver toda la ciudad.
+
+—Namsan —le dice Cha Hae-in al taxista, y el taxi arranca.
+
+Cruzan el río Han por un puente largo, de muchos carriles. Abajo, el agua brilla verde y gris, con barcos de turistas y gente andando en bicicleta por las orillas. Kase mira por la ventanilla con las orejas para adelante. Cha Hae-in mira a Kase. De vez en cuando, cuando cree que no te das cuenta, te mira a ti.
+
+Del otro lado del río, la ciudad cambia: edificios más viejos, calles más angostas, letreros de comida colgando uno encima del otro. Y en el medio, como una isla verde, una montaña cubierta de árboles amarillos y rojos, con una torre blanca y fina en la punta, que pincha el cielo.
+
+El taxi los deja al pie de la montaña. Cha Hae-in paga antes de que puedas sacar la plata, rápida, sin mirar.
+
+Suben en un teleférico, una cabina roja colgada de un cable, con otros turistas: una familia con dos nenes que pegan la cara al vidrio, una pareja de ancianos tomados de la mano, tres estudiantes que sacan fotos. La cabina se balancea y sube por encima de las copas de los árboles. Debajo, el bosque de otoño parece fuego.
+
+Uno de los nenes ve a Kase y le grita a su mamá. Kase lo ignora con una dignidad absoluta.
+
+Arriba, en la cima, hace más frío y sopla viento. La torre se levanta encima de ustedes, blanca y altísima. Y alrededor de la plaza, en las barandas, en los árboles de metal, en las rejas que dan al vacío, hay miles de candados. Miles. De todos los colores, unos encima de otros, oxidados y nuevos, grandes y chiquitos, con nombres escritos con marcador, con corazones, con fechas.
+
+Y más allá de los candados, la ciudad.
+
+Seúl entera, abajo, hasta donde alcanza la vista: un mar de edificios grises y blancos que llega hasta las montañas azules del horizonte, el río Han atravesándola como una cinta de plata, los puentes, las torres de Gangnam del otro lado, chiquitas como juguetes. Se ve todo. Se ve también, entre los edificios, en tres o cuatro lugares lejanos, el brillo violeta de Puertas abiertas, como luces de un árbol de navidad mal puesto.
+
+Cha Hae-in se apoya en la baranda a tu lado, con los anteojos de sol en la mano. El viento le mueve el pelo.
+
+—Desde aquí todo parece tranquilo —dice—. Aunque no lo esté.
+
+Después mira los candados. Se queda mirándolos un rato largo. Un señor, junto a un kiosco, vende candados nuevos con una lapicera de regalo, y una pareja joven está eligiendo uno rojo.
+
+—Dicen que las parejas que ponen un candado aquí... —empieza Cha Hae-in, y se corta en seco. Se pone colorada hasta el cuello—. Nada. Es una cosa de turistas. —Señala rápido hacia el norte, a cualquier lado—. Mira, ahí está el palacio.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1790 · SOLO LEVELING · DÍA 2 · 14:25   ║
+║ Seúl, Corea del Sur                          ║
+║ Monte Namsan · plaza de la torre, candados   ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.292.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, con el viento en la cara ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 13:34. Facundo: "Sí, me encantaría. Vamos." Salen del hotel; Cha con gorra negra y anteojos de sol para que no la reconozcan. Día frío y limpio. Taxi negro frente al hotel; Facundo y Kase atrás, Cha al lado. Opciones: palacio Gyeongbokgung, torre de Namsan, mercado de Gwangjang. "¿Qué quieres ver primero?"
+ESTADO AL CIERRE: Día 2 14:25, cima del monte Namsan, plaza de la torre con miles de candados. Cha pagó el taxi (y el teleférico). Vista de todo Seúl; se ven 3-4 Puertas violetas lejanas. Cha: "Desde aquí todo parece tranquilo. Aunque no lo esté." Mira los candados; un señor vende candados con lapicera; pareja joven eligiendo uno rojo. "Dicen que las parejas que ponen un candado aquí..." se corta, colorada: "Nada. Es una cosa de turistas. Mira, ahí está el palacio."

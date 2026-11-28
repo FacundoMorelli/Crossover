@@ -1789,3 +1789,4 @@ T1786 · SOLO LEVELING · Hotel de Gangnam · Cha entra con bulgogi y comida par
 T1787 · SOLO LEVELING · Hotel de Gangnam · Cha le cuenta su olfato de maná; con él "como una ventana abierta". "¿Cuánto tiempo te vas a quedar en Seúl?"
 T1788 · SOLO LEVELING · Hotel de Gangnam · "Un tiempo." Cha tiene el día libre y le ofrece mostrarle Seúl.
 T1789 · SOLO LEVELING · Gangnam · Sale con Cha Hae-in a conocer Seúl en taxi.
+T1790 · SOLO LEVELING · Namsan · Con Cha en la torre: toda la ciudad. Los candados de las parejas; Cha se corta colorada.
