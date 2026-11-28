@@ -1754,3 +1754,4 @@ T1752 · FULLMETAL · archivo · "¿Por qué te andan buscando?" Hughes explica 
 T1753 · FULLMETAL · cabina / archivo · Deja inconsciente a Envy (+25 Frag), lo lleva junto a Lust en el archivo y los vigila. Hughes, vivo, llama a Mustang desde la cabina.
 T1754 · FULLMETAL · archivo · Espera. Hughes habló con Mustang (llega mañana). Ve a Envy: "¿Ese de dónde salió? ¿Dónde estaba?"
 T1755 · FULLMETAL · archivo · "Te esperaba disfrazado de tu esposa." Hughes: "Saben dónde vivo. ¿Puede llevarme a mi casa? Ayúdeme. Por favor."
+T1756 · FULLMETAL · casa de los Hughes · Teletransporta a Hughes y a los homúnculos a la casa. Gracia: "¿Maes?" Elicia: "¡Un gatito gigante!" A Hughes se le doblan las rodillas.

@@ -3,81 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1753)
-
-me teletransporto a la cabina y dejo inconsciente a envy y dejo a los dos juntos para mirar que no despierten
-
-## RESPUESTA 1 (T1753)
-
-> me teletransporto a la cabina y dejo inconsciente a envy y dejo a los dos juntos para mirar que no despierten
-
-Dos dedos en la frente.
-
-La calle lateral del cuartel. Angosta, empedrada, mojada, con un solo farol de gas a media cuadra y la cabina telefónica verde en la esquina, con el vidrio empañado y la luz de adentro encendida. Hace frío. No hay nadie.
-
-Nadie, salvo una mujer.
-
-Está de pie junto a la cabina, de espaldas a la pared, con las manos juntas delante del vestido. Joven, de pelo castaño corto, ondulado, con una cara dulce, de ama de casa, la clase de cara que le abre la puerta a uno con una sonrisa y una bandeja de galletas. Mira hacia la esquina del cuartel, por donde va a aparecer Hughes. Sonríe un poco, esperando.
-
-No llega a verte.
-
-Un toque en la nuca, con dos dedos, justo donde va.
-
-La mujer se dobla. Y mientras cae, cambia. La cara dulce se le deshace como cera cerca del fuego, el pelo castaño se alarga, se oscurece, se vuelve verde negro, larguísimo, en mechones como hojas de palmera. El vestido se encoge hasta ser una ropa negra y ajustada, sin mangas, con una falda corta. El cuerpo se le alarga, se le afina, deja de ser de mujer o de hombre. En el muslo, por un instante, ves un tatuaje rojo: la misma serpiente que se muerde la cola.
-
-Lo atajas antes de que toque el empedrado. Es liviano. Tiene la piel fría.
-
-[Envy: vencido. Fragmentos +25.]
-
-```
-╔══════════════════════════════════════════════╗
-║ REGISTRO DE PODER                            ║
-║ Cambio de forma                              ║
-║ USUARIO: Envy · Fullmetal Alchemist          ║
-║                                              ║
-║ MISIÓN: Reconocer a Envy diez veces          ║
-║ seguidas, en diez formas distintas, sin      ║
-║ usar el ki ni ningún sentido de energía.     ║
-║ DIFICULTAD: MEDIA                            ║
-╚══════════════════════════════════════════════╝
-```
-
-Al fondo de la calle, en la esquina del cuartel, se oyen pasos rápidos sobre las piedras mojadas. Hughes.
-
-Dos dedos en la frente.
-
-El archivo del segundo piso. La lámpara verde. Las estanterías. Lust sigue ahí, boca arriba sobre los papeles, dormida, con el pelo negro desparramado. Acuestas a Envy a su lado, en el pasillo entre las mismas dos estanterías. Quedan uno junto al otro, en el piso, como dos muñecos guardados en la misma caja: ella de negro, larga, con la serpiente en el pecho; él de negro, flaco, con la serpiente en el muslo. Respiran los dos. Lento. Duermen.
-
-Kase baja de tu brazo, camina hasta ellos, los huele. Primero a ella. Después a él. Arruga la nariz, se da vuelta y se sienta a dos metros, de espaldas, lamiéndose una pata.
-
-Te quedas de pie entre las estanterías, mirándolos.
-
-Y con el ki, abajo, afuera, a media cuadra, sientes a Hughes llegar a la cabina verde. Mira para un lado de la calle, después para el otro. No hay nadie. Abre la puerta de vidrio. Se mete adentro. Descuelga el tubo. Mete una moneda.
-
-Marca un número largo. Con los dedos que todavía le tiemblan un poco.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1753 · FULLMETAL · DÍA 1 · 21:54       ║
-║ Ciudad Central, Amestris, 1914               ║
-║ Cuartel general, archivo del 2.º piso        ║
-║ NIVEL 33 · EXP 461.130/480.000               ║
-║ FRAGMENTOS 289.428 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: sentado de espaldas a los homúnculos   ║
-║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
-║ OBJETIVO: Vigilar a Lust y a Envy            ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1754)
+## COMANDO 1 (T1754)
 
 espero a hughes
 
-## RESPUESTA 2 (T1754)
+## RESPUESTA 1 (T1754)
 
 > espero a hughes
 
@@ -126,11 +56,11 @@ Se acerca, despacio, y se agacha al lado de Envy, como hizo antes con Lust. Le m
 
 ---
 
-## COMANDO 3 (T1755)
+## COMANDO 2 (T1755)
 
 estaba en la cabina esperándote disfrazado de tu esposa
 
-## RESPUESTA 3 (T1755)
+## RESPUESTA 2 (T1755)
 
 > estaba en la cabina esperándote disfrazado de tu esposa
 
@@ -179,4 +109,55 @@ Se le quiebra un poco la voz.
 
 ---
 
-ESTADO AL CIERRE: Día 1 22:11, archivo. Hughes sabe que Envy lo esperaba en la cabina con la cara de Gracia. Pálido: "Saben cómo es Gracia. Saben dónde vivo." Elicia y Gracia solas en casa, a 20 min; les dijo que volvía para la cena. Sin máscara, un padre: "¿Puede llevarme a mi casa así como apareció acá? ¿Ahora? Y estos dos... no puedo dejarlos solos ni llamar a nadie de este edificio. Ayúdeme. Por favor."
+## COMANDO 3 (T1756)
+
+me teletransporto con hughes y los dos homúnculos a su casa
+
+## RESPUESTA 3 (T1756)
+
+> me teletransporto con hughes y los dos homúnculos a su casa
+
+Le pones una mano en el hombro a Hughes. Kase salta a tu otro hombro. Con el pie tocas el brazo de Lust; con la rodilla, el de Envy.
+
+Cierras los ojos y abres el ki hacia donde Hughes mira sin darse cuenta: el oeste, hacia un barrio de casas bajas, a veinte minutos de carro. Entre miles de presencias que se preparan para dormir encuentras dos juntas, en una casa de dos pisos con un jardín al frente. Una, tibia, tranquila, de mujer, que se mueve entre ollas y platos, cantando algo bajito. Otra, chiquita, brillante, inquieta como una chispa, que salta sobre algo blando, sin ganas de dormir. Las dos solas. Las dos bien. Nadie con una piedra roja cerca.
+
+Dos dedos en la frente.
+
+Una sala chica y cálida. Alfombra de flores. Un sillón con un almohadón bordado. Una mesa puesta para tres, con un mantel a cuadros, un plato tapado con otro plato para que no se enfríe y una vela que ya va por la mitad. En la pared, fotos enmarcadas: un casamiento, un bebé, una nena con un vestido rosa. Muchas. Huele a guiso, a pan y a jabón de lavar.
+
+Hughes queda parado en el medio de la sala, con el mapa contra el pecho. Lust y Envy quedan acostados sobre la alfombra de flores, a tus pies, dormidos.
+
+Desde la cocina se oye un plato que se cae y se rompe.
+
+Una mujer aparece en el marco de la puerta, con un repasador en la mano y un delantal puesto. Joven, de pelo castaño corto y ondulado, con una cara dulce. La misma cara que viste en la cabina, una hora atrás. Pero esta tiene los ojos abiertos de par en par, y harina en una mejilla, y está viva por dentro como la otra no lo estaba.
+
+Mira a su marido. Te mira a ti. Mira a Kase. Mira, en el piso de su sala, sobre su alfombra, a dos desconocidos de negro, inconscientes, uno con el pelo verde.
+
+—¿Maes? —dice. Se le cae el repasador.
+
+Y por la escalera, en pijama, con el pelo despeinado y un conejo de trapo arrastrado de una oreja, baja corriendo una nena de tres años. Se detiene en el último escalón. Ve a su papá.
+
+—¡Papi! —grita, feliz. Y después ve a Kase, en tu hombro, enorme, blanco y azul, mirándola—. ¡Papi! ¡Un gatito! ¡Un gatito gigante!
+
+Hughes se da vuelta. Ve a su hija. Ve a su mujer. Las dos enteras. Las dos ahí.
+
+Se le doblan las rodillas.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1756 · FULLMETAL · DÍA 1 · 22:12       ║
+║ Ciudad Central, Amestris, 1914               ║
+║ Casa de los Hughes, sala                     ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.428 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: Hughes y su familia                ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 22:12, sala de la casa de los Hughes (barrio de casas bajas al oeste de Central). Facundo teletransportó a Hughes, a Kase y a Lust y Envy (inconscientes, ahora sobre la alfombra de flores). GRACIA (delantal, harina en la mejilla; mismo rostro que imitó Envy) rompió un plato: "¿Maes?" ELICIA (3, pijama, conejo de trapo) baja la escalera: "¡Papi! ¡Un gatito gigante!" Hughes ve a las dos enteras y se le doblan las rodillas.

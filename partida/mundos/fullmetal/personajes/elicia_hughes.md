@@ -1,0 +1,12 @@
+NOMBRE: Elicia Hughes
+AFILIACIÓN: hija de Maes y Gracia
+RANGO: —
+PODER VISTO POR FACUNDO: ninguno
+EDAD EN ESTE MOMENTO DEL CANON: 3
+FÍSICO: nena, pelo castaño, pijama; conejo de trapo.
+PERSONALIDAD Y FORMA DE HABLAR: alegre, inquieta, sin ganas de dormir.
+RELACIÓN CON FACUNDO: —
+ENCUENTROS:
+- T1756 · Día 1 22:12 · Baja corriendo la escalera: "¡Papi!" Ve a Kase: "¡Papi! ¡Un gatito! ¡Un gatito gigante!"
+QUÉ SABE DE FACUNDO: que tiene un gatito gigante.
+ESTADO: en casa, bien. MENOR.
