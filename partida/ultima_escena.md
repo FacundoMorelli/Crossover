@@ -206,7 +206,7 @@ Toma un sorbo de café.
 
 ```
 ╔══════════════════════════════════════════════╗
-║ TURNO 1762 · FULLMETAL · OTOÑO DE 1915       ║
+║ TURNO 1762 · FULLMETAL · DÍA 33 · 1914       ║
 ║ Resembool, porche de la casa Rockbell        ║
 ║ NIVEL 34 · EXP 486.130/530.000               ║
 ║ FRAGMENTOS 298.815 · 0 cenz                  ║
@@ -220,4 +220,4 @@ Toma un sorbo de café.
 
 ---
 
-ESTADO AL CIERRE: otoño de 1915, dos días después del Día Prometido. Porche de la casa Rockbell en Resembool, atardecer. MISIÓN DE MUNDO CUMPLIDA (Hughes vivo). Nivel 34. Hughes, con dos cafés, sin máscara: "El formulario 17-B sigue en mi oficina con 'a confirmar'." "Te quedan unos días de permiso, viajero. ¿Qué piensas hacer?" Elicia persigue a Kase. Al con cuerpo de carne. Lust y Envy siguen dormidos y vivos en la celda de granito bajo la iglesia del norte.
+ESTADO AL CIERRE (CORREGIDO T1762b: todo se resolvió en ~1 mes; Día Prometido = Día 31 de 1914; ahora Día 33): dos días después del Día Prometido. Porche de la casa Rockbell en Resembool, atardecer. MISIÓN DE MUNDO CUMPLIDA (Hughes vivo). Nivel 34. Hughes, con dos cafés, sin máscara: "El formulario 17-B sigue en mi oficina con 'a confirmar'." "Te quedan unos días de permiso, viajero. ¿Qué piensas hacer?" Elicia persigue a Kase. Al con cuerpo de carne. Lust y Envy siguen dormidos y vivos en la celda de granito bajo la iglesia del norte.

@@ -15,3 +15,4 @@ Fuente: canon/fullmetal/ (manga). Llegada: Día 1, 1914, Ciudad Central, ~17:30.
 (ninguno todavía)
 - Día 1 21:48-21:54 · (T1751-T1753, CAMBIO MAYOR) Facundo deja inconscientes a Lust (archivo) y a Envy (cabina). Hughes vivo; llama a Mustang. Canon: Lust hiere a Hughes, Envy lo mata en la cabina.
 - Día 2 1914 → otoño 1915 · (T1762, SIMULACIÓN) Hughes escondido en Resembool. Lust y Envy sellados. Arcos 4-10 con ayuda de Facundo: quimeras salvadas, Lan Fan entera, Briggs, Kimblee neutralizado, Día Prometido (eclipse) ganado; Fu y Buccaneer vivos; Mustang curado. Dos días después: Resembool.
+- (T1762b) CORRECCIÓN DEL JUGADOR: la simulación duró ~1 mes, no año y medio. Día Prometido = Día 31 de 1914. Primavera/verano/Briggs comprimidos en ese mes. Hughes escondido en Resembool ~1 mes.

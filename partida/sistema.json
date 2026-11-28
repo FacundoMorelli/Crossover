@@ -1,7 +1,7 @@
 {
   "turno": 1762,
   "mundo_actual": "fullmetal",
-  "fecha_local": "Fullmetal Alchemist: otoño de 1915, dos días después del Día Prometido",
+  "fecha_local": "Fullmetal Alchemist: Día 33, 1914 (dos días después del Día Prometido, que fue el Día 31 — corrección del jugador T1762: todo se resolvió en un mes)",
   "hora": "atardecer (Resembool)",
   "edad": 18,
   "nivel": 34,
@@ -2514,7 +2514,7 @@
       "naruto_salida": "Día 10 ~00:00 (T1440).",
       "dragonball_salida_T1680": "Salida sábado año 778 19:40, colina del parque central. Corre al ritmo de Facundo.",
       "chainsawman": "Llegada Día 1 (fines de oct. 1997) 19:30. Salida Día 9 18:40 (T1737), azotea del edificio de Aki, Tokio. Corre al ritmo de Facundo. MISIÓN DE MUNDO NO CUMPLIDA (Aki vivo tras el Pistola; el ataque del Pistola es en nov-dic 1997).",
-      "fullmetal": "Llegada Día 1, 1914, Ciudad Central ~17:30 (T1738). Corre al ritmo de Facundo."
+      "fullmetal": "Llegada Día 1, 1914, Ciudad Central ~17:30 (T1738). Día Prometido el Día 31 (corrección del jugador: todo resuelto en ~1 mes). Ahora Día 33. Corre al ritmo de Facundo."
     },
     "puerta_abierta": true,
     "historial_misiones": {
@@ -2856,7 +2856,8 @@
     "apodo_pendiente_chainsawman": "'Dragon Man' (los medios y Seguridad Pública, si lo ven transformado); 'el del gato de dos ojos' entre civiles.",
     "fullmetal_llegada": "Elegido al azar (T1738) entre demonslayer/fullmetal/sololeveling: fullmetal. Momento al azar: arco 3 (Quinto Laboratorio), cerca de caps. 14-15: noche en que Hughes descubre el patrón; Lust lo ataca esta noche ~22:00 cerca del Cuartel; Envy lo mata en una cabina telefónica ~22:30 (cerca de la plaza del hospital).",
     "chainsawman_aki": "T1738 (declarado por el jugador): Aki sobrevive al ataque del Demonio Pistola. Al volver, el motor narra cómo (lo que pasó mientras Facundo no estaba).",
-    "apodo_pendiente_fullmetal": "'El Alquimista de los Ojos' (rumores militares, si lo ven transmutar con la mirada)."
+    "apodo_pendiente_fullmetal": "'El Alquimista de los Ojos' (rumores militares, si lo ven transmutar con la mirada).",
+    "tiempo_otros_mundos_T1762": "Desde la salida de DB (T1680): 9 días en CSM + 33 días en FMA ≈ 6 semanas. Sorbet todavía no llegó (≈5 meses). Desde la salida de CSM (Día 9, nov. 1997): ≈33 días → principios de diciembre de 1997 (arco del Pistola en curso o recién terminado; Aki vive por declaración)."
   },
   "recompensa_onepiece": {
     "monto": 400000000,

@@ -271,3 +271,4 @@
 - RECOMPENSA: 25.000 EXP · 600 Fragmentos · VENCE: nunca · CAMBIADA: no
 - DON: Alquimia del Iris, maestría 30.
 - T1762 · FULLMETAL: MISIÓN DE MUNDO CUMPLIDA (Hughes vivo). +25.000 EXP, +600 Fragmentos. NIVEL 34. Completados 14/16 (faltan Demon Slayer, Solo Leveling).
+- T1762b · CORRECCIÓN: Fullmetal resuelto en ~1 mes (Día Prometido Día 31). Tiempo en otros mundos desde su salida: DB ≈ 6 semanas; CSM ≈ 33 días.

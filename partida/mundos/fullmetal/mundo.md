@@ -11,3 +11,4 @@ VELO: nadie siente su poder (tampoco la alkahestria, ni Padre, ni Pride, ni los 
 - T1753 · Envy neutralizado (inconsciente) antes de matar a Hughes. Lust y Envy inconscientes juntos en el archivo del 2.º piso del cuartel general. HUGHES VIVO esta noche (canon: muere).
 - T1761 · GRAN CAMBIO: Mustang, Hawkeye y Hughes saben que Bradley es un homúnculo (canon: lo descubren mucho más tarde).
 - T1762 · MISIÓN DE MUNDO CUMPLIDA: Hughes vivo al terminar el Día Prometido. CAMBIOS: Hughes, Fu, Buccaneer, Martel, Dolcetto, Roa vivos; Lan Fan con su brazo; Mustang con vista (sin piedra de Marcoh); Lust y Envy vivos y sellados en granito bajo la iglesia del norte. Canon igual: Bradley muere (Scar), Padre derrotado, Ed sin alquimia, Al con cuerpo, Hohenheim muere en Resembool.
+- T1762b · CORRECCIÓN DEL JUGADOR: todo (arcos 4-10 comprimidos) se resolvió en ~1 mes. El Día Prometido fue el Día 31 de 1914 (el eclipse ocurrió ese día). Ahora: Día 33.
