@@ -1,8 +1,8 @@
 {
-  "turno": 1727,
+  "turno": 1728,
   "mundo_actual": "chainsawman",
-  "fecha_local": "Chainsaw Man: Día 2, fines de octubre de 1997",
-  "hora": "08:58 (Tokio)",
+  "fecha_local": "Chainsaw Man: Día 4, fines de octubre / comienzos de noviembre de 1997",
+  "hora": "07:05 (Tokio)",
   "edad": 18,
   "nivel": 33,
   "exp": 441130,
@@ -91,7 +91,7 @@
     "energia": 4001,
     "control": 4000
   },
-  "energia_actual_pct": 97,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -717,6 +717,11 @@
       "objeto": "Escopeta de caño largo (del asesino del 5.º piso)",
       "cantidad": 1,
       "detalle": "T1704, Chainsaw Man."
+    },
+    {
+      "objeto": "Llave de repuesto del departamento de Aki (llavero de cuero) + sobre con la dirección + tarjeta con el número de Kishibe",
+      "cantidad": 1,
+      "detalle": "T1727-1728, de Makima."
     }
   ],
   "copias": [

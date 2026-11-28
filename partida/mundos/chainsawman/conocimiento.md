@@ -59,3 +59,4 @@ Quién sabe qué de Facundo en este mundo.
 - T1724 · MAKIMA vio la destransformación y los tatuajes de dragones; deduce que Facundo tiene el corazón de un demonio Dragón (híbrido).
 - T1726 · MAKIMA sabe (por Aki, llamada de esta mañana) que Denji se durmió sonriendo gracias a Facundo. Deduce que Facundo no tiene dónde dormir en Tokio.
 - T1727 · AKI sabe (por Makima, llamada antes de que llegara Facundo) que Facundo va a vivir en su departamento.
+- T1728 · RUMOR (cazadores, Quanxi): alguien en Tokio se tragó una mano del Infierno (no saben quién; vieron la mano y el punto negro desde afuera). KISHIBE deduce que Facundo le ocultó algo a Makima.

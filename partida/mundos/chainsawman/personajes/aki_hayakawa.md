@@ -30,3 +30,4 @@ ENCUENTROS:
 - T1710 · Desvía la mirada, mandíbula apretada, con lo de Pochita. Fuma un cigarrillo seco del saco de Kurose.
 - T1711 · Guardia por turnos con Facundo toda la noche; no se duerme. Le tapa la boca a Power a las 7.
 - T1711 (registro de fuente) · Al entregar a los prisioneros, le informa a Kishibe lo visto: las semillas que curan y que Facundo desapareció de la 604. Kishibe se lo pasa a Makima por teléfono esa noche.
+- T1728 · (sim) Día 2: recibe a Facundo cortando cebollas con delantal: "ahí" (la habitación de las cajas: "LIBROS", "INVIERNO", "PAPÁ"). Día 3: atiende a Kishibe y repite lo de los 387 despertados. Les dice a Denji y Power que dejen en paz a Facundo. Mira entero el noticiero. Día 4: abre a Kishibe con la katana a medio desenvainar. RELACIÓN: convivencia; respeto creciente, poco hablado.

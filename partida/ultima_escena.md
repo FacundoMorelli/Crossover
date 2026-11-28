@@ -3,60 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1725)
-
-no vi la verdad
-
-## RESPUESTA 1 (T1725)
-
-> no vi la verdad
-
-> —No vi, la verdad.
-
-—Claro. —Makima asiente, como si fuera la respuesta más razonable del mundo—. Estaba ocupado.
-
-Vuelve a levantar el teléfono. Esta vez marca un número largo, de memoria, con el dedo índice, sin mirar el disco. Espera dos timbres.
-
-—Kishibe. —Una pausa—. Sí, ya sé que no dormiste. —Otra pausa—. La encontraron. Una fábrica de juguetes de lata, lado este del Sumida, cerca del puente de Kototoi, la de la chimenea. Ella ya no está ahí. Lo que quedó son sus muñecos. Cientos. Llévate a todos los médicos que tengas y a los de la División 1. —Escucha—. No, no hace falta cortar a nadie. Creo que ya no son muñecos. —Te mira mientras lo dice—. Avísame cuántos se despiertan.
-
-Cuelga.
-
-—Si se despiertan —te dice, con suavidad—, usted les habrá devuelto la vida a varios cientos de personas, señor Morelli. Sin cobrar nada. —Una sonrisa chica—. Kishibe me va a pedir un aumento solo por tener que creerlo.
-
-Golpean la puerta. Dos golpes secos.
-
-—Adelante.
-
-Entran cuatro. No son como Sato ni como Aki. Visten de negro de pies a cabeza, con guantes, y dos de ellos llevan la cara cubierta por máscaras blancas lisas, sin ojos pintados. Uno trae un carrito de metal con correas de cuero gruesas, cadenas y una mordaza de hierro. El otro, una caja de madera alargada, cerrada con candado. Se detienen a dos pasos de la puerta, firmes, sin mirarte la cara. Miran a la viejita de tu hombro.
-
-—Con cuidado —dice Makima—. Es una invitada.
-
-El primero de los cuatro se adelanta. Te tiende los brazos, enguantados, abiertos, para recibirla.
-
-Kase, en tu otro hombro, mira las correas del carrito y aplasta las orejas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1725 · CHAINSAW MAN · DÍA 2 · 08:53    ║
-║ Tokio, otoño de 1997                         ║
-║ Seguridad Pública, oficina de Makima         ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.078 · 0 yenes                 ║
-║ Energía 97% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, orejas aplastadas        ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Entregar a Santa Claus a Makima    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1726)
+## COMANDO 1 (T1726)
 
 se los doy
 
-## RESPUESTA 2 (T1726)
+## RESPUESTA 1 (T1726)
 
 > se los doy
 
@@ -105,11 +56,11 @@ Lo dice como si te ofreciera una taza de té.
 
 ---
 
-## COMANDO 3 (T1727)
+## COMANDO 2 (T1727)
 
 esta bien
 
-## RESPUESTA 3 (T1727)
+## RESPUESTA 2 (T1727)
 
 > esta bien
 
@@ -154,4 +105,63 @@ El teléfono suena otra vez. Esta vez lo levanta, pero tapa el auricular con la 
 
 ---
 
-ESTADO AL CIERRE: Día 2 08:58, oficina de Makima. Facundo aceptó vivir en el departamento de Aki. Sobre el escritorio: sobre blanco con la dirección, la llave de repuesto de Aki (llavero de cuero; Aki ya lo sabe), otra tarjeta con el número de Kishibe. Makima le dio una camisa blanca del uniforme (doblada). Viaja a la tarde, vuelve en 2-3 días. El teléfono suena; ella tapa el auricular: "Gracias, señor Morelli. Por todo. Cuídelos." Facundo todavía no tomó las cosas.
+## COMANDO 3 (T1728)
+
+esta bien. simula unos dias
+
+## RESPUESTA 3 (T1728)
+
+> esta bien. simula unos días
+
+> —Está bien.
+
+Guardas el sobre, la llave y la tarjeta. Te pones la camisa del uniforme en el pasillo del edificio de Seguridad Pública, delante de un agente que pasa con una carpeta y finge no mirar los tatuajes.
+
+Día 2, mediodía. El departamento de Aki queda en un edificio de cuatro pisos, gris, con un balcón por departamento y ropa tendida en casi todos. Tercer piso. La puerta tiene un portazo que se oye desde la calle antes de que llegues: Power gritándole a Denji por algo de una tostada. Abres con la llave de repuesto. Aki está en la cocina, con un delantal encima de la camisa, cortando cebollas. Te ve entrar con el gato, deja el cuchillo, se seca las manos, te señala con la cabeza una puerta al fondo del pasillo y dice "ahí", nada más. Después vuelve a las cebollas.
+
+La habitación de las cajas tiene una ventana que da a un tanque de agua, un futón enrollado en un rincón y cajas de cartón apiladas hasta el techo, todas con letra prolija: "LIBROS", "INVIERNO", "PAPÁ". Esa última no la abre nadie.
+
+Esa noche, en el living, aparece un gato. Chico, flaco, blanco y gris, con cara de pocos amigos. Se llama Miau. Es de Power. Se planta en el medio del tatami, mira a Kase, que es tres veces más grande, y bufa. Kase lo mira desde tu hombro un rato largo. Baja. Camina hasta él, despacio. Miau sigue bufando. Kase se le sienta al lado, enorme, y se pone a lamerse una pata. Miau deja de bufar. A los diez minutos están durmiendo juntos debajo de la mesa baja. Power lo ve, se pone a llorar a los gritos de la emoción y después dice que no estaba llorando, que era la cebolla de Aki.
+
+Día 3. Kishibe llama a la mañana al teléfono del departamento. Aki atiende de pie, en silencio, y después repite lo que le dicen para que lo escuches: en la fábrica del Sumida se despertaron trescientas ochenta y siete personas. Confundidas, con hambre, con frío, sin acordarse de nada de las últimas semanas, pero vivas. Una nena de seis años le preguntó a un médico dónde estaba su mamá, y la mamá estaba tres filas más atrás, despertándose también. Kishibe, según Aki, dijo una mala palabra muy larga y colgó.
+
+Ese mismo día, a la tarde, Denji te sigue por todo el departamento preguntando cosas. Si en los lugares donde estuviste hay pan con mermelada. Si hay chicas lindas. Si alguna vez tuviste novia. Si se puede tener una vida normal y también ser Chainsaw Man. Power pregunta si en esos lugares hay sangre rica. Aki, desde la cocina, les dice a los dos que te dejen en paz, y los dos lo ignoran.
+
+A la noche, Kase vuelve a dormir a los pies de Power. Ella ya no grita: se hace la dormida y no se mueve en toda la noche para no despertarlo.
+
+Día 3, a la noche, en el noticiero de la tele: "Cientos de desaparecidos de las últimas semanas aparecen con vida en una fábrica abandonada de Sumida. Seguridad Pública no da detalles". Una señora llora frente a la cámara abrazada a su marido. Denji sube el volumen. Aki no dice nada, pero se sienta a mirarlo entero.
+
+Día 4, a la mañana. Golpean la puerta del departamento a las siete. Aki abre con la katana a medio desenvainar. Es Kishibe, con la petaca en la mano y la cara de no haber dormido en una semana. No pasa. Habla desde el umbral, con los ojos clavados en ti, que estás en el pasillo.
+
+—Los soviéticos se fueron. El chico y el viejo de la maldición. Anoche tomaron un barco en Yokohama. Supongo que se enteraron de lo de la vieja y no quisieron ser los siguientes. —Toma un trago—. Los americanos que quedaban también. Y la china...
+
+Se detiene. Mira a Aki. Mira el piso. Vuelve a ti.
+
+—Quanxi vino a verme ayer a la noche. Sola. Sin sus chicas. Nos conocemos de antes. —La voz le sale más seca que nunca—. Se entregó. Dijo que, si había alguien en Tokio capaz de tragarse una mano del Infierno, ella no pensaba pelear con él. Que no vale la pena morirse por un corazón. —Una pausa—. La tengo en una celda de la central. Con sus cuatro fiends.
+
+Guarda la petaca. Se le ve la mandíbula tensa.
+
+—Makima vuelve esta noche. —Lo dice sin mirar a nadie—. Y va a querer verla.
+
+Se da vuelta para irse. A mitad de camino hacia la escalera, sin girarse, agrega:
+
+—Te dije que no le dijeras todo. Supongo que algo no le dijiste. —Y baja.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1728 · CHAINSAW MAN · DÍA 4 · 07:05    ║
+║ Tokio, otoño de 1997                         ║
+║ Departamento de Aki, puerta                  ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.078 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: con Miau, debajo de la mesa baja       ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 4 07:05, puerta del departamento de Aki. Facundo vive ahí desde el Día 2 (habitación de las cajas: "LIBROS", "INVIERNO", "PAPÁ"). Kase se hizo amigo de Miau (el gato de Power) y duerme a los pies de Power. 387 personas despertaron en la fábrica (noticiero). Kishibe: los soviéticos (Tolka y maestro) se fueron en barco desde Yokohama; los americanos restantes también; QUANXI SE ENTREGÓ a Kishibe anoche (con sus 4 fiends, en una celda de la central) porque "si alguien en Tokio es capaz de tragarse una mano del Infierno, no pienso pelear con él". MAKIMA VUELVE ESTA NOCHE y va a querer verla (canon: Makima mata a Quanxi y a sus fiends). Kishibe a Facundo: "Supongo que algo no le dijiste." Se fue.
