@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1877)
-
-esta bien, sanji esta?
-
-## RESPUESTA 1 (T1877)
-
-> esta bien, sanji esta?
-
-> —Está bien. ¿Sanji está?
-
-Ivankov se queda con el dedo en el aire.
-
-—¿Sanji-boy? —Pone los ojos en blanco, con un suspiro dramático que le infla la capa—. ¡El rubio de la ceja enroscada! ¡Claro que está! ¡Hace cinco meses que está! ¡Corriendo por toda la isla, gritando, peleando con mis candies, y robándose las recetas del rey de la cocina una por una, como una rata! —Se cruza de brazos—. ¡Ahora mismo debe estar en el...!
-
-No termina.
-
-Del otro lado del patio, detrás de una fila de setos rosas recortados en forma de corazón, se escucha un grito. Largo, desesperado, ronco, de hombre que corre por su vida.
-
-—¡¡¡ALÉJENSE DE MÍ, MONSTRUOS!!!
-
-Y por encima de los setos salta una figura delgada, de traje negro roto, corbata suelta, pelo rubio largo tapándole un ojo, un cigarro apagado en la boca, y una ceja enroscada que se le ve desde lejos. Aterriza en las baldosas rosas rodando, se levanta sin parar, y sigue corriendo.
-
-Detrás de él, por encima de los setos, saltan seis okamas enormes, con vestidos de volados, barba de tres días, labios pintados y los brazos abiertos.
-
-—¡¡SANJI-CHAN!! ¡¡VEN, QUE TE PREPARAMOS UN VESTIDO NUEVO!!
-
-—¡¡NI MUERTO!!
-
-Sanji cruza el patio a toda velocidad, esquivando okamas sentadas, saltando por encima de una mesa, mirando para atrás. No ve nada más. No ve a Kuma. No ve a Dragon. No ve a Bonney.
-
-Te ve a ti.
-
-Frena en seco. Las suelas de los zapatos chirrían sobre las baldosas. Se le cae el cigarro de la boca. Se queda congelado a dos metros, con el pelo revuelto, la camisa abierta, la cara colorada de correr, mirándote como si hubiera visto un fantasma.
-
-—¿...Facundo?
-
-Detrás de él, las seis okamas frenan también, chocándose entre ellas.
-
-Sanji te mira el pelo. Los ojos. El gato. Se le transforma la cara entera.
-
-—¡FACUNDO! —grita, y la voz se le quiebra de alivio—. ¡Por favor! ¡Por lo que más quieras! ¡Eres el único que puede! —Se te tira encima, te agarra de las solapas del sobretodo con las dos manos, temblando, con los ojos desorbitados—. ¡Sácame de esta isla! ¡Aunque sea un día! ¡Una hora! ¡Necesito ver una mujer de verdad! ¡UNA! ¡Te lo ruego!
-
-Detrás de ti, por primera vez en lo que va de la mañana, a Jewelry Bonney se le escapa una carcajada.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1877 · ONE PIECE · DÍA ~227 · 08:19    ║
-║ Isla Momoiro · Reino Kamabakka               ║
-║ Patio frente al castillo de Ivankov          ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 94% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirando a las okamas     ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Sanji: "¡Sácame de esta isla!"     ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1878)
+## COMANDO 1 (T1878)
 
 ahi hay una sanju
 
-## RESPUESTA 2 (T1878)
+## RESPUESTA 1 (T1878)
 
 > ahi hay una sanju
 
@@ -123,11 +64,11 @@ Kuma lo mira desde arriba, con la mano enorme apoyada en la cabeza de su hija.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1879)
+## COMANDO 2 (T1879)
 
 tranquilo sanji
 
-## RESPUESTA 3 (T1879)
+## RESPUESTA 2 (T1879)
 
 > tranquilo sanji
 
@@ -180,6 +121,83 @@ Después se da vuelta despacio hacia ti, todavía agarrado de tu brazo, con la c
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1880)
+
+ese es dragon y la chica es bonney la hija de kuma
+
+## RESPUESTA 3 (T1880)
+
+> ese es dragon y la chica es bonney la hija de kuma
+
+> —Ese es Dragon. Y la chica es Bonney, la hija de Kuma.
+
+Sanji se queda quieto.
+
+Primero procesa lo segundo. Lo ves pasar por la cara: los ojos van de Bonney a Kuma, de Kuma a Bonney, del pelo rosa a la cara enorme, de la cara enorme a la sonrisa torcida de ella. Se le abre la boca.
+
+—¿La... hija? —susurra—. ¿De... él?
+
+Kuma asiente. Una vez. Despacio. Con la mano enorme todavía apoyada en la cabeza de Bonney.
+
+Sanji se pone blanco otra vez.
+
+—Acabo de decirle a la hija de Bartholomew Kuma —murmura, con la mirada perdida— que soy el esclavo eterno de su belleza. Delante de él.
+
+—Sí —dice Bonney, encantada—. Lo hiciste.
+
+Y después Sanji procesa lo primero.
+
+Gira la cabeza, muy despacio, hacia el hombre de capa verde y cara tatuada, de brazos cruzados, que lo mira sin decir nada.
+
+—Dragon —repite Sanji—. Dragon el revolucionario. El hombre más buscado del mundo. —Traga—. El padre de Luffy.
+
+Dragon no contesta. Solo lo mira.
+
+Sanji se suelta de tu brazo. Se endereza. Se arregla la camisa rota, se acomoda la corbata suelta, se pasa la mano por el pelo rubio revuelto, y se para derecho, con los talones juntos, delante del hombre más buscado del mundo. Toda la ceja enroscada le tiembla. Pero no baja la vista.
+
+—Soy Sanji —dice, firme—. Cocinero de los Piratas del Sombrero de Paja. Del barco de su hijo.
+
+Y se inclina. Una reverencia corta, seria, de cocinero que se presenta ante el padre del capitán al que le da de comer todos los días.
+
+Dragon lo mira un rato largo. Después descruza los brazos.
+
+—¿Come bien? —pregunta.
+
+Sanji levanta la cabeza, sorprendido.
+
+—...Come como un barril sin fondo —dice—. Todo el día. Se roba la comida de los platos de los demás. Asalta el refrigerador de noche. Una vez se comió la carne de toda una semana en una noche.
+
+Algo se mueve en la cara de Dragon. Muy poco.
+
+—Bien —dice.
+
+En la escalera, Ivankov aplaude con sus manos enormes.
+
+—¡¡Perfecto, perfecto, perfecto!! —grita—. ¡¡Sanji-boy, a la cocina!! ¡¡Hoy tenemos invitados!! ¡¡Un revolucionario, un Shichibukai que volvió de entre los muertos, una dama de verdad, y Ojos de Eclipse!! ¡¡Hee-haw!!
+
+Sanji se da vuelta hacia el castillo rosa. Le cambia la cara. Se le enciende algo en los ojos que no es amor: es otra cosa. Se arremanga.
+
+—Cien platos —dice, en voz baja, para sí—. Con las recetas del rey.
+
+Después se da vuelta hacia ti, con el cigarro nuevo ya prendido en la boca, y por primera vez en toda la mañana sonríe tranquilo, como en la cocina del barco.
+
+—Facundo. Esta vez te quedas a comer. De verdad. —Te señala con el cigarro—. No me desaparezcas a mitad del primer plato como la última vez.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1880 · ONE PIECE · DÍA ~227 · 08:24    ║
+║ Isla Momoiro · Reino Kamabakka               ║
+║ Patio frente al castillo de Ivankov          ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 94% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Sanji: "Te quedas a comer"         ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 08:21, patio de Momoiro. "Tranquilo, Sanji." Sanji se esconde detrás de Facundo (Kase le bufa): "¡¡Ese es el que me mandó aquí!! ¡¡Cinco meses!!" Bonney se dobla de risa. Kuma se agacha: "Lo siento. En Sabaody, Kizaru iba a matarlos... elegí, para cada uno, una isla donde pudiera sobrevivir y volverse más fuerte. A ti te mandé al lugar de las recetas del Attack Cuisine... No pensé en el resto de la isla." Ivankov: "¡hee-haw!" ofendido. Sanji: "Facundo, ¿qué está pasando? ¿Por qué Kuma habla? ¿Quién es ese de la capa verde que da miedo? ¿Y quién es la dama más hermosa del mundo?"
+ESTADO AL CIERRE: Día ~227 08:24, patio de Momoiro. "Ese es Dragon. Y la chica es Bonney, la hija de Kuma." Sanji: "Acabo de decirle a la hija de Bartholomew Kuma que soy el esclavo eterno de su belleza. Delante de él." Bonney: "Sí. Lo hiciste." Sanji a Dragon: "El padre de Luffy." Reverencia: "Soy Sanji. Cocinero de los Piratas del Sombrero de Paja. Del barco de su hijo." Dragon: "¿Come bien?" Sanji: "Come como un barril sin fondo..." Dragon: "Bien." Ivankov manda a Sanji a la cocina. Sanji: "Cien platos. Con las recetas del rey." A Facundo: "Esta vez te quedas a comer. De verdad. No me desaparezcas a mitad del primer plato como la última vez."

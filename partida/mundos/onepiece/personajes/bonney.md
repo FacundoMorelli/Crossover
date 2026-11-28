@@ -12,3 +12,4 @@ ESTADO: presa.
 - T1877 · Se le escapa una carcajada (la primera de la mañana) al ver a Sanji rogarle a Facundo.
 - T1878 · Sanji la corteja: ceja levantada, carcajada: "Qué asco. Me encanta."
 - T1879 · Se dobla de risa sobre la rodilla de su padre.
+- T1880 · "Sí. Lo hiciste." (a Sanji, encantada)
