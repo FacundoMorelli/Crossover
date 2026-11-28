@@ -1776,6 +1776,13 @@
       "mision": "Que Kenzo Tanaka salga vivo de la isla de Jeju.",
       "dificultad": "MEDIA",
       "emitida": "T1826"
+    },
+    {
+      "poder": "Magia de hielo de Kei",
+      "mundo": "sololeveling",
+      "mision": "Que Kei salga viva de la isla de Jeju.",
+      "dificultad": "MEDIA",
+      "emitida": "T1827"
     }
   ],
   "misiones_de_copia_rechazadas": [],

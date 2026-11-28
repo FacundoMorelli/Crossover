@@ -193,6 +193,18 @@ Jinwoo saca una mano del bolsillo y le agarra la muñeca a Goto, en el aire, con
 
 Una pared de hielo brota del piso entre los dos, de golpe, de tres metros, con un crujido que hace vibrar el balcón. Al costado del salón, una cazadora japonesa con la mano extendida, jadeando, la levantó. Hoshino corre y sujeta a Goto por los hombros. Cha Hae-in y Baek Yoonho se lanzan sobre Jinwoo y lo agarran de los brazos. Nadie gana. Nadie pierde.
 
+```
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Magia de hielo de Kei                        ║
+║ USUARIA: Kei · Solo Leveling                 ║
+║                                              ║
+║ MISIÓN: Que Kei salga viva de la isla de     ║
+║ Jeju.                                        ║
+║ DIFICULTAD: MEDIA                            ║
+╚══════════════════════════════════════════════╝
+```
+
 Y en ese momento, mientras todos miran el hielo, ves algo que nadie más ve.
 
 De la sombra de Jinwoo, en el piso, se desprenden dos manchas negras, chiquitas, como tinta derramada. Se deslizan por la goma sin hacer ruido. Una se mete en la sombra de Goto Ryuji. La otra, en la sombra de Cha Hae-in. Se funden. Desaparecen. Nadie en el salón lo nota.
