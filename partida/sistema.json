@@ -1,8 +1,8 @@
 {
-  "turno": 1746,
+  "turno": 1747,
   "mundo_actual": "fullmetal",
   "fecha_local": "Fullmetal Alchemist: Día 1, 1914",
-  "hora": "18:23 (Ciudad Central)",
+  "hora": "18:30 (Ciudad Central)",
   "edad": 18,
   "nivel": 33,
   "exp": 461130,
@@ -747,6 +747,11 @@
       "objeto": "Chicle de menta sin abrir (regalo de despedida de Denji)",
       "cantidad": 1,
       "detalle": "T1737, Chainsaw Man. Comprado con su plata en el kiosco de abajo."
+    },
+    {
+      "objeto": "Permiso provisorio de permanencia de Amestris (30 días)",
+      "cantidad": 1,
+      "detalle": "T1747, Fullmetal. Firmado por el teniente coronel Maes Hughes, sello violeta con el dragón alado. \"Portador: Facundo Morelli — Viajero\". En la mano de Facundo."
     }
   ],
   "copias": [

@@ -16,3 +16,4 @@
 - T1744 · ROSS, BROSH, ED y AL saben (por Facundo) que no tiene documentos (extranjero sin papeles).
 - T1745 · HUGHES vio a Facundo y a Kase (aspecto). Los guardias del cuartel general lo vieron entrar con Ross.
 - T1746 · HUGHES sabe (por Facundo y Ross): nombre, viajero, sin documentos, gato Kase.
+- T1747 · HUGHES y ROSS saben (por Facundo) que dice haber entrado por el desierto del Este hace unos días. HUGHES notó que no está quemado por el sol (sospecha leve). Registro oficial: formulario 17-B en Investigaciones.

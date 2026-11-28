@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1744)
-
-realmente no, no tengo nada
-
-## RESPUESTA 1 (T1744)
-
-> realmente no, no tengo nada
-
-> —Realmente no. No tengo nada.
-
-El lápiz de Ross se queda quieto sobre la libreta.
-
-—Nada —repite.
-
-Detrás de ella, Brosh deja de mirar al gato y la mira a ella, con los ojos muy abiertos, como esperando una orden que no quiere escuchar.
-
-—¿Cruzaste la frontera sin papeles? —Ed se olvida del todo de estar de mal humor. Se le ilumina la cara con una sonrisa torcida, de admiración contra su voluntad—. ¿Por el desierto? ¿O por las montañas de Briggs? Porque por Briggs nadie pasa sin que la Reina de Hielo lo...
-
-—Edward. —Ross lo corta sin mirarlo. Suspira. Cierra la libreta despacio y se la guarda en el bolsillo. Cuando te vuelve a mirar, no hay desconfianza en la cara: hay algo más incómodo, la cara de una persona honesta a la que le toca hacer algo que no quiere—. Señor Morelli. Le creo que no viene a hacerle daño a nadie. Al le confía su gato, y eso para mí dice bastante. —Una pausa—. Pero estamos en Ciudad Central, a cuatro cuadras del cuartel general, en plena búsqueda de un asesino, y usted es un extranjero sin documentos hablando con un Alquimista Estatal que tiene custodia.
-
-Se le nota que le cuesta.
-
-—Tengo que pedirle que me acompañe al cuartel general. No está arrestado. —Lo aclara enseguida, levantando una mano—. Es un trámite. La Oficina de Investigaciones se encarga de los extranjeros sin papeles. Le toman los datos, le dan un permiso provisorio, y listo. Hoy está de guardia el teniente coronel Hughes, que es... —se le escapa una media sonrisa— un hombre muy razonable. Va a querer mostrarle fotos de su hija, pero es razonable.
-
-—¡El teniente coronel Hughes! —Al levanta la cabeza—. ¡Él es muy bueno, señor Morelli! ¡Nos ayudó mucho!
-
-Ed mira a Ross. Mira a su hermano. Te mira a ti.
-
-—Si va a Investigaciones, voy yo también —anuncia, cruzándose de brazos—. Quiero escuchar cómo cruzó la frontera.
-
-—Tú no vas a ningún lado, estás internado.
-
-—¡Estoy perfectamente!
-
-—Tienes doce puntos en la cabeza, Edward.
-
-Ross se vuelve hacia ti, con el brazo extendido hacia la avenida, hacia la mole de piedra con banderas verdes y negras que se recorta contra el cielo naranja del atardecer.
-
-—¿Me acompaña, señor Morelli? Son diez minutos caminando.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1744 · FULLMETAL · DÍA 1 · 18:02       ║
-║ Ciudad Central, Amestris, 1914               ║
-║ Reja del hospital militar                    ║
-║ NIVEL 33 · EXP 461.130/480.000               ║
-║ FRAGMENTOS 289.378 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la mano de Al                       ║
-║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1745)
+## COMANDO 1 (T1745)
 
 si, la acompaño
 
-## RESPUESTA 2 (T1745)
+## RESPUESTA 1 (T1745)
 
 > si, la acompaño
 
@@ -137,11 +80,11 @@ Se le abren los ojos detrás de los anteojos. Mira el pelo. Mira los ojos de dos
 
 ---
 
-## COMANDO 3 (T1746)
+## COMANDO 2 (T1746)
 
 si, es muy linda, soy Facundo Morelli, un viajero
 
-## RESPUESTA 3 (T1746)
+## RESPUESTA 2 (T1746)
 
 > si, es muy linda, soy Facundo Morelli, un viajero
 
@@ -186,4 +129,51 @@ En el escritorio, junto a su codo, la carpeta que tapa el otro mapa tiene una es
 
 ---
 
-ESTADO AL CIERRE: Día 1 18:23, Oficina de Investigaciones. Hughes feliz por Elicia ("la más linda del mundo"); se presenta (Maes Hughes), le da la mano. Ross: sin documentos; Al se hizo amigo del gato. Hughes llena el formulario 17-B ("Extranjero sin documentación"). Pregunta: "¿Por dónde entró? ¿El desierto del Este, Briggs, Creta, Aerugo? ¿Y hace cuánto?" La carpeta que tapa el mapa tiene una esquina levantada (línea roja, pedazo de círculo).
+## COMANDO 3 (T1747)
+
+entre por el desierto del este, hace unos dias
+
+## RESPUESTA 3 (T1747)
+
+> entre por el desierto del este, hace unos días
+
+> —Entré por el desierto del Este. Hace unos días.
+
+—El desierto. —Hughes silba bajito, entre dientes, y escribe—. Por las ruinas de Xerxes, entonces. Eso son semanas de arena desde Xing, con camellos. —Levanta la vista y te mira de arriba abajo, la cara, los brazos—. Y no está quemado por el sol. Ni un poco.
+
+Lo dice con una sonrisa. No es una acusación. Es la observación de un hombre que no puede evitar observar.
+
+—Debe tener muy buena piel, señor Morelli. —Vuelve al formulario—. O un sombrero muy grande.
+
+Ross, de pie junto a la puerta, mira el piso y no dice nada.
+
+Hughes termina de escribir. Firma abajo, con una floritura. Saca un sello de goma de un cajón, lo moja en una almohadilla de tinta violeta y lo estampa dos veces, con fuerza: una en el formulario y otra en un papelito más chico, de color crema, que arranca de un talonario. Le sopla la tinta. Te lo tiende.
+
+—Permiso provisorio de permanencia. Treinta días. —Te lo pone en la mano—. Con esto ya no lo pueden detener por andar sin papeles. Si se queda más, vuelve acá y lo renovamos. Y si alguien del Ejército lo molesta, muestre esto y diga mi nombre.
+
+El papel dice, en letras de imprenta: "REPÚBLICA DE AMESTRIS — PERMISO PROVISORIO — PORTADOR: FACUNDO MORELLI — VIAJERO — VÁLIDO 30 DÍAS". Y abajo, la firma de Hughes y el sello violeta con el dragón alado.
+
+Hughes se echa hacia atrás en la silla. Se saca los anteojos, se frota los ojos con dos dedos, cansado, y se los vuelve a poner. Por un segundo, sin la máscara, se le ve la cara de antes: la de la plaza, la del hombre que corría.
+
+Mira de reojo la carpeta que tapa el mapa. Después el reloj de pared, que marca las seis y media.
+
+—Bueno. —Se pone la sonrisa otra vez, de golpe—. Ya casi terminamos. Una última cosa para el registro, y lo dejo ir. —Moja la pluma otra vez—. ¿Dónde se va a alojar en Central, señor Morelli? Necesito una dirección. Aunque sea un hotel.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1747 · FULLMETAL · DÍA 1 · 18:30       ║
+║ Ciudad Central, Amestris, 1914               ║
+║ Cuartel general, Oficina de Investigaciones  ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.378 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 18:30, Oficina de Investigaciones. Facundo dijo que entró por el desierto del Este hace unos días. Hughes: "Por las ruinas de Xerxes... semanas de arena. Y no está quemado por el sol." (observación, no acusación). Le dio un PERMISO PROVISORIO de 30 días firmado y sellado ("si alguien del Ejército lo molesta, muestre esto y diga mi nombre"). Sin máscara un segundo: cansado; mira la carpeta del mapa y el reloj (18:30). Pregunta: "¿Dónde se va a alojar en Central? Necesito una dirección. Aunque sea un hotel."
