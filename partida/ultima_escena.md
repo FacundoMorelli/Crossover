@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1824)
-
-no gracias, por esta vez tengo que pasar
-
-## RESPUESTA 1 (T1824)
-
-> no gracias, por esta vez tengo que pasar
-
-> —No, gracias. Por esta vez tengo que pasar.
-
-Le devuelves la espada de madera por encima de la baranda. Goto Ryuji la atrapa en el aire con una mano, sin mirar.
-
-Se queda mirándote un segundo, con la sonrisa de lobo todavía puesta. Después la sonrisa se le ensancha, y vuelve a soltar esa carcajada grave que retumba en el techo de metal.
-
-—"Por esta vez." —Repite las palabras en un coreano torpe, con acento fuerte, divertido—. No dijiste "no sé". Dijiste "por esta vez".
-
-Apoya las dos espadas de madera sobre el hombro.
-
-—Bien. Me la debes, novio sin maná. Cuando volvamos de Jeju. —Te señala con la barbilla—. Y si no volvemos, me la cobro en el otro mundo.
-
-Se da vuelta y se va caminando por la arena hacia sus cazadores, que lo esperan junto a la salida, riéndose todavía por lo bajo. Uno de los periodistas de la valla, que vio toda la escena, escribe algo rápido en su libreta.
-
-Kase, en tu hombro, mira a Goto irse y bosteza enorme, con todos los dientes.
-
-Quince minutos después, Cha Hae-in sube las escaleras de la grada. Viene recién bañada, con el pelo mojado atado atrás, ropa de calle y la espada envuelta en una funda de tela a la espalda. Se sienta a tu lado en el asiento de plástico, donde estuvo Min. No dice nada durante un rato. Mira la arena vacía.
-
-—Me dijo en japonés que iba a probar a mi novio —dice al fin—. Le contesté que te dejara en paz. —Hace una pausa—. Y él me dijo que eso significaba que yo sabía que podías.
-
-Gira la cabeza y te mira, de costado, con una media sonrisa que no termina de ser sonrisa.
-
-—Goto es un idiota. Pero es el mejor espadachín de Japón, y no se equivoca con las manos de la gente. —Te mira las manos. Después a los ojos—. No te voy a preguntar nada. Dijiste que hay cosas que son secreto. —Se muerde el labio—. Pero me alegra que no hayas bajado.
-
-Se apoya contra tu hombro, del lado libre, cansada.
-
-—¿Vamos a casa? —pregunta, bajito, y se da cuenta de lo que dijo un segundo después. Se pone colorada—. Al hotel. Quise decir al hotel.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1824 · SOLO LEVELING · DÍA 9 · 17:22   ║
-║ Seúl, Corea del Sur                          ║
-║ Yeouido · centro de entrenamiento, gradas    ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Jeju (Día 22)                      ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1825)
+## COMANDO 1 (T1825)
 
 si vamos a casa( cuando es la pelea de entrenamientos que sung pelea con goto? si no tenes bien el canon fijate en el otro repo de solo leveling)
 
-## RESPUESTA 2 (T1825)
+## RESPUESTA 1 (T1825)
 
 > si vamos a casa
 
@@ -101,11 +50,11 @@ Gira la cabeza sobre la colcha para mirarte.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1826)
+## COMANDO 2 (T1826)
 
 si, claro que voy. simula hasta el entrenamiento
 
-## RESPUESTA 3 (T1826)
+## RESPUESTA 2 (T1826)
 
 > si, claro que voy. simula hasta el entrenamiento
 
@@ -202,6 +151,79 @@ A tu lado, Jinwoo ya se está moviendo.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1827)
+
+dejo que jinwoo lo detenga y miro
+
+## RESPUESTA 3 (T1827)
+
+> dejo que jinwoo lo detenga y miro
+
+No te mueves.
+
+Jinwoo sí.
+
+En un instante está en la baranda del balcón, y al siguiente ya no. No salta: desaparece de tu lado y aparece abajo, en el salón, entre Cha Hae-in y Kumamoto, como si el espacio entre los dos lugares no existiera. Ves todo igual, con los ojos y con el Ojo del Eclipse: el maná azul oscuro de Jinwoo comprimido en las piernas, el impulso, la caída. Para todos los demás fue un parpadeo.
+
+Los dos puños de Kumamoto caen como un martillo.
+
+Jinwoo levanta una mano y los atrapa. Con una mano. Los dos.
+
+El impacto hace un ruido sordo que retumba en las paredes de cemento, y una onda de aire levanta el pelo de Cha Hae-in, que se da vuelta, con los ojos muy abiertos, y lo ve: Jinwoo de pie entre ella y Kumamoto, sosteniendo los dos puños enormes del japonés sin que se le doble el codo.
+
+Kumamoto ruge, empuja, se le hinchan los músculos de los hombros. No avanza un centímetro.
+
+Jinwoo lo mira a los ojos, rojos, desenfocados. Después le pega en el estómago. Un solo golpe, corto, casi sin moverse. Kumamoto se dobla en dos, se le van los ojos para atrás y cae de rodillas, y después de cara contra la goma del piso. No se mueve más.
+
+El salón queda en silencio.
+
+En el balcón, Go Gunhee se agarra de la baranda con las dos manos. Choi Jong-In se acomoda los anteojos con un dedo que le tiembla apenas.
+
+Abajo, alguien se mueve del costado. Goto Ryuji descruza los brazos y camina hacia el centro, despacio, sin apuro, mirando a Jinwoo con una sonrisa de lobo que ya no es la misma de la grada. Se detiene a tres pasos. Dice algo en japonés, y el Sistema te lo da: que un mago no se mueve así. Que quiere ver qué es.
+
+Jinwoo no contesta.
+
+Goto desenvaina. La katana de verdad.
+
+Lo que sigue dura unos diez segundos. Goto ataca, rapidísimo, con cortes que silban, y Jinwoo los esquiva todos con las manos en los bolsillos, inclinando la cabeza, el torso, girando sobre un pie, como si supiera dónde va a caer cada corte antes de que salga. Goto aprieta los dientes. El maná le estalla alrededor del cuerpo, blanco, y el siguiente corte ya no es de prueba: es para matar.
+
+La punta de la katana le roza la mejilla a Jinwoo. Una línea fina, roja.
+
+Jinwoo saca una mano del bolsillo y le agarra la muñeca a Goto, en el aire, con la espada todavía levantada. Lo sostiene ahí. Los dos se miran. Ves en el Ojo del Eclipse cómo el maná de Jinwoo, oscuro, enorme, apretado como un puño, empieza a subir.
+
+Una pared de hielo brota del piso entre los dos, de golpe, de tres metros, con un crujido que hace vibrar el balcón. Al costado del salón, una cazadora japonesa con la mano extendida, jadeando, la levantó. Hoshino corre y sujeta a Goto por los hombros. Cha Hae-in y Baek Yoonho se lanzan sobre Jinwoo y lo agarran de los brazos. Nadie gana. Nadie pierde.
+
+Y en ese momento, mientras todos miran el hielo, ves algo que nadie más ve.
+
+De la sombra de Jinwoo, en el piso, se desprenden dos manchas negras, chiquitas, como tinta derramada. Se deslizan por la goma sin hacer ruido. Una se mete en la sombra de Goto Ryuji. La otra, en la sombra de Cha Hae-in. Se funden. Desaparecen. Nadie en el salón lo nota.
+
+Kase, en tu hombro, se queda mirando la sombra de Cha Hae-in con las pupilas convertidas en dos rayas finas.
+
+Jinwoo se suelta de los brazos de Cha Hae-in y Baek con suavidad, sin esfuerzo, se pasa el dorso de la mano por la mejilla, mira la sangre, y se va caminando hacia la salida del gimnasio sin decir una palabra, con las manos otra vez en los bolsillos.
+
+En el balcón, Go Gunhee suelta el aire. Después se da vuelta, despacio, y te mira a ti.
+
+—Señor Morelli —dice, con la voz grave muy baja—. Cuando Kumamoto se lanzó, todos en este balcón nos movimos. Choi se adelantó. Yo me agarré de la baranda. —Te mira con unos ojos viejos, cansados, que han visto demasiadas Puertas—. Usted no. Ni siquiera parpadeó. Y su novia estaba de espaldas.
+
+Hace una pausa.
+
+—¿Por qué?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1827 · SOLO LEVELING · DÍA 11 · 10:51  ║
+║ Seúl, Corea del Sur                          ║
+║ Gimnasio de la Asociación · balcón           ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: mirando la sombra de Cha Hae-in        ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Go Gunhee: "¿Por qué no se movió?" ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 11 10:48, balcón del gimnasio de la Asociación (subsuelo de la sede). Día 10: descanso; la señora Kang mandó comida; noticiero: fotos de algo negro con alas sobre Seúl (Kaisel, canon). En el balcón: Go Gunhee (saludó a Facundo), Choi, Sung Jinwoo (lo miró a él y a Kase). Abajo: Cha, Baek, Ma Dongwook, Lim Taegyu vs Hoshino, Kenzo Tanaka, Kanae Tawata, Kumamoto; Goto mira y sonríe a Facundo. Kenzo vence a Ma; Hoshino a Lim; Hoshino y Tanaka a Baek; copias Hoshino (BAJA) y Kenzo ("que salga vivo de Jeju", MEDIA). Cha desarma a Kanae. Kumamoto en frenesí (tasado x90) se lanza con un golpe a matar contra Cha, que está de espaldas inclinándose. Jinwoo ya se mueve.
+ESTADO AL CIERRE: Día 11 10:51, balcón del gimnasio. Facundo no se movió. Jinwoo bajó en un instante, atrapó los dos puños de Kumamoto con una mano y lo noqueó de un golpe al estómago. Goto lo desafió con la katana real: Jinwoo esquivó todo con las manos en los bolsillos; un corte a matar le rozó la mejilla; Jinwoo le sujetó la muñeca; Kei levantó un muro de hielo; Hoshino sujetó a Goto, Cha y Baek a Jinwoo; sin ganador. FACUNDO VIO (Ojo del Eclipse/percepción) que de la sombra de Jinwoo salieron dos manchas negras: una entró en la sombra de Goto y otra en la de Cha Hae-in (nadie más lo notó; Kase mira la sombra de Cha). Jinwoo se fue sin hablar. Go Gunhee a Facundo: todos se movieron, "Usted no. Ni siquiera parpadeó. Y su novia estaba de espaldas. ¿Por qué?"

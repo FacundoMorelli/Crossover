@@ -1826,3 +1826,4 @@ T1823 · SOLO LEVELING · Yeouido · "Confío en ella." Copia de Baek Yoonho emi
 T1824 · SOLO LEVELING · Yeouido · Rechaza el duelo con Goto ("por esta vez"). Goto: "Me la debes." Cha: "¿Vamos a casa?"
 T1825 · SOLO LEVELING · Hotel de Gangnam · "Vamos a casa." Día 11: 4 vs 4 en el gimnasio de la Asociación, con Jinwoo invitado a mirar.
 T1826 · SOLO LEVELING · Gimnasio de la Asociación · (simulado) Entrenamiento 4 vs 4 con Jinwoo en el balcón. Copias Hoshino y Kenzo. Kumamoto se lanza a matar contra Cha.
+T1827 · SOLO LEVELING · Gimnasio de la Asociación · Jinwoo noquea a Kumamoto; duelo con Goto sin ganador. Facundo ve las sombras de Jinwoo esconderse en Goto y Cha. Go Gunhee: "¿Por qué no se movió?"
