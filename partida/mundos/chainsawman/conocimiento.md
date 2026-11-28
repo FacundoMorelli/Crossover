@@ -49,3 +49,4 @@ Quién sabe qué de Facundo en este mundo.
 - T1712 · MAKIMA sabe (FUENTE: informe de Aki a Kishibe en el pasillo, T1711, al entregar a los prisioneros; Kishibe se lo pasó a Makima por teléfono esa noche) lo de la semilla ("medicina que no existe") y la desaparición de la habitación. Sabe (por Facundo) que no quiere dinero ni nada.
 - T1713 · MAKIMA sabe (por Facundo): le gusta ayudar, no le gusta matar, solo mató una vez por su gato. Deduce que Kase es lo que más le importa.
 - T1714 · FACUNDO (por ki, solo él) sabe dónde están Santa Claus (fábrica de juguetes junto al Sumida), Quanxi y sus fiends (oficinas cerca de la Torre de Tokio) y Tolka y su maestro (Shinagawa). Sintió la naturaleza de Makima (pozo con hilos). MAKIMA no sabe qué sintió.
+- T1715 · MAKIMA sabe (por Facundo) la ubicación de Santa Claus (fábrica de juguetes junto al Sumida). Sospecha que Facundo sintió a otros.

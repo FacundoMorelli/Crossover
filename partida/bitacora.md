@@ -1713,3 +1713,4 @@ T1711 · CHAINSAW MAN · Ginza · SIMULACIÓN hasta el Día 2. Kishibe se lleva 
 T1712 · CHAINSAW MAN · Ginza · "No necesito dinero ni nada." Makima: "Todos quieren algo. Nadie es así. ¿Por qué nos ayuda?"
 T1713 · CHAINSAW MAN · Ginza · "Me gusta ayudar, no me gusta matar; solo maté una vez, por mi gato." Makima: "A todos nos gusta tener algo nuestro." Pide: "¿Podría encontrar a Santa Claus?"
 T1714 · CHAINSAW MAN · Ginza · Barre Tokio con el ki: siente a Makima (pozo con miles de hilos), Quanxi (Torre de Tokio), Tolka (Shinagawa) y a Santa (fábrica de juguetes junto al Sumida). Makima: "¿Y?"
+T1715 · CHAINSAW MAN · Ginza · "Está en una fábrica de juguetes junto al río." Makima deduce cuál. "¿Sintió a alguien más que yo debería conocer?"

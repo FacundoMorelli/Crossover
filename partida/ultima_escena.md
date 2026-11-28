@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1712)
-
-me siento y le digo que no necesito dinero, ni nada
-
-## RESPUESTA 1 (T1712)
-
-> me siento y le digo que no necesito dinero, ni nada
-
-Te sientas en el cojín, frente a ella. Kase baja de tu hombro a tus rodillas, mira el platito de leche, lo huele desde lejos, y no lo toca. Se queda sentado, derecho, mirando a Makima.
-
-Le dices que no necesitas dinero. Ni nada.
-
-Makima no contesta enseguida.
-
-Levanta su taza con las dos manos, sopla apenas, toma un sorbo. La deja en la mesa, despacio, sin un ruido. Afuera, en el jardín, la carpa roja da una vuelta lenta en el estanque.
-
-—Nada —repite.
-
-No hay sorpresa en su cara. Hay otra cosa, más tranquila, como quien mira un número que no da en una cuenta que ya hizo muchas veces.
-
-—Todos quieren algo, señor Morelli. —Lo dice con suavidad, sin reproche, como quien explica cómo funciona el clima—. Los cazadores quieren dinero, o venganza, o morir de una forma que tenga sentido. Los demonios quieren comer, o que les teman. Los asesinos que vinieron esta semana quieren el corazón de Denji porque sus gobiernos quieren lo que hay adentro. Denji quiere pan con mermelada. —Sonríe, apenas—. Hasta Power quiere algo. Siempre. Varias cosas a la vez.
-
-Toma los palillos. Separa un trozo de pescado, con mucho cuidado, y lo deja en tu plato de arroz, como haría una anfitriona. Después otro en el suyo.
-
-—Y usted aparece en una avenida, duerme a cuarenta y seis personas sin hacerles daño, duerme a tres asesinos sin despertar a nadie, le da a Denji una medicina que no existe, siente a la gente a través de las paredes, desaparece de una habitación cerrada, me deja sentir nada... —Levanta la vista hacia ti. Los anillos amarillos, quietos—. Y no quiere nada.
-
-Junta las manos sobre la mesa.
-
-—No le creo, señor Morelli. No porque mienta. Creo que no miente. —La sonrisa se le ablanda—. No le creo porque nadie es así.
-
-Inclina la cabeza, apenas, con curiosidad verdadera.
-
-—Así que voy a preguntarlo de otra manera. Si no es dinero, y no es nada que yo pueda darle. —Una pausa—. ¿Por qué nos ayuda?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1712 · CHAINSAW MAN · DÍA 2 · 08:33    ║
-║ Tokio, otoño de 1997                         ║
-║ Ginza, casa de té (cerrada para ustedes)     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.903 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus rodillas, mirando a Makima      ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Desayuno con Makima                ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1713)
+## COMANDO 1 (T1713)
 
 soy un viajero que me gusta ayudar y que no le gusta matar, solo mate una vez, cuando intentaron hacerle algo a mi gato
 
-## RESPUESTA 2 (T1713)
+## RESPUESTA 1 (T1713)
 
 > soy un viajero que me gusta ayudar y que no le gusta matar, solo mate una vez, cuando intentaron hacerle algo a mi gato
 
@@ -107,11 +56,11 @@ Inclina la cabeza.
 
 ---
 
-## COMANDO 3 (T1714)
+## COMANDO 2 (T1714)
 
 si, uso el ki para buscarla
 
-## RESPUESTA 3 (T1714)
+## RESPUESTA 2 (T1714)
 
 > si, uso el ki para buscarla
 
@@ -164,4 +113,57 @@ Pasaron unos pocos segundos. El sol todavía le ilumina media cara a Makima. Te 
 
 ---
 
-ESTADO AL CIERRE: Día 2 08:38, casa de té de Ginza. Facundo barrió Tokio con el ki. SINTIÓ: Makima = algo enorme y quieto, "una tapa sobre un pozo", con miles de hilos hacia palomas, ratas, perros y personas (no los mueve). La División 4 bien en Kanda. QUANXI + 4 fiends en un piso alto de oficinas cerca de la Torre de Tokio. TOLKA y su MAESTRO (maldición, clavos) en un departamento chico de Shinagawa. SANTA CLAUS: fábrica de juguetes abandonada junto al río Sumida (este, barrio de fábricas, chimenea de ladrillo); en el sótano, una mujer vieja tejiendo en una silla; cientos de muñecos sentados en filas; debajo, "algo que no es de este mundo de arriba, que espera que lo llamen" (el Demonio del Infierno). Makima espera: "¿Y?"
+## COMANDO 3 (T1715)
+
+la encontré, está en una fábrica de juguetes junto al río
+
+## RESPUESTA 3 (T1715)
+
+> la encontré, está en una fábrica de juguetes junto al río
+
+> —La encontré. Está en una fábrica de juguetes, junto al río.
+
+—Junto al río. —Makima no pregunta cuál. Cierra los ojos un segundo, como quien busca algo en un mapa que tiene en la cabeza—. El Sumida. Del lado este hay una zona de fábricas viejas. Cerraron casi todas después de la guerra.
+
+Abre los ojos.
+
+—Había una de juguetes de lata. Muñecos, trenes, soldaditos. Con una chimenea de ladrillo. —Te mira—. ¿Esa?
+
+No espera la respuesta. Se le nota en la cara que ya la sabe.
+
+—Una fábrica de juguetes. —Se le escapa una sonrisa, chiquita, casi divertida—. Qué poco imaginativa. O qué sentimental.
+
+Toma la taza otra vez, con las dos manos. Bebe un sorbo largo, sin apuro, como si el tema ya estuviera cerrado y solo faltara terminar el desayuno. Kase la sigue con los ojos, cada movimiento.
+
+—Kishibe va a estar muy contento. Lleva tres días sin dormir buscándola. —Deja la taza—. Y Aki también. Y yo.
+
+Afuera, el chofer apaga el cigarrillo contra la suela del zapato y lo guarda en el bolsillo, prolijo.
+
+Makima te mira un rato largo, en silencio, con la cabeza apenas inclinada.
+
+—Usted cerró los ojos unos segundos, nada más. Y encontró, en una ciudad de doce millones de personas, a la única que mis cazadores no pudieron encontrar en tres días. —Lo dice sin ningún énfasis, como un dato—. Me imagino que, para encontrarla a ella, tuvo que pasar por encima de todos los demás.
+
+Junta las manos sobre la mesa.
+
+—Así que se lo pregunto directamente, porque me parece que con usted es lo mejor. —La voz baja—. Mientras la buscaba... ¿sintió a alguien más que yo debería conocer?
+
+Y se queda esperando, sin parpadear, con los anillos amarillos quietos sobre tu cara.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1715 · CHAINSAW MAN · DÍA 2 · 08:40    ║
+║ Tokio, otoño de 1997                         ║
+║ Ginza, casa de té (cerrada para ustedes)     ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.903 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tus rodillas, mirando a Makima      ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Encontrar a Santa Claus            ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 2 08:40, casa de té. Makima sabe (por Facundo) que Santa está en una fábrica de juguetes junto al río; deduce cuál: la vieja fábrica de juguetes de lata con chimenea de ladrillo, lado este del Sumida. "Qué poco imaginativa. O qué sentimental." Pregunta: "Mientras la buscaba... ¿sintió a alguien más que yo debería conocer?" (Kishibe aconsejó no decirle todo.)
