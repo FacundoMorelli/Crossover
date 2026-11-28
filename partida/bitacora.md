@@ -1712,3 +1712,4 @@ T1710 · CHAINSAW MAN · refugio, 6.º piso · "Pochita está tranquilo y conten
 T1711 · CHAINSAW MAN · Ginza · SIMULACIÓN hasta el Día 2. Kishibe se lleva a los asesinos ("no le digas a Makima todo"). Noche tranquila. Diario: 46 dormidos, "un relámpago blanco y azul que caminaba". Desayuno con Makima: "¿Cuánto quiere cobrar?"
 T1712 · CHAINSAW MAN · Ginza · "No necesito dinero ni nada." Makima: "Todos quieren algo. Nadie es así. ¿Por qué nos ayuda?"
 T1713 · CHAINSAW MAN · Ginza · "Me gusta ayudar, no me gusta matar; solo maté una vez, por mi gato." Makima: "A todos nos gusta tener algo nuestro." Pide: "¿Podría encontrar a Santa Claus?"
+T1714 · CHAINSAW MAN · Ginza · Barre Tokio con el ki: siente a Makima (pozo con miles de hilos), Quanxi (Torre de Tokio), Tolka (Shinagawa) y a Santa (fábrica de juguetes junto al Sumida). Makima: "¿Y?"
