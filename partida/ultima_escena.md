@@ -3,58 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1822)
-
-si, le doy arroz a kase, mucho gusto soy Facundo
-
-## RESPUESTA 1 (T1822)
-
-> si, le doy arroz a kase, mucho gusto soy Facundo
-
-> —Sí. Mucho gusto, soy Facundo.
-
-Min Byung-Gyu te pasa la caja abierta, contento. Tomas un poco de arroz con los palillos que te ofrece y se lo das a Kase en la palma de la mano. Kase lo huele, te mira como diciendo que esto es una ofensa comparado con el atún, y se lo come igual, todo, con lengüetazos rápidos y ásperos.
-
-—¡Come! —Min se ríe, con los ojos cerrados de la sonrisa—. Mi hermana tiene un gato que solo come comida de lata importada. De Japón. Cuesta más que la mía. —Mira a Kase de cerca—. Qué ojos. Rojo y azul. Como los suyos, Facundo.
-
-Se acomoda en el asiento de plástico, con la caja en las rodillas, y come él también, despacio. Abajo, en la arena, Cha Hae-in come sentada en el borde de una plataforma de cemento con Choi, y cada tanto levanta la vista hacia la grada. Cuando los ve juntos, frunce un poco el ceño, curiosa.
-
-—Va a pensar que le estoy contando cosas de ella —dice Min, y se ríe otra vez—. No le voy a contar nada. Bueno, casi nada. —Baja un poco la voz—. Hace tres años, en una Puerta de rango A en Daegu, un monstruo le abrió la espalda de lado a lado. Yo la curé. Estuvo inconsciente diez minutos. Cuando se despertó, lo primero que hizo fue preguntar si los demás estaban bien. Lo segundo, levantarse y volver a entrar.
-
-Mira hacia abajo, hacia ella.
-
-—Así es. No sabe quedarse afuera.
-
-Se queda callado un rato, comiendo. Después deja los palillos sobre la caja.
-
-—Yo estuve en la tercera incursión a Jeju —dice, sin mirarte, mirando la arena—. Hace un año y medio. Éramos veinticuatro. Volvimos diez. —La sonrisa se le borra, por primera vez—. Las hormigas no son como los monstruos de las Puertas normales. Son muchas, son rápidas, y piensan. Atacan primero a los sanadores, porque saben que sin nosotros los demás caen. Yo me salvé porque Choi me cubrió con fuego durante dos horas sin parar.
-
-Te mira.
-
-—Usted no es cazador, Facundo. Pero va a estar aquí esperándola. —Duda—. ¿No le da miedo? Que vaya, digo.
-
-En tu palma, Kase lame los últimos granos de arroz y levanta la cabeza para mirar a Min.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1822 · SOLO LEVELING · DÍA 9 · 13:12   ║
-║ Seúl, Corea del Sur                          ║
-║ Yeouido · centro de entrenamiento, gradas    ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: comiendo arroz de tu mano              ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Jeju (Día 22)                      ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1823)
+## COMANDO 1 (T1823)
 
 no, confío en ella, es muy fuerte
 
-## RESPUESTA 2 (T1823)
+## RESPUESTA 1 (T1823)
 
 > no, confío en ella, es muy fuerte
 
@@ -116,11 +69,11 @@ Abajo, junto a las duchas, Cha Hae-in se queda quieta, mirándote, con la toalla
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1824)
+## COMANDO 2 (T1824)
 
 no gracias, por esta vez tengo que pasar
 
-## RESPUESTA 3 (T1824)
+## RESPUESTA 2 (T1824)
 
 > no gracias, por esta vez tengo que pasar
 
@@ -167,6 +120,53 @@ Se apoya contra tu hombro, del lado libre, cansada.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1825)
+
+si vamos a casa( cuando es la pelea de entrenamientos que sung pelea con goto? si no tenes bien el canon fijate en el otro repo de solo leveling)
+
+## RESPUESTA 3 (T1825)
+
+> si vamos a casa
+
+> —Sí. Vamos a casa.
+
+Cha Hae-in se queda quieta contra tu hombro. Después se ríe bajito, sin levantar la cabeza, y se le colorean las orejas otra vez.
+
+—A casa —repite, despacio, como si probara cómo suena.
+
+Toman un taxi en la puerta del centro de entrenamiento. Yeouido se apaga detrás, con las torres de los bancos encendiéndose una por una contra el cielo violeta del atardecer. Cruzan el Han. Cha Hae-in va con la cabeza apoyada en la ventanilla, cansada, con la espada en su funda entre las rodillas y tu mano agarrada sobre el asiento. Kase duerme en tu falda.
+
+En el hotel ya nadie los espera en la puerta. El portero de guantes blancos les abre con la misma reverencia de siempre. La recepcionista del turno de la tarde le sonríe a Cha Hae-in, y esta vez Cha Hae-in le devuelve la sonrisa.
+
+Piso veintidós. Lucecita verde. Clic.
+
+Cha Hae-in apoya la espada contra la pared, junto a la puerta, como si viviera ahí desde siempre. Se saca los zapatos. Se tira de espaldas en la cama con los brazos abiertos. Kase se le sube a la panza.
+
+—Mañana no hay entrenamiento —dice al techo—. Pasado sí. El día once. Esa vez es en el gimnasio de la Asociación, más chico, sin prensa. Vamos a hacer combates de práctica, cuatro contra cuatro, coreanos contra japoneses, para conocernos.
+
+Acaricia a Kase.
+
+—Go Gunhee invitó a Sung Jinwoo a mirar. —Hace una pausa—. El del segundo despertar. El de la Puerta de Gangnam, el de la noche que nos conocimos. Quiere convencerlo de que venga a Jeju. Dicen que es muy fuerte, más de lo que la medición dijo. Choi está obsesionado con él.
+
+Gira la cabeza sobre la colcha para mirarte.
+
+—Tú también estás invitado, si quieres. Se lo pregunté a Choi. Dijo que sí, que total "el novio sin maná ya es parte del paisaje". —Sonríe—. ¿Vienes pasado mañana?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1825 · SOLO LEVELING · DÍA 9 · 18:10   ║
+║ Seúl, Corea del Sur                          ║
+║ Hotel de Gangnam · habitación 2207           ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: echado sobre la panza de Cha           ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Entrenamiento 4 vs 4 (Día 11)      ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 9 17:22, gradas de Yeouido. "No, gracias. Por esta vez tengo que pasar." Devolvió la espada. Goto: "No dijiste 'no sé'. Dijiste 'por esta vez'... Me la debes, novio sin maná. Cuando volvamos de Jeju." Un periodista anotó la escena. Cha (recién bañada) se sienta al lado: Goto le dijo que probaría a su novio; ella le dijo que lo dejara en paz; él respondió que eso significaba que ella sabía que podía. "No te voy a preguntar nada... Pero me alegra que no hayas bajado." "¿Vamos a casa? ...Al hotel."
+ESTADO AL CIERRE: Día 9 18:10, 2207. "Sí. Vamos a casa." Cha: "A casa." Taxi; hotel sin prensa. Cha apoya la espada junto a la puerta como si viviera ahí. Mañana (Día 10) no hay entrenamiento; Día 11: gimnasio de la Asociación, sin prensa, combates 4 vs 4 coreanos vs japoneses. Go Gunhee invitó a Sung Jinwoo a mirar (quiere convencerlo de ir a Jeju; Choi obsesionado con él). Choi aceptó que Facundo vaya ("el novio sin maná ya es parte del paisaje"). "¿Vienes pasado mañana?"

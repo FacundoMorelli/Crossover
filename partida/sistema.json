@@ -1,8 +1,8 @@
 {
-  "turno": 1824,
+  "turno": 1825,
   "mundo_actual": "sololeveling",
   "fecha_local": "Solo Leveling: Día 1 (arco de la Reevaluación / Puerta del Gremio de Cazadores)",
-  "hora": "Día 9, 17:22 (Seúl)",
+  "hora": "Día 9, 18:10 (Seúl)",
   "edad": 18,
   "nivel": 34,
   "exp": 486130,
@@ -2949,7 +2949,8 @@
     "tiempo_otros_mundos_T1762": "Desde la salida de DB (T1680): 9 días en CSM + 33 días en FMA ≈ 6 semanas. Sorbet todavía no llegó (≈5 meses). Desde la salida de CSM (Día 9, nov. 1997): ≈33 días → principios de diciembre de 1997 (arco del Pistola en curso o recién terminado; Aki vive por declaración).",
     "sololeveling_llegada": "Elegido al azar (T1764) entre demonslayer/sololeveling: sololeveling. Momento al azar: arco 6 (caps. 76-92), noche de la incursión del Gremio de Cazadores (Puerta de rango A en Gangnam; orcos altos; Kargalgan → Tusk). Después: Jeju (arco 8).",
     "apodo_pendiente_sololeveling": "'El cazador sin olor' (entre cazadores, por Cha Hae-in) / 'el Cerrajero' (si lo ven cerrar Puertas).",
-    "sololeveling_jeju_fecha": "T1818: 4.ª incursión a Jeju anunciada Día 8 a los S; fecha: Día 22 (dos semanas). 18 cazadores coreanos S/A + japoneses (Goto Ryuji). Canon: muere Min Byung-Gyu (el Rey Hormiga lo come) y varios más; Jinwoo llega por Intercambio de Sombras con la sombra que dejó junto a Cha Hae-in (si lo hace en esta línea)."
+    "sololeveling_jeju_fecha": "T1818: 4.ª incursión a Jeju anunciada Día 8 a los S; fecha: Día 22 (dos semanas). 18 cazadores coreanos S/A + japoneses (Goto Ryuji). Canon: muere Min Byung-Gyu (el Rey Hormiga lo come) y varios más; Jinwoo llega por Intercambio de Sombras con la sombra que dejó junto a Cha Hae-in (si lo hace en esta línea).",
+    "sololeveling_jeju_canon_detallado": "(Fuente: repo FacundoMorelli/SoloLeveling, partida/Canon/07_isla_de_jeju.md) Día 11 (en esta línea): entrenamiento en el gimnasio de la Asociación, Jinwoo mira desde el balcón con Gunhee y Choi. 4 vs 4: Kenzo vence a Ma Dongwook; Hoshino vence a Lim Taegyu; Hoshino y Tanaka vencen a Baek; Cha vence a Kanae Tawata; Kumamoto se descontrola contra Cha y Jinwoo interviene y lo incapacita. Luego Goto desafía a Jinwoo (duda que sea mago): Jinwoo esquiva todo; Goto ataca a matar y le corta la mejilla; Jinwoo le sujeta la mano; Kei levanta muro de hielo; los separan; sin ganador. Jinwoo deja sombras en Goto y Cha (o Yoonho). Jinwoo decide no ir a Jeju (cuidar a su madre). Día 22 incursión: japoneses cebo; el Rey hormiga mata a Akari, Kenzo, Tatsumi, Kei, Ippei, Mari, GOTO (dos golpes) y MIN BYUNG-GYU (le come la cabeza); noquea a Cha casi muerta. Matsumoto ordena abandonar a los coreanos. Jinwoo llega por Intercambio de Sombras, mata al Rey (Beru). Sobreviven Choi, Cha, Baek, Ma Dongwook, Lim Taegyu, Hoshino, Kanae, Kumamoto."
   },
   "recompensa_onepiece": {
     "monto": 400000000,

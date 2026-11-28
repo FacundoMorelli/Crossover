@@ -15,3 +15,5 @@ Llegada: Día 1, 21:40 (T1764).
 - Día 4 · Han Dong-su reevaluado rango A (por Facundo). (Canon en paralelo: Jinwoo, próximo arco: Castillo del Demonio.)
 - Días 5-7 · (canon) Jinwoo completa el Castillo del Demonio; Elixir; su madre despierta. Compra un edificio.
 - Día 8 · (canon) Go Gunhee reúne a los S: 4.ª incursión a Jeju en dos semanas (Día 22), 18 coreanos S/A + japoneses (Goto Ryuji).
+- Día 9 · (por Facundo) Primer entrenamiento conjunto público en Yeouido. Goto propuso el plan: japoneses de cebo, coreanos al nido (canon).
+- Día 11 · (canon, pendiente) Entrenamiento 4 vs 4 en el gimnasio de la Asociación; Jinwoo mira desde el balcón; Kumamoto se descontrola contra Cha y Jinwoo lo incapacita; Goto desafía a Jinwoo (corte en la mejilla, le sujeta la mano, sin ganador); Jinwoo deja sombras en Goto y Cha/Yoonho.

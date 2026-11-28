@@ -1824,3 +1824,4 @@ T1821 · SOLO LEVELING · Yeouido · Entrenamiento Corea-Japón. Tasa a Goto y a
 T1822 · SOLO LEVELING · Yeouido · Min Byung-Gyu: la 3.ª incursión a Jeju (24→10), las hormigas atacan a los sanadores. "¿No le da miedo?"
 T1823 · SOLO LEVELING · Yeouido · "Confío en ella." Copia de Baek Yoonho emitida. Goto Ryuji le tira una espada de madera: "Quiero ver qué vio ella."
 T1824 · SOLO LEVELING · Yeouido · Rechaza el duelo con Goto ("por esta vez"). Goto: "Me la debes." Cha: "¿Vamos a casa?"
+T1825 · SOLO LEVELING · Hotel de Gangnam · "Vamos a casa." Día 11: 4 vs 4 en el gimnasio de la Asociación, con Jinwoo invitado a mirar.
