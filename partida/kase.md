@@ -177,3 +177,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1676 (Dragon Ball) · Apoya la cabeza en la mano dormida de Erasa y se echa debajo, como guardia.
 - T1711 (Chainsaw Man) · A las 5 de la mañana elige dormir a los pies de Power, encima de la manta, sin que nadie lo vea.
 - T1728 (Chainsaw Man) · Se hace amigo de Miau, el gato de Power (duermen juntos bajo la mesa baja). Duerme todas las noches a los pies de Power.
+- T1729 (Chainsaw Man) · Se echa pegado a la espalda de Power mientras ella duerme en el tatami.

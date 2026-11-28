@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1726)
-
-se los doy
-
-## RESPUESTA 1 (T1726)
-
-> se los doy
-
-Le pasas a Santa Claus al agente de los guantes.
-
-La recibe con cuidado, como le dijeron, con los dos brazos, como quien recibe a un bebé dormido. La viejita no se despierta. La bufanda roja larguísima se le escurre del hombro y queda colgando hasta la alfombra.
-
-Los otros tres se mueven en silencio. La acuestan en el carrito de metal. Le pasan las correas de cuero por los tobillos, por las rodillas, por la cintura, por el pecho, y las ajustan con hebillas de hierro. Le ponen la mordaza, con mucho cuidado, sin lastimarle la boca. Uno de los de máscara abre la caja de madera alargada con una llave chiquita: adentro hay un cuchillo de hoja negra y un frasco con algo oscuro. La cierra de nuevo sin sacar nada. Le quitan la bufanda roja y la doblan en cuatro, prolija, y la ponen encima de la caja.
-
-Kase sigue el procedimiento entero sin parpadear, con las orejas aplastadas.
-
-El carrito sale por la puerta, empujado por dos, con los otros dos detrás. Las ruedas chirrían por el pasillo hasta que dejan de oírse.
-
-La oficina queda en silencio. Los tres perros vuelven a apoyar la cabeza en la alfombra.
-
-Makima te mira. Mira la camisa rota en la espalda, el desgarro largo por donde salieron las alas.
-
-—Le debo una camisa, señor Morelli. —Lo dice con una sonrisa chica—. Además de todo lo demás.
-
-Rodea el escritorio y se sienta en su silla, despacio, con la espalda derecha y las manos juntas sobre la madera.
-
-—Santa Claus era la peor. Pero no era la única. —La voz baja, suave—. Usted mismo me lo dijo: hay otros. Y siguen buscando a Denji. Así que esto no terminó.
-
-Mira por la ventana, hacia Tokio, un momento. Después vuelve a ti.
-
-—Le voy a pedir algo que no es trabajo. —Inclina la cabeza—. Aki tiene un departamento. Denji y Power viven con él. Es chico, hay una habitación que no usa nadie, llena de cajas. —Una pausa—. Me gustaría que se quede ahí. Con ellos. Hasta que esto termine, como usted dijo.
-
-Lo dice como si te ofreciera una taza de té.
-
-—Usted no quiere dinero. No quiere nada. —Sonríe—. Pero me parece que no tiene dónde dormir en esta ciudad. Y a Denji le hizo bien. Aki me lo dijo esta mañana: que anoche se durmió sonriendo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1726 · CHAINSAW MAN · DÍA 2 · 08:56    ║
-║ Tokio, otoño de 1997                         ║
-║ Seguridad Pública, oficina de Makima         ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 289.078 · 0 yenes                 ║
-║ Energía 97% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1727)
+## COMANDO 1 (T1727)
 
 esta bien
 
-## RESPUESTA 2 (T1727)
+## RESPUESTA 1 (T1727)
 
 > esta bien
 
@@ -105,11 +52,11 @@ El teléfono suena otra vez. Esta vez lo levanta, pero tapa el auricular con la 
 
 ---
 
-## COMANDO 3 (T1728)
+## COMANDO 2 (T1728)
 
 esta bien. simula unos dias
 
-## RESPUESTA 3 (T1728)
+## RESPUESTA 2 (T1728)
 
 > esta bien. simula unos días
 
@@ -164,4 +111,65 @@ Se da vuelta para irse. A mitad de camino hacia la escalera, sin girarse, agrega
 
 ---
 
-ESTADO AL CIERRE: Día 4 07:05, puerta del departamento de Aki. Facundo vive ahí desde el Día 2 (habitación de las cajas: "LIBROS", "INVIERNO", "PAPÁ"). Kase se hizo amigo de Miau (el gato de Power) y duerme a los pies de Power. 387 personas despertaron en la fábrica (noticiero). Kishibe: los soviéticos (Tolka y maestro) se fueron en barco desde Yokohama; los americanos restantes también; QUANXI SE ENTREGÓ a Kishibe anoche (con sus 4 fiends, en una celda de la central) porque "si alguien en Tokio es capaz de tragarse una mano del Infierno, no pienso pelear con él". MAKIMA VUELVE ESTA NOCHE y va a querer verla (canon: Makima mata a Quanxi y a sus fiends). Kishibe a Facundo: "Supongo que algo no le dijiste." Se fue.
+## COMANDO 3 (T1729)
+
+simula hasta que llegue makima
+
+## RESPUESTA 3 (T1729)
+
+> simula hasta que llegue makima
+
+El día pasa despacio.
+
+Aki no dice nada de lo de Kishibe. Cierra la puerta, termina de vestirse, desayuna parado en la cocina, arroz con huevo y té, y se va a la central a las ocho con la katana al hombro y un cigarrillo apagado en la boca. Antes de salir le pone a Power la bufanda, porque hace frío, y Power se la saca apenas cierra la puerta.
+
+Denji duerme hasta las once. Se levanta, se rasca la panza, abre la heladera, encuentra la mermelada de frutilla que compró Aki y se come medio frasco con una cuchara de pie frente a la ventana. Después te enseña a jugar a un juego de cartas que inventó él, con reglas que cambian cada vez que va perdiendo.
+
+Power pasa la mañana entera tratando de que Kase se le suba a la cabeza. Le ofrece pescado, le ofrece leche, le ofrece una media de Denji. Kase no se le sube a la cabeza. Pero a la tarde, cuando ella se queda dormida en el tatami con la boca abierta y Miau sobre la panza, Kase se le acerca, la mira un rato, y se le echa al lado, pegado a su espalda, hasta que se despierta.
+
+A las seis empieza a llover otra vez.
+
+Aki vuelve a las siete y media, empapado, con una bolsa de compras. No habla en toda la cena. Cocina curry, sirve cuatro platos y un platito para cada gato, se sienta, come, lava. Denji le pregunta si pasó algo. Aki dice que no. Power le pregunta si la china es linda. Aki dice que se termine las zanahorias. Power esconde las zanahorias debajo del arroz.
+
+A las nueve, Aki se sienta en el balcón, solo, bajo el alero, a fumar, mirando la lluvia caer sobre los techos. No entra.
+
+A las nueve y cuarenta suena el teléfono del departamento.
+
+Denji atiende, con la boca llena de galletitas. Escucha. Pone cara de no entender. Te mira. Te tiende el tubo, estirando todo el cable.
+
+—Es para ti. El viejo de la petaca. —Se encoge de hombros—. Dice que es urgente. No dice "hola" ni nada.
+
+Del otro lado de la línea se oye una respiración pesada y el ruido de un lugar grande, con eco, como un pasillo de cemento. Un goteo. Pasos lejos.
+
+—Morelli. —La voz de Kishibe. Más baja que nunca, casi un susurro, como si no quisiera que lo oyeran—. Llegó. Hace diez minutos. Ni siquiera fue a su oficina.
+
+Una pausa larga. El goteo.
+
+—Está bajando a las celdas. Sola.
+
+Otra pausa.
+
+—No sé por qué te llamo. —Se le escapa algo que podría ser una risa, sin ganas—. Supongo que pensé que querías saberlo.
+
+Clic.
+
+En el balcón, Aki apaga el cigarrillo contra la baranda, despacio, y no se da vuelta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1729 · CHAINSAW MAN · DÍA 4 · 21:40    ║
+║ Tokio, otoño de 1997                         ║
+║ Departamento de Aki, living                  ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.078 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: con Power, en el tatami                ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 4 21:40, living del departamento de Aki. Día tranquilo (Denji: mermelada y juego de cartas; Power quiere a Kase en la cabeza; Kase se echa pegado a su espalda mientras duerme). Aki callado toda la cena (curry), fumando en el balcón bajo la lluvia. Kishibe llamó (pasillo con eco, susurrando): "Llegó. Hace diez minutos. Ni siquiera fue a su oficina. Está bajando a las celdas. Sola. No sé por qué te llamo. Supongo que pensé que querías saberlo." Clic. (Canon: Makima mata a Quanxi y a sus fiends.) Aki apaga el cigarrillo sin darse vuelta.

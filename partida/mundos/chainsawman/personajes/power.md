@@ -28,3 +28,4 @@ ENCUENTROS:
 - T1710 · Le regala a Denji el último sándwich de huevo: "Power te lo regala. Solo esta vez. Porque Power es generosa." Se duerme hombro con hombro con Denji en el pasillo.
 - T1711 · Se mete en la cama de Denji y lo empuja al borde. A las 7 descubre a Kase dormido a sus pies (Kase eligió dormir ahí desde las 5); Aki le tapa la boca antes del grito.
 - T1728 · (sim) Presenta a Miau (gato chico, flaco, blanco y gris). Llora de emoción cuando Kase y Miau se duermen juntos ("era la cebolla de Aki"). Kase duerme a sus pies; ella se hace la dormida y no se mueve para no despertarlo. Pregunta si en los lugares de Facundo hay "sangre rica".
+- T1729 · (sim) Intenta toda la mañana que Kase se le suba a la cabeza (pescado, leche, una media de Denji). Se duerme en el tatami; Kase se echa pegado a su espalda. Pregunta si "la china" es linda; esconde las zanahorias bajo el arroz.
