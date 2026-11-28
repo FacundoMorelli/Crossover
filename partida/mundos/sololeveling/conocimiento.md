@@ -12,3 +12,4 @@
 - T1765 · CHA HAE-IN vio a Facundo (aspecto, gato) y nota que no huele a nada. La MULTITUD lo vio hablar con ella (filman).
 - T1766 · CHA HAE-IN sabe (por Facundo) que dice ser viajero y no saber qué son los cazadores. JINWOO vio a Facundo (aspecto) hablando con ella.
 - T1767 · CHA HAE-IN sabe (por Facundo) su nombre: Facundo Morelli.
+- T1768 · JINWOO sabe (por Cha Hae-in) que hay "un chico de afuera" que no huele mal (no le dio el nombre todavía). Nadie vio a Facundo dentro de la Puerta.

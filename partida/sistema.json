@@ -1,8 +1,8 @@
 {
-  "turno": 1767,
+  "turno": 1768,
   "mundo_actual": "sololeveling",
   "fecha_local": "Solo Leveling: Día 1 (arco de la Reevaluación / Puerta del Gremio de Cazadores)",
-  "hora": "21:47 (Seúl)",
+  "hora": "22:30 (Seúl)",
   "edad": 18,
   "nivel": 34,
   "exp": 486130,
@@ -1714,6 +1714,27 @@
       "mision": "Reconocer a Envy diez veces seguidas, en diez formas distintas, sin usar el ki ni ningún sentido de energía.",
       "dificultad": "MEDIA",
       "emitida": "T1753"
+    },
+    {
+      "poder": "Danza de la Espada (Cha Hae-in)",
+      "mundo": "sololeveling",
+      "mision": "Bailar la Danza de la Espada con Cha Hae-in, frente a frente, hasta que ella baje la espada primero.",
+      "dificultad": "MEDIA",
+      "emitida": "T1768"
+    },
+    {
+      "poder": "Magia de fuego / meteoritos (Choi Jong-In)",
+      "mundo": "sololeveling",
+      "mision": "Recibir de frente el meteorito más grande de Choi Jong-In sin moverte del lugar.",
+      "dificultad": "MEDIA",
+      "emitida": "T1768"
+    },
+    {
+      "poder": "Monarca de las Sombras: Extracción de Sombras y todo su poder (Sung Jinwoo)",
+      "mundo": "sololeveling",
+      "mision": "Pelear con Sung Jinwoo en serio, los dos con todo, y que al terminar él te dé la mano.",
+      "dificultad": "EXTREMA",
+      "emitida": "T1768"
     }
   ],
   "misiones_de_copia_rechazadas": [],

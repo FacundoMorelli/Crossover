@@ -8,3 +8,4 @@ Llegada: Día 1, 21:40 (T1764).
 - Arcos 9-15: Gremio Ahjin, doble mazmorra 2, crisis de Japón, conferencia, guerra de Monarcas, batalla final, epílogo.
 ## CAMBIOS
 (ninguno)
+- Día 1 22:30 · (T1768, canon) Incursión del Gremio de Cazadores en Gangnam: Jinwoo mata a Kargalgan y lo extrae (Tusk). Cha Hae-in nota que Jinwoo no huele mal.
