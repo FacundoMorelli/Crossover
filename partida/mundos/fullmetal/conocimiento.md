@@ -13,3 +13,4 @@
 - T1741 · ED dedujo que el pelo de Facundo es natural y que sus ojos no son de Amestris.
 - T1742 · ED y AL saben (por Facundo) que es un viajero "de bastante lejos". ROSS y BROSH lo vieron (aspecto; camisa con escudo extranjero).
 - T1743 · ROSS y BROSH saben (por Facundo) su nombre y que es viajero.
+- T1744 · ROSS, BROSH, ED y AL saben (por Facundo) que no tiene documentos (extranjero sin papeles).

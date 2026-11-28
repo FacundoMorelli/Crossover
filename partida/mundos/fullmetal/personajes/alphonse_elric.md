@@ -17,3 +17,4 @@ ENCUENTROS:
 - T1741 · Baja corriendo (rompe una silla). Se agacha tras la reja con la mano abierta, esperando. KASE SE LE SUBE A LA PALMA y se enrosca. "Hermano. Hermano. Se me subió a la mano." RELACIÓN: encantado con Kase y con Facundo.
 - T1742 · "¡Un viajero! ¡Nosotros también viajamos, señor Morelli! Por todo Amestris. Por el Este, el Sur, Lior, Youswell... ¿Usted viaja buscando algo?"
 - T1743 · "Es verdad, subteniente. Me lo prestó. Se llama Kase. Se me subió solo."
+- T1744 · "¡El teniente coronel Hughes! ¡Él es muy bueno, señor Morelli! ¡Nos ayudó mucho!"

@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1741)
-
-esta bien
-
-## RESPUESTA 1 (T1741)
-
-> esta bien
-
-> —Está bien.
-
-—¡Gracias! ¡Ya bajo! ¡No se vaya!
-
-La armadura desaparece de la ventana con un estruendo de metal contra madera. Se oye la silla caer. Se oye a Ed gritar "¡Al, la silla!". Se oyen pasos enormes, de hierro, bajando una escalera de a tres escalones, y una enfermera que grita algo, y otra puerta.
-
-Medio minuto después, la puerta principal del hospital se abre de par en par. Los dos guardias se apartan sin decir nada, como si ya estuvieran acostumbrados. Al sale al jardín, a trancos largos, cruza el camino de piedra y llega hasta la reja. De cerca es todavía más grande: te pasa por más de una cabeza, ancho como un ropero, con la armadura llena de abolladuras, rayones y un remiendo nuevo en un hombro, soldado y brillante. Huele a aceite de máquina y a metal frío.
-
-Se agacha. Es difícil para él: las rodillas de hierro crujen, el penacho del casco se balancea. Queda de cuclillas detrás de los barrotes, a la altura de tu hombro, con los dos puntitos de luz fijos en Kase.
-
-Levanta una mano. Enorme, de dedos gruesos, con guantelete. La acerca despacio, muy despacio, entre dos barrotes, y la deja quieta en el aire, abierta, a un palmo del gato. Sin tocarlo. Esperando.
-
-Kase la mira. La huele. Mira los puntitos de luz del casco.
-
-Y baja de tu hombro.
-
-Se pasa por entre los barrotes de la reja, con una elegancia de rey, se sube de un salto a la palma de hierro, da una vuelta sobre sí mismo y se echa ahí, enroscado, con la cola tapándole la nariz. Ocupa toda la mano de la armadura.
-
-Al se queda de piedra. Literalmente: no mueve ni un dedo. Los puntitos de luz tiemblan.
-
-—Hermano —susurra, como si estuviera en una iglesia—. Hermano. Se me subió a la mano.
-
-Ed llega detrás, por el camino del jardín, sin apuro, arrastrando unas pantuflas de hospital y con el abrigo rojo echado sobre los hombros. Camina rengueando un poco. Se para al lado de su hermano, con las manos en los bolsillos, y mira al gato acostado en la palma de metal. Hace una mueca, como si le diera bronca que el gato fuera tan lindo.
-
-—Sí, Al. Ya veo. —Suspira—. Felicitaciones.
-
-Después te mira a ti. A través de la reja. Esta vez no grita. Te estudia con los ojos dorados entrecerrados, serio, como quien estudia un problema de alquimia que no termina de cerrar.
-
-—Ese pelo no es teñido. Se nota en la raíz. —Te señala el ojo izquierdo con la barbilla—. Y esos ojos tampoco son de por acá. No hay nadie en Amestris con los ojos así. Ni en el Este, ni en el Sur. —Entrecierra más los ojos—. ¿De dónde eres? ¿De Xing? ¿De Creta?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1741 · FULLMETAL · DÍA 1 · 17:55       ║
-║ Ciudad Central, Amestris, 1914               ║
-║ Reja del hospital militar                    ║
-║ NIVEL 33 · EXP 461.130/480.000               ║
-║ FRAGMENTOS 289.378 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la mano de Al                       ║
-║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1742)
+## COMANDO 1 (T1742)
 
 soy un viajero, de bastante lejos
 
-## RESPUESTA 2 (T1742)
+## RESPUESTA 1 (T1742)
 
 > soy un viajero, de bastante lejos
 
@@ -113,11 +58,11 @@ El soldado alto, el de la manta, se para detrás de ella y traga saliva.
 
 ---
 
-## COMANDO 3 (T1743)
+## COMANDO 2 (T1743)
 
 mucho gusto soy Facundo Morelli, un viajero, a al le gusto mi gato y quiso conocerlo
 
-## RESPUESTA 3 (T1743)
+## RESPUESTA 2 (T1743)
 
 > mucho gusto soy Facundo Morelli, un viajero, a al le gustó mi gato y quiso conocerlo
 
@@ -168,4 +113,61 @@ Ed, al lado de su hermano, levanta una ceja. Te mira. Espera, con los brazos cru
 
 ---
 
-ESTADO AL CIERRE: Día 1 18:00, reja del hospital. Ross se afloja un poco (Al confirma lo del gato). Brosh: "Es enorme. Mire la cola." Ross se disculpa (asesino de alquimistas suelto; órdenes). Libreta en mano: "¿Tiene documentos? Siendo extranjero, debería haberle entregado algo la aduana en la frontera." Ed, interesado, espera la respuesta.
+## COMANDO 3 (T1744)
+
+realmente no, no tengo nada
+
+## RESPUESTA 3 (T1744)
+
+> realmente no, no tengo nada
+
+> —Realmente no. No tengo nada.
+
+El lápiz de Ross se queda quieto sobre la libreta.
+
+—Nada —repite.
+
+Detrás de ella, Brosh deja de mirar al gato y la mira a ella, con los ojos muy abiertos, como esperando una orden que no quiere escuchar.
+
+—¿Cruzaste la frontera sin papeles? —Ed se olvida del todo de estar de mal humor. Se le ilumina la cara con una sonrisa torcida, de admiración contra su voluntad—. ¿Por el desierto? ¿O por las montañas de Briggs? Porque por Briggs nadie pasa sin que la Reina de Hielo lo...
+
+—Edward. —Ross lo corta sin mirarlo. Suspira. Cierra la libreta despacio y se la guarda en el bolsillo. Cuando te vuelve a mirar, no hay desconfianza en la cara: hay algo más incómodo, la cara de una persona honesta a la que le toca hacer algo que no quiere—. Señor Morelli. Le creo que no viene a hacerle daño a nadie. Al le confía su gato, y eso para mí dice bastante. —Una pausa—. Pero estamos en Ciudad Central, a cuatro cuadras del cuartel general, en plena búsqueda de un asesino, y usted es un extranjero sin documentos hablando con un Alquimista Estatal que tiene custodia.
+
+Se le nota que le cuesta.
+
+—Tengo que pedirle que me acompañe al cuartel general. No está arrestado. —Lo aclara enseguida, levantando una mano—. Es un trámite. La Oficina de Investigaciones se encarga de los extranjeros sin papeles. Le toman los datos, le dan un permiso provisorio, y listo. Hoy está de guardia el teniente coronel Hughes, que es... —se le escapa una media sonrisa— un hombre muy razonable. Va a querer mostrarle fotos de su hija, pero es razonable.
+
+—¡El teniente coronel Hughes! —Al levanta la cabeza—. ¡Él es muy bueno, señor Morelli! ¡Nos ayudó mucho!
+
+Ed mira a Ross. Mira a su hermano. Te mira a ti.
+
+—Si va a Investigaciones, voy yo también —anuncia, cruzándose de brazos—. Quiero escuchar cómo cruzó la frontera.
+
+—Tú no vas a ningún lado, estás internado.
+
+—¡Estoy perfectamente!
+
+—Tienes doce puntos en la cabeza, Edward.
+
+Ross se vuelve hacia ti, con el brazo extendido hacia la avenida, hacia la mole de piedra con banderas verdes y negras que se recorta contra el cielo naranja del atardecer.
+
+—¿Me acompaña, señor Morelli? Son diez minutos caminando.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1744 · FULLMETAL · DÍA 1 · 18:02       ║
+║ Ciudad Central, Amestris, 1914               ║
+║ Reja del hospital militar                    ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.378 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la mano de Al                       ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 18:02, reja del hospital. Facundo no tiene documentos. Ed admirado ("¿Cruzaste la frontera sin papeles? ¿Por el desierto? ¿Por Briggs?"). Ross, incómoda: "Tengo que pedirle que me acompañe al cuartel general. No está arrestado. Es un trámite. La Oficina de Investigaciones... Hoy está de guardia el teniente coronel HUGHES, un hombre muy razonable." Al: "¡Él es muy bueno!" Ed quiere ir; Ross: "Tienes doce puntos en la cabeza." Ross: "¿Me acompaña? Son diez minutos caminando." (Canon: Hughes esta noche descubre el patrón; Lust lo ataca; Envy lo mata.)
