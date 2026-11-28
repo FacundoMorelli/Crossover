@@ -3,74 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1889)
-
-entonces es algo simple, no toques a los míos, tocas a mis compañeros y ya sabes lo que soy capaz de hacer, en cambio te doy un trato, te doy 1 año para que me encuentres, si me encontrás me entrego
-
-## RESPUESTA 1 (T1889)
-
-> entonces es algo simple, no toques a los míos, tocas a mis compañeros y ya sabes lo que soy capaz de hacer, en cambio te doy un trato, te doy 1 año para que me encuentres, si me encontrás me entrego
-
-> —Entonces es algo simple. No toques a los míos. Si tocas a mis compañeros, ya sabes de lo que soy capaz. A cambio, te doy un trato: te doy un año para que me encuentres. Si me encuentras, me entrego.
-
-Akainu no se mueve.
-
-Te mira desde el otro lado del escritorio, de brazos cruzados, con la capa de JUSTICIA cayéndole de los hombros. El calor de la oficina baja un poco. Después sube otra vez.
-
-A tu lado, Robin gira la cabeza hacia ti. Apenas. Un segundo. Los ojos azules muy abiertos. No dice nada. Vuelve a mirar a Akainu.
-
-—Un año —repite Akainu.
-
-Se ríe.
-
-No es una risa de alegría. Es corta, seca, por la nariz, como el ruido de una piedra que se parte con el calor.
-
-—Te sientas en mi sillón, en mi cuartel, en el corazón de la Marina —dice—, y me pones condiciones. Como si yo fuera un pirata de poca monta al que se le compra el silencio. —Se le endurece la cara—. Me ofreces un juego.
-
-Rodea el escritorio, despacio. Se detiene junto al ventanal, mirando el puerto lleno de buques de guerra, de espaldas a ti otra vez.
-
-Se queda callado un rato largo. Mucho. Lo suficiente para que el reloj de la pared suene una vez.
-
-—La justicia absoluta no juega —dice, al fin, sin darse vuelta—. Pero tampoco desperdicia soldados. —Una pausa—. Si persigo a tus "compañeros", tú vas a aparecer. Lo sé. Lo vi en Marineford. Y cada vez que aparezcas, voy a perder barcos. Hombres. Almirantes. —Otra pausa—. Si te persigo a ti, solo a ti, pierdo menos.
-
-Se da vuelta.
-
-—Un año. Toda la Marina. Todo el Cipher Pol. Toda la red del Gobierno Mundial, en los cuatro mares y en el Grand Line. —Te mira—. Contra un solo hombre con un gato.
-
-Se le enciende algo en los ojos chicos, negros. Algo que no habías visto en él en Marineford. No es odio. Es otra cosa. Más fría.
-
-—Acepto.
-
-Robin respira hondo, a tu lado, sin hacer ruido.
-
-Akainu da un paso hacia el escritorio. Apoya un dedo sobre la madera quemada. Lo arrastra, despacio, dejando una línea negra, humeante.
-
-—Pero quiero que me digas una cosa, Ojos de Eclipse, para que el trato sea claro. —Levanta la vista—. ¿Quiénes son "los tuyos"?
-
-Mira a Robin.
-
-—¿Ella entra?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1889 · ONE PIECE · DÍA ~227 · 23:13    ║
-║ Nuevo Cuartel General de la Marina           ║
-║ Oficina del Almirante de Flota · su sillón   ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 99% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: sobre los informes, mirando a Akainu   ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Akainu: "¿Quiénes son los tuyos?"  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1890)
+## COMANDO 1 (T1890)
 
 si, ella entra, y toda la tripulación de luffy y sus amigos, solo me podes buscar a mi, nadie que tenga que ver con la tripulación
 
-## RESPUESTA 2 (T1890)
+## RESPUESTA 1 (T1890)
 
 > si, ella entra, y toda la tripulación de luffy y sus amigos, solo me podes buscar a mi, nadie que tenga que ver con la tripulación
 
@@ -127,11 +64,11 @@ Te sostiene la mano extendida, abierta, ardiendo.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1891)
+## COMANDO 2 (T1891)
 
 es un trato akainu, le doy la mano
 
-## RESPUESTA 3 (T1891)
+## RESPUESTA 2 (T1891)
 
 > es un trato akainu, le doy la mano
 
@@ -184,6 +121,67 @@ Akainu, en el ventanal, no se da vuelta.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1892)
+
+agarro a robin y me teletransporto a baltigo
+
+## RESPUESTA 3 (T1892)
+
+> agarro a robin y me teletransporto a baltigo
+
+Le agarras la mano a Robin.
+
+La oficina del Almirante de Flota desaparece, con el reloj de la pared, el ventanal rajado, las huellas negras en el escritorio y la espalda de Akainu mirando el mar.
+
+...
+
+Piedra blanca. Techo bajo. Una sola ventana angosta con la luna. Libros por todas partes. Mapas clavados con cuchillos. Noventa y siete marcas en la pared.
+
+El cuarto de Robin.
+
+Está igual a como lo dejaron a la mañana: la cama deshecha, la taza de café frío sobre la mesa, la capa verde de la Legión doblada encima de una pila de libros. El viento de Baltigo silba por la rendija de la ventana.
+
+Robin no te suelta la mano.
+
+Se queda quieta en el medio del cuarto. No dice nada. Mira la pared, las marcas. Mira la cama. Mira la capa. Te mira a ti.
+
+Y entonces le pasa algo que nunca le viste.
+
+Se le doblan las rodillas. Despacio. Se sienta en el borde de la cama, sin soltarte, como si las piernas le hubieran dejado de funcionar de golpe. Se tapa la boca con la mano libre. Los hombros le tiemblan.
+
+Al principio no sabes si llora o si se ríe. Después entiendes que es las dos cosas.
+
+—Veinte años —dice, con la voz rota, detrás de la mano—. Tenía ocho. Ocho años. Y desde ese día no dormí una sola noche sin pensar que alguien iba a tirar la puerta abajo.
+
+Se ríe. Llora. Se seca los ojos con el dorso de la muñeca.
+
+—Y tú entraste a su oficina. Te sentaste en su sillón. Le diste la mano. —Te mira, con los ojos mojados y brillantes—. Y él dijo "disfrútalo".
+
+Kase baja de tu hombro a la cama. Se le acerca. Se le sube a las piernas, despacio, y se echa ahí, enorme, pesado, ronroneando, con la cabeza contra su pecho.
+
+Robin le pone la mano encima. Se queda así un rato largo. Respirando. Escuchando el viento.
+
+—Un año —dice, más tranquila—. Un año sin capucha. Sin nombre falso. Sin cuchillo debajo de la almohada.
+
+Levanta la vista hacia ti. Ya no llora. Se le dibuja una sonrisa que no le habías visto nunca: no la de costado, ni la irónica, ni la serena. Una sonrisa entera. Como de nena.
+
+—¿Sabes qué quiero hacer? —dice—. Mañana. Quiero caminar por una ciudad. Una ciudad de verdad, llena de gente. A plena luz del día. Sin taparme la cara. —Hace una pausa—. Y entrar a una librería. Y comprar un libro. Y pagarlo con mi nombre.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1892 · ONE PIECE · DÍA ~227 · 23:18    ║
+║ Baltigo · cuarto de Robin                    ║
+║ De pie junto a la cama                       ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 99% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en las piernas de Robin, ronroneando   ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Robin quiere ir a una ciudad       ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 23:16, oficina de Akainu. "Es un trato, Akainu." Le da la mano de magma: no le hace nada (Akainu sorprendido medio segundo). TRATO SELLADO. Akainu: "Un año. Desde esta noche a las doce. Tienes cuarenta y cuatro minutos de ventaja, Ojos de Eclipse. Después, toda la Marina del mundo va a tener una sola orden." De espaldas: "Y Nico Robin. Durante un año, el Gobierno Mundial va a fingir que no existes. Disfrútalo." Robin no baja la vista. Kase deja una huella de polvo de Baltigo en el informe de arriba y sube al hombro. Akainu: "Fuera de mi oficina."
+ESTADO AL CIERRE: Día ~227 23:18, cuarto de Robin en Baltigo. Teletransporte con Robin. Robin se sienta en la cama; llora y ríe a la vez: "Veinte años. Tenía ocho... no dormí una sola noche sin pensar que alguien iba a tirar la puerta abajo." "Y tú entraste a su oficina. Te sentaste en su sillón. Le diste la mano. Y él dijo 'disfrútalo'." Kase se le echa en las piernas, ronroneando. "Un año sin capucha. Sin nombre falso. Sin cuchillo debajo de la almohada." Sonrisa entera, como de niña: "Mañana. Quiero caminar por una ciudad... A plena luz del día. Sin taparme la cara. Y entrar a una librería. Y comprar un libro. Y pagarlo con mi nombre."
