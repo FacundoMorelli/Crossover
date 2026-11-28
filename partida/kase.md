@@ -186,3 +186,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1777 · Seúl, tienda 24 h junto al río Han: elige las latas de atún parado en dos patas contra la heladera; el dueño no se anima a echarlo y le regala un platito de cartón.
 - T1781 · Seúl, río Han: se sienta junto al pie de Han Dong-su (cazador rango E, triste) a mirar el río con él, sin tocarlo. No lo hace con nadie.
 - T1786 · Seúl: Cha Hae-in le trae comida húmeda premium (preguntó en una tienda de mascotas cuál era la mejor). Le roza los tobillos con la cola al entrar.
+- T1787 · Se sube al brazo del sillón junto a Cha Hae-in y se sienta a su lado.

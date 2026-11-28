@@ -1786,3 +1786,4 @@ T1783 · SOLO LEVELING · Río Han · Transfiguración Ociosa: el maná de Han D
 T1784 · SOLO LEVELING · Hotel de Gangnam · "Solo te ayudé un poco." Dong-su grita gracias. Vuelve a la 2207.
 T1785 · SOLO LEVELING · Hotel de Gangnam · Duerme hasta el mediodía. 13:00 Cha Hae-in llega con bulgogi.
 T1786 · SOLO LEVELING · Hotel de Gangnam · Cha entra con bulgogi y comida para Kase. Le dijo a Choi que Facundo es "un amigo".
+T1787 · SOLO LEVELING · Hotel de Gangnam · Cha le cuenta su olfato de maná; con él "como una ventana abierta". "¿Cuánto tiempo te vas a quedar en Seúl?"

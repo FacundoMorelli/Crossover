@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1784)
-
-Solo te ayude un poco, suerte, vuelvo al hotel
-
-## RESPUESTA 1 (T1784)
-
-> Solo te ayude un poco, suerte, vuelvo al hotel
-
-> —Solo te ayudé un poco. Suerte.
-
-Dong-su abre la boca. No le sale nada.
-
-Kase se te sube al hombro de un salto. Te das vuelta y empiezas a caminar por la orilla, de vuelta hacia las torres de Gangnam.
-
-Unos pasos más allá escuchas la silla de plástico arrastrarse contra el piso.
-
-—¡Facundo!
-
-Te alcanza la voz, fuerte, quebrada, la de un chico que no está acostumbrado a gritar.
-
-—¡Gracias! —Una pausa, el ruido del río—. ¡Gracias!
-
-Cuando miras por encima del hombro, sigue parado junto a la mesa, bajo la luz blanca de la tienda, con las dos manos abiertas delante de la cara, mirándolas. El señor del mostrador se asomó a la puerta, sin entender por qué grita el chico.
-
-Subes por las calles en pendiente, entre los neones. A esta hora ya hay menos gente: un repartidor en moto, una pareja que discute bajito en una parada de autobús, el vendedor de castañas cerrando el carrito. Empieza a caer una llovizna muy fina, casi niebla, que hace brillar las veredas.
-
-El portero de guantes blancos te abre la puerta del hotel con la misma reverencia corta. El piano ya no suena. La recepcionista de antes cambió de turno con un chico joven, que te mira, mira a Kase y no dice nada.
-
-Piso veintidós. Lucecita verde. Clic.
-
-La habitación está como la dejaste: la cama enorme, el ventanal con Seúl abajo, ahora un poco borroso por la llovizna. La tarjetita con el número de Cha Hae-in sigue sobre la mesita de luz, al lado del teléfono blanco.
-
-Kase salta a la cama, vuelve a la almohada del medio, da dos vueltas y se echa con un suspiro largo, satisfecho, de gato que comió atún.
-
-En el reloj digital de la mesita: 00:51.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1784 · SOLO LEVELING · DÍA 2 · 00:51   ║
-║ Seúl, Corea del Sur                          ║
-║ Hotel de Gangnam · habitación 2207           ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.292.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la almohada del medio               ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Cha Hae-in vuelve a la una         ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1785)
+## COMANDO 1 (T1785)
 
 me voy a dormir y simula hasta la 1
 
-## RESPUESTA 2 (T1785)
+## RESPUESTA 1 (T1785)
 
 > me voy a dormir y simula hasta la 1
 
@@ -103,11 +52,11 @@ Kase ya está en la puerta, sentado, con la cola moviéndose.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1786)
+## COMANDO 2 (T1786)
 
 abro la puerta, hola cha, pasa
 
-## RESPUESTA 3 (T1786)
+## RESPUESTA 2 (T1786)
 
 > abro la puerta, hola cha, pasa
 
@@ -152,6 +101,51 @@ Te mira, de frente, esperando.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1787)
+
+si, muy bien, gracias por la comida
+
+## RESPUESTA 3 (T1787)
+
+> si, muy bien, gracias por la comida
+
+> —Sí, muy bien. Gracias por la comida.
+
+—De nada. —Lo dice rápido, mirando los palillos, y se le nota que le gustó escucharlo.
+
+Se acerca la caja de bulgogi y la destapa. El vapor sube con olor a soja, a pera, a ajo tostado. Toma un poco de carne con los palillos, la apoya sobre el arroz y come, despacio, con la espalda derecha, como si alguien le hubiera enseñado a comer así de muy chica.
+
+Al tercer bocado se detiene. Te mira de reojo. Respira por la nariz, hondo, como hizo en la cinta.
+
+—Es raro —dice, bajito—. Casi nunca puedo comer tranquila con alguien al lado.
+
+Mueve el arroz con los palillos.
+
+—Desde que desperté, el maná de los demás me... —busca la palabra— me huele. A casi todos los cazadores los siento como algo pesado, sucio. Aunque se bañen, aunque sean buenas personas. Es el maná, no ellos. —Se encoge un poco de hombros—. En las reuniones del gremio, a veces tengo que salir a tomar aire. La gente cree que soy antipática.
+
+Se lleva otro bocado a la boca. Lo mastica. Traga.
+
+—Contigo no pasa nada. No hueles a nada. —Se corrige, rápido, con las orejas rojas—. O sea, hueles a jabón del hotel. Pero no a maná. Nada. Es como... como estar al lado de una ventana abierta.
+
+Kase, que terminó la comida premium, se sube al brazo del sillón, al lado de ella, y se sienta. Cha Hae-in lo mira sorprendida, sin moverse, con los palillos en el aire.
+
+—¿Cuánto tiempo te vas a quedar en Seúl, Facundo? —pregunta, sin mirarte, mirando al gato.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1787 · SOLO LEVELING · DÍA 2 · 13:08   ║
+║ Seúl, Corea del Sur                          ║
+║ Hotel de Gangnam · habitación 2207           ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.292.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el brazo del sillón, junto a Cha    ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 13:02, 2207. "Hola, Cha. Pasa." Ella entra, sirve bulgogi, arroz, banchan (kimchi, brotes de soja, espinaca, rábano), té de cebada; comida húmeda premium para Kase (la compró en una tienda de mascotas). Sentada en el sillón de cuero; ve la tarjetita en la mesita (orejas coloradas). Choi le preguntó por qué se quedó con "un chico sin maná"; ella dijo "un amigo". Le dio palillos de metal. "¿Dormiste bien?"
+ESTADO AL CIERRE: Día 2 13:08, 2207, comiendo bulgogi. Facundo: "Sí, muy bien. Gracias por la comida." Cha le cuenta que el maná de los cazadores le huele pesado y sucio (sale a tomar aire en reuniones; la creen antipática); con Facundo no huele a nada ("hueles a jabón del hotel... como una ventana abierta"). Kase se sienta en el brazo del sillón junto a ella. "¿Cuánto tiempo te vas a quedar en Seúl, Facundo?"
