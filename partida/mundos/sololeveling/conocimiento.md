@@ -20,3 +20,4 @@
 - T1783 · HAN DONG-SU sintió que su maná creció (E→A) cuando Facundo le tocó el hombro; deduce que Facundo le hizo algo. Facundo le dijo "ve a hacerte una reevaluación". Nadie más lo vio (el dueño de la tienda solo vio una mano en un hombro).
 ## QUIÉN VIO QUÉ PODERES
 - Han Dong-su: efecto de la Transfiguración Ociosa (sintió, no vio). T1783.
+- T1786 · CHOI JONG-IN percibe a Facundo como "chico sin maná" (lo vio en la cinta; Velo: no despertado). Cha Hae-in le dijo que es "un amigo".

@@ -3,58 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1783)
-
-lo toco uso la técnica de mahito para agrandar su mana a rango A, nos vemos dong, ve a hacerte una reevaluacion despues
-
-## RESPUESTA 1 (T1783)
-
-> lo toco uso la técnica de mahito para agrandar su mana a rango A, nos vemos dong, ve a hacerte una reevaluacion despues
-
-Te acercas y le apoyas la mano en el hombro, por encima de la campera gastada. Es un gesto cualquiera, como el de alguien que se despide.
-
-Debajo de la palma, con la Transfiguración Ociosa, sientes su alma: chiquita, apretada, encogida, como algo que lleva mucho tiempo creciendo dentro de una caja demasiado estrecha. Y alrededor, enredado en ella, su maná. Es poco, un hilo fino, de rango E.
-
-No la cambias. No le tocas nada de lo que es. Solo abres la caja.
-
-Tomas el hilo de maná y lo ensanchas, despacio, con cuidado, como quien agranda el cauce de un río sin moverle el agua. El hilo se vuelve una cuerda, después un arroyo, después una corriente ancha y firme que recorre todo el cuerpo del chico y se asienta. Rango A. Se queda ahí, como si siempre hubiera sido así.
-
-No duele. Desde afuera no se ve nada: una mano en un hombro, un segundo, dos.
-
-> —Nos vemos, Dong. Ve a hacerte una reevaluación después.
-
-Le sacas la mano.
-
-Dong-su no contesta. Se queda quieto, con la boca un poco abierta. Se mira la mano vendada. La abre y la cierra, despacio. Después la otra.
-
-Respira hondo, y el aire le entra distinto. Se le nota en el pecho, en la espalda, en cómo se le endereza el cuerpo sin que él lo decida. El vendaje sucio de los nudillos de golpe parece de otra persona.
-
-A tus pies, Kase mira al chico con los ojos entrecerrados, tranquilo.
-
-Dong-su levanta la vista hacia ti. Tiene los ojos muy abiertos, brillantes, y la cara pálida, como si acabara de despertarse de un sueño y todavía no supiera cuál de los dos lados es el real.
-
-—Facundo... —dice, con la voz temblando—. ¿Qué... qué me hiciste?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1783 · SOLO LEVELING · DÍA 2 · 00:25   ║
-║ Seúl, Corea del Sur                          ║
-║ Parque junto al río Han · tienda 24 horas    ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.292.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: a tus pies, mirando a Dong-su          ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Cha Hae-in vuelve a la una         ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1784)
+## COMANDO 1 (T1784)
 
 Solo te ayude un poco, suerte, vuelvo al hotel
 
-## RESPUESTA 2 (T1784)
+## RESPUESTA 1 (T1784)
 
 > Solo te ayude un poco, suerte, vuelvo al hotel
 
@@ -101,11 +54,11 @@ En el reloj digital de la mesita: 00:51.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1785)
+## COMANDO 2 (T1785)
 
 me voy a dormir y simula hasta la 1
 
-## RESPUESTA 3 (T1785)
+## RESPUESTA 2 (T1785)
 
 > me voy a dormir y simula hasta la 1
 
@@ -150,6 +103,55 @@ Kase ya está en la puerta, sentado, con la cola moviéndose.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1786)
+
+abro la puerta, hola cha, pasa
+
+## RESPUESTA 3 (T1786)
+
+> abro la puerta, hola cha, pasa
+
+Abres la puerta.
+
+> —Hola, Cha. Pasa.
+
+Cha Hae-in parpadea. Por un segundo se queda mirándote, con las bolsas en las manos, como si esperara verte de otra manera, o como si no esperara que la llamaras así, tan simple. Después sonríe, chiquito.
+
+—Hola.
+
+Entra. Kase le pasa por entre los pies, rozándole los tobillos con la cola, y se sienta frente a ella mirándole las bolsas. Ella se ríe por la nariz.
+
+—Sí, sí. Ya sé.
+
+Deja las bolsas sobre la mesa baja, junto al ventanal, y empieza a sacar cosas con cuidado, una por una: dos cajas negras con tapa transparente, llenas de tiras finas de carne marinada, brillante, con cebolla y sésamo; dos cuencos de arroz blanco humeante; varios recipientes chiquitos con kimchi, brotes de soja, espinaca con ajo, rábano en cubos; dos latas de té de cebada. Y al final, de una bolsita aparte, un sobre de comida húmeda para gato con un pescado dibujado y la palabra "premium".
+
+Se agacha, abre el sobre y lo vacía en el platito de cartón de anoche, que encuentra en la mesa. Lo deja en el piso. Kase lo huele una vez y empieza a comer.
+
+—Pregunté en la tienda de mascotas cuál era la mejor —dice, mirando al gato, no a ti—. La señora me miró raro. Creo que me reconoció.
+
+Se sienta en el sillón de cuero, con las manos sobre las rodillas, y mira la habitación, la cama deshecha, el ventanal, la tarjetita con su número todavía en la mesita de luz. Se le colorean un poco las orejas cuando la ve ahí.
+
+—En la oficina, el maestro Choi me preguntó por ti. —Te pasa unos palillos de metal—. Quería saber por qué me quedé anoche con "un chico sin maná" en vez de volver con el gremio. —Hace una pausa—. Le dije que eras un amigo.
+
+Te mira, de frente, esperando.
+
+—¿Dormiste bien?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1786 · SOLO LEVELING · DÍA 2 · 13:02   ║
+║ Seúl, Corea del Sur                          ║
+║ Hotel de Gangnam · habitación 2207           ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.292.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: comiendo comida premium                ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 13:00. Facundo durmió de corrido; Kase lo despertó a las 12:40 pidiendo comida (no comió desde el atún). Sol después de la lluvia. A la una en punto, Cha Hae-in golpea la 2207: suéter crema, pantalón oscuro, pelo suelto, sin espada a la vista; dos bolsas de restaurante. "¿Facundo? Soy yo. Traje bulgogi. Y algo para el gato." Facundo todavía no abrió.
+ESTADO AL CIERRE: Día 2 13:02, 2207. "Hola, Cha. Pasa." Ella entra, sirve bulgogi, arroz, banchan (kimchi, brotes de soja, espinaca, rábano), té de cebada; comida húmeda premium para Kase (la compró en una tienda de mascotas). Sentada en el sillón de cuero; ve la tarjetita en la mesita (orejas coloradas). Choi le preguntó por qué se quedó con "un chico sin maná"; ella dijo "un amigo". Le dio palillos de metal. "¿Dormiste bien?"

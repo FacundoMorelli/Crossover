@@ -1785,3 +1785,4 @@ T1782 · SOLO LEVELING · Río Han · Se presenta a Dong-su ("Pa-kun-do"). Dong-
 T1783 · SOLO LEVELING · Río Han · Transfiguración Ociosa: el maná de Han Dong-su pasa de rango E a A. "Ve a hacerte una reevaluación." "¿Qué me hiciste?"
 T1784 · SOLO LEVELING · Hotel de Gangnam · "Solo te ayudé un poco." Dong-su grita gracias. Vuelve a la 2207.
 T1785 · SOLO LEVELING · Hotel de Gangnam · Duerme hasta el mediodía. 13:00 Cha Hae-in llega con bulgogi.
+T1786 · SOLO LEVELING · Hotel de Gangnam · Cha entra con bulgogi y comida para Kase. Le dijo a Choi que Facundo es "un amigo".
