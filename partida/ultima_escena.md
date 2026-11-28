@@ -3,58 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1777)
-
-cambio fragmentos a won y le compro algo a kase
-
-## RESPUESTA 1 (T1777)
-
-> cambio fragmentos a won y le compro algo a kase
-
-Abres la tienda del Sistema con un pensamiento. Nadie más la ve.
-
-[Cambio: 10 Fragmentos → 1.300.000 won.]
-
-Los billetes aparecen doblados en el bolsillo del sobretodo, como si siempre hubieran estado ahí: verdes y amarillos, con caras de sabios antiguos y flores.
-
-Empujas la puerta de vidrio. Suena una campanita. Adentro hace calor y huele a fideos, a café de máquina y a plástico nuevo. El señor del mostrador levanta la vista de la tele, ve a Kase entrar detrás de ti con la cola levantada y abre la boca como para decir que no se puede. Kase lo mira. El señor cierra la boca.
-
-Kase va directo a la heladera del fondo, se para en dos patas y apoya una pata contra el vidrio, justo frente a las latas de atún.
-
-Tomas dos latas de atún, un sobrecito de premios para gato con un dibujo de un gato gordo sonriendo y una botellita de leche. El señor lo pasa todo por la caja sin dejar de mirar al gato de reojo.
-
-—Siete mil doscientos won.
-
-Le das un billete de diez mil. Te da el cambio en monedas y billetes chicos, y después, sin que le pidas nada, saca de abajo del mostrador un platito de cartón y lo pone encima de la bolsa.
-
-—Para el gato —dice, seco, y vuelve a mirar la tele.
-
-Afuera, el chico de la capucha te ve salir con la bolsa y con Kase pegado a los talones. Tiene la cara flaca, ojeras y unos diecisiete años. Deja de comer, con los palillos en el aire.
-
-Lo mira a Kase. Después te mira a ti, a la cara.
-
-—Tiene los ojos iguales a los tuyos —dice, en voz baja, casi sorprendido de haberlo dicho en voz alta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1777 · SOLO LEVELING · DÍA 2 · 00:09   ║
-║ Seúl, Corea del Sur                          ║
-║ Parque junto al río Han · tienda 24 horas    ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.292.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: a tus pies, mirando la bolsa           ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Cha Hae-in vuelve a la una         ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1778)
+## COMANDO 1 (T1778)
 
 si, le doy el atún a kase
 
-## RESPUESTA 2 (T1778)
+## RESPUESTA 1 (T1778)
 
 > si, le doy el atún a kase
 
@@ -89,11 +42,11 @@ Te mira de nuevo. Mira el sobretodo negro, la cicatriz, los tatuajes del cuello.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1779)
+## COMANDO 2 (T1779)
 
 no, soy un viajero, ¿y tú?
 
-## RESPUESTA 3 (T1779)
+## RESPUESTA 2 (T1779)
 
 > no, soy un viajero, ¿y tú?
 
@@ -132,6 +85,53 @@ Lo dice sin enojo, cansado, mirando el río. Kase levanta la cabeza del platito,
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1780)
+
+y con el rango que despertás es con el que te quedas?
+
+## RESPUESTA 3 (T1780)
+
+> y con el rango que despertás es con el que te quedas?
+
+> —¿Y con el rango que despiertas es con el que te quedas?
+
+Dong-su asiente sin pensarlo, como si le preguntaras si el agua moja.
+
+—Sí. El maná que despiertas es el que tienes. Para siempre. —Se encoge de hombros—. Puedes entrenar, hacerte más fuerte de cuerpo, aprender a pelear mejor. Pero el maná no sube. Un E es un E hasta que se muere.
+
+Mira el río un rato. Un barco de turistas, tarde, cruza despacio con las luces de colores encendidas y música lejana.
+
+—Bueno. Casi siempre. —Se le escapa una risa corta por la nariz—. Hay una cosa que llaman "segundo despertar". Que alguien despierta otra vez, ya siendo cazador, y le sube el rango. Pasa una vez en muchos años. Es como ganarse la lotería.
+
+Saca un celular viejo, con la pantalla rajada en una esquina, y lo desbloquea. Busca algo con el pulgar y te lo muestra.
+
+Es una nota de un portal de noticias. Una foto borrosa, tomada de lejos, de un chico de pelo negro y chaqueta negra saliendo de un edificio de la Asociación. El titular dice:
+
+"Cazador de rango E reevaluado como rango S: el primer caso en la historia de Corea".
+
+Debajo, el nombre: Sung Jinwoo.
+
+—Salió hace unos días —dice Dong-su—. De E a S. De lo peor a lo mejor. Dicen que antes le decían "el cazador más débil del mundo". —Guarda el celular—. Todos los de rango E del país lo leímos cien veces.
+
+Mira sus zapatillas rotas.
+
+—Yo sé que a mí no me va a pasar. Pero... —Se calla. Te mira de reojo, a la cicatriz, a los ojos—. ¿Tú crees que la gente puede cambiar lo que es? ¿O lo que te toca, te toca?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1780 · SOLO LEVELING · DÍA 2 · 00:18   ║
+║ Seúl, Corea del Sur                          ║
+║ Parque junto al río Han · tienda 24 horas    ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.292.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: lamiéndose los bigotes junto al plato  ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Cha Hae-in vuelve a la una         ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 00:14. Facundo: "No, soy un viajero. ¿Y tú?" El chico es HAN DONG-SU, cazador rango E (credencial de la Asociación), despertó hace un año; carga cosas en Puertas D y C para gremios chicos, paga por día. Hoy un goblin, se puso adelante porque otro se escondió; casi muere; le pagaron 40.000 won y lo echaron. Su abuela (hizo fiesta cuando despertó). Pregunta: "Un viajero... Suena bien. ¿Y a dónde viaja uno, si se va de aquí?"
+ESTADO AL CIERRE: Día 2 00:18. Facundo: "¿Y con el rango que despiertas es con el que te quedas?" Dong-su: el maná no sube; "segundo despertar" una vez en muchos años. Le muestra en su celular la nota pública: Sung Jinwoo reevaluado de E a S, primer caso en Corea ("el cazador más débil del mundo"). Pregunta: "¿Tú crees que la gente puede cambiar lo que es? ¿O lo que te toca, te toca?" Kase terminó el atún.

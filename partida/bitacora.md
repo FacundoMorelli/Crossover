@@ -1779,3 +1779,4 @@ T1776 · SOLO LEVELING · Río Han · Paseo nocturno con Kase. Noticia pública 
 T1777 · SOLO LEVELING · Río Han · Cambia 10 Frag a won; compra atún y premios a Kase. Chico de capucha: "Tiene los ojos iguales a los tuyos."
 T1778 · SOLO LEVELING · Río Han · Kase come atún. El chico de la capucha: "¿Eres cazador?"
 T1779 · SOLO LEVELING · Río Han · El chico es Han Dong-su, cazador rango E, explotado como cargador. "¿A dónde viaja uno, si se va de aquí?"
+T1780 · SOLO LEVELING · Río Han · Dong-su explica rangos y el segundo despertar; nota de Jinwoo E→S. "¿La gente puede cambiar lo que es?"
