@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1884)
-
-esta bien, cuando terminemos y te lleve a báltigo de nuevo hablo con ella
-
-## RESPUESTA 1 (T1884)
-
-> esta bien, cuando terminemos y te lleve a báltigo de nuevo hablo con ella
-
-> —Está bien. Cuando terminemos y te lleve a Baltigo de nuevo, hablo con ella.
-
-Dragon asiente una vez. Se descruza de brazos.
-
-—Bien.
-
-Y vuelve a los setos, a su lugar junto a Kuma, como si la conversación no hubiera pasado. Ivankov, que escuchó todo desde la escalera con la copa en la mano, aplaude dos veces, fuerte.
-
-—¡¡Basta de caras largas!! ¡¡Que el Almirante de Flota se vaya a quemar islas a otro lado esta noche!! ¡¡Música!! ¡¡Hee-haw!!
-
-Alguien empieza a tocar un tambor. Otra, un acordeón. Las okamas vuelven a bailar.
-
-...
-
-La fiesta sigue hasta que la luna sale sobre el mar.
-
-Sanji saca los postres: torres de crema con frutas que brillan, helados de colores servidos en caparazones de caracola, un pastel de seis pisos en forma de corazón que las okamas aplauden de pie. Bonney se come medio pastel ella sola y después se queda dormida sobre la rodilla de su padre, con la cara llena de crema, roncando bajito. Kuma no se mueve en toda la noche para no despertarla.
-
-Ivankov intenta enseñarle a Dragon a bailar. Dragon lo mira. Ivankov desiste.
-
-Sanji, ya sin bandejas, se sienta a tu lado en la mesa con un cigarro y una copa, mirando cómo las okamas bailan. No dice nada un buen rato. Después, sin mirarte, te cuenta en voz baja que aprendió setenta y tres de las noventa y nueve recetas, y que le faltan veintiséis, y que cuando las tenga todas va a poder alimentar a Luffy en cualquier isla del mundo con lo que encuentre. Que eso es lo único que importa. Que el día que se junten en Sabaody, el primer plato va a ser para él.
-
-Kase se duerme sobre la mesa, entre los platos vacíos, encima de una servilleta de encaje.
-
-Cerca de las once de la noche, Dragon se levanta. Se acomoda la capa verde. Te mira desde los setos y asiente. Es hora.
-
-Kuma lo ve levantarse. Con mucho cuidado, para no despertar a Bonney, la acomoda sobre un almohadón enorme que le trae una okama, la tapa con una manta, y se pone de pie despacio, haciendo crujir las baldosas.
-
-Camina hasta ti. Se agacha, como antes, hasta quedar a tu altura. La luna le ilumina la cara enorme, la marca clara en el cuello.
-
-—En Thriller Bark —dice, con la voz grave, muy baja— te pregunté a dónde te gustaría ir de vacaciones. Nunca me contestaste.
-
-Te mira a los ojos.
-
-—Cuando quieras ir a algún lado —dice—. A cualquier lugar de este mar. Lejos de todo. Donde nadie te busque. —Levanta la mano derecha, la de la almohadilla, despacio, y la deja abierta delante de ti, sin tocarte—. Pídemelo. Ahora sé por qué lo haría.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1884 · ONE PIECE · DÍA ~227 · 23:02    ║
-║ Isla Momoiro · Reino Kamabakka               ║
-║ Patio de la fiesta, bajo la luna             ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: dormido en la mesa, en una servilleta  ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Llevar a Dragon a Baltigo · Robin  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1885)
+## COMANDO 1 (T1885)
 
 gracias kuma, me teletransporto con dragon a baltigo
 
-## RESPUESTA 2 (T1885)
+## RESPUESTA 1 (T1885)
 
 > gracias kuma, me teletransporto con dragon a baltigo
 
@@ -135,11 +76,11 @@ Se pone de pie, despacio. Se acerca. Se detiene delante de ti, muy cerca, y te m
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1886)
+## COMANDO 2 (T1886)
 
 ehh, voy a ir a hacer algo, voy a ir a hablar con akainu
 
-## RESPUESTA 3 (T1886)
+## RESPUESTA 2 (T1886)
 
 > ehh, voy a ir a hacer algo, voy a ir a hablar con akainu
 
@@ -190,6 +131,91 @@ Lo dice tranquila. Firme. Sin que le tiemble la voz.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1887)
+
+esta bien, vamos entonces te digo que mis entradas suelen ser, llamativas solo para el. Nos teletransportamos a la sala de akainu y me siento en su lugar de almirante de flota
+
+## RESPUESTA 3 (T1887)
+
+> esta bien, vamos entonces te digo que mis entradas suelen ser, llamativas solo para el. Nos teletransportamos a la sala de akainu y me siento en su lugar de almirante de flota
+
+> —Está bien. Vamos, entonces. Te aviso que mis entradas suelen ser... llamativas. Solo para él.
+
+Robin te mira. Se le escapa una media sonrisa, de costado, la primera de la noche que tiene algo de alegría.
+
+—Fufu. Lo sé. Vi Marineford.
+
+Deja el cuaderno sobre la mesa de mapas, encima del diario. Se acomoda el pelo detrás de la oreja. Te agarra la mano. La aprieta fuerte, una vez.
+
+Kase, en tu hombro, se endereza.
+
+La torre de Baltigo desaparece.
+
+...
+
+Silencio. Olor a tinta, a cuero viejo, a papel, a ceniza de cigarro. Y debajo de todo, apenas, un calor seco, como el que sale de una estufa apagada hace poco.
+
+Una oficina enorme, de techo alto, a oscuras salvo por una lámpara de escritorio con pantalla verde. Las paredes, cubiertas de mapas del Nuevo Mundo clavados con chinches rojas, cientos, marcando islas. Una bandera de la Marina, gigante, colgada detrás. Estantes llenos de expedientes. Un ventanal enorme, de piso a techo, que da a un puerto lleno de buques de guerra iluminados bajo la luna, y más allá, la silueta de una fortaleza nueva, gris, recién construida: el nuevo Cuartel General de la Marina.
+
+Y en el centro, un escritorio de madera oscura, ancho como una mesa de guerra, cubierto de informes. Y detrás del escritorio, un sillón de respaldo alto, de cuero rojo oscuro, con el emblema de la gaviota grabado en el respaldo.
+
+Te sientas en él.
+
+Te recuestas. Cruzas una pierna sobre la otra. El cuero cruje. Kase se baja de tu hombro al escritorio y se sienta encima de una pila de informes, enroscando la cola, como si el lugar fuera suyo.
+
+Robin se queda de pie a tu lado, junto al sillón, derecha, con las manos juntas delante. Respira despacio. No le tiembla nada.
+
+Hay alguien más en la oficina.
+
+De pie frente al ventanal, de espaldas, con las manos detrás de la espalda, mirando el puerto, hay un hombre enorme. Traje rojo con flores. Capa blanca de la Marina sobre los hombros, con la palabra JUSTICIA en la espalda. Gorra con la gaviota. Y en la mano derecha, detrás de la espalda, el diario de hoy, arrugado, con tu cara.
+
+No se da vuelta enseguida.
+
+El calor seco de la oficina sube. De golpe. Como si alguien hubiera abierto la puerta de un horno. Los papeles del escritorio se ondulan en las puntas. El vidrio del ventanal se empaña.
+
+El diario de la mano de Akainu empieza a humear. Después a arder. Se le cae al piso hecho ceniza.
+
+Y se da vuelta.
+
+Lo miras, y el Sistema hace lo suyo.
+
+```
+╔════════════════════════════════════════╗
+║ SAKAZUKI "AKAINU"                      ║
+║ Almirante de Flota de la Marina        ║
+║ PODER: Magu Magu no Mi (magma),        ║
+║        Haki de armadura y observación  ║
+║ AMENAZA: BAJA                          ║
+║ Diferencia estimada: tú x50 sobre él   ║
+║ YA COPIADO                             ║
+╚════════════════════════════════════════╝
+```
+
+La cara cuadrada, dura, con la cicatriz de quemadura de Marineford todavía visible en el costado. Los ojos, chicos, negros, que te miran a ti sentado en su sillón. A Kase sobre sus informes.
+
+Y después, despacio, se mueven al costado. A la mujer de pelo negro de pie a tu lado.
+
+Se le contrae algo en la cara. Muy poco. Un músculo de la mandíbula.
+
+—Nico Robin —dice. La voz grave, baja, ronca, como piedra que se arrastra—. La última sobreviviente de Ohara.
+
+Del puño derecho, cerrado a un costado del cuerpo, empieza a gotear magma. Una gota. Dos. Agujerean la alfombra roja con un siseo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1887 · ONE PIECE · DÍA ~227 · 23:10    ║
+║ Nuevo Cuartel General de la Marina           ║
+║ Oficina del Almirante de Flota · su sillón   ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 99% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: sobre los informes del escritorio      ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Akainu, frente a ti y a Robin      ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 23:08, torre de Dragon. Facundo: "Eh... voy a ir a hacer algo. Voy a ir a hablar con Akainu." Robin: "Fufu. 'A hablar.'" "Con Akainu no se habla. Se le escapa. O se muere." Los eruditos de Ohara intentaron hablar; él escuchó y prendió fuego la biblioteca con ellos adentro. "Pero tú no eres un erudito de Ohara... Cuando tú hables con él, va a ser la primera vez en su vida que alguien le hable sin miedo." Manos en su pecho: "No te voy a pedir que no vayas... Llévame contigo. Veinte años me escondí de ese hombre... Quiero mirarlo a la cara una vez. Una sola. Sin esconderme. Al lado tuyo."
+ESTADO AL CIERRE: Día ~227 23:10, oficina del Almirante de Flota en el Nuevo Cuartel General de la Marina (Nuevo Mundo). Facundo: "Está bien. Vamos, entonces. Te aviso que mis entradas suelen ser... llamativas. Solo para él." Robin: "Fufu. Lo sé. Vi Marineford." Teletransporte con Robin y Kase. Facundo sentado en el sillón rojo de Akainu, pierna cruzada; Kase sobre los informes del escritorio; Robin de pie a su lado. Akainu de espaldas en el ventanal (puerto con buques; nueva fortaleza); el calor sube; el diario con la cara de Facundo arde en su mano. Se da vuelta. Tasación (x50; ya copiado). Cicatriz de quemadura de Marineford. Ve a Robin: "Nico Robin. La última sobreviviente de Ohara." Gotea magma del puño derecho sobre la alfombra.
