@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1814)
-
-soy un viajero, ayudo a la gente que lo necesita
-
-## RESPUESTA 1 (T1814)
-
-> soy un viajero, ayudo a la gente que lo necesita
-
-> —Soy un viajero. Ayudo a la gente que lo necesita.
-
-La señora Kang no dice nada enseguida. Te mira un rato largo, con las manos juntas sobre la mesa. Después mira a su hija.
-
-Cha Hae-in tiene los palillos quietos en el aire, a medio camino de la boca. No mira a su mamá. Te mira a ti, de reojo, con una cara que no habías visto todavía: como si acabara de entender algo.
-
-—Ayudas a la gente —repite la señora Kang, despacio.
-
-Cha Hae-in deja los palillos sobre el cuenco, despacio, sin dejar de mirarte. La señora Kang la mira, levanta una ceja, y no pregunta. Vuelve a ti.
-
-—Ayudar a la gente no da de comer —dice, práctica, sin maldad—. Pero bueno. Mi marido era bombero. Tampoco ganaba mucho. —Señala con la barbilla una foto en la pared, la única donde no está su hija: un hombre de uniforme, sonriendo, con un casco bajo el brazo y los mismos hombros derechos de Cha Hae-in—. Ayudaba a la gente que lo necesitaba. Todos los días.
-
-Se queda mirando la foto un segundo.
-
-—Un día entró a un edificio que se quemaba y no salió.
-
-Cha Hae-in baja la vista al cuenco de arroz.
-
-La señora Kang vuelve a agarrar los palillos. Te pone otra costilla en el arroz, aunque todavía no terminaste las otras. Lo hace sin mirarte, ocupada, como para tener las manos en algo.
-
-—Y ahora mi hija entra todos los días a esos agujeros llenos de monstruos —sigue, con la voz tranquila—. Y yo me quedo aquí, cocinando para veinte, esperando que suene el teléfono y que sea ella y no alguien del gremio.
-
-Deja los palillos. Te mira, ahora sí, directo a los ojos, al rojo, al azul.
-
-—Así que no me importa de dónde vienes, ni si tienes papeles, ni si tienes ese maná. Te pregunto una sola cosa, Facundo. —Hace una pausa—. Si algún día ella entra a uno de esos agujeros y no sale... ¿tú qué vas a hacer?
-
-En el piso, Kase deja de comer y levanta la cabeza.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1814 · SOLO LEVELING · DÍA 4 · 19:22   ║
-║ Seúl, Corea del Sur                          ║
-║ Casa de la señora Kang · mesa del living     ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el piso, mirando a la señora Kang   ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Cena con la mamá de Hae-in         ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1815)
+## COMANDO 1 (T1815)
 
 lo que pueda hacer todo lo que tenga en mis manos
 
-## RESPUESTA 2 (T1815)
+## RESPUESTA 1 (T1815)
 
 > lo que pueda hacer todo lo que tenga en mis manos
 
@@ -113,11 +62,11 @@ Desde la cocina llega la voz de Cha Hae-in:
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1816)
+## COMANDO 2 (T1816)
 
 si, claro que la voy a traer otra vez
 
-## RESPUESTA 3 (T1816)
+## RESPUESTA 2 (T1816)
 
 > si, claro que la voy a traer otra vez
 
@@ -180,6 +129,43 @@ Se te acerca. Te agarra de la solapa del sobretodo con las dos manos.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1817)
+
+que me preguntó si te iba a traer otra vez
+
+## RESPUESTA 3 (T1817)
+
+> que me preguntó si te iba a traer otra vez
+
+> —Me preguntó si te iba a traer otra vez.
+
+Cha Hae-in se queda quieta, con las manos agarradas a tu solapa.
+
+Por un segundo no reacciona. Después se le arruga la cara, despacio, como a una nena, y se ríe y llora al mismo tiempo, sin hacer ruido, con los ojos cerrados. Apoya la frente contra tu pecho, sobre el sobretodo, y se queda ahí, sacudiéndose un poco, mientras el farol zumba arriba y una bicicleta pasa tintineando por la calle de al lado.
+
+Kase, en tu hombro, estira el cuello y le huele la coronilla. Le da un golpecito con la nariz.
+
+—Perdón —dice ella, contra tu pecho, con la voz rota—. Perdón. Es que... ella nunca... a nadie...
+
+Respira hondo. Una vez. Dos. Se seca los ojos con la manga del suéter, rápido, y levanta la cabeza. Tiene la nariz roja, las pestañas mojadas y la sonrisa más grande que le viste desde que la conoces.
+
+—¿Y qué le dijiste? —pregunta.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1817 · SOLO LEVELING · DÍA 4 · 21:56   ║
+║ Seúl, Corea del Sur                          ║
+║ Calle del barrio de la señora Kang · farol   ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, oliéndole el pelo a Cha  ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 4 21:54, calle del barrio de la señora Kang, bajo un farol. Facundo: "Sí, claro que la voy a traer otra vez." Peras de postre; la señora Kang pidió mandarinas "de cuando todavía se podía ir a Jeju". Le dio a Facundo una bolsa de tela con recipientes de comida (pescado para Kase, tapa azul). Kase le parpadeó despacio. Abrazo a Hae-in; a Facundo dos palmadas en el brazo: "Cuídense. Los dos." En la calle, Cha (ojos rojos): "Nunca la había visto así... Desde lo de papá." Agarrada a su solapa: "¿Qué te dijo? Cuando me mandó a la cocina. Dime la verdad."
+ESTADO AL CIERRE: Día 4 21:56, bajo el farol. Facundo: "Me preguntó si te iba a traer otra vez." Cha llora y ríe contra su pecho ("Perdón... ella nunca... a nadie..."). Kase le toca la coronilla con la nariz. Cha, sonriendo: "¿Y qué le dijiste?"
