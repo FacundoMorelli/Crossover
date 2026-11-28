@@ -14,3 +14,4 @@
 - T1767 · CHA HAE-IN sabe (por Facundo) su nombre: Facundo Morelli.
 - T1768 · JINWOO sabe (por Cha Hae-in) que hay "un chico de afuera" que no huele mal (no le dio el nombre todavía). Nadie vio a Facundo dentro de la Puerta.
 - T1770 · JINWOO sabe (por Cha Hae-in, T1769-T1770) el nombre Facundo, que dice ser viajero y que no sabía qué son cazadores ni Puertas. Deduce que estuvo dos horas en la cinta. Nota algo raro (sospecha que esconde algo), sin fuente de poder.
+- T1776 · FACUNDO vio el noticiero público sobre Jeju (fuente válida para mencionarlo).

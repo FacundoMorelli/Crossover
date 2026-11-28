@@ -1775,3 +1775,4 @@ T1772 · SOLO LEVELING · Gangnam · "No tengo nada." Cha Hae-in deja ir al grem
 T1773 · SOLO LEVELING · Hotel de Gangnam · Cha Hae-in le paga la habitación 2207. "¿Puedo venir a verte?"
 T1774 · SOLO LEVELING · Hotel de Gangnam · Cha le da su número; propone volver a la una con comida.
 T1775 · SOLO LEVELING · Hotel de Gangnam · Cha se va; vuelve a la una. Facundo y Kase en la 2207.
+T1776 · SOLO LEVELING · Río Han · Paseo nocturno con Kase. Noticia pública de una 4.ª incursión a Jeju. Kase pide algo en una tienda 24 h.
