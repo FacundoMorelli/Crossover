@@ -3,80 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1722)
-
-uso eclipse en el infierno, de que infierno hablabas?
-
-## RESPUESTA 1 (T1722)
-
-> uso eclipse en el infierno, de que infierno hablabas?
-
-Tus ojos se abren del todo.
-
-El rojo y el azul, con las pupilas verticales de dragón, se encienden a la vez. El Sol y la Luna. Y entre los dos, a un palmo de tu cara, en el aire helado del sótano, aparece un punto.
-
-Negro. Más negro que cualquier cosa que haya en este cuarto, en esta fábrica, en esta ciudad. No refleja la lámpara. No refleja la luz roja que sube del pozo. Es un agujero en el mundo, del tamaño de una moneda, rodeado por un filo finísimo de luz blanca, como el borde del sol detrás de la luna.
-
-El Eclipse.
-
-Lo sueltas hacia abajo. Hacia el pozo.
-
-El punto cae despacio, como una piedra en el agua, entre los dedos congelados de la mano del Infierno, y toca la palma, justo en el ojo cubierto de hielo.
-
-Y la mano se dobla hacia adentro.
-
-No se rompe: se dobla. Los dedos de piedra y de hueso, la carne vieja, el hielo que la cubría, todo se curva hacia ese punto negro, como el agua de una bañera hacia el desagüe, estirándose, alargándose, entrando. La palma se hunde en el punto. Después la muñeca. El brazo, que sube del pozo, enorme, sigue entrando, y entrando, y entrando, tirado desde abajo por la gravedad del Eclipse, metro tras metro, como una soga que alguien recoge desde el otro lado del mundo.
-
-Del pozo sale un sonido que no es un grito. Es más grande que un grito. El sonido de algo que nunca tuvo miedo en su existencia, sintiendo miedo por primera vez.
-
-Y después, nada.
-
-El pozo se cierra. La luz roja se apaga. Las grietas del cemento siguen ahí, en forma de estrella, pero del otro lado ya no hay nada esperando. Solo cemento, y tierra, y el agua del río bajo los pilotes. El punto negro, satisfecho, se encoge hasta el tamaño de una cabeza de alfiler y desaparece con un último destello blanco.
-
-[Demonio del Infierno: el brazo que cruzó a este mundo fue tragado por el Eclipse. El pacto de Santa Claus quedó roto.]
-
-El sótano queda en silencio. Las vigas de hierro levantadas se quedan torcidas, en el aire, con un pedazo de cielo gris de mañana asomando entre ellas, allá arriba. La lámpara de flecos todavía está prendida, tirada de costado.
-
-Santa Claus cuelga de tu garra.
-
-Ya no sonríe.
-
-Mira el piso donde estaba el pozo. Te mira a ti. A tus ojos, a los dos, encendidos todavía, con el resto del filo blanco apagándose en las pupilas.
-
-> —¿De qué infierno hablabas?
-
-La vieja abre la boca. No sale nada. La cierra.
-
-Por primera vez desde que la conoces, le tiemblan las manos. Las agujas de tejer se le cayeron en algún momento. La bufanda roja le cuelga, floja, de los hombros.
-
-—Eso... —dice al final, con un hilo de voz, y la ternura de abuela ya no está en ninguna parte—. Eso era el Demonio del Infierno. El que se lleva a la gente al otro lado. Nadie lo toca. Nadie. Ni los de arriba, ni los de abajo.
-
-Te mira como si te viera por primera vez.
-
-—¿Qué eres tú?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1722 · CHAINSAW MAN · DÍA 2 · 08:48    ║
-║ Tokio, otoño de 1997                         ║
-║ Fábrica de juguetes del Sumida, sótano       ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.903 · 0 yenes                 ║
-║ Energía 97% · Ojos: bien                     ║
-║ Transformado: Dragón · Velo: persona común   ║
-║ Kase: en tus rodillas                        ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Santa Claus (viva, si se puede)    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1723)
+## COMANDO 1 (T1723)
 
 no importa eso, la dejo inconsciente y me teletransporto con makino con ella
 
-## RESPUESTA 2 (T1723)
+## RESPUESTA 1 (T1723)
 
 > no importa eso, la dejo inconsciente y me teletransporto con makima con ella
 
@@ -139,11 +70,11 @@ Sonríe.
 
 ---
 
-## COMANDO 3 (T1724)
+## COMANDO 2 (T1724)
 
 me destransformo
 
-## RESPUESTA 3 (T1724)
+## RESPUESTA 2 (T1724)
 
 > me destransformo
 
@@ -190,4 +121,53 @@ Después vuelve a mirarte.
 
 ---
 
-ESTADO AL CIERRE: Día 2 08:51, oficina de Makima. Facundo volvió a la forma humana (camisa blanca rota en la espalda). Makima: "Un dragón. No sabía que existiera un demonio Dragón. O que alguien tuviera su corazón." (cariño y codicia en el fondo). Acomoda el pelo de Santa. Pide dejarla en el sillón; llamó a "cuatro, con restricciones de grado especial". Pregunta: "¿Y la fábrica? Las personas que ella había convertido. ¿Qué pasó con ellas cuando se durmió?" Facundo todavía tiene a Santa al hombro.
+## COMANDO 3 (T1725)
+
+no vi la verdad
+
+## RESPUESTA 3 (T1725)
+
+> no vi la verdad
+
+> —No vi, la verdad.
+
+—Claro. —Makima asiente, como si fuera la respuesta más razonable del mundo—. Estaba ocupado.
+
+Vuelve a levantar el teléfono. Esta vez marca un número largo, de memoria, con el dedo índice, sin mirar el disco. Espera dos timbres.
+
+—Kishibe. —Una pausa—. Sí, ya sé que no dormiste. —Otra pausa—. La encontraron. Una fábrica de juguetes de lata, lado este del Sumida, cerca del puente de Kototoi, la de la chimenea. Ella ya no está ahí. Lo que quedó son sus muñecos. Cientos. Llévate a todos los médicos que tengas y a los de la División 1. —Escucha—. No, no hace falta cortar a nadie. Creo que ya no son muñecos. —Te mira mientras lo dice—. Avísame cuántos se despiertan.
+
+Cuelga.
+
+—Si se despiertan —te dice, con suavidad—, usted les habrá devuelto la vida a varios cientos de personas, señor Morelli. Sin cobrar nada. —Una sonrisa chica—. Kishibe me va a pedir un aumento solo por tener que creerlo.
+
+Golpean la puerta. Dos golpes secos.
+
+—Adelante.
+
+Entran cuatro. No son como Sato ni como Aki. Visten de negro de pies a cabeza, con guantes, y dos de ellos llevan la cara cubierta por máscaras blancas lisas, sin ojos pintados. Uno trae un carrito de metal con correas de cuero gruesas, cadenas y una mordaza de hierro. El otro, una caja de madera alargada, cerrada con candado. Se detienen a dos pasos de la puerta, firmes, sin mirarte la cara. Miran a la viejita de tu hombro.
+
+—Con cuidado —dice Makima—. Es una invitada.
+
+El primero de los cuatro se adelanta. Te tiende los brazos, enguantados, abiertos, para recibirla.
+
+Kase, en tu otro hombro, mira las correas del carrito y aplasta las orejas.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1725 · CHAINSAW MAN · DÍA 2 · 08:53    ║
+║ Tokio, otoño de 1997                         ║
+║ Seguridad Pública, oficina de Makima         ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.078 · 0 yenes                 ║
+║ Energía 97% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, orejas aplastadas        ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Entregar a Santa Claus a Makima    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 2 08:53, oficina de Makima. Makima llamó a Kishibe: a la fábrica del Sumida con todos los médicos y la División 1; "no hace falta cortar a nadie; creo que ya no son muñecos; avísame cuántos se despiertan". Entraron cuatro agentes de negro (dos con máscaras blancas lisas): carrito con correas, cadenas y mordaza de hierro; caja de madera alargada con candado. Makima: "Con cuidado. Es una invitada." Uno le tiende los brazos a Facundo para recibir a Santa. Kase aplasta las orejas mirando las correas.
