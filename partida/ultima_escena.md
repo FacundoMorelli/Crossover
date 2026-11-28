@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1716)
-
-hay otros asesinos en la ciudad, pero no se donde
-
-## RESPUESTA 1 (T1716)
-
-> hay otros asesinos en la ciudad, pero no se donde
-
-> —Hay otros asesinos en la ciudad. Pero no sé dónde.
-
-Makima no se mueve.
-
-Te mira un segundo más de lo necesario, con la cabeza apenas inclinada y los anillos amarillos quietos sobre tu cara, como quien mira un cuadro y nota que alguien corrió un objeto de lugar.
-
-Después sonríe.
-
-—Claro —dice, con toda la suavidad del mundo—. Tokio es muy grande.
-
-No insiste. No pregunta otra vez. Toma los palillos y come un poco de pescado, despacio, y no vuelve a tocar el tema. Pero algo en el aire de la casa de té cambió de lugar, apenas, como si una de las cuerdas que salían de ella se hubiera tensado un milímetro.
-
-Kase, en tus rodillas, mueve la punta de la cola una sola vez.
-
-—Bueno. —Makima deja los palillos alineados sobre el apoyo de cerámica—. Entonces vamos a lo que sí sabemos.
-
-Se limpia la boca con la servilleta, la dobla en cuatro y la deja al lado del plato.
-
-—Kishibe va a ir a la fábrica a mediodía, con la División 4 y un equipo grande. Si Santa Claus está ahí con cientos de muñecos, no tiene sentido ir con pocos. —Te mira—. Me gustaría que usted vaya con ellos. No como cazador, porque no lo es, ni como empleado, porque no quiere serlo. Como lo que es. —Una pausa—. Un viajero al que le gusta ayudar.
-
-Se acomoda la trenza sobre el hombro.
-
-—Y le pido una sola cosa más. —La voz se le vuelve más baja, más dulce—. Que Denji vuelva entero. Ella va a buscarlo a él. Y a usted, ahora. Y a su gato.
-
-Mira a Kase. Kase la mira.
-
-—Yo no voy a estar —agrega, como si nada—. Tengo que viajar esta tarde. Asuntos de la oficina. Así que confío en usted.
-
-Toma la tetera y te vuelve a llenar la taza, que no habías tocado.
-
-—El té se está enfriando, señor Morelli. Y el pescado de aquí es muy bueno.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1716 · CHAINSAW MAN · DÍA 2 · 08:43    ║
-║ Tokio, otoño de 1997                         ║
-║ Ginza, casa de té (cerrada para ustedes)     ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.903 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tus rodillas, mirando a Makima      ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Ir a la fábrica a mediodía         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1717)
+## COMANDO 1 (T1717)
 
 si quiere puedo ir ahora, a mi solo no me espera, pero tantas personas se lo puede esperar
 
-## RESPUESTA 2 (T1717)
+## RESPUESTA 1 (T1717)
 
 > si quiere puedo ir ahora, a mi solo no me espera, pero tantas personas se lo puede esperar
 
@@ -115,11 +58,11 @@ En el jardín, la carpa roja da otra vuelta lenta en el estanque. En la mesa que
 
 ---
 
-## COMANDO 3 (T1718)
+## COMANDO 2 (T1718)
 
 me teletransporto a la fabrica y aparezco sentado en un sofa
 
-## RESPUESTA 3 (T1718)
+## RESPUESTA 2 (T1718)
 
 > me teletransporto a la fábrica y aparezco sentado en un sofá
 
@@ -182,4 +125,63 @@ Detrás de ella, en el estante más cercano, uno de los soldaditos de lata gira 
 
 ---
 
-ESTADO AL CIERRE: Día 2 08:46, sótano de la fábrica de juguetes del Sumida. Facundo apareció sentado en un sofá viejo de terciopelo verde (el chofer quedó mirando un cojín vacío en Ginza; la tarjeta de Makima quedó en la mesa). Sótano: estantes con cientos de muñecos de juguete mirando al centro; lámpara de flecos. SANTA CLAUS: vieja, rodete blanco, anteojos redondos, chal gris, tejiendo algo rojo largo en una mecedora a 3 m. "El joven del gato. Llegas temprano. Te esperaba esta tarde, con todos los otros, con el muchacho de la motosierra en el pecho." "Me alegra que hayas venido primero. Y solo." Un soldadito de lata giró la cabeza. "¿Quieres un té? Antes de que empecemos." Tasación: Muñeca + algo debajo (sin datos).
+## COMANDO 3 (T1719)
+
+no gracias, mejor mostrame todo lo que sos rapido
+
+## RESPUESTA 3 (T1719)
+
+> no gracias, mejor mostrame todo lo que sos rapido
+
+> —No, gracias. Mejor muéstrame todo lo que eres. Rápido.
+
+Las agujas se detienen.
+
+Es la primera vez desde que llegaste que dejan de hacer clic. El silencio que queda es enorme. Se oye el agua del río, lejos, contra los pilotes. Se oye la lámpara zumbar.
+
+Santa Claus te mira por encima de los anteojos. Después sonríe. Una sonrisa de abuela, arrugada, llena de cariño.
+
+—Qué impaciente. —Deja las agujas en la canasta, con cuidado, una al lado de la otra—. Los jóvenes siempre tienen prisa.
+
+Se levanta de la mecedora. Le cuesta: se apoya en los brazos de madera, se endereza despacio, con un quejido de rodillas viejas. Es muy chiquita. Te llega, parada, a la altura de los ojos sentado. Levanta lo que estaba tejiendo, con las dos manos, y se lo pone sobre los hombros.
+
+Es una bufanda roja. Larguísima. Y cuando la tela le toca la nuca, los estantes se mueven.
+
+Todos a la vez.
+
+Cientos de cabezas de lata, de porcelana, de trapo, giran hacia ti con un chirrido que llena el sótano como un enjambre. Los soldaditos levantan los palillos de los tambores. Las bailarinas se paran en puntas de pie. Los bebés de porcelana abren la boca. Y arriba, por encima de tu cabeza, a través del techo de cemento, oyes cómo se levantan los otros. Los de verdad. Cientos de personas sentadas en filas, en la nave grande de la fábrica, que se ponen de pie al mismo tiempo con un ruido sordo de sillas arrastradas, y empiezan a caminar hacia la escalera del sótano. Pasos. Muchos. Todos al mismo ritmo.
+
+—Pero tienes razón, querido. —Santa Claus se acomoda la bufanda, como una abuela que sale a la calle en invierno—. Contigo no tiene sentido ir despacio. Ayer me dormiste cuarenta y nueve hijos sin que yo pudiera ver cómo. —Inclina la cabeza—. Así que no te voy a mostrar a mis muñecos. Ya los conoces.
+
+Levanta una mano. Huesuda, manchada, con un anillo de oro en el dedo anular.
+
+Y el piso empieza a vibrar.
+
+No es un temblor. Es más hondo. Viene de abajo, de muy abajo, de más lejos que el río y que la tierra, como si algo enorme estuviera subiendo por un pozo sin fondo hacia el sótano. Lo que sentiste con el ki en la casa de té, lo que esperaba debajo de ella, se despierta. Se estira. Abre los ojos.
+
+El aire se pone caliente. Los muñecos de los estantes empiezan a temblar.
+
+—Querías verlo todo —dice Santa Claus, con toda la ternura del mundo, mientras debajo de sus pantuflas el cemento se raja en forma de estrella—. Demonio del Infierno. —La voz no sube, no se quiebra: habla como quien le habla a un perro viejo—. Te ofrezco lo que acordamos.
+
+Por las rajaduras del piso empieza a salir una luz roja, espesa, como sangre iluminada por dentro.
+
+—Llévanos. A él, a su gato. —Sonríe—. Y a mí.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1719 · CHAINSAW MAN · DÍA 2 · 08:47    ║
+║ Tokio, otoño de 1997                         ║
+║ Fábrica de juguetes del Sumida, sótano       ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 288.903 · 0 yenes                 ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en tus rodillas, erizado               ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Santa Claus (viva, si se puede)    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 2 08:47, sótano de la fábrica. Santa se puso la bufanda roja: se animaron todos los muñecos de juguete y, arriba, cientos de muñecos humanos caminan hacia la escalera del sótano. Santa INVOCA AL DEMONIO DEL INFIERNO: el piso vibra desde muy abajo, el cemento se raja en estrella, sale luz roja espesa. "Demonio del Infierno. Te ofrezco lo que acordamos. Llévanos. A él, a su gato. Y a mí." Facundo sigue en el sofá; Kase erizado. A punto de ser transportados al Infierno (canon: allí está el Demonio de la Oscuridad).
