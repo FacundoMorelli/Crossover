@@ -1738,3 +1738,4 @@ T1736 · CHAINSAW MAN · departamento de Aki · SIM 2 días. Quanxi y las fiends
 T1737 · CHAINSAW MAN · Tokio · SIM: lleva a Quanxi y sus fiends volando a una isla del Pacífico; despedidas de todos. Azotea de lo de Aki, falta abrir la puerta. Misión de mundo sin cumplir.
 T1738 · CHAINSAW MAN → FULLMETAL · Misión de Chainsaw Man cumplida (Aki vive). Viaje libre: Ciudad Central, 1914. Don: Alquimia del Iris. Misión: que Hughes viva tras el Día Prometido. Hughes pasa corriendo.
 T1739 · FULLMETAL · hospital militar · Camina. Al, desde la ventana: "¡Un gato! ¿Cómo se llama?" Ed: "¡Cierra la ventana!"
+T1740 · FULLMETAL · hospital · "Kase, y yo Facundo Morelli." Al se presenta. Ed: "¿Te cayó un tarro de pintura?" Al: "¿Puedo bajar a acariciarlo?"

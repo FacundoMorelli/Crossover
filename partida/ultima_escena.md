@@ -3,86 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1737)
-
-simula tambien llevándolas a otro lado y despidiéndome de todos
-
-## RESPUESTA 1 (T1737)
-
-> simula también llevándolas a otro lado y despidiéndome de todos
-
-Día 7, a la mañana. Vas a Nerima. Quanxi te abre la puerta con la cadena puesta, te mira por la rendija y recién después la saca. Las cuatro están sentadas en fila en el tatami, como en una sala de espera. Les explicas el plan a la cara, como pidió. Quanxi escucha todo sin interrumpir, de brazos cruzados. Cuando terminas, se queda callada mucho rato. Después dice "está bien", nada más, y Long se pone a llorar.
-
-En la tienda del Sistema cambias doscientos Fragmentos por dólares, en billetes usados, en un sobre marrón. Se los das a Quanxi. Ella los cuenta, uno por uno, sin expresión, y los guarda en el saco sin agradecer. A la media hora, cuando cree que no la miras, saca uno, lo mira a contraluz y lo vuelve a guardar.
-
-Día 7, a la noche. Una azotea de Nerima, sin luna. Tiras del aro. Las alas se despliegan contra el cielo de Tokio. Quanxi se sube a tu espalda sin decir una palabra, agarrada de un cuerno. Tsugihagi y la de los cuernitos, que se llama Pingtsi, te abrazan el cuello. Long y Cosmo van en tus brazos, envueltas en la manta del baúl del taxi. Kase va adentro de tu camisa, con la cabeza afuera, furioso.
-
-Vuelas toda la noche hacia el sur. Por encima de las nubes, del mar negro, de las luces de los barcos. Cosmo canta "Halloween" durante cuatro horas seguidas. Long no grita ni una vez: mira el mar, abajo, sin parpadear.
-
-Día 8, al amanecer. Una isla chica en el sur del Pacífico, lejos de todo, verde, con una playa blanca en forma de medialuna, palmeras y un pueblo de pescadores de cuarenta personas que viven en casas sobre pilotes y no tienen teléfono. En el pueblo no hay ningún cazador de demonios. El último demonio que vieron fue hace veinte años, una anguila, y se murió sola. Hay una casa vacía al final de la playa, de madera, con el techo de hojas de palma, que era de un pescador que se fue a vivir con su hija a otra isla.
-
-Las bajas en la arena. Long se saca las sandalias, camina hasta el agua y se mete hasta las rodillas, vestida, y se queda ahí, quieta, con las orejas de zorro paradas, mirando el horizonte. Tsugihagi se ríe por primera vez desde que la conoces. Pingtsi se tira de espaldas en la arena. Cosmo corre en círculos alrededor de una palmera.
-
-Quanxi se queda a tu lado. Mira a las cuatro. Mira el mar. Se saca el saco negro, despacio, y lo dobla sobre el brazo.
-
-No te da las gracias. Te mira un segundo con el único ojo, y después mira para otro lado, hacia el agua.
-
-—Si algún día alguien te viene a matar —dice, sin mirarte—, avísame. Llego en una semana.
-
-Es lo más parecido a un abrazo que vas a recibir de ella.
-
-Día 8, a la noche. Vuelves a Tokio. A la mañana siguiente le cuentas a Makima, en su oficina, que Quanxi y sus fiends están lejos de Japón, en un lugar donde no van a molestar a nadie. Makima te escucha con las manos juntas sobre el escritorio. Cuando terminas, sonríe. "Entonces ya no son de mi ciudad", dice. "Y usted ya no tiene que responder por ellas ante mí." Y después, con la misma suavidad: "Pero sí ante usted mismo". Cuando le dices que te vas, la sonrisa no cambia. "La habitación de las cajas va a seguir ahí", dice. "Aki no la va a tocar. Yo me voy a encargar." Te acompaña hasta la puerta de la oficina. No te da la mano. "Vuelva, señor Morelli", dice. No es una pregunta.
-
-Kishibe te espera en el estacionamiento, apoyado en un auto que no es suyo, con la petaca. Te la ofrece. Es la primera vez que la comparte con alguien. Cuando se la devuelves, te dice, mirando el cielo, que en treinta años es la primera semana en la que no se murió ninguno de los suyos. Y que no se la piensa contar a nadie, porque nadie le va a creer.
-
-Kobeni, en la escalera de la central, te hace una reverencia de noventa grados, temblando, y sale corriendo antes de que puedas decir nada. Sato, en la puerta, te saluda con dos dedos en la frente, como un soldado.
-
-Día 9, a la tarde. El departamento de Aki.
-
-Denji te da el chicle. Otro chicle, uno nuevo, sin abrir, que compró con su plata en el kiosco de abajo. Te lo pone en la mano con mucha ceremonia y te dice que es un regalo de despedida y que es de menta, que es el mejor. Después te pregunta si vas a volver. Y después, más bajito, si en el lugar adonde vas vas a sentir a Pochita igual. Se toca el pecho. Antes de que contestes, dice que no importa, que está bien, que ahora sabe que está contento.
-
-Power no sale de su cuarto. Grita desde adentro que no le importa, que el gato era feo, que Power tiene a Miau y es mucho mejor. Cuando Kase rasca la puerta, una sola vez, la puerta se abre de golpe y Power sale con la cara roja y mojada, levanta a Kase en brazos, lo aprieta contra el pecho, le dice algo al oído que nadie escucha, y te lo devuelve. Kase se deja. Después Power se vuelve a encerrar y grita que no estaba llorando, que era la cebolla.
-
-Miau se sienta en la ventana y mira a Kase irse.
-
-Aki te acompaña hasta la puerta del edificio. En la vereda, bajo el cielo gris, se prende un cigarrillo. Esta vez sí lo enciende. Fuma la mitad sin decir nada. Después, mirando la calle:
-
-—No sé qué eres. —Echa el humo—. Y no te lo voy a preguntar. Denji duerme mejor desde que llegaste. Power también, aunque no lo admita. —Una pausa—. Y yo.
-
-Tira el cigarrillo. Lo pisa.
-
-—Cuídate, Facundo.
-
-Se da vuelta y sube. No mira para atrás.
-
-Día 9, 18:40. La azotea del edificio de Aki. Tokio entero debajo, encendiendo sus luces en el atardecer: la torre, los neones, los trenes elevados. Abajo, por la ventana del tercer piso, se ve la luz de la cocina y la silueta de Aki con el delantal puesto, cortando algo. En el balcón, Miau.
-
-Kase está en tu hombro. En el bolsillo tienes un chicle de menta.
-
-Solo falta abrir la puerta.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1737 · CHAINSAW MAN · DÍA 9 · 18:40    ║
-║ Tokio, noviembre de 1997                     ║
-║ Azotea del edificio de Aki                   ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.878 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Abrir la puerta (viaje libre)      ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1738)
+## COMANDO 1 (T1738)
 
 cumplo la misión de mundo y aki vive igual. me voy al nuevo mundo
 
-## RESPUESTA 2 (T1738)
+## RESPUESTA 1 (T1738)
 
 > cumplo la misión de mundo y aki vive igual. me voy al nuevo mundo
 
@@ -180,11 +105,11 @@ Por la vereda de enfrente pasa un hombre corriendo. Uniforme azul, sin gorra, an
 
 ---
 
-## COMANDO 3 (T1739)
+## COMANDO 2 (T1739)
 
 voy a caminar
 
-## RESPUESTA 3 (T1739)
+## RESPUESTA 2 (T1739)
 
 > voy a caminar
 
@@ -250,4 +175,67 @@ Detrás de la armadura, adentro de la habitación, se oye otra voz, más aguda, 
 
 ---
 
-ESTADO AL CIERRE: Día 1 17:50, vereda del hospital militar de Ciudad Central. La gente mira a Facundo (pelo, ojos, tatuajes); un soldado lo sigue con la vista. En una ventana abierta del 2.º piso, ALPHONSE (armadura) ve a Kase: "¡Un gato! ¡Qué gato tan grande! ¿Es suyo, señor? ¿Cómo se llama?" Desde adentro, ED: "¡Al! ¡Cierra esa ventana! ¿Con quién hablas?" Al: "¡Con un señor! ¡Tiene un gato!"
+## COMANDO 3 (T1740)
+
+se llama Kase y yo Facundo Morelli
+
+## RESPUESTA 3 (T1740)
+
+> se llama Kase y yo Facundo Morelli
+
+> —Se llama Kase. Y yo, Facundo Morelli.
+
+—¡Kase! —La armadura lo repite como si le hubieras dado un regalo—. ¡Qué lindo nombre! Mucho gusto, Kase. Mucho gusto, señor Morelli. —Se lleva una mano enorme al pecho de metal, con un ruido de olla—. Yo soy Alphonse. Alphonse Elric. Pero todos me dicen Al.
+
+Kase, en tu hombro, levanta la vista hacia la ventana. Mira a la armadura un rato largo, con los ojos entrecerrados. Después parpadea despacio, una vez.
+
+—¡Me parpadeó! —Al se agarra del marco de la ventana con las dos manos—. ¡Hermano, el gato me parpadeó! ¡Eso significa que le caigo bien! ¡Lo leí en un libro!
+
+—¡Me importa un rábano lo que hace el gato!
+
+Al lado de la armadura aparece una cabeza. Rubia, despeinada, con una trenza larga a medio deshacer y un vendaje cruzándole la frente. Un chico. Bajo, tanto que tiene que pararse en puntas de pie para asomarse por el alféizar junto a la armadura, y eso parece ponerlo de muy mal humor. Tiene los ojos dorados, una camisa de hospital desabrochada y, donde debería estar el brazo derecho, un brazo de metal plateado, articulado, con los dedos de acero apoyados en el marco.
+
+Te mira de arriba abajo. El pelo. Los ojos. Los tatuajes. El gato. Frunce toda la cara.
+
+—¿Y tú quién eres? —grita, sin ninguna educación—. ¿Facundo qué? ¿Morelli? ¿Qué clase de nombre es ese? —Te señala con el dedo de metal—. ¿Y qué te pasó en el pelo? ¿Te cayó un tarro de pintura encima?
+
+—¡Hermano! —Al le da un codazo, que suena como dos ollas chocando—. ¡No seas maleducado!
+
+—¡No soy maleducado! ¡Es una pregunta!
+
+Al lo ignora. Vuelve a inclinarse hacia la calle, todo lo que puede, con los puntitos de luz brillando.
+
+—Señor Morelli... —Baja la voz, como quien pide un favor grande—. ¿Puedo bajar? Solo un minuto. A acariciarlo. —Se le nota la ilusión en cada palabra—. Prometo que tengo mucho cuidado. Los gatos me quieren mucho, aunque mi cuerpo sea... así.
+
+```
+╔══════════════════════════════════════════════╗
+║ EDWARD ELRIC                                 ║
+║ Alquimista Estatal · "de Acero"              ║
+║ PODER: alquimia sin círculo; automail        ║
+║        (brazo derecho, pierna izquierda)     ║
+║ AMENAZA: BAJA                                ║
+║ Diferencia estimada: x0,007 sobre ti         ║
+║ Vio algo que nadie debería ver. Le costó     ║
+║ un brazo y una pierna.                       ║
+║ COPIABLE · MISIÓN: ALTA                      ║
+╚══════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1740 · FULLMETAL · DÍA 1 · 17:52       ║
+║ Ciudad Central, Amestris, 1914               ║
+║ Vereda del hospital militar                  ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.378 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 17:52, vereda del hospital. Al se presenta ("Alphonse Elric. Al"); Kase le parpadeó ("¡le caigo bien!"). ED se asoma (bajo, en puntas de pie, trenza a medio deshacer, vendaje en la frente, automail): "¿Facundo qué? ¿Morelli? ¿Qué clase de nombre es ese? ¿Te cayó un tarro de pintura?" Al: "¡No seas maleducado!" Al pide: "¿Puedo bajar? Solo un minuto. A acariciarlo."
