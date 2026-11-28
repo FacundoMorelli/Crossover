@@ -17,3 +17,4 @@
 - T1745 · HUGHES vio a Facundo y a Kase (aspecto). Los guardias del cuartel general lo vieron entrar con Ross.
 - T1746 · HUGHES sabe (por Facundo y Ross): nombre, viajero, sin documentos, gato Kase.
 - T1747 · HUGHES y ROSS saben (por Facundo) que dice haber entrado por el desierto del Este hace unos días. HUGHES notó que no está quemado por el sol (sospecha leve). Registro oficial: formulario 17-B en Investigaciones.
+- T1748 · Facundo VIO el mapa de Hughes con el círculo de transmutación sobre Amestris (la carpeta se cayó). Hughes no se dio cuenta.

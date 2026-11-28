@@ -3,88 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1745)
-
-si, la acompaño
-
-## RESPUESTA 1 (T1745)
-
-> si, la acompaño
-
-> —Sí, la acompaño.
-
-—Gracias. —Ross suspira, aliviada, y se le nota que lo dice en serio.
-
-Al baja la mano muy despacio, como quien deposita un jarrón de cristal. Kase se despierta, se estira sobre la palma de hierro, mira a Al un segundo, y vuelve de un salto a tu hombro, pasando entre los barrotes.
-
-—Gracias por prestármelo, señor Morelli —dice Al, todavía en cuclillas—. Y gracias, Kase. ¿Va a volver? ¿Va a pasar por acá otra vez?
-
-—¡Al, adentro! —Ross ya está señalando la puerta—. Sargento Brosh, quédese con ellos. Que Edward no salga ni a la vereda.
-
-—¡Eso es una violación de mis derechos como Alquimista Estatal!
-
-—Tienes doce puntos, Edward.
-
-Ed sigue protestando mientras Brosh lo arrea hacia la puerta, con la manta extendida como quien arrea un gallo. Desde la escalera de entrada, todavía grita algo sobre el desierto y Briggs. Al se queda en la ventana del segundo piso, saludándote con la mano enorme, hasta que doblan la esquina.
-
-Caminan con Ross por la avenida. Ella va un paso adelante, derecha, con la mano cerca de la funda sin tocarla, y cada tanto te mira de reojo, al pelo, a Kase. Los faroles de gas ya están todos prendidos. La gente de la calle se aparta un poco al ver el uniforme, y después te mira a ti, y se aparta un poco más.
-
-El cuartel general es todavía más grande de cerca. Escalinatas anchas de piedra gris, columnas del grosor de árboles viejos, dos guardias en cada puerta, banderas verdes y negras con el dragón alado colgando de todos los balcones. Ross muestra su identificación. Los guardias te miran a ti, después a ella. Te dejan pasar.
-
-Adentro todo huele a cera de piso, a tinta y a tabaco. Pasillos largos, techos altos, lámparas con pantalla verde, oficiales que caminan rápido con carpetas. Una escalera de mármol. Tercer piso. Un pasillo con puertas de madera oscura y placas de bronce. Ross se detiene frente a una que dice: "OFICINA DE INVESTIGACIONES — TTE. CNEL. M. HUGHES".
-
-Golpea dos veces. Abre sin esperar.
-
-La oficina está hecha un desastre. Pilas de carpetas en el piso, en las sillas, en el alféizar de la ventana. Ceniceros llenos. Una taza de café frío con nata. Y en la pared del fondo, clavado con chinches, un mapa enorme de Amestris lleno de marcas rojas, círculos, líneas trazadas con regla que se cruzan sobre el país.
-
-Detrás del escritorio, de pie, inclinado sobre otro mapa, con los anteojos en la punta de la nariz y la cara pálida, está el hombre que viste correr por la plaza. Tiene la camisa arremangada y una regla en la mano. Cuando oye la puerta, levanta la cabeza de golpe, como si lo hubieran agarrado haciendo algo. Tapa el mapa con una carpeta, rápido, sin pensarlo.
-
-Después ve a Ross. Y la cara le cambia de golpe, en un segundo, como un actor que se pone una máscara: la palidez se va, aparece una sonrisa enorme, y los ojos detrás de los anteojos se arrugan de alegría.
-
-—¡Subteniente Ross! ¡Qué sorpresa! —Rodea el escritorio, pisando una carpeta sin darse cuenta—. ¿Cómo están los chicos Elric? ¿Edward ya rompió algo?
-
-Te ve a ti. Al gato.
-
-Se le abren los ojos detrás de los anteojos. Mira el pelo. Mira los ojos de dos colores. Mira a Kase.
-
-—Vaya, vaya. —Se ajusta los anteojos con un dedo—. ¿Y quién es este caballero tan pintoresco? —Y antes de que nadie conteste, se mete la mano en el bolsillo de la camisa, saca una foto, y te la pone delante de la cara—. Pero primero, antes de cualquier trámite, tiene que ver esto. Mi hija, Elicia. Tres años. ¿No es la niña más hermosa que vio en su vida?
-
-```
-╔══════════════════════════════════════════════╗
-║ MAES HUGHES                                  ║
-║ Ejército de Amestris · Investigaciones       ║
-║ PODER: cuchillos arrojadizos · inteligencia  ║
-║        y deducción excepcionales             ║
-║ AMENAZA: ÍNFIMA                              ║
-║ Diferencia estimada: x0,004 sobre ti         ║
-║ Sabe algo que no debería saber. Esta noche   ║
-║ lo están buscando.                           ║
-║ COPIABLE · MISIÓN: BAJA (estilo)             ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1745 · FULLMETAL · DÍA 1 · 18:20       ║
-║ Ciudad Central, Amestris, 1914               ║
-║ Cuartel general, Oficina de Investigaciones  ║
-║ NIVEL 33 · EXP 461.130/480.000               ║
-║ FRAGMENTOS 289.378 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1746)
+## COMANDO 1 (T1746)
 
 si, es muy linda, soy Facundo Morelli, un viajero
 
-## RESPUESTA 2 (T1746)
+## RESPUESTA 1 (T1746)
 
 > si, es muy linda, soy Facundo Morelli, un viajero
 
@@ -129,11 +52,11 @@ En el escritorio, junto a su codo, la carpeta que tapa el otro mapa tiene una es
 
 ---
 
-## COMANDO 3 (T1747)
+## COMANDO 2 (T1747)
 
 entre por el desierto del este, hace unos dias
 
-## RESPUESTA 3 (T1747)
+## RESPUESTA 2 (T1747)
 
 > entre por el desierto del este, hace unos días
 
@@ -176,4 +99,57 @@ Mira de reojo la carpeta que tapa el mapa. Después el reloj de pared, que marca
 
 ---
 
-ESTADO AL CIERRE: Día 1 18:30, Oficina de Investigaciones. Facundo dijo que entró por el desierto del Este hace unos días. Hughes: "Por las ruinas de Xerxes... semanas de arena. Y no está quemado por el sol." (observación, no acusación). Le dio un PERMISO PROVISORIO de 30 días firmado y sellado ("si alguien del Ejército lo molesta, muestre esto y diga mi nombre"). Sin máscara un segundo: cansado; mira la carpeta del mapa y el reloj (18:30). Pregunta: "¿Dónde se va a alojar en Central? Necesito una dirección. Aunque sea un hotel."
+## COMANDO 3 (T1748)
+
+todavía no tengo nada, puedo buscar un hotel
+
+## RESPUESTA 3 (T1748)
+
+> todavía no tengo nada, puedo buscar un hotel
+
+> —Todavía no tengo nada. Puedo buscar un hotel.
+
+—Un hotel. Muy bien. —Hughes escribe algo rápido en el formulario—. "A confirmar". Eso los de arriba lo odian, pero que se aguanten.
+
+Deja la pluma en el tintero. Se rasca la barba, pensando.
+
+—Si me permite una recomendación de local... A dos cuadras de acá, sobre la avenida, está el Hotel Lindemann. No es lujoso, pero las sábanas están limpias, la dueña es viuda de un sargento y no hace preguntas, y el desayuno tiene pan de manteca. —Se le ilumina un poco la cara—. Gracia dice que es el segundo mejor pan de manteca de Central. El primero es el de ella, obviamente.
+
+Se pone de pie. Recoge el formulario, lo sopla una última vez y lo mete en una carpeta que pone encima de una pila, que pone encima de otra pila. Después vuelve a mirar el reloj de pared. Seis y treinta y dos.
+
+—Subteniente Ross, muchas gracias por traerlo. Ya está todo en regla. —Le sonríe—. Vuelva con los chicos, que si Edward se escapa del hospital, el mayor Armstrong va a llorar, y nadie quiere ver eso.
+
+—Sí, teniente coronel. —Ross hace el saludo militar, la mano en la sien. Te mira a ti, con una media sonrisa más tranquila que antes—. Bienvenido a Central, señor Morelli. Que tenga buena estadía.
+
+Sale. La puerta se cierra detrás de ella.
+
+Hughes rodea el escritorio y te acompaña hasta la puerta, con una mano amistosa en el hombro, el que no ocupa Kase. Te abre.
+
+—Bueno, señor Morelli. Fue un gusto. Si necesita algo mientras esté en la ciudad, ya sabe dónde encontrarme. —Se da dos golpecitos en el pecho, sobre el bolsillo donde guardó la foto—. Y si algún día pasa por mi casa, Gracia le va a hacer pastel de quiche. Y Elicia le va a querer tocar el gato, eso seguro.
+
+Pero ya no te mira a ti. Mira por encima de tu hombro, hacia el fondo del pasillo, hacia la escalera de mármol, donde no hay nadie. Después vuelve a mirarte, y la sonrisa sigue ahí, pero los ojos ya están en otro lado.
+
+—Ahora, si me disculpa —dice, bajando un poco la voz—, tengo un trabajo que terminar esta noche. Es importante.
+
+Te sostiene la puerta abierta, esperando que salgas.
+
+Detrás de él, sobre el escritorio, la carpeta que tapaba el mapa se cayó al piso cuando él se levantó. El mapa está a la vista: Amestris entera, y encima, trazado en rojo con regla y compás, uniendo ciudades, fuertes y pueblos, un círculo enorme lleno de líneas que se cruzan.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1748 · FULLMETAL · DÍA 1 · 18:33       ║
+║ Ciudad Central, Amestris, 1914               ║
+║ Cuartel general, Oficina de Investigaciones  ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.378 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 18:33, puerta de la Oficina de Investigaciones. Hughes recomendó el Hotel Lindemann (2 cuadras, sobre la avenida; dueña viuda de un sargento; pan de manteca). Ross se fue al hospital ("Bienvenido a Central"). Hughes, en la puerta: invitación vaga a su casa (quiche de Gracia; Elicia querrá tocar el gato). Mira hacia la escalera vacía, distraído: "Tengo un trabajo que terminar esta noche. Es importante." Le sostiene la puerta. EL MAPA quedó a la vista (la carpeta cayó): círculo de transmutación rojo enorme sobre Amestris. Canon: esta noche, Lust y Envy.

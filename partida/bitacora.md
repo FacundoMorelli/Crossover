@@ -1746,3 +1746,4 @@ T1744 · FULLMETAL · hospital · "No tengo nada." Ross: "Acompáñeme al cuarte
 T1745 · FULLMETAL · cuartel general · Con Ross a Investigaciones. Hughes tapa un mapa, sonríe y le muestra la foto de Elicia.
 T1746 · FULLMETAL · Investigaciones · "Es muy linda. Soy Facundo Morelli." Hughes llena el formulario 17-B: "¿Por dónde entró? ¿Y hace cuánto?"
 T1747 · FULLMETAL · Investigaciones · "Entré por el desierto del Este." Hughes: "No está quemado por el sol." Permiso provisorio de 30 días. "¿Dónde se va a alojar?"
+T1748 · FULLMETAL · Investigaciones · "Puedo buscar un hotel." Hughes recomienda el Lindemann. Ross se va. Hughes: "Tengo un trabajo importante esta noche." El mapa del círculo a la vista.
