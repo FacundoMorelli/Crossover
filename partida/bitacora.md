@@ -1716,3 +1716,4 @@ T1714 · CHAINSAW MAN · Ginza · Barre Tokio con el ki: siente a Makima (pozo c
 T1715 · CHAINSAW MAN · Ginza · "Está en una fábrica de juguetes junto al río." Makima deduce cuál. "¿Sintió a alguien más que yo debería conocer?"
 T1716 · CHAINSAW MAN · Ginza · "Hay otros asesinos, pero no sé dónde." Makima: "Claro. Tokio es muy grande." Plan: fábrica a mediodía con Kishibe y la División 4. Makima viaja esta tarde.
 T1717 · CHAINSAW MAN · Ginza · "Puedo ir ahora, solo." Makima acepta; tarjeta con el número de Kishibe. "Si puede, tráigamela viva."
+T1718 · CHAINSAW MAN · fábrica del Sumida, sótano · Se teletransporta al sótano, sentado en un sofá. Santa Claus teje: "El joven del gato. Llegas temprano. ¿Quieres un té? Antes de que empecemos."
