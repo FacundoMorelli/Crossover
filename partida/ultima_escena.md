@@ -3,81 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1739)
-
-voy a caminar
-
-## RESPUESTA 1 (T1739)
-
-> voy a caminar
-
-Caminas.
-
-Ciudad Central se abre a tu paso como un libro viejo. Calles empedradas, angostas, que suben y bajan. Vidrieras con letras doradas pintadas a mano: una relojería, una sastrería con maniquíes de uniforme, una farmacia con frascos de colores, una panadería que ya está cerrando y deja salir el último olor a pan dulce. Un vendedor de diarios grita los titulares en una esquina. Dos chicos corren detrás de un aro de hierro. Una señora con sombrero de plumas mira a Kase y se lleva la mano al pecho.
-
-La gente te mira. Mucho. El pelo, los ojos, los aros, los tatuajes que asoman por el cuello de la camisa blanca. Acá nadie se viste así. Un soldado de azul, en una esquina, te sigue con los ojos hasta que doblas.
-
-Kase va tranquilo en tu hombro. Mira las palomas.
-
-Las calles te llevan, sin querer, hacia el edificio blanco de la cruz. El hospital militar ocupa una manzana entera: tres pisos de ladrillo claro, ventanas altas con marcos verdes, una reja de hierro con lanzas doradas y dos soldados de guardia en la puerta principal, aburridos, con los fusiles al hombro. En el jardín de adelante hay bancos y un árbol grande que empieza a perder las hojas.
-
-Pasas por la vereda, junto a la reja.
-
-En el segundo piso, una ventana está abierta. Las cortinas blancas se mueven con el viento. Y del otro lado, sentado en una silla que cruje bajo su peso, mirando hacia afuera, hay una armadura.
-
-Enorme. De más de dos metros, aunque esté sentada. Gris acero, abollada, con un casco con un penacho y dos puntas, y una placa de pecho llena de rayones. En las ranuras del casco, donde deberían estar los ojos, hay dos puntitos de luz. No se mueve. Está apoyada en el marco de la ventana, con los codos de hierro sobre el alféizar, como un chico que mira llover.
-
-Los dos puntitos de luz bajan hacia la calle.
-
-Hacia ti.
-
-Hacia Kase.
-
-La armadura se endereza de golpe. La silla cruje. Se inclina tanto hacia afuera que medio torso de metal asoma por la ventana, y una voz sale del casco. Una voz que no corresponde a semejante cuerpo: suave, joven, casi de chico, llena de una emoción que no puede disimular.
-
-—¡Un gato! —Se tapa la boca de hierro con una mano enorme, como si se le hubiera escapado—. Perdón. Perdón, perdón. Es que... ¡qué gato tan grande! ¡Y qué pelo tan lindo! —Los puntitos de luz van de Kase a ti, y de ti a Kase—. ¿Es suyo, señor? ¿Cómo se llama?
-
-Detrás de la armadura, adentro de la habitación, se oye otra voz, más aguda, más irritada:
-
-—¡Al! ¡Cierra esa ventana, que entra frío! ¿Con quién hablas?
-
-—¡Con nadie, hermano! —La armadura no se aparta de la ventana—. ¡Bueno, con un señor! ¡Tiene un gato!
-
-```
-╔══════════════════════════════════════════════╗
-║ ALPHONSE ELRIC                               ║
-║ Alquimista · alma ligada a una armadura      ║
-║ PODER: alquimia (con círculo); cuerpo de     ║
-║        armadura (no siente dolor, no duerme) ║
-║ AMENAZA: ÍNFIMA                              ║
-║ Diferencia estimada: x0,006 sobre ti         ║
-║ Lo que hay adentro es un chico.              ║
-║ COPIABLE · MISIÓN: MEDIA                     ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1739 · FULLMETAL · DÍA 1 · 17:50       ║
-║ Ciudad Central, Amestris, 1914               ║
-║ Vereda del hospital militar                  ║
-║ NIVEL 33 · EXP 461.130/480.000               ║
-║ FRAGMENTOS 289.378 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1740)
+## COMANDO 1 (T1740)
 
 se llama Kase y yo Facundo Morelli
 
-## RESPUESTA 2 (T1740)
+## RESPUESTA 1 (T1740)
 
 > se llama Kase y yo Facundo Morelli
 
@@ -136,11 +66,11 @@ Al lo ignora. Vuelve a inclinarse hacia la calle, todo lo que puede, con los pun
 
 ---
 
-## COMANDO 3 (T1741)
+## COMANDO 2 (T1741)
 
 esta bien
 
-## RESPUESTA 3 (T1741)
+## RESPUESTA 2 (T1741)
 
 > esta bien
 
@@ -191,4 +121,59 @@ Después te mira a ti. A través de la reja. Esta vez no grita. Te estudia con l
 
 ---
 
-ESTADO AL CIERRE: Día 1 17:55, reja del hospital militar. Al bajó (rompiendo una silla), se agachó tras la reja con la mano abierta; KASE se subió a su palma y se enroscó ("Hermano. Se me subió a la mano."). Ed bajó (pantuflas, abrigo rojo, renguea). Serio, a Facundo: "Ese pelo no es teñido. Y esos ojos no son de por acá. ¿De dónde eres? ¿De Xing? ¿De Creta?"
+## COMANDO 3 (T1742)
+
+soy un viajero, de bastante lejos
+
+## RESPUESTA 3 (T1742)
+
+> soy un viajero, de bastante lejos
+
+> —Soy un viajero. De bastante lejos.
+
+—"De bastante lejos". —Ed lo repite con la cara de quien recibe una respuesta de examen que no contesta nada—. Eso no es un lugar.
+
+—¡Un viajero! —Al levanta la cabeza, sin mover la mano donde duerme Kase—. ¡Nosotros también viajamos, señor Morelli! Por todo Amestris. Por el Este, el Sur, Lior, Youswell... —Se le nota la sonrisa en la voz, aunque no tenga cara—. ¿Usted viaja buscando algo?
+
+—Al. —Ed le da un golpecito en el codo de metal, con el dedo de acero—. No le cuentes nuestra vida a cualquiera que pasa por la calle con un gato.
+
+—No le conté nada.
+
+—Le dijiste Lior y Youswell.
+
+—Esos son lugares, hermano, no secretos.
+
+Ed resopla. Se cruza de brazos. El abrigo rojo se le resbala de un hombro y se lo acomoda de un tirón. Vuelve a mirarte, esta vez de reojo, sin tanta desconfianza y con un poco más de curiosidad, que trata de esconder y no puede.
+
+—Más lejos que Xing, supongo. —Lo dice como si pensara en voz alta—. Para tener esos ojos. Del otro lado del gran desierto, o más allá. —Se rasca la nuca con la mano de carne—. ¿Allá hay alquimia? ¿Distinta a la de acá?
+
+Antes de que contestes, la puerta del hospital se vuelve a abrir. Una mujer joven, de uniforme azul, pelo negro muy corto y un lunar bajo el ojo, sale casi corriendo, seguida de un soldado alto, rubio, de cara nerviosa, que trae una manta en los brazos.
+
+—¡Edward! ¡Alphonse! —La mujer llega hasta ellos con la cara roja, entre el enojo y el alivio—. ¡No pueden salir del edificio sin nosotros! ¡El mayor Armstrong fue muy claro! ¡Después de lo del laboratorio...!
+
+—Subteniente Ross, estamos en el jardín —dice Ed, con toda la paciencia que no tiene—. A dos metros de la puerta.
+
+—¡Con un desconocido! —Ross te mira, por fin. Se queda quieta un segundo. Recorre con los ojos el pelo, los tatuajes, los aros, la camisa blanca con un escudo que no es de ningún uniforme de Amestris, y al gato enroscado en la mano de Alphonse. Se lleva la mano, sin pensarlo, a la funda de la pistola. No la saca.
+
+El soldado alto, el de la manta, se para detrás de ella y traga saliva.
+
+—Señor. —Ross se endereza, formal, sin soltar la funda—. Subteniente Maria Ross, Ejército de Amestris. Estos dos chicos están bajo nuestra custodia. —Una pausa—. ¿Me podría decir quién es usted y qué hace hablando con ellos?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1742 · FULLMETAL · DÍA 1 · 17:58       ║
+║ Ciudad Central, Amestris, 1914               ║
+║ Reja del hospital militar                    ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.378 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la mano de Al                       ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: —                                  ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 17:58, reja del hospital. Ed: "De bastante lejos no es un lugar." Al: "¡Nosotros también viajamos! Lior, Youswell... ¿Usted viaja buscando algo?" Ed: "Más lejos que Xing, supongo. ¿Allá hay alquimia? ¿Distinta?" Llegan la subteniente MARIA ROSS y el sargento BROSH (con una manta). Ross, mano en la funda de la pistola: "Estos dos chicos están bajo nuestra custodia. ¿Quién es usted y qué hace hablando con ellos?"

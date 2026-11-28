@@ -11,3 +11,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: escolta a Ed y Al.
+ENCUENTROS:
+- T1742 · Sale detrás de Ross con una manta; traga saliva al ver a Facundo.

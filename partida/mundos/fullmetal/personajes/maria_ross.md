@@ -11,3 +11,5 @@ DIÁLOGOS CLAVE:
 QUÉ SABE DE FACUNDO: nada.
 QUÉ PODERES DE FACUNDO VIO: ninguno.
 ESTADO: escolta a Ed y Al en el hospital.
+ENCUENTROS:
+- T1742 · Día 1 17:58 · Sale del hospital a buscar a los Elric ("¡No pueden salir sin nosotros! ¡El mayor Armstrong fue muy claro!"). Ve a Facundo (pelo, tatuajes, aros, camisa con un escudo extranjero —Seguridad Pública de CSM—, gato). Mano en la funda de la pistola, sin sacarla. "Señor. Subteniente Maria Ross, Ejército de Amestris. Estos dos chicos están bajo nuestra custodia. ¿Me podría decir quién es usted y qué hace hablando con ellos?"
