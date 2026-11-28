@@ -1783,3 +1783,4 @@ T1780 · SOLO LEVELING · Río Han · Dong-su explica rangos y el segundo desper
 T1781 · SOLO LEVELING · Río Han · "Nadie se queda igual para siempre." Kase se sienta junto a Dong-su. Le pregunta el nombre.
 T1782 · SOLO LEVELING · Río Han · Se presenta a Dong-su ("Pa-kun-do"). Dong-su vuelve con su abuela; va al río casi todas las noches.
 T1783 · SOLO LEVELING · Río Han · Transfiguración Ociosa: el maná de Han Dong-su pasa de rango E a A. "Ve a hacerte una reevaluación." "¿Qué me hiciste?"
+T1784 · SOLO LEVELING · Hotel de Gangnam · "Solo te ayudé un poco." Dong-su grita gracias. Vuelve a la 2207.

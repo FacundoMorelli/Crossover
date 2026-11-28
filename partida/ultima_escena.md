@@ -3,56 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1781)
-
-creo que si, nadie se queda igual para siempre
-
-## RESPUESTA 1 (T1781)
-
-> creo que si, nadie se queda igual para siempre
-
-> —Creo que sí. Nadie se queda igual para siempre.
-
-Dong-su no contesta enseguida. Mira el vaso de ramyeon, que ya está frío, y lo hace girar despacio sobre la mesa.
-
-—Nadie se queda igual para siempre —repite, bajito, como si probara cómo suena dicho por él.
-
-Se le mueve algo en la cara. No es alegría. Es más chico que eso, como cuando alguien que venía cargando una bolsa pesada la apoya un momento en el piso para cambiarla de mano.
-
-Kase, que terminó de lamerse los bigotes, se levanta del platito, camina hasta la silla de plástico del chico y se le sienta al lado del pie, muy derecho, mirando el río con él. No lo toca. Solo se sienta ahí.
-
-Dong-su lo mira. Después te mira a ti, sorprendido.
-
-—¿Hace esto con todos?
-
-Kase no hace esto con nadie.
-
-El chico estira la mano vendada, despacio, a medio camino, como pidiendo permiso. Kase no se mueve. Dong-su no llega a tocarlo: deja la mano ahí, cerca, en el aire, y sonríe por primera vez de verdad.
-
-Después se acomoda la capucha y se aclara la garganta, un poco avergonzado.
-
-—Perdón. Te conté toda mi vida y ni siquiera sé cómo te llamas.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1781 · SOLO LEVELING · DÍA 2 · 00:21   ║
-║ Seúl, Corea del Sur                          ║
-║ Parque junto al río Han · tienda 24 horas    ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.292.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: sentado junto al pie de Dong-su        ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Cha Hae-in vuelve a la una         ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1782)
+## COMANDO 1 (T1782)
 
 me llamo Facundo Morelli
 
-## RESPUESTA 2 (T1782)
+## RESPUESTA 1 (T1782)
 
 > me llamo Facundo Morelli
 
@@ -89,11 +44,11 @@ Dong-su se queda parado junto a la mesa, con las manos en los bolsillos, mirando
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1783)
+## COMANDO 2 (T1783)
 
 lo toco uso la técnica de mahito para agrandar su mana a rango A, nos vemos dong, ve a hacerte una reevaluacion despues
 
-## RESPUESTA 3 (T1783)
+## RESPUESTA 2 (T1783)
 
 > lo toco uso la técnica de mahito para agrandar su mana a rango A, nos vemos dong, ve a hacerte una reevaluacion despues
 
@@ -136,6 +91,57 @@ Dong-su levanta la vista hacia ti. Tiene los ojos muy abiertos, brillantes, y la
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1784)
+
+Solo te ayude un poco, suerte, vuelvo al hotel
+
+## RESPUESTA 3 (T1784)
+
+> Solo te ayude un poco, suerte, vuelvo al hotel
+
+> —Solo te ayudé un poco. Suerte.
+
+Dong-su abre la boca. No le sale nada.
+
+Kase se te sube al hombro de un salto. Te das vuelta y empiezas a caminar por la orilla, de vuelta hacia las torres de Gangnam.
+
+Unos pasos más allá escuchas la silla de plástico arrastrarse contra el piso.
+
+—¡Facundo!
+
+Te alcanza la voz, fuerte, quebrada, la de un chico que no está acostumbrado a gritar.
+
+—¡Gracias! —Una pausa, el ruido del río—. ¡Gracias!
+
+Cuando miras por encima del hombro, sigue parado junto a la mesa, bajo la luz blanca de la tienda, con las dos manos abiertas delante de la cara, mirándolas. El señor del mostrador se asomó a la puerta, sin entender por qué grita el chico.
+
+Subes por las calles en pendiente, entre los neones. A esta hora ya hay menos gente: un repartidor en moto, una pareja que discute bajito en una parada de autobús, el vendedor de castañas cerrando el carrito. Empieza a caer una llovizna muy fina, casi niebla, que hace brillar las veredas.
+
+El portero de guantes blancos te abre la puerta del hotel con la misma reverencia corta. El piano ya no suena. La recepcionista de antes cambió de turno con un chico joven, que te mira, mira a Kase y no dice nada.
+
+Piso veintidós. Lucecita verde. Clic.
+
+La habitación está como la dejaste: la cama enorme, el ventanal con Seúl abajo, ahora un poco borroso por la llovizna. La tarjetita con el número de Cha Hae-in sigue sobre la mesita de luz, al lado del teléfono blanco.
+
+Kase salta a la cama, vuelve a la almohada del medio, da dos vueltas y se echa con un suspiro largo, satisfecho, de gato que comió atún.
+
+En el reloj digital de la mesita: 00:51.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1784 · SOLO LEVELING · DÍA 2 · 00:51   ║
+║ Seúl, Corea del Sur                          ║
+║ Hotel de Gangnam · habitación 2207           ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.292.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la almohada del medio               ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Cha Hae-in vuelve a la una         ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 00:25. Facundo, con la mano en el hombro de Dong-su y la Transfiguración Ociosa, ensanchó su maná de rango E a rango A (sin tocar su alma ni quién es; sin dolor; nada visible). "Nos vemos, Dong. Ve a hacerte una reevaluación después." Dong-su siente el cambio (cuerpo, respiración), pálido, ojos brillantes: "Facundo... ¿Qué... qué me hiciste?"
+ESTADO AL CIERRE: Día 2 00:51, habitación 2207. Facundo: "Solo te ayudé un poco. Suerte." Dong-su gritó "¡Gracias!" dos veces, se quedó mirándose las manos. Llovizna fina. Recepción cambió de turno (chico joven). Kase en la almohada del medio. Tarjetita de Cha en la mesita. Cha vuelve a la una (13:00).
