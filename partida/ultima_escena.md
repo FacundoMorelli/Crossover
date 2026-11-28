@@ -3,56 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1772)
-
-no tengo nada
-
-## RESPUESTA 1 (T1772)
-
-> no tengo nada
-
-> —No tengo nada.
-
-Cha Hae-in te mira. Mira la avenida, llena de vallas, de cámaras, de gente que ya empieza a irse a sus casas. Después vuelve a mirarte, con el ceño un poco fruncido, como quien hace una cuenta que no le gusta.
-
-—¡Vicemaestra! —insiste el grandote.
-
-Ella se da vuelta hacia la camioneta del gremio.
-
-—¡Váyanse sin mí! —le grita, más fuerte de lo que esperabas de ella—. ¡Mañana paso por la oficina con el informe!
-
-El grandote abre la boca, sorprendido, y mira a Choi Jong-In. Choi la mira por encima de los anteojos dorados, un segundo largo, después te mira a ti y suspira, como si no tuviera ganas de discutir a esta hora. Hace un gesto seco con la mano. La puerta de la camioneta se cierra. La camioneta arranca.
-
-Cha Hae-in levanta la cinta con una mano, para que pases por abajo.
-
-—Ven —dice—. Hay un hotel a dos cuadras de aquí. Es bueno. Yo lo pago.
-
-Lo dice rápido y mirando el piso, como si fuera algo práctico y nada más, pero las orejas siguen rojas.
-
-Kase se estira en tu hombro, mira la cinta levantada y después la mira a ella.
-
-—¿Lo dejan entrar a un hotel? —pregunta Cha Hae-in, más bajito, señalando al gato con la barbilla—. Si no, buscamos otro.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1772 · SOLO LEVELING · DÍA 1 · 23:16   ║
-║ Seúl, Corea del Sur                          ║
-║ Gangnam, cinta del cordón de la Puerta       ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.815 · 0 won                   ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1773)
+## COMANDO 1 (T1773)
 
 vayamos a ver
 
-## RESPUESTA 2 (T1773)
+## RESPUESTA 1 (T1773)
 
 > vayamos a ver
 
@@ -107,11 +62,11 @@ Duda. Se acomoda un mechón de pelo detrás de la oreja.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1774)
+## COMANDO 2 (T1774)
 
 si claro que puedes
 
-## RESPUESTA 3 (T1774)
+## RESPUESTA 2 (T1774)
 
 > si claro que puedes
 
@@ -148,6 +103,47 @@ Da un paso hacia el ascensor. Se detiene y se da vuelta.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1775)
+
+dale me parece bien, te espero aca
+
+## RESPUESTA 3 (T1775)
+
+> dale me parece bien, te espero aca
+
+> —Está bien, me parece bien. Te espero aquí.
+
+Cha Hae-in asiente una vez, rápido, y aprieta el botón del ascensor. Las puertas de espejo se abren enseguida. Entra, se da vuelta y se queda mirándote mientras se cierran, con la sonrisa todavía puesta. En el último centímetro levanta la mano, apenas, como un saludo a medias.
+
+Las puertas se cierran. Los números empiezan a bajar.
+
+El pasillo queda en silencio.
+
+Pasas la tarjeta por la cerradura de la 2207. Una lucecita verde, un clic, y la puerta se abre sola hacia adentro.
+
+La habitación es más grande que algunas casas en las que dormiste. Una cama doble enorme con sábanas blancas y almohadas apiladas, un sillón de cuero gris junto a la ventana, una mesa baja con una bandeja de frutas envueltas en plástico y una botella de agua. El baño tiene una bañera de piedra y una ducha de vidrio. Todo huele a limpio, a madera y a algo cítrico.
+
+Y la ventana: una pared entera de vidrio, del piso al techo, con Seúl abajo. Un mar de luces hasta el horizonte, las torres de Gangnam encendidas, el río Han a lo lejos como una cinta negra con puentes iluminados. En la avenida, dos cuadras más allá, todavía se ven las luces de las patrullas donde estaba la Puerta, y una grúa que empieza a sacar las vallas.
+
+Kase salta de tu hombro a la cama. Camina por encima de las almohadas, las huele una por una, elige la del medio, da dos vueltas y se echa, enorme, como si el hotel fuera suyo desde siempre.
+
+Sobre la mesita de luz hay un teléfono blanco y un control remoto. La tarjetita con el número de Cha Hae-in sigue en tu mano.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1775 · SOLO LEVELING · DÍA 1 · 23:37   ║
+║ Seúl, Corea del Sur                          ║
+║ Hotel de Gangnam · habitación 2207           ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.815 · 0 won                   ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la almohada del medio               ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Cha Hae-in vuelve mañana a la una  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 1 23:34, puerta de la 2207. Facundo: "Sí, claro que puedes." Cha sonríe. Escribe su número de teléfono (11 cifras) atrás de la tarjetita del hotel y se la da: "Si necesitas algo, llama desde la habitación. Aunque sea tarde." Junto al ascensor: "Termino en la oficina antes del mediodía. ¿Te parece bien a la una? Puedo traerte a comer algo."
+ESTADO AL CIERRE: Día 1 23:37, habitación 2207 del hotel de Gangnam. Cha Hae-in se fue en el ascensor (saludo a medias); vuelve mañana (Día 2) a la una con comida. Habitación grande con ventanal sobre Seúl; se ven las patrullas donde estaba la Puerta. Kase en la almohada del medio. Facundo con la tarjetita del número de Cha en la mano; teléfono blanco y control remoto en la mesita.
