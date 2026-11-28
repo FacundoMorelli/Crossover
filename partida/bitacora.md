@@ -1849,3 +1849,4 @@ T1846 · SOLO LEVELING · Buque · Go Gunhee al teléfono: "Corea le debe diecis
 T1847 · SOLO LEVELING · Buque · A Gunhee: "Nada, solo quería ayudar." Protección de la Asociación. Goto: "¿Por qué no bajaste por los míos?"
 T1848 · SOLO LEVELING · Buque · A Goto: "Estaban dispuestos a dejar morir a sus compañeros." Reverencia de los japoneses. Cha quiere ver a su mamá.
 T1849 · SOLO LEVELING · Casa de la señora Kang · Lleva a Cha con su mamá. "Todo lo que tenga en mis manos. Eso me dijiste." "¿Comiste algo?"
+T1850 · SOLO LEVELING · Casa de la señora Kang · Almuerzo. "¿Y ahora? ¿Qué vas a hacer?"

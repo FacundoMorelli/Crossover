@@ -3,74 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1847)
-
-nada señor, solo queria ayudarlos y no queria dejar que nadie muera de corea
-
-## RESPUESTA 1 (T1847)
-
-> nada señor, solo queria ayudarlos y no queria dejar que nadie muera de corea
-
-> —Nada, señor. Solo quería ayudarlos. No quería dejar que muriera nadie de Corea.
-
-Del otro lado de la línea, Go Gunhee no dice nada durante un rato largo.
-
-Escuchas su respiración. Después un sonido extraño, ahogado, que tardas un segundo en reconocer: un hombre de setenta años, enorme, que lleva décadas sentado en la silla más pesada del país, riéndose y llorando al mismo tiempo, en voz baja, para que nadie del otro lado de la puerta lo escuche.
-
-—Nada —repite, al fin, ronco—. Le ofrezco lo que quiera, y me dice "nada".
-
-Se suena la nariz. Carraspea. Cuando vuelve a hablar, ya es otra vez el presidente.
-
-—Muy bien, señor Morelli. Entonces voy a hacer lo único que puedo hacer sin que me lo pida. —Una pausa—. Su nombre y su residencia provisoria quedan bajo protección de la Asociación desde este minuto. Nadie, ningún gremio, ningún canal, ningún gobierno extranjero, va a tener acceso a nada de usted a través de nosotros. Si alguien lo molesta, me llaman a mí. Y si alguien lo quiere reclutar, también. —Una risa corta—. Aunque me imagino lo que les va a contestar.
-
-Escuchas un golpe en la puerta, del otro lado. Alguien que lo llama. Go Gunhee no contesta.
-
-—Una cosa más. —La voz se le vuelve más baja—. Gracias. No por los dieciséis. Por Min. Es el sanador que salvó a más cazadores en este país. Y antes de esta incursión me dijo que, si no volvía de Jeju, le dijera a su padre que lo sentía mucho, que no iban a poder ir a pescar. —Hace una pausa—. No voy a tener que llamarlo.
-
-Corta.
-
-Le devuelves el teléfono a Woo Jinchul. Él lo agarra sin decir nada, con una inclinación de cabeza más profunda que cualquiera que le hayas visto.
-
-En la cubierta, el ruido vuelve. Los médicos corren con las camillas aunque nadie las necesita. Ma Dongwook se deja revisar riéndose. Min Byung-Gyu sigue sentado en el piso, mirando el mar. Jinwoo, apoyado en la baranda, con las manos en los bolsillos, mira la costa de Jeju.
-
-Y desde el cielo, por el oeste, llega un zumbido grave.
-
-Un helicóptero negro, con una espada desenvainada pintada en la puerta, baja sobre la cubierta del buque, levantando viento y espuma. Antes de que toque el piso, la puerta se abre y salta un hombre enorme, de pelo largo atado, con la katana a la cintura, el uniforme negro roto en un brazo y la cara llena de polvo. Detrás de él bajan otros japoneses: Hoshino, Kanae, Kumamoto, unos pocos más. Faltan muchos.
-
-Goto Ryuji camina por la cubierta, entre los marineros y los médicos, directo hacia ti. Mira a los coreanos, vivos, todos. Mira a Jinwoo en la baranda. Se detiene a tres pasos de ti.
-
-No sonríe. Por primera vez desde que lo conoces, no sonríe.
-
-—Vi la transmisión desde el helicóptero —dice en japonés, y el Sistema te lo da—. Matsumoto nos ordenó retirarnos. Dejarlos a ustedes allá adentro. Lo obedecí. —Se le endurece la mandíbula—. Perdí a cinco de los míos en esa isla. Y tú bajaste solo y no dejaste morir a ninguno de los tuyos.
-
-Se saca la katana de la cintura, con la vaina, y la apoya en el piso de la cubierta, de punta, con las dos manos sobre la empuñadura.
-
-—Me debías una pelea, novio sin maná. —Te mira a los ojos—. Ya no. Ya vi lo que vio ella.
-
-Hace una pausa.
-
-—Pero quiero saber una cosa. ¿Por qué no bajaste por los míos?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1847 · SOLO LEVELING · DÍA 22 · 11:52  ║
-║ Estrecho de Jeju                             ║
-║ Buque de la Asociación · cubierta            ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 1.282.800 won           ║
-║ Energía 95% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en la nuca de Cha Hae-in               ║
-║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
-║ OBJETIVO: Goto: "¿Por qué no por los míos?"  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1848)
+## COMANDO 1 (T1848)
 
 no queria dejarlos morir, pero ustedes estaban dispuestos a dejar morir a los compañeros
 
-## RESPUESTA 2 (T1848)
+## RESPUESTA 1 (T1848)
 
 > no queria dejarlos morir, pero ustedes estaban dispuestos a dejar morir a los compañeros
 
@@ -125,11 +62,11 @@ Kase, en su nuca, le da un golpecito con la cabeza en la oreja.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1849)
+## COMANDO 2 (T1849)
 
 esta bien, me teletransporto con cha con su mama
 
-## RESPUESTA 3 (T1849)
+## RESPUESTA 2 (T1849)
 
 > esta bien, me teletransporto con cha con su mama
 
@@ -192,6 +129,55 @@ Después te da las dos palmadas en el brazo, fuertes. Se seca la cara con el del
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1850)
+
+no, tienes razón no comi nada
+
+## RESPUESTA 3 (T1850)
+
+> no, tienes razón no comi nada
+
+> —No. Tiene razón. No comí nada.
+
+—¡Lo sabía! —La señora Kang levanta las manos al techo—. Matan reyes de hormigas y no desayunan. Igualita a su padre, esta.
+
+Se va a la cocina a paso rápido, secándose la cara con el delantal, y empieza a abrir la heladera, a sacar recipientes, a prender las hornillas, a golpear ollas. No para de hablar en todo el tiempo, sola, en voz alta, sin que nadie le conteste: que ella sabía, que lo sabía desde la primera noche, que un chico que trae peras no puede ser mala persona, que se desmayó, sí, se desmayó cuando él apareció en la tele de la nada, que la vecina del tercero tuvo que subir a echarle agua en la cara.
+
+Cha Hae-in se ríe en el piso del living, todavía de rodillas, con las lágrimas cayéndole todavía. Se saca la armadura pieza por pieza, con dedos lentos, cansados: las hombreras, la placa del pecho, los brazales. Las deja apiladas sobre la alfombra, al lado de la taza caída. Se queda con la ropa de abajo, negra, ajustada, manchada de sudor y de polvo blanco. La cadenita con la placa y la llavecita le cuelga sobre el pecho.
+
+Su celular, en el bolsillo, vibra sin parar. Lo saca, mira la pantalla un segundo —cientos de mensajes, decenas de llamadas perdidas, el nombre de Choi, el de Min, el de la Asociación, números desconocidos— y lo apaga del todo. Lo tira sobre el sofá, al lado de Kase, que lo mira con desprecio.
+
+En diez minutos la mesa baja está llena. Arroz recién hecho, guiso de kimchi del día anterior recalentado, huevos fritos, algas tostadas, tres platitos de banchan, sopa de algas. Y para Kase, en el piso, un platito con pescado sin espinas.
+
+La señora Kang te sienta en la cabecera otra vez. Te llena el cuenco de arroz hasta arriba. Te pone un huevo frito encima, con sus palillos. Después otro.
+
+—Come. Come todo.
+
+Comen. La tele sigue encendida con el volumen bajo, y la señora Kang no la apaga: cada tanto la mira de reojo, cuando aparece tu cara, y se le escapa una risita incrédula por la nariz. Cha Hae-in come con hambre, despacio, sentada a tu lado, apoyada contra tu hombro, sin hablar.
+
+Cuando ya casi terminan, la señora Kang deja los palillos sobre el cuenco. Te mira.
+
+—Bueno. —Junta las manos sobre la mesa, como la primera noche—. Ya no le puedo decir a nadie en el barrio que el novio de mi hija no trabaja de nada. —Se le escapa una risa—. Aunque tampoco sé bien qué decirles que hace.
+
+Te sostiene la mirada.
+
+—Facundo. Mi hija me contó que eres un viajero. Que algún día te vas a ir. —Hace una pausa—. Y ahora todo el país sabe tu nombre. —Mira a su hija, que deja de comer—. ¿Y ahora? ¿Qué vas a hacer?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1850 · SOLO LEVELING · DÍA 22 · 12:25  ║
+║ Seúl, Corea del Sur                          ║
+║ Casa de la señora Kang · mesa del living     ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 1.282.800 won           ║
+║ Energía 95% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el piso, comiendo pescado           ║
+║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
+║ OBJETIVO: "¿Y ahora? ¿Qué vas a hacer?"      ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 11:58, living de la señora Kang. "Está bien." Teletransporte con Cha (y Kase). Tele: "JEJU: LOS 16 CAZADORES COREANOS, VIVOS" / "¿QUIÉN ES FACUNDO MORELLI?". La señora Kang de rodillas frente a la tele toda la mañana; se le cae la taza; Cha la abraza; las dos lloran. Kase en el sofá. La señora Kang le toma la cara a Facundo: "'Todo lo que tenga en mis manos'. Eso me dijiste. Aquí, en esta mesa." Dos palmadas. "¿Comiste algo? Seguro que no comiste nada en todo el día."
+ESTADO AL CIERRE: Día 22 12:25, mesa del living de la señora Kang. "No. Tiene razón. No comí nada." La señora Kang cocina hablando sola (se desmayó al verlo en la tele; la vecina del tercero le echó agua). Cha se saca la armadura (pila en la alfombra), apaga el celular (cientos de mensajes). Almuerzo: arroz, guiso, huevos fritos, algas, sopa de algas; pescado para Kase. Señora Kang: "Ya no le puedo decir a nadie en el barrio que el novio de mi hija no trabaja de nada." "Mi hija me contó que eres un viajero. Que algún día te vas a ir. Y ahora todo el país sabe tu nombre. ¿Y ahora? ¿Qué vas a hacer?" Cha deja de comer.

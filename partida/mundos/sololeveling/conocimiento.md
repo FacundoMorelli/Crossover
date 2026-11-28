@@ -60,3 +60,4 @@
 - T1846 · INTERNACIONAL: las Asociaciones de Japón (2 llamadas) y EE. UU. (1) ya preguntaron a Go Gunhee por Facundo (vieron la transmisión).
 - T1847 · GOTO vio la transmisión desde el helicóptero; deduce que Facundo pudo haber salvado a los japoneses (puede aparecer donde quiere).
 - T1849 · KANG MI-SOOK vio a Facundo aparecer de la nada en su living con Hae-in.
+- T1850 · KANG MI-SOOK sabe por Hae-in que Facundo es viajero y algún día se irá.
