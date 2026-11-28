@@ -125,3 +125,4 @@ ESTADO: activa
 - T1887 · "Fufu. Lo sé. Vi Marineford." Deja el cuaderno en la mesa de Baltigo. Le aprieta la mano. En la oficina de Akainu, de pie junto al sillón, derecha, manos juntas, sin temblar.
 - T1889 · Gira la cabeza un segundo hacia Facundo cuando ofrece el trato (ojos muy abiertos); no dice nada. Respira hondo cuando Akainu acepta.
 - T1890 · Sostiene la mirada de Akainu cuando él le dice "Veinte años buscándote"; no contesta. Da medio paso atrás por el calor de la mano de magma.
+- T1891 · Mira la espalda de Akainu hasta el final, sin bajar la vista; le tiemblan un poco las manos. El Gobierno no la buscará por un año (trato).

@@ -1,8 +1,8 @@
 {
-  "turno": 1890,
+  "turno": 1891,
   "mundo_actual": "onepiece",
   "fecha_local": "One Piece: Día ~227 (timeskip, ~5,5 meses)",
-  "hora": "Día ~227, 23:15 (Nuevo Cuartel General)",
+  "hora": "Día ~227, 23:16 (Nuevo Cuartel General)",
   "edad": 18,
   "nivel": 35,
   "exp": 549130,
@@ -2681,7 +2681,8 @@
       "chainsawman": "Llegada Día 1 (fines de oct. 1997) 19:30. Salida Día 9 18:40 (T1737), azotea del edificio de Aki, Tokio. Corre al ritmo de Facundo. MISIÓN DE MUNDO NO CUMPLIDA (Aki vivo tras el Pistola; el ataque del Pistola es en nov-dic 1997).",
       "fullmetal": "Llegada Día 1, 1914 (T1738). Día Prometido Día 31. Salida Día 36, atardecer, colina de la tumba de Trisha en Resembool (T1763). Corre al ritmo de Facundo.",
       "dragonball_vuelta_T1764": "Vuelta ~6,5 semanas después de la salida (3 días con Erasa y los demás). Salida otra vez de noche desde la colina del parque central. Corre al ritmo de Facundo. Freezer: Sorbet llega ~3,5 meses después de esta salida; ataque ~7,5 meses después.",
-      "sololeveling": "Llegada Día 1, 21:40, Gangnam (T1764). MISIÓN CUMPLIDA Día 22 (Jeju). SALIDA Día 24 ~18:05, plaza del ginkgo del barrio de la señora Kang (este de Seúl), testigo Cha Hae-in. Corre al ritmo de Facundo."
+      "sololeveling": "Llegada Día 1, 21:40, Gangnam (T1764). MISIÓN CUMPLIDA Día 22 (Jeju). SALIDA Día 24 ~18:05, plaza del ginkgo del barrio de la señora Kang (este de Seúl), testigo Cha Hae-in. Corre al ritmo de Facundo.",
+      "onepiece_trato_akainu": "TRATO SELLADO (T1891): corre desde el Día ~228 00:00 un año (hasta Día ~593 00:00). Marina/CP/Gobierno buscan solo a Facundo; no tocan a Robin ni a la tripulación del Sombrero de Paja ni a los que caminan con ellos. Si atacan a un marine, la Marina se defiende. Si lo encuentran, Facundo se entrega en la oficina del Almirante de Flota sin pelear ni desaparecer."
     },
     "puerta_abierta": true,
     "historial_misiones": {

@@ -36,3 +36,4 @@ DON DE MUNDO: Shio Shio no Mi (ver sistema.json).
 - T1873 · Día ~227 · Facundo saca a Jewelry Bonney de un buque prisión de la Marina (rumbo a Mary Geoise) y la reúne con Kuma, consciente, en Momoiro.
 - T1881 · Día ~227 · El Gobierno Mundial publica el ataque a Mary Geoise; recompensa de Ojos de Eclipse: 3.200.000.000 berries; movilización del Almirante de Flota. Sabo aparece en el dibujo.
 - T1889 · Día ~227 · TRATO entre Facundo y el Almirante de Flota Akainu: un año para que la Marina lo encuentre (si lo encuentra, se entrega); Akainu no toca a "los suyos".
+- T1891 · Trato sellado con Akainu (mano de magma). Desde el Día ~228 00:00, un año: la Marina solo busca a Facundo; Robin y los Sombrero de Paja (y sus aliados) protegidos salvo que ataquen a marines.

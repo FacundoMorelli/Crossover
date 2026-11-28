@@ -195,3 +195,4 @@ Viaja siempre con Facundo. Envejece con él; muere con él, nunca antes. Sin pod
 - T1844 · Jeju: pasa del hombro de Facundo a la nuca de Cha Hae-in mientras ella llora abrazada a él.
 - T1859 · Solo Leveling: el padre de Min le sirve un pescado entero crudo (lo acepta como tributo); Dong-su le compra dos latas de atún con su primera paga. One Piece: maúlla bajito en la puerta de Robin, en Baltigo.
 - T1881 · Momoiro: come el pescado a la manteca de Sanji en plato de porcelana y, por primera vez, le roza los tobillos con la cola.
+- T1891 · Oficina de Akainu: pisa a propósito el informe de arriba y le deja una huella de polvo blanco de Baltigo.
