@@ -15,3 +15,4 @@ ESTADO: activo; irá a Jeju.
 QUÉ SABE DE FACUNDO (T1823): lo público (novio sin maná); deduce por sus manos que usa espada y que no le teme.
 - T1824 · Facundo: "No, gracias. Por esta vez tengo que pasar." Atrapa la espada al vuelo. Carcajada. En coreano torpe: "'Por esta vez.' No dijiste 'no sé'. Dijiste 'por esta vez'." "Bien. Me la debes, novio sin maná. Cuando volvamos de Jeju. Y si no volvemos, me la cobro en el otro mundo." Le dijo a Cha en japonés que probaría a su novio; ante su "déjalo en paz" respondió que eso significaba que ella sabía que podía. DUELO PENDIENTE (tras Jeju).
 - T1827 · Desafía a Jinwoo ("un mago no se mueve así"); katana real; ataque a matar le corta la mejilla; Jinwoo le sujeta la muñeca; muro de hielo de Kei; Hoshino lo sujeta. Sin ganador. Lleva una sombra de Jinwoo escondida en su sombra (no lo sabe).
+- T1833 · Cada vez que ve a Facundo en la grada lo señala con la katana envainada y sonríe: la deuda sigue.

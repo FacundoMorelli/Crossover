@@ -12,3 +12,4 @@
 - Día 7 · La prensa se olvida de Facundo (actor casado, Puerta B en un shopping de Busan). Nota: Sung Jinwoo habría comprado un edificio en el centro; su madre despertó de la Enfermedad del Sueño Eterno.
 - Día 8 · (interno, a los S) La Asociación convoca la 4.ª incursión a Jeju para dentro de dos semanas, con Japón.
 - Día 10 · Fotos borrosas de algo enorme, negro, con alas, cruzando el cielo de Seúl de madrugada (¿dron, monstruo, montaje?).
+- Día 21 · Anuncio oficial de la 4.ª incursión a Jeju; transmisión en vivo con camarógrafo de rango A. Pantalla gigante de Gangnam con las caras de los 16 coreanos; Cha Hae-in al final: "LA PRINCESA DE LA ESPADA".

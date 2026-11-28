@@ -1832,3 +1832,4 @@ T1829 · SOLO LEVELING · Gimnasio de la Asociación · "Es muy fuerte." Cha ent
 T1830 · SOLO LEVELING · Sede de la Asociación · Jinwoo lo espera afuera: "No siento nada en ti... tu gato miró algo que no tenía por qué ver. ¿Qué eres?"
 T1831 · SOLO LEVELING · Sede de la Asociación · "¿Y tú qué eres?" Jinwoo: "Un cazador. Nada más." "¿Vas a estar cerca?"
 T1832 · SOLO LEVELING · Yeouido · A Jinwoo: "Voy a estar cerca. No es necesario que uses tus sombras." Jinwoo: "...¿Cómo?"
+T1833 · SOLO LEVELING · Hotel de Gangnam · (simulados Días 11-21) Preparativos. Día 22, 05:30: Cha se va a Jeju. "Ya me tengo que ir."

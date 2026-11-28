@@ -11,3 +11,4 @@ TASACIÓN (T1826): fuerza desbocada (frenesí); amenaza BAJA; tú x90; copiable,
 QUÉ SABE DE FACUNDO: nada
 ESTADO: (canon: sobrevive a Jeju)
 - T1827 · Jinwoo le atrapa los puños con una mano y lo noquea de un golpe al estómago.
+- T1833 · Suspendido de los entrenamientos.
