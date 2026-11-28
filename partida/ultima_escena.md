@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1886)
-
-ehh, voy a ir a hacer algo, voy a ir a hablar con akainu
-
-## RESPUESTA 1 (T1886)
-
-> ehh, voy a ir a hacer algo, voy a ir a hablar con akainu
-
-> —Eh... voy a ir a hacer algo. Voy a ir a hablar con Akainu.
-
-Robin no dice nada.
-
-Se queda mirándote, muy cerca, con los ojos azules quietos. Después, despacio, se le escapa una risa. Bajita, por la nariz, sin alegría, como alguien que escucha una locura y ya no puede sorprenderse de nada.
-
-—Fufu. "A hablar."
-
-Se da vuelta. Camina hasta la ventana del norte, la que da al mar, y se apoya en el marco, de espaldas a ti. El viento de Baltigo le mueve el pelo largo, suelto, sobre los hombros.
-
-—Con Akainu no se habla —dice, mirando el mar—. Se le escapa. O se muere. —Una pausa—. Los eruditos de Ohara intentaron hablar con él. Le mostraron los libros. Le explicaron que solo querían leer la historia. Que no tenían armas. Que eran viejos, mujeres, chicos. —Se le endurece la voz, apenas—. Él escuchó. Hasta el final. Y después prendió fuego la biblioteca con ellos adentro.
-
-Se queda callada. El mar golpea abajo, lejos, contra los acantilados.
-
-—Pero tú no eres un erudito de Ohara —dice, más bajo—. Tú le sacaste a Ace del cadalso. Le paraste el volcán. Le quitaste al Gobierno un esclavo de las manos de un Dragón Celestial, en la cima de la Red Line, y volviste a cenar.
-
-Se da vuelta. Te mira desde la ventana, con la luna detrás.
-
-—Cuando tú hables con él —dice—, va a ser la primera vez en su vida que alguien le hable sin miedo.
-
-Cruza la torre despacio, de vuelta hacia ti. Se detiene delante. Te pone las dos manos en el pecho, sobre el sobretodo, sobre el dragón tatuado de abajo.
-
-—No te voy a pedir que no vayas. Ya sé lo que me vas a contestar. —Te mira a los ojos—. Te voy a pedir otra cosa.
-
-Respira hondo.
-
-—Llévame contigo.
-
-Lo dice tranquila. Firme. Sin que le tiemble la voz.
-
-—Veinte años me escondí de ese hombre. Cambié de nombre, de bando, de isla. Me vendí a quien me pudiera proteger. Dormí con un cuchillo debajo de la almohada. —Te aprieta el sobretodo entre los dedos—. Quiero mirarlo a la cara una vez. Una sola. Sin esconderme. Al lado tuyo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1886 · ONE PIECE · DÍA ~227 · 23:08    ║
-║ Baltigo · torre de Dragon                    ║
-║ Junto a la mesa de mapas, con Robin          ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 99% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirando a Robin          ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Robin: "Llévame contigo."          ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1887)
+## COMANDO 1 (T1887)
 
 esta bien, vamos entonces te digo que mis entradas suelen ser, llamativas solo para el. Nos teletransportamos a la sala de akainu y me siento en su lugar de almirante de flota
 
-## RESPUESTA 2 (T1887)
+## RESPUESTA 1 (T1887)
 
 > esta bien, vamos entonces te digo que mis entradas suelen ser, llamativas solo para el. Nos teletransportamos a la sala de akainu y me siento en su lugar de almirante de flota
 
@@ -143,11 +88,11 @@ Del puño derecho, cerrado a un costado del cuerpo, empieza a gotear magma. Una 
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1888)
+## COMANDO 2 (T1888)
 
 hola akainu, vengo a hablar contigo
 
-## RESPUESTA 3 (T1888)
+## RESPUESTA 2 (T1888)
 
 > hola akainu, vengo a hablar contigo
 
@@ -202,6 +147,69 @@ Se cruza de brazos. El magma deja de gotear.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1889)
+
+entonces es algo simple, no toques a los míos, tocas a mis compañeros y ya sabes lo que soy capaz de hacer, en cambio te doy un trato, te doy 1 año para que me encuentres, si me encontrás me entrego
+
+## RESPUESTA 3 (T1889)
+
+> entonces es algo simple, no toques a los míos, tocas a mis compañeros y ya sabes lo que soy capaz de hacer, en cambio te doy un trato, te doy 1 año para que me encuentres, si me encontrás me entrego
+
+> —Entonces es algo simple. No toques a los míos. Si tocas a mis compañeros, ya sabes de lo que soy capaz. A cambio, te doy un trato: te doy un año para que me encuentres. Si me encuentras, me entrego.
+
+Akainu no se mueve.
+
+Te mira desde el otro lado del escritorio, de brazos cruzados, con la capa de JUSTICIA cayéndole de los hombros. El calor de la oficina baja un poco. Después sube otra vez.
+
+A tu lado, Robin gira la cabeza hacia ti. Apenas. Un segundo. Los ojos azules muy abiertos. No dice nada. Vuelve a mirar a Akainu.
+
+—Un año —repite Akainu.
+
+Se ríe.
+
+No es una risa de alegría. Es corta, seca, por la nariz, como el ruido de una piedra que se parte con el calor.
+
+—Te sientas en mi sillón, en mi cuartel, en el corazón de la Marina —dice—, y me pones condiciones. Como si yo fuera un pirata de poca monta al que se le compra el silencio. —Se le endurece la cara—. Me ofreces un juego.
+
+Rodea el escritorio, despacio. Se detiene junto al ventanal, mirando el puerto lleno de buques de guerra, de espaldas a ti otra vez.
+
+Se queda callado un rato largo. Mucho. Lo suficiente para que el reloj de la pared suene una vez.
+
+—La justicia absoluta no juega —dice, al fin, sin darse vuelta—. Pero tampoco desperdicia soldados. —Una pausa—. Si persigo a tus "compañeros", tú vas a aparecer. Lo sé. Lo vi en Marineford. Y cada vez que aparezcas, voy a perder barcos. Hombres. Almirantes. —Otra pausa—. Si te persigo a ti, solo a ti, pierdo menos.
+
+Se da vuelta.
+
+—Un año. Toda la Marina. Todo el Cipher Pol. Toda la red del Gobierno Mundial, en los cuatro mares y en el Grand Line. —Te mira—. Contra un solo hombre con un gato.
+
+Se le enciende algo en los ojos chicos, negros. Algo que no habías visto en él en Marineford. No es odio. Es otra cosa. Más fría.
+
+—Acepto.
+
+Robin respira hondo, a tu lado, sin hacer ruido.
+
+Akainu da un paso hacia el escritorio. Apoya un dedo sobre la madera quemada. Lo arrastra, despacio, dejando una línea negra, humeante.
+
+—Pero quiero que me digas una cosa, Ojos de Eclipse, para que el trato sea claro. —Levanta la vista—. ¿Quiénes son "los tuyos"?
+
+Mira a Robin.
+
+—¿Ella entra?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1889 · ONE PIECE · DÍA ~227 · 23:13    ║
+║ Nuevo Cuartel General de la Marina           ║
+║ Oficina del Almirante de Flota · su sillón   ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 99% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: sobre los informes, mirando a Akainu   ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Akainu: "¿Quiénes son los tuyos?"  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 23:11, oficina de Akainu. "Hola, Akainu. Vengo a hablar contigo." Akainu enumera: Puño de Fuego del cadalso, Mary Geoise, la propiedad de un Dragón Celestial, sentado en su sillón con la mujer buscada hace veinte años; manos sobre el escritorio (huellas quemadas). "En Marineford me paraste el magma con algo que nadie vio... No lo olvidé. Ni un día." "Sé lo que eres capaz de hacer. Por eso todavía no te ataqué." "La justicia no negocia con criminales. Pero tampoco es estúpida." "Habla, Ojos de Eclipse. Tienes hasta que se me acabe la paciencia. Y te advierto que tengo muy poca."
+ESTADO AL CIERRE: Día ~227 23:13, oficina de Akainu. Facundo: "No toques a los míos. Si tocas a mis compañeros, ya sabes de lo que soy capaz. A cambio, te doy un trato: te doy un año para que me encuentres. Si me encuentras, me entrego." Robin lo mira un segundo, ojos muy abiertos. Akainu ríe seco: "Me ofreces un juego." Junto al ventanal: "La justicia absoluta no juega. Pero tampoco desperdicia soldados... Si te persigo a ti, solo a ti, pierdo menos." "Un año. Toda la Marina. Todo el Cipher Pol. Toda la red del Gobierno Mundial... Contra un solo hombre con un gato. Acepto." Línea negra con el dedo en el escritorio. "¿Quiénes son 'los tuyos'? ¿Ella entra?" (mira a Robin)

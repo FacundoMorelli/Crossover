@@ -317,3 +317,4 @@
 - T1883 · FACUNDO sabe (por Kuma) dónde está cada Sombrero de Paja durante el timeskip.
 - T1886 · ROBIN sabe (por Facundo) que va a ir a hablar con Akainu.
 - T1887 · AKAINU ve a Facundo y a Robin en su oficina (aparición); sabe quién es Robin.
+- T1889 · AKAINU y ROBIN conocen el trato. (Privado, en la oficina del Almirante de Flota.)
