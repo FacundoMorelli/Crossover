@@ -38,3 +38,4 @@
 - T1811 · PRENSA: sabe (filtración, probablemente del hotel) que Facundo se aloja en el hotel de Gangnam: dos fotógrafos en la puerta. MADRE DE CHA vio el noticiero; invita a cenar.
 - T1812 · ASOCIACIÓN: Facundo registrado con foto, huellas y residencia provisoria (garante Cha). Nadie relaciona a Facundo con el segundo despertar de Dong-su (solo Dong-su sabe que Facundo lo tocó).
 - T1813 · KANG MI-SOOK sabe (por Hae-in) que Facundo no es cazador, no tiene maná, no tiene papeles, viaja y la conoció anteayer.
+- T1818 · FACUNDO sabe por Cha Hae-in de la 4.ª incursión a Jeju (Día 22), 18 convocados, Choi y Cha incluidos, con Japón; 14 muertos en la anterior.

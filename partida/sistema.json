@@ -1,8 +1,8 @@
 {
-  "turno": 1817,
+  "turno": 1818,
   "mundo_actual": "sololeveling",
   "fecha_local": "Solo Leveling: Día 1 (arco de la Reevaluación / Puerta del Gremio de Cazadores)",
-  "hora": "Día 4, 21:56 (Seúl)",
+  "hora": "Día 8, 16:10 (Seúl)",
   "edad": 18,
   "nivel": 34,
   "exp": 486130,
@@ -2927,7 +2927,8 @@
     "apodo_pendiente_fullmetal": "'El Alquimista de los Ojos' (rumores militares, si lo ven transmutar con la mirada).",
     "tiempo_otros_mundos_T1762": "Desde la salida de DB (T1680): 9 días en CSM + 33 días en FMA ≈ 6 semanas. Sorbet todavía no llegó (≈5 meses). Desde la salida de CSM (Día 9, nov. 1997): ≈33 días → principios de diciembre de 1997 (arco del Pistola en curso o recién terminado; Aki vive por declaración).",
     "sololeveling_llegada": "Elegido al azar (T1764) entre demonslayer/sololeveling: sololeveling. Momento al azar: arco 6 (caps. 76-92), noche de la incursión del Gremio de Cazadores (Puerta de rango A en Gangnam; orcos altos; Kargalgan → Tusk). Después: Jeju (arco 8).",
-    "apodo_pendiente_sololeveling": "'El cazador sin olor' (entre cazadores, por Cha Hae-in) / 'el Cerrajero' (si lo ven cerrar Puertas)."
+    "apodo_pendiente_sololeveling": "'El cazador sin olor' (entre cazadores, por Cha Hae-in) / 'el Cerrajero' (si lo ven cerrar Puertas).",
+    "sololeveling_jeju_fecha": "T1818: 4.ª incursión a Jeju anunciada Día 8 a los S; fecha: Día 22 (dos semanas). 18 cazadores coreanos S/A + japoneses (Goto Ryuji). Canon: muere Min Byung-Gyu (el Rey Hormiga lo come) y varios más; Jinwoo llega por Intercambio de Sombras con la sombra que dejó junto a Cha Hae-in (si lo hace en esta línea)."
   },
   "recompensa_onepiece": {
     "monto": 400000000,

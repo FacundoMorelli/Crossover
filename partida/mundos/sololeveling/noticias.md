@@ -9,3 +9,5 @@
 - Día 3 ~12:30 · Pantallas de Gangnam: video en vivo, cartel "FACUNDO MORELLI: 'ES UN SECRETO'". Fotógrafos frente al hotel de Gangnam (alguien filtró el hotel).
 - Día 3 · "Es un secreto" se vuelve meme.
 - Día 4 mañana · Noticiero: cazador de 17 años, apellido Han, reevaluado de rango E a rango A en Mapo: "segundo despertar", segundo caso en menos de un mes. No hizo declaraciones.
+- Día 7 · La prensa se olvida de Facundo (actor casado, Puerta B en un shopping de Busan). Nota: Sung Jinwoo habría comprado un edificio en el centro; su madre despertó de la Enfermedad del Sueño Eterno.
+- Día 8 · (interno, a los S) La Asociación convoca la 4.ª incursión a Jeju para dentro de dos semanas, con Japón.

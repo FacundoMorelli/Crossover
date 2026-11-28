@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1815)
-
-lo que pueda hacer todo lo que tenga en mis manos
-
-## RESPUESTA 1 (T1815)
-
-> lo que pueda hacer todo lo que tenga en mis manos
-
-> —Lo que pueda. Todo lo que tenga en mis manos.
-
-La señora Kang te sostiene la mirada un rato largo. No parpadea. Después, despacio, asiente. Una vez.
-
-—Eso mismo decía él —dice, bajito.
-
-Se le humedecen los ojos, apenas. Se los seca rápido con la punta del delantal, como si fuera vapor de la olla, y carraspea.
-
-—Bueno. —Golpea la mesa con la palma, suave—. Basta de cosas tristes. Come, que se enfría.
-
-A tu lado, Cha Hae-in no se mueve. Tiene los ojos brillantes y mira su cuenco de arroz sin verlo. Debajo de la mesa, sin que su mamá lo vea, te busca la mano y te la aprieta. Fuerte. No la suelta durante un buen rato, y come con la otra mano, torpe, con los palillos.
-
-La cena sigue. La señora Kang se encarga de que no haya silencio: habla del vecino del tercero que tiene un perro que ladra a la madrugada, de las plantas que se le secan en invierno, del precio del repollo, que está carísimo. Te sirve, te sirve, te vuelve a servir. Cuenta, mientras Cha Hae-in protesta con la cara tapada, cómo a los seis años su hija se negaba a comer nada que no fuera arroz blanco con huevo, y cómo a los doce se peleó con un chico más grande que molestaba a un perro en la calle y le dejó un ojo morado. Se ríe fuerte. Kase termina su pescado y se acomoda en el almohadón vacío de al lado, como si fuera un invitado más.
-
-Cuando los platos ya están casi vacíos, la señora Kang se pone de pie.
-
-—Hae-in, ve a cortar las peras que trajo Facundo. En la cocina, el cuchillo grande.
-
-—Mamá, yo...
-
-—Ve.
-
-Cha Hae-in te mira, suspira, y se levanta. Se va por el pasillito hacia la cocina. Se escucha la canilla, el ruido de un cajón.
-
-La señora Kang espera a que se oiga el cuchillo contra la tabla. Después se inclina un poco hacia ti, por encima de la mesa, y baja la voz.
-
-—Desde que murió su papá, no la vi sonreír así —dice—. Ni una vez. Ni cuando la hicieron rango S, ni cuando salió en las revistas, ni cuando la nombraron vicemaestra. Nada. Siempre seria, siempre callada, siempre sola. —Mira hacia el pasillo, hacia el ruido del cuchillo—. Hoy entró por esa puerta y sonreía. Y ni siquiera se daba cuenta.
-
-Vuelve a mirarte.
-
-—No sé quién eres, Facundo, ni de dónde vienes. Y me di cuenta de que no me lo vas a decir. —Una sonrisa chiquita, cansada—. Pero dime una cosa. ¿La vas a traer otra vez a comer?
-
-Desde la cocina llega la voz de Cha Hae-in:
-
-—¡Mamá! ¡¿Qué le estás diciendo?!
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1815 · SOLO LEVELING · DÍA 4 · 20:30   ║
-║ Seúl, Corea del Sur                          ║
-║ Casa de la señora Kang · mesa del living     ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en un almohadón, como invitado         ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Cena con la mamá de Hae-in         ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1816)
+## COMANDO 1 (T1816)
 
 si, claro que la voy a traer otra vez
 
-## RESPUESTA 2 (T1816)
+## RESPUESTA 1 (T1816)
 
 > si, claro que la voy a traer otra vez
 
@@ -129,11 +70,11 @@ Se te acerca. Te agarra de la solapa del sobretodo con las dos manos.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1817)
+## COMANDO 2 (T1817)
 
 que me preguntó si te iba a traer otra vez
 
-## RESPUESTA 3 (T1817)
+## RESPUESTA 2 (T1817)
 
 > que me preguntó si te iba a traer otra vez
 
@@ -166,6 +107,63 @@ Respira hondo. Una vez. Dos. Se seca los ojos con la manga del suéter, rápido,
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1818)
+
+que si. simula unos dias
+
+## RESPUESTA 3 (T1818)
+
+> que si. simula unos dias
+
+> —Que sí.
+
+Cha Hae-in no dice nada. Se pone en puntas de pie, te agarra la cara con las dos manos, frías del aire de la noche, y te besa, debajo del farol, con la bolsa de comida de su mamá colgando entre los dos.
+
+...
+
+Los días siguientes pasan rápido.
+
+El quinto día, Cha Hae-in vuelve a las Puertas. Una de rango B en Incheon a la mañana, una de rango A en Suwon el sexto. Sale de casa con la armadura liviana y la espada larga a la espalda y vuelve a la noche al hotel, cansada, con olor a humo y a sangre de monstruo, se baña, y se duerme encima de ti con el pelo mojado. No le pasa nada. Cada vez que entra a una Puerta, te manda un mensaje al teléfono de la habitación antes y otro después. Siempre los mismos dos: "Entro." y "Salí."
+
+La señora Kang llama al hotel el sexto día a la tarde, pregunta por "el chico del gato", y cuando la recepcionista se lo pasa, te pregunta si te comiste el guiso y si el pescado le gustó a Kase. Cuelga sin despedirse.
+
+La prensa se cansa, como dijo Choi. El séptimo día, en la pantalla gigante de Gangnam, tu cara ya no aparece. Ahora hay un actor que se casó y una nueva Puerta de rango B que se abrió en un shopping de Busan. "Es un secreto" sigue siendo meme, pero ya nadie espera en la puerta del hotel. En la tienda de conveniencia de la esquina, el cajero te reconoce, te pide una foto con Kase, y Kase se niega dándole la espalda.
+
+El séptimo día a la noche, en el noticiero, pasan una nota corta: el cazador Sung Jinwoo, el del primer segundo despertar del país, habría comprado un edificio entero en el centro de Seúl, y su madre, que llevaba años internada con la Enfermedad del Sueño Eterno, habría despertado. La nota dura veinte segundos. Cha Hae-in la mira desde la cama, con la cabeza en tu pecho, sin decir nada, y apaga la tele.
+
+El octavo día llueve otra vez.
+
+Cha Hae-in vuelve temprano, a las cuatro de la tarde, sin armadura, con la ropa de calle y el pelo atado. No viene de una Puerta: viene de una reunión. Se queda parada en la puerta de la habitación un momento, con el abrigo todavía puesto y una carpeta azul en la mano, con el emblema de la Asociación de Cazadores en la tapa.
+
+Kase, en el sillón, levanta la cabeza.
+
+Ella cierra la puerta, despacio. Deja la carpeta sobre la mesa baja, junto al ventanal, y se sienta en el borde de la cama, a tu lado, con las manos juntas sobre las rodillas, como la primera vez en el sillón.
+
+—Hoy el presidente de la Asociación, Go Gunhee, reunió a todos los cazadores de rango S del país —dice, tranquila, con la voz de las incursiones—. Van a hacer la cuarta incursión a Jeju. En dos semanas. Con cazadores de Japón.
+
+Mira la carpeta.
+
+—Las tres primeras fracasaron. En la última murieron catorce cazadores de rango A y S. —Respira por la nariz, despacio—. Me convocaron. Choi también va. Somos dieciocho.
+
+Te mira.
+
+—Voy a ir, Facundo.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1818 · SOLO LEVELING · DÍA 8 · 16:10   ║
+║ Seúl, Corea del Sur                          ║
+║ Hotel de Gangnam · habitación 2207           ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el sillón, mirándola                ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Incursión a Jeju en dos semanas    ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 4 21:56, bajo el farol. Facundo: "Me preguntó si te iba a traer otra vez." Cha llora y ríe contra su pecho ("Perdón... ella nunca... a nadie..."). Kase le toca la coronilla con la nariz. Cha, sonriendo: "¿Y qué le dijiste?"
+ESTADO AL CIERRE: Día 8 16:10, 2207, llueve. (Simulado Días 5-8: Cha vuelve a las Puertas, B en Incheon, A en Suwon, sin heridas; mensajes "Entro."/"Salí." al teléfono de la habitación; duerme en el hotel. La señora Kang llamó al hotel. La prensa se cansó. Noticia: Jinwoo compró un edificio y su madre despertó.) Cha vuelve de una reunión con carpeta azul de la Asociación: Go Gunhee reunió a los S; 4.ª incursión a Jeju en dos semanas (Día 22) con Japón; la última: 14 muertos A y S; 18 convocados, Choi también. "Voy a ir, Facundo."

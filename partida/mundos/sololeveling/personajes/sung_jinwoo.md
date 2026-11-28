@@ -20,3 +20,4 @@ ENCUENTROS:
 TASACIÓN (T1770): Sombras (extracción y mando), dagas; origen: sin datos; amenaza BAJA; tú x65 sobre él; se contiene (esconde parte de su maná); copiable, misión EXTREMA.
 QUÉ SABE DE FACUNDO (T1770): se llama Facundo (lo dijo Cha Hae-in), dice ser viajero, no sabía qué son cazadores ni Puertas (por Cha Hae-in), no huele mal según Cha Hae-in, se quedó en la cinta toda la incursión (deducción: lo ve ahí al salir).
 - T1771 · Oye que Facundo quería ver a Cha de nuevo; casi sonríe: "Ya veo." Mira a Kase (lo único que no le cierra) y se va a la camioneta de la Asociación.
+- T1818 · (noticia, Día 7) Habría comprado un edificio entero en el centro de Seúl; su madre despertó de la Enfermedad del Sueño Eterno (canon: fin del Castillo del Demonio).

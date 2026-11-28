@@ -13,3 +13,5 @@ Llegada: Día 1, 21:40 (T1764).
 - Día 2 · Mañana: (canon en paralelo) Cha Hae-in entrega el informe en la oficina del Gremio de Cazadores. Han Dong-su con maná de rango A (no se sabe aún si fue a reevaluarse).
 - Día 3 · (por Facundo) Noticia viral de Cha Hae-in con un novio misterioso. Prensa en la puerta del Gremio de Cazadores.
 - Día 4 · Han Dong-su reevaluado rango A (por Facundo). (Canon en paralelo: Jinwoo, próximo arco: Castillo del Demonio.)
+- Días 5-7 · (canon) Jinwoo completa el Castillo del Demonio; Elixir; su madre despierta. Compra un edificio.
+- Día 8 · (canon) Go Gunhee reúne a los S: 4.ª incursión a Jeju en dos semanas (Día 22), 18 coreanos S/A + japoneses (Goto Ryuji).

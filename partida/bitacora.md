@@ -1817,3 +1817,4 @@ T1814 · SOLO LEVELING · Casa de la señora Kang · "Ayudo a la gente." El pap�
 T1815 · SOLO LEVELING · Casa de la señora Kang · "Todo lo que tenga en mis manos." La señora Kang lo acepta. "¿La vas a traer otra vez a comer?"
 T1816 · SOLO LEVELING · Barrio de la señora Kang · "La voy a traer otra vez." "Cuídense. Los dos." Cha: "¿Qué te dijo?"
 T1817 · SOLO LEVELING · Barrio de la señora Kang · Le cuenta a Cha lo que preguntó su mamá; ella llora y ríe. "¿Y qué le dijiste?"
+T1818 · SOLO LEVELING · Seúl · (simulados Días 5-8) Vida con Cha. Día 8: anuncian la 4.ª incursión a Jeju en dos semanas; Cha va.
