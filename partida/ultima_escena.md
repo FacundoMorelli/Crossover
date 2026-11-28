@@ -3,66 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1828)
-
-por que no podía hacer nada y sabia que sung iba a llegar
-
-## RESPUESTA 1 (T1828)
-
-> por que no podía hacer nada y sabia que sung iba a llegar
-
-> —Porque no podía hacer nada. Y sabía que Sung iba a llegar.
-
-Go Gunhee levanta una ceja, gruesa, canosa. Te mira un segundo más.
-
-—Lo sabía —repite.
-
-Después se ríe. Una risa grave, corta, que le sacude los hombros anchos debajo del traje.
-
-—Choi, ¿oíste? El muchacho sin maná sabía. Y nosotros, con cuarenta años de Puertas entre los dos, no.
-
-Choi Jong-In no se ríe. Se acomoda los anteojos.
-
-—Sung Jinwoo te estuvo mirando toda la mañana, señor Morelli —dice, seco—. Más que a los combates.
-
-Go Gunhee mira hacia la puerta por donde salió Jinwoo. La sonrisa se le apaga despacio.
-
-—Lo invité para convencerlo de que venga a Jeju. —Apoya las manos en la baranda—. Antes de bajar me dijo que no. Que su madre acaba de despertar después de años, y que no la va a dejar sola. —Suspira, largo—. No puedo culparlo. Pero con él adentro, en esa isla, volvería todo el mundo. Sin él...
-
-No termina la frase. Se queda mirando el salón, donde los japoneses se llevan a Kumamoto en una camilla, inconsciente, y Goto discute en voz baja con Hoshino junto a los restos de la pared de hielo.
-
-Pasos rápidos en la escalera interna. La puerta del balcón se abre de golpe.
-
-Es Cha Hae-in, todavía en ropa de entrenamiento, con el pelo revuelto y la respiración agitada. Hace una reverencia rápida a Go Gunhee y a Choi, sin mirarlos, y cruza el balcón directo hacia ti. Se detiene a medio paso. Te mira de arriba abajo, como buscando algo, y después se ríe, sin aire, nerviosa.
-
-—No sé por qué subí corriendo —dice—. El que estaba en peligro era yo. —Se pasa una mano por el pelo—. Ni siquiera lo vi venir. Kumamoto. Estaba de espaldas. Si Sung no...
-
-Se calla. Te agarra la mano, delante de Go Gunhee y de Choi, sin importarle.
-
-En la sombra de ella, en el piso del balcón, no se ve nada raro. Pero Kase sigue mirándola fijo.
-
-—¿Viste lo que hizo? —pregunta Cha Hae-in, bajito, todavía con los ojos muy abiertos—. Con una mano. Los dos puños de un rango S, con una mano. Y no tiene olor, Facundo. Igual que tú. Cuando lo agarré del brazo, no olía a nada.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1828 · SOLO LEVELING · DÍA 11 · 10:55  ║
-║ Seúl, Corea del Sur                          ║
-║ Gimnasio de la Asociación · balcón           ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: mirando la sombra de Cha Hae-in        ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Jinwoo no irá a Jeju               ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1829)
+## COMANDO 1 (T1829)
 
 si, lo vi, es muy fuerte
 
-## RESPUESTA 2 (T1829)
+## RESPUESTA 1 (T1829)
 
 > si, lo vi, es muy fuerte
 
@@ -101,11 +46,11 @@ Kase, en tu hombro, deja de mirar la sombra de ella por primera vez y te mira a 
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1830)
+## COMANDO 2 (T1830)
 
 le doy un beso, voy a salir a caminar un rato, asi que seguro nos vemos en el hotel
 
-## RESPUESTA 3 (T1830)
+## RESPUESTA 2 (T1830)
 
 > le doy un beso, voy a salir a caminar un rato, asi que seguro nos vemos en el hotel
 
@@ -158,6 +103,55 @@ Se le endurece apenas la cara.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1831)
+
+soy un viajero, nada más, pero me preguntas a mi, pero tu? que eres?
+
+## RESPUESTA 3 (T1831)
+
+> soy un viajero, nada más, pero me preguntas a mi, pero tu? que eres?
+
+> —Soy un viajero, nada más. Pero me preguntas a mí... ¿y tú? ¿Qué eres?
+
+Jinwoo no contesta enseguida.
+
+Te sostiene la mirada. En la avenida, detrás de él, pasa un autobús, una moto, una señora con un carrito de compras que los mira a los dos y apura el paso sin saber por qué.
+
+Y entonces, por primera vez desde que lo viste en la cinta de Gangnam, a Sung Jinwoo se le mueve la comisura de la boca. No es una sonrisa entera. Es la mitad de una. Cansada, un poco divertida, la cara de alguien que hizo una pregunta sabiendo que le iban a devolver exactamente la misma.
+
+—Un cazador —dice—. Nada más.
+
+Las mismas palabras. El mismo tono.
+
+Se queda un segundo así. Después la media sonrisa se le borra y mira hacia la sede de la Asociación, hacia el subsuelo donde siguen entrenando, donde está Cha Hae-in.
+
+—Dieciséis cazadores de rango S van a entrar a esa isla —dice, más bajo—. Las tres veces anteriores volvieron menos de la mitad. —Hace una pausa—. Yo no voy a ir. Mi madre estuvo dormida cuatro años. Acaba de despertar. Hoy a la mañana me hizo el desayuno. —Mueve la mandíbula—. No la voy a dejar.
+
+No te está pidiendo permiso. Te lo está diciendo como quien deja algo apoyado sobre una mesa.
+
+Vuelve a mirarte. Después a Kase. Después otra vez a ti.
+
+—No sé qué eres, viajero. Y me doy cuenta de que no me lo vas a decir. —Mete las manos en los bolsillos—. Pero ella te eligió a ti. Y ella no se equivoca con la gente.
+
+Se da vuelta para irse. Da dos pasos por la vereda. Se detiene sin girarse, de espaldas.
+
+—Si en esa isla pasa algo —dice, sin mirarte—, ¿vas a estar cerca?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1831 · SOLO LEVELING · DÍA 11 · 11:14  ║
+║ Seúl, Corea del Sur                          ║
+║ Vereda de la sede de la Asociación           ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirando a Jinwoo         ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Jinwoo: "¿Vas a estar cerca?"      ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 11 11:12, vereda frente a la sede de la Asociación. Beso a Cha delante de Gunhee y Choi; "Voy a salir a caminar... nos vemos en el hotel." Cha: "A la noche. Te mando el mensaje." Afuera, Jinwoo lo esperaba junto a una columna (corte en la mejilla). Camina a su lado y se detiene: Cha dice que ninguno de los dos huele a maná; él no siente NADA en Facundo ("y siento todo"); no se movió como si supiera; "tu gato se quedó mirando algo en el piso. Algo que no tenía por qué ver." (la sombra en Cha lo notó). "¿Qué eres?"
+ESTADO AL CIERRE: Día 11 11:14, vereda de la Asociación. Facundo: "Soy un viajero, nada más. Pero me preguntas a mí... ¿y tú? ¿Qué eres?" Jinwoo, media sonrisa: "Un cazador. Nada más." 16 S entran a Jeju; él no irá (su madre durmió cuatro años, despertó, le hizo el desayuno). "No sé qué eres, viajero... Pero ella te eligió a ti. Y ella no se equivoca con la gente." Se va; de espaldas: "Si en esa isla pasa algo, ¿vas a estar cerca?"
