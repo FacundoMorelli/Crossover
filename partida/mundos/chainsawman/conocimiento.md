@@ -55,3 +55,4 @@ Quién sabe qué de Facundo en este mundo.
 - T1720 · SANTA CLAUS VIO la transformación en Dragón de Facundo (lo interpreta como un híbrido o pacto con un "demonio dragón").
 - T1721 · SANTA CLAUS VIO el aliento de escarcha de Facundo congelar la mano del Demonio del Infierno.
 - T1722 · SANTA CLAUS VIO el Eclipse tragar el brazo del Demonio del Infierno. El DEMONIO DEL INFIERNO "conoce" a Facundo (sintió el Eclipse).
+- T1723 · MAKIMA VIO a Facundo TRANSFORMADO EN DRAGÓN y aparecer de la nada en su oficina (Teletransportación). Sabe que la encontró sin saber dónde estaba.

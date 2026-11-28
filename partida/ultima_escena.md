@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1720)
-
-me tiro de la oreja
-
-## RESPUESTA 1 (T1720)
-
-> me tiro de la oreja
-
-Levantas la mano y te tiras del aro de la oreja izquierda.
-
-Un solo tirón. Como el de la cuerda de arranque de un motor.
-
-El segundo corazón, el que late al lado del tuyo desde que llegaste a este mundo, golpea una vez. Fuerte. Como un tambor dentro de una caverna.
-
-Y el sótano se llena de calor.
-
-Las escamas te suben desde las manos, primero. Negras, duras, brillantes como obsidiana mojada, con vetas que corren por debajo como lava y como hielo: rojas en el brazo izquierdo, azules en el derecho. Se te trepan por los antebrazos, por los hombros, por el cuello. Los dedos se te alargan en garras curvas, negras, que rayan el terciopelo del sofá sin querer. La camisa blanca se abre en la espalda con un desgarro, y de ahí salen las alas, plegadas, enormes, membranas oscuras tensadas entre huesos largos, que barren dos estantes enteros de muñecos al desplegarse a medias y los tiran al piso en una lluvia de lata y porcelana. Detrás de ti, una cola gruesa, escamada, golpea el cemento con un ruido sordo.
-
-Te salen cuernos. Dos, largos, curvados hacia atrás, entre el pelo blanco y azul.
-
-La cara sigue siendo la tuya. Pero los ojos, el rojo y el azul, ahora tienen la pupila vertical, igual que los de Kase. Y cuando respiras, por entre los dientes te sale humo. Un hilo rojo de un lado de la boca, uno blanco, frío, del otro.
-
-Kase no se movió de tus rodillas. Ni una uña. Te mira desde abajo, con sus ojos iguales a los tuyos, y parpadea despacio, una sola vez.
-
-[Corazón del Demonio Dragón: primera transformación.]
-
-Santa Claus da un paso atrás.
-
-Es la primera vez que la ves retroceder. Las pantuflas raspan el cemento rajado. La luz roja que sale de las grietas le ilumina la cara desde abajo, y en esa cara, por debajo de la ternura de abuela, aparece algo que no estaba: una curiosidad hambrienta, enorme, y por debajo de la curiosidad, apenas, miedo.
-
-—Un dragón —susurra—. Ach, du lieber Gott. Un dragón.
-
-Los muñecos de los estantes se quedan quietos. Todos. Ninguno se mueve. Arriba, los pasos de la escalera se detienen a mitad de camino.
-
-Pero lo de abajo no se detiene.
-
-El piso se rompe. No en grietas: se abre. Del pozo de luz roja que se forma bajo los pies de Santa Claus sube algo. Primero los dedos. Dedos de piedra, de hueso, de carne vieja, cada uno del grosor de un poste de luz, que se aferran a los bordes del cemento roto y lo hacen crujir. Después la palma. Una mano. Gigantesca, más grande que el sótano, que sigue subiendo, empujando el techo, levantando las vigas de hierro como si fueran fósforos. Y en el centro de la palma, abierto, un ojo. Rojo. Sin párpado. Que te mira.
-
-Santa Claus, al borde del pozo, con la bufanda roja flameando por el viento caliente que sube, abre los brazos.
-
-—Llévanos —repite.
-
-Los dedos empiezan a cerrarse, despacio, alrededor de los tres.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1720 · CHAINSAW MAN · DÍA 2 · 08:47    ║
-║ Tokio, otoño de 1997                         ║
-║ Fábrica de juguetes del Sumida, sótano       ║
-║ NIVEL 33 · EXP 441.130/480.000               ║
-║ FRAGMENTOS 288.903 · 0 yenes                 ║
-║ Energía 100% · Ojos: bien                    ║
-║ Transformado: Dragón · Velo: persona común   ║
-║ Kase: en tus rodillas                        ║
-║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
-║ OBJETIVO: Santa Claus (viva, si se puede)    ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1721)
+## COMANDO 1 (T1721)
 
 le congelo la mano con escarcha y agarro a santa
 
-## RESPUESTA 2 (T1721)
+## RESPUESTA 1 (T1721)
 
 > le congelo la mano con escarcha y agarro a santa
 
@@ -119,11 +58,11 @@ Del pozo, bajo el hielo, sube un ruido. Grave, enorme, larguísimo. Como una pue
 
 ---
 
-## COMANDO 3 (T1722)
+## COMANDO 2 (T1722)
 
 uso eclipse en el infierno, de que infierno hablabas?
 
-## RESPUESTA 3 (T1722)
+## RESPUESTA 2 (T1722)
 
 > uso eclipse en el infierno, de que infierno hablabas?
 
@@ -188,4 +127,71 @@ Te mira como si te viera por primera vez.
 
 ---
 
-ESTADO AL CIERRE: Día 2 08:48, sótano de la fábrica (techo abierto, vigas torcidas, cielo gris). Facundo lanzó el ECLIPSE al pozo: tragó el brazo entero del Demonio del Infierno que había cruzado a la Tierra; el pozo se cerró; el pacto de Santa con el Infierno quedó roto (no habrá viaje al Infierno ni encuentro con la Oscuridad). "¿De qué infierno hablabas?" Santa, colgada de la garra, ya sin sonrisa, le tiemblan las manos: "Eso era el Demonio del Infierno. Nadie lo toca." "¿Qué eres tú?" Energía 97%.
+## COMANDO 3 (T1723)
+
+no importa eso, la dejo inconsciente y me teletransporto con makino con ella
+
+## RESPUESTA 3 (T1723)
+
+> no importa eso, la dejo inconsciente y me teletransporto con makima con ella
+
+> —No importa eso.
+
+Un toque, con la punta de una garra, en la nuca de la vieja. Suave. Justo donde va.
+
+Santa Claus se afloja entera, de golpe, como un ovillo que se desenrolla. La cabeza le cae sobre el pecho. Los anteojos redondos se le resbalan de la nariz; los atajas con la otra garra antes de que toquen el piso.
+
+Y en todo el edificio, a la vez, se oye un ruido sordo.
+
+Los muñecos de los estantes se desploman. Cientos. Soldaditos, bailarinas, payasos, bebés de porcelana, caen de costado, de cabeza, se resbalan de las tablas y rebotan en el cemento escarchado, y se quedan quietos, como juguetes de verdad. Arriba, en la escalera del sótano, en la nave grande de la fábrica, cientos de cuerpos se derrumban al mismo tiempo, con un golpe largo y blando, como un aplauso al revés. Después, silencio. A través del techo abierto se oye a alguien, uno solo, empezar a toser. Después otro. Después un llanto.
+
+[Santa Claus: vencida. Fragmentos +25.]
+
+[Demonio del Infierno: vencido. Fragmentos +150.]
+
+Le pones los anteojos en el bolsillo del chal. Te la acomodas sobre el hombro, del lado que no ocupa Kase, liviana como un abrigo.
+
+Cierras los ojos. Buscas, con el ki, el pozo enorme y quieto con miles de hilos.
+
+Lo encuentras enseguida. No está lejos.
+
+Dos dedos en la frente.
+
+Una oficina. Grande, silenciosa, ordenada al extremo. Paredes de madera oscura, un escritorio enorme sin un papel fuera de lugar, una ventana alta que da a Tokio desde un piso muy alto, con el cielo gris detrás. Un perchero con un abrigo negro. Un teléfono negro de disco. En el piso, sobre la alfombra, tres perros grandes, dormidos, que levantan la cabeza al mismo tiempo cuando apareces y no ladran.
+
+Makima está detrás del escritorio, de pie, con el teléfono en la mano, a mitad de una frase.
+
+Te ve.
+
+Te ve entero: las escamas negras con vetas rojas y azules, las garras, las alas plegadas que rozan el techo, la cola que barre la alfombra, los cuernos curvados entre el pelo blanco y azul, las pupilas de dragón. El gato en un hombro. Y en el otro, colgando como un chal, una viejita inconsciente con una bufanda roja larguísima.
+
+Makima no suelta el teléfono. No se mueve. Por un segundo, uno solo, los anillos amarillos de sus ojos se abren más de lo que nunca los viste abrirse.
+
+Después cuelga, despacio, sin decir adiós a quien estuviera del otro lado.
+
+—Señor Morelli. —La voz es igual de suave que siempre. Un poquito más baja—. Llegó temprano.
+
+Mira a Santa Claus. Mira tus alas. Mira tus ojos.
+
+Sonríe.
+
+—Y la trajo viva.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1723 · CHAINSAW MAN · DÍA 2 · 08:50    ║
+║ Tokio, otoño de 1997                         ║
+║ Seguridad Pública, oficina de Makima         ║
+║ NIVEL 33 · EXP 441.130/480.000               ║
+║ FRAGMENTOS 289.078 · 0 yenes                 ║
+║ Energía 97% · Ojos: bien                     ║
+║ Transformado: Dragón · Velo: persona común   ║
+║ Kase: en el hombro                           ║
+║ MISIÓN DE MUNDO: Que Aki Hayakawa viva       ║
+║ OBJETIVO: Entregar a Santa Claus a Makima    ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 2 08:50, oficina de Makima en Seguridad Pública (piso alto, madera oscura, tres perros grandes). Santa Claus inconsciente (viva) en el hombro de Facundo; al desmayarse, todos los muñecos de la fábrica (juguetes y cientos de personas) se desplomaron; algunos empiezan a toser y llorar (¿vuelven en sí?). Facundo llegó TRANSFORMADO EN DRAGÓN (Makima lo vio entero; los anillos de sus ojos se abrieron de más un segundo). Makima colgó el teléfono: "Señor Morelli. Llegó temprano. Y la trajo viva." +175 Frag (Santa 25, Demonio del Infierno 150).

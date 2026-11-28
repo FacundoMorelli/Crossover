@@ -1,13 +1,13 @@
 {
-  "turno": 1722,
+  "turno": 1723,
   "mundo_actual": "chainsawman",
   "fecha_local": "Chainsaw Man: Día 2, fines de octubre de 1997",
-  "hora": "08:48 (Tokio)",
+  "hora": "08:50 (Tokio)",
   "edad": 18,
   "nivel": 33,
   "exp": 441130,
   "exp_siguiente_nivel": 480000,
-  "fragmentos": 288903,
+  "fragmentos": 289078,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -2364,6 +2364,18 @@
       "quien": "3 asesinos americanos con pieles robadas (Demonio Piel): \"Kurose\", \"Tendo\" y el del 5.º piso",
       "como": "inconscientes, sin daño (T1704)",
       "fragmentos": 15
+    },
+    {
+      "mundo": "chainsawman",
+      "quien": "Santa Claus (Alemania, pacto Muñeca)",
+      "como": "inconsciente, viva (T1723)",
+      "fragmentos": 25
+    },
+    {
+      "mundo": "chainsawman",
+      "quien": "Demonio del Infierno (el brazo que cruzó a la Tierra, tragado por el Eclipse)",
+      "como": "vencido, huyó al Infierno sin el brazo (T1722-1723)",
+      "fragmentos": 150
     }
   ],
   "viaje": {
