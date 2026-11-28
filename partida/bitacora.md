@@ -1821,3 +1821,4 @@ T1818 · SOLO LEVELING · Seúl · (simulados Días 5-8) Vida con Cha. Día 8: a
 T1819 · SOLO LEVELING · Hotel de Gangnam · "Está bien, amor." Cha agradece que no le pida no ir. "Prométeme que vas a estar aquí cuando vuelva."
 T1820 · SOLO LEVELING · Hotel de Gangnam · "Te lo prometo." Cha lo invita a ver mañana los entrenamientos con los japoneses en Yeouido.
 T1821 · SOLO LEVELING · Yeouido · Entrenamiento Corea-Japón. Tasa a Goto y a Min; copias de ambos. Min se sienta a su lado.
+T1822 · SOLO LEVELING · Yeouido · Min Byung-Gyu: la 3.ª incursión a Jeju (24→10), las hormigas atacan a los sanadores. "¿No le da miedo?"

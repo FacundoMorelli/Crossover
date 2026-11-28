@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1819)
-
-esta bien amor
-
-## RESPUESTA 1 (T1819)
-
-> esta bien amor
-
-> —Está bien, amor.
-
-Cha Hae-in parpadea.
-
-Se queda quieta, con las manos sobre las rodillas, mirándote. No por lo de Jeju. Por la otra palabra. Se le colorean las orejas despacio, desde la punta, como siempre, y después las mejillas, aunque está pálida de la reunión.
-
-—Me dijiste "amor" —dice, muy bajito.
-
-Se le escapa una risa corta, nerviosa, que se tapa con la mano. Después la risa se le apaga, y se queda mirándote en serio.
-
-—Pensé que me ibas a pedir que no fuera.
-
-Mira la carpeta azul sobre la mesa.
-
-—Mamá me lo va a pedir. Llorando. —Respira hondo—. Choi me miró en la reunión como preguntándome si estaba segura. Hasta Go Gunhee me dijo que lo pensara, que nadie me iba a juzgar si decía que no. —Se encoge un poco de hombros—. Todos me dicen que no vaya. Tú no.
-
-Se gira hacia ti en el borde de la cama. Te agarra la mano con las dos suyas, y te la aprieta, fuerte, con los dedos todavía fríos de la lluvia.
-
-—Gracias.
-
-Afuera, la lluvia golpea contra el ventanal. Kase baja del sillón, cruza la habitación sin apuro y se sube a la cama. Se sienta pegado a la cadera de Cha Hae-in, muy derecho, mirando la carpeta azul con los ojos entrecerrados, como si supiera lo que hay adentro.
-
-Cha Hae-in mira al gato. Después a ti.
-
-—Son dos semanas de preparación. Entrenamientos con los japoneses, reuniones, planes. Voy a estar muy ocupada. —Hace una pausa. Te aprieta más la mano—. Y después... después es Jeju.
-
-Te mira a los ojos.
-
-—Prométeme que vas a estar aquí cuando vuelva.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1819 · SOLO LEVELING · DÍA 8 · 16:12   ║
-║ Seúl, Corea del Sur                          ║
-║ Hotel de Gangnam · habitación 2207           ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: pegado a Cha, mirando la carpeta       ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Incursión a Jeju en dos semanas    ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1820)
+## COMANDO 1 (T1820)
 
 te lo prometo, le doy un beso
 
-## RESPUESTA 2 (T1820)
+## RESPUESTA 1 (T1820)
 
 > te lo prometo, le doy un beso
 
@@ -101,11 +48,11 @@ Duda un segundo. Juega con el pelo largo de Kase entre los dedos.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1821)
+## COMANDO 2 (T1821)
 
 si, claro que voy a ir a verte
 
-## RESPUESTA 3 (T1821)
+## RESPUESTA 2 (T1821)
 
 > si, claro que voy a ir a verte
 
@@ -210,6 +157,53 @@ Abre la caja de comida. Mira a Kase.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1822)
+
+si, le doy arroz a kase, mucho gusto soy Facundo
+
+## RESPUESTA 3 (T1822)
+
+> si, le doy arroz a kase, mucho gusto soy Facundo
+
+> —Sí. Mucho gusto, soy Facundo.
+
+Min Byung-Gyu te pasa la caja abierta, contento. Tomas un poco de arroz con los palillos que te ofrece y se lo das a Kase en la palma de la mano. Kase lo huele, te mira como diciendo que esto es una ofensa comparado con el atún, y se lo come igual, todo, con lengüetazos rápidos y ásperos.
+
+—¡Come! —Min se ríe, con los ojos cerrados de la sonrisa—. Mi hermana tiene un gato que solo come comida de lata importada. De Japón. Cuesta más que la mía. —Mira a Kase de cerca—. Qué ojos. Rojo y azul. Como los suyos, Facundo.
+
+Se acomoda en el asiento de plástico, con la caja en las rodillas, y come él también, despacio. Abajo, en la arena, Cha Hae-in come sentada en el borde de una plataforma de cemento con Choi, y cada tanto levanta la vista hacia la grada. Cuando los ve juntos, frunce un poco el ceño, curiosa.
+
+—Va a pensar que le estoy contando cosas de ella —dice Min, y se ríe otra vez—. No le voy a contar nada. Bueno, casi nada. —Baja un poco la voz—. Hace tres años, en una Puerta de rango A en Daegu, un monstruo le abrió la espalda de lado a lado. Yo la curé. Estuvo inconsciente diez minutos. Cuando se despertó, lo primero que hizo fue preguntar si los demás estaban bien. Lo segundo, levantarse y volver a entrar.
+
+Mira hacia abajo, hacia ella.
+
+—Así es. No sabe quedarse afuera.
+
+Se queda callado un rato, comiendo. Después deja los palillos sobre la caja.
+
+—Yo estuve en la tercera incursión a Jeju —dice, sin mirarte, mirando la arena—. Hace un año y medio. Éramos veinticuatro. Volvimos diez. —La sonrisa se le borra, por primera vez—. Las hormigas no son como los monstruos de las Puertas normales. Son muchas, son rápidas, y piensan. Atacan primero a los sanadores, porque saben que sin nosotros los demás caen. Yo me salvé porque Choi me cubrió con fuego durante dos horas sin parar.
+
+Te mira.
+
+—Usted no es cazador, Facundo. Pero va a estar aquí esperándola. —Duda—. ¿No le da miedo? Que vaya, digo.
+
+En tu palma, Kase lame los últimos granos de arroz y levanta la cabeza para mirar a Min.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1822 · SOLO LEVELING · DÍA 9 · 13:12   ║
+║ Seúl, Corea del Sur                          ║
+║ Yeouido · centro de entrenamiento, gradas    ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: comiendo arroz de tu mano              ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Jeju (Día 22)                      ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 9 13:05, gradas del centro de entrenamiento de la Asociación en Yeouido (2.ª fila). Entrenamientos conjuntos Corea-Japón: Choi, Cha, Baek Yoonho (pelo blanco, ojos amarillos), Min Byung-Gyu; delegación Draw Sword con Goto Ryuji (tasado, x65). Go Gunhee dio un discurso. Goto cortó una columna a 20 m; practicó con Cha. Min curó a un japonés (luz verde). Copias emitidas: Goto (MEDIA), Min ("Que Min salga vivo de Jeju", ALTA). Tasación de Min (x200). Cha saludó a Facundo desde la arena. Min subió y se sentó al lado: "Usted es el del secreto... nunca la vi saludar a nadie desde la arena... Tenía que conocerlo." "¿Puede comer arroz el gato?"
+ESTADO AL CIERRE: Día 9 13:12, gradas de Yeouido. "Sí. Mucho gusto, soy Facundo." Kase come arroz de la mano de Facundo. Min: su hermana tiene un gato; cuenta que hace 3 años curó a Cha (espalda abierta en Daegu; al despertar preguntó por los demás y volvió a entrar). Estuvo en la 3.ª incursión a Jeju: 24, volvieron 10; las hormigas son muchas, rápidas, piensan, atacan primero a los sanadores; Choi lo cubrió con fuego dos horas. "Usted no es cazador... ¿No le da miedo? Que vaya, digo." Cha mira desde abajo, curiosa.
