@@ -3,85 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1806)
-
-si, acepto, no hay problema
-
-## RESPUESTA 1 (T1806)
-
-> si, acepto, no hay problema
-
-> —Sí, acepto. No hay problema.
-
-Choi asiente una vez, satisfecho, como quien cierra un trámite. Cha Hae-in suelta los puños despacio.
-
-—Bien. —Choi aprieta un botón del teléfono de su escritorio—. Que suba el jefe Woo cuando llegue. Y café para tres.
-
-Esperan. Una secretaria trae café en tazas blancas de porcelana y un platito con agua para el gato, sin que nadie se lo pida, y se va mirando a Kase de reojo. Choi revisa papeles en silencio. Cha Hae-in se sienta por fin, en el borde de un sillón, al lado tuyo, con la espalda recta. Abajo, en la avenida, los periodistas siguen detrás de la valla.
-
-A las doce menos veinte golpean la puerta.
-
-El hombre que entra es alto, ancho de hombros, de traje negro y corbata negra, con el pelo muy corto y anteojos de sol oscuros que no se saca adentro. Camina como un policía. Detrás de él viene un empleado joven de la Asociación con un maletín de aluminio.
-
-Lo miras, y el Sistema hace lo suyo.
-
-```
-╔════════════════════════════════════════╗
-║ WOO JINCHUL                            ║
-║ Jefe de Vigilancia · Asociación de     ║
-║ Cazadores                              ║
-║ PODER: Combate cuerpo a cuerpo,        ║
-║        fuerza reforzada con maná       ║
-║ AMENAZA: BAJA                          ║
-║ Diferencia estimada: tú x110 sobre él  ║
-║ COPIABLE · MISIÓN: BAJA                ║
-╚════════════════════════════════════════╝
-```
-
-—Maestro Choi. Vicemaestra Cha. —Una inclinación de cabeza corta, seca, a cada uno. Después se vuelve hacia ti. Te mira largo a través de los anteojos oscuros: el pelo, la cicatriz, los tatuajes, el gato—. Señor Morelli, supongo. Woo Jinchul, Asociación de Cazadores. Gracias por aceptar.
-
-El empleado abre el maletín sobre el escritorio. Adentro, en una espuma negra con forma, hay una esfera de cristal transparente del tamaño de un pomelo, montada sobre una base de metal con una pantallita digital y unos cables.
-
-—Es un medidor portátil —explica Woo Jinchul—. El mismo que usamos en las evaluaciones de los centros de despertar. Apoye la mano encima. No duele, no hace nada. Solo lee.
-
-Pones la mano sobre el cristal. Está frío.
-
-El Velo hace su trabajo.
-
-La esfera no se enciende. Ni un brillo, ni un parpadeo. La pantallita digital muestra un cero, y debajo, en letras chiquitas: "NO DESPERTADO".
-
-El empleado joven frunce el ceño y aprieta un botón. Vuelve a medir. Cero. Saca un cable, lo vuelve a enchufar. Cero.
-
-—Funciona bien —le dice, en voz baja, a Woo Jinchul—. Lo probé abajo, en el auto.
-
-Woo Jinchul no dice nada. Mira la pantallita. Después te mira a ti. Después, por algún motivo, mira a Kase.
-
-—Cero absoluto —dice, despacio—. Ni siquiera la traza de maná residual que tiene la gente común que vive en una ciudad con Puertas. Nada.
-
-Se cruza de brazos.
-
-—Bueno. No es cazador. Eso está claro. —Se quita los anteojos de sol, por primera vez, y te mira con unos ojos cansados, serios, sin malicia—. Pero sigo teniendo un problema, señor Morelli. No hay registro de que usted haya entrado a Corea. Ni por aeropuerto, ni por puerto, ni por ningún lado. —Hace una pausa—. ¿Me puede decir de qué país viene, y cómo llegó aquí?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1806 · SOLO LEVELING · DÍA 3 · 11:44   ║
-║ Seúl, Corea del Sur                          ║
-║ Gremio de Cazadores · piso 38, oficina Choi  ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirando a Woo Jinchul    ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Woo pregunta de dónde vienes       ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1807)
+## COMANDO 1 (T1807)
 
 soy un viajero, de muy lejos, llegué caminando
 
-## RESPUESTA 2 (T1807)
+## RESPUESTA 1 (T1807)
 
 > soy un viajero, de muy lejos, llegué caminando
 
@@ -140,11 +66,11 @@ Cha Hae-in te mira.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1808)
+## COMANDO 2 (T1808)
 
 vayamos por adelante nosotros 2
 
-## RESPUESTA 3 (T1808)
+## RESPUESTA 2 (T1808)
 
 > vayamos por adelante nosotros 2
 
@@ -205,6 +131,55 @@ Una periodista de la primera fila, de traje rojo —la misma presentadora del no
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1809)
+
+soy Facundo Morelli, un viajero, y el novio de Hae-in
+
+## RESPUESTA 3 (T1809)
+
+> soy Facundo Morelli, un viajero, y el novio de Hae-in
+
+> —Soy Facundo Morelli. Un viajero. Y el novio de Hae-in.
+
+Por medio segundo hay silencio. Después, el ruido vuelve todo junto.
+
+—¡¿Facundo?! ¡¿Cómo se escribe?!
+
+—¡¿Un viajero?! ¡¿De dónde?!
+
+—¡¿Hae-in?! ¡La llamó Hae-in!
+
+Los fotógrafos se empujan para conseguir el mejor ángulo. Uno casi se cae encima de la valla y uno de los guardias lo sostiene del brazo. La presentadora de traje rojo no se mueve: sigue con el micrófono estirado hacia ti, y en la cara tiene la expresión de quien acaba de conseguir la noticia del año y lo sabe.
+
+A tu lado, Cha Hae-in aprieta tu mano. Cuando la miras de reojo, está colorada hasta el cuello, delante de todas las cámaras del país, y no le importa. Mira hacia adelante, con la barbilla levantada, como si estuviera parada frente a la boca de una Puerta de rango S.
+
+Un periodista de anteojos, de la segunda fila, grita más fuerte que todos:
+
+—¡Señor Morelli! ¡¿Es usted cazador?! ¡¿De qué rango?!
+
+—No es cazador —contesta Cha Hae-in antes de que puedas decir nada. Seca, firme—. No tiene maná. La Asociación lo midió hoy.
+
+Otro murmullo, más grande todavía. Alguien dice "¿sin maná?" en voz alta, incrédulo. Alguien se ríe. Una chica joven, detrás de los periodistas, entre los curiosos que se juntaron en la vereda, grita "¡qué romántico!" y otras dos se ríen con ella.
+
+La presentadora de rojo aprovecha el segundo de confusión. Se estira todavía más, con medio cuerpo por encima de la valla.
+
+—Señor Morelli, una última pregunta. —Sonríe, profesional, con todos los dientes—. La "Princesa de la Espada" no deja que nadie se le acerque. Todos los cazadores de Corea lo saben. Lleva seis años rechazando a todo el mundo. —Te acerca el micrófono casi a la cara—. ¿Cómo la conquistó?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1809 · SOLO LEVELING · DÍA 3 · 12:03   ║
+║ Seúl, Corea del Sur                          ║
+║ Vereda del Gremio de Cazadores · la prensa   ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, ofendido por los flashes ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: La prensa: ¿cómo la conquistaste?  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 3 12:02, vereda frente al Gremio de Cazadores. Choi: "Valiente. O loco." manda dos guardias. Cha guardó la tarjeta de la Asociación en su bolsillo; sin gorra ni anteojos; de la mano. Prensa: flashes, preguntas. Cha pide silencio con la mano: "Sí. Es mi novio." La presentadora de traje rojo, micrófono hacia Facundo, todas las cámaras: "¡Toda Corea quiere saberlo! ¿Quién es usted?" (en vivo).
+ESTADO AL CIERRE: Día 3 12:03, frente al gremio, en vivo. Facundo: "Soy Facundo Morelli. Un viajero. Y el novio de Hae-in." Revuelo ("¡La llamó Hae-in!"). Cha, colorada, barbilla en alto. A "¿Es cazador?": Cha: "No es cazador. No tiene maná. La Asociación lo midió hoy." Murmullo, risas, "¡qué romántico!". Presentadora de rojo: "La Princesa de la Espada... seis años rechazando a todo el mundo. ¿Cómo la conquistó?"

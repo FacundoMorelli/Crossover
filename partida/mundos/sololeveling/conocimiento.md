@@ -34,3 +34,4 @@
 - T1806 · MEDICIÓN OFICIAL (informal) de la Asociación: Facundo 0 maná, "NO DESPERTADO", sin traza residual (Velo). Lo saben Woo Jinchul, el empleado, Choi y Cha. Woo nota que no tiene ni la traza residual normal (rareza).
 - T1807 · WOO JINCHUL, CHOI, CHA saben (por Facundo) que dice venir "de muy lejos, caminando". Woo lo deja pasar. CHA es su garante para residencia provisoria.
 - T1808 · PÚBLICO (en vivo): Cha Hae-in confirmó que Facundo es su novio. Se le ve la cara a Facundo en televisión.
+- T1809 · PÚBLICO (en vivo): nombre Facundo Morelli, "viajero", novio de Cha Hae-in, sin maná medido por la Asociación. Lo puede saber cualquiera en Corea (Jinwoo, Dong-su, etc.).

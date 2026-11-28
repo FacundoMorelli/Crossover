@@ -1808,3 +1808,4 @@ T1805 · SOLO LEVELING · Gremio de Cazadores · "Soy el novio de Hae-in." La As
 T1806 · SOLO LEVELING · Gremio de Cazadores · Medición de la Asociación: 0, no despertado. Woo Jinchul: "¿De qué país viene y cómo llegó?"
 T1807 · SOLO LEVELING · Gremio de Cazadores · "Llegué caminando." Woo deja pasar. Residencia provisoria con Cha como garante. Prensa en las dos puertas.
 T1808 · SOLO LEVELING · Gremio de Cazadores · Salen por adelante. Cha a la prensa: "Sí. Es mi novio." "¿Quién es usted?"
+T1809 · SOLO LEVELING · Gremio de Cazadores · En vivo: "Soy Facundo Morelli, un viajero, el novio de Hae-in." Cha: "No tiene maná." "¿Cómo la conquistó?"

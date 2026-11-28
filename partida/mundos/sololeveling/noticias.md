@@ -4,3 +4,4 @@
 - (hace unos días, canon) Portal de noticias: "Cazador de rango E reevaluado como rango S: el primer caso en la historia de Corea" — Sung Jinwoo, antes "el cazador más débil del mundo". (Facundo lo vio en el celular de Han Dong-su, T1780.)
 - Día 3 madrugada · Portal de noticias (viral, +4.000 comentarios): "¿CHA HAE-IN ENAMORADA? La 'Princesa de la Espada' del Gremio de Cazadores, captada con un misterioso joven en el mercado de Gwangjang". Foto movida del beso (Día 2 18:44): chica de gorra y anteojos (media cara de Cha), chico alto de pelo blanco y azul con un gato enorme al hombro. Sin nombre del chico.
 - Día 3 12:02 · EN VIVO frente al Gremio de Cazadores: Cha Hae-in confirma a la prensa: "Sí. Es mi novio." Junto a ella, el chico de pelo blanco y azul con el gato.
+- Día 3 12:03 · EN VIVO: el novio se presenta: "Soy Facundo Morelli. Un viajero. Y el novio de Hae-in." Cha Hae-in: "No es cazador. No tiene maná. La Asociación lo midió hoy."

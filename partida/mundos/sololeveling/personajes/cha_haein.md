@@ -46,3 +46,4 @@ QUÉ SABE DE FACUNDO (T1797): nombre; viajero; sin papeles; no sabía qué son c
 - T1805 · Facundo, ante Choi: "...y el novio de Hae-in." Se pone muy derecha, no baja la vista. Roja cuando Choi dice "ya es hora". Aprieta los puños cuando Choi dice que la Asociación le preguntaría a ella.
 - T1807 · "Yo respondo por él." (garante de Facundo para la residencia provisoria; rápido, firme). "¿Qué hacemos?" (prensa).
 - T1808 · Guarda la tarjeta de la Asociación en su bolsillo. Sin gorra ni anteojos. "Nunca hablé con la prensa de algo que no fuera una Puerta. Nunca." Frente a la prensa, pide silencio con la palma (funciona). Con voz de incursión: "Sí. Es mi novio." (en vivo)
+- T1809 · Colorada frente a las cámaras, barbilla en alto. Responde por él: "No es cazador. No tiene maná. La Asociación lo midió hoy."
