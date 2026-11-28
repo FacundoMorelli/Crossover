@@ -1856,3 +1856,4 @@ T1853 · SOLO LEVELING · Plaza del ginkgo · Abre una puerta al mundo de Dragon
 T1854 · SOLO LEVELING · Plaza del ginkgo · "Es otro mundo. De ahí vengo." Cha entiende. "Tráeme una flor... para saber que existe."
 T1855 · SOLO LEVELING · Plaza del ginkgo · Promete la flor; beso. Cha: "Cierra eso antes de que entre algo."
 T1856 · SOLO LEVELING · Casa de la señora Kang · Cierra la puerta; Cha guarda una hoja de pasto del otro mundo. "Cuéntame algo de ese cielo."
+T1857 · SOLO LEVELING · Casa de la señora Kang · Le cuenta a Cha de los dioses y universos de Dragon Ball. "Eso es lo que eres para mí." Min los invita a cenar con su padre.

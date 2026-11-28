@@ -3,68 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1854)
-
-es otro mundo, de ahí vengo y a otros como ese voy
-
-## RESPUESTA 1 (T1854)
-
-> es otro mundo, de ahí vengo y a otros como ese voy
-
-> —Es otro mundo. De ahí vengo. Y a otros como ese voy.
-
-Cha Hae-in no dice nada.
-
-Se queda mirándote un rato largo. Después vuelve a mirar la puerta. El cielo azul del otro lado. Las montañas imposibles. La ciudad de cúpulas blancas. El animal de alas de cuero que ya se pierde detrás de una nube.
-
-Baja la mano, despacio, sin haber tocado el borde de luz.
-
-—Otro mundo —repite, en voz muy baja, como si probara cómo suena.
-
-Las hojas amarillas del ginkgo siguen cayendo a su alrededor y algunas se van volando por la puerta, hacia la pradera del otro lado, y desaparecen entre el pasto.
-
-—Por eso no hueles a nada —dice despacio, pensando en voz alta—. Por eso no sabías qué eran los cazadores. Ni las Puertas. Por eso la Asociación no te encontraba en ningún lado. —Se le escapa una risa corta, por la nariz, incrédula—. "Llegué caminando."
-
-Se le llenan los ojos. Pero no llora. Sonríe.
-
-—Y por eso no puedo ir contigo.
-
-No es una pregunta. Lo entendió sola.
-
-Se queda quieta frente a la puerta, con el viento del otro mundo moviéndole el pelo y la chamarra mostaza de su mamá. Respira hondo por la nariz una vez más, larga, como si quisiera guardarse ese aire, el olor a pasto y a tormenta de un lugar al que nunca va a ir.
-
-Después se da vuelta hacia ti.
-
-—¿Cuántos hay?
-
-Se le quiebra un poco la voz, pero sigue.
-
-—No me contestes. No importa. —Se seca los ojos rápido, con la manga de la chamarra—. Pero prométeme una cosa.
-
-Mira la pradera del otro lado. Hay flores entre el pasto, cerca del borde de la puerta: chiquitas, de un color entre el violeta y el naranja, que no existen en ningún jardín de Corea.
-
-—Cuando vuelvas —dice, bajito—, tráeme una flor de algún lugar donde estuviste. De uno que te haya gustado. —Te mira—. Para saber que existe.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1854 · SOLO LEVELING · DÍA 22 · 12:49  ║
-║ Seúl, Corea del Sur                          ║
-║ Plaza del barrio · puerta abierta            ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 1.282.800 won           ║
-║ Energía 95% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro, mirando a Cha            ║
-║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
-║ OBJETIVO: Cha: "Tráeme una flor"             ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1855)
+## COMANDO 1 (T1855)
 
 esta bien amor, la agarro de la cintura y le doy un beso
 
-## RESPUESTA 2 (T1855)
+## RESPUESTA 1 (T1855)
 
 > esta bien amor, la agarro de la cintura y le doy un beso
 
@@ -107,11 +50,11 @@ Se seca los ojos con la manga, todavía riéndose. Te agarra la mano.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1856)
+## COMANDO 2 (T1856)
 
 cierro el portal y vuelvo con ella a la casa
 
-## RESPUESTA 3 (T1856)
+## RESPUESTA 2 (T1856)
 
 > cierro el portal y vuelvo con ella a la casa
 
@@ -160,6 +103,71 @@ Cha Hae-in espera a que se oiga la voz de su mamá en el pasillo. Después se in
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1857)
+
+en ese lugar hay gente no igual de fuerte que yo, pero que pasa mucho el poder de este, hay dioses de la creación y de la destrucción, distintos universos, cada uno con diferentes planetas, dioses, humanos, diferentes razas
+
+## RESPUESTA 3 (T1857)
+
+> en ese lugar hay gente no igual de fuerte que yo, pero que pasa mucho el poder de este, hay dioses de la creación y de la destrucción, distintos universos, cada uno con diferentes planetas, dioses, humanos, diferentes razas
+
+> —En ese lugar hay gente que no es igual de fuerte que yo, pero que supera por mucho el poder de este mundo. Hay dioses de la creación y de la destrucción. Distintos universos, cada uno con sus planetas, sus dioses, sus humanos. Razas diferentes.
+
+Cha Hae-in no parpadea.
+
+Tiene la taza de té entre las manos, a medio camino de la boca, y se queda así, quieta, mirándote de muy cerca.
+
+—Dioses —repite, en un susurro.
+
+Deja la taza sobre la mesa, despacio, sin hacer ruido.
+
+—De la destrucción. —Traga—. Y de la creación.
+
+Mira por la ventana del living, hacia el cielo gris de Seúl, como si buscara en él el otro, el azul. Después te mira a ti otra vez. De arriba abajo. Las manos. La cicatriz. Los ojos, el rojo y el azul.
+
+—"No igual de fuerte que yo" —dice, despacio, repitiendo tus palabras—. Hay dioses ahí. Y gente más fuerte que todo este mundo. Y dijiste "no igual de fuerte que yo".
+
+Se le escapa una risa muy chiquita, sin aire, que se le muere en la garganta. Se tapa la boca con la mano. Le tiemblan un poco los dedos.
+
+—Paraste al Rey hormiga con una mano —murmura—. Y eso para ti era...
+
+No termina la frase.
+
+Se queda callada un rato largo. Kase, en el sofá, levanta la cabeza y la mira.
+
+Después Cha Hae-in hace algo que no esperabas: apoya la cabeza en tu hombro, cierra los ojos, y respira hondo por la nariz, despacio, como siempre.
+
+—No me importa —dice, bajito, con los ojos cerrados—. Eres el que trajo peras. El que le dio atún al gato en la tienda de la esquina. El que me dijo "es un secreto" en la televisión.
+
+Te busca la mano sobre la mesa y la agarra.
+
+—Eso es lo que eres para mí.
+
+En el pasillo, la voz de la señora Kang se corta. El teléfono vuelve a colgarse en su base con un clic. Pasos.
+
+La señora Kang aparece en la puerta del living, con el delantal todavía puesto y una cara rara, entre la sorpresa y la risa.
+
+—Era el sanador ese, Min. El que salió en la tele. —Mira a su hija, después a ti—. Tu celular está apagado, así que llamó aquí; dice que tiene el número desde hace años, de las veces que tuvo que avisarme cosas. —Hace una pausa—. Dice que su padre quiere conocer al chico que le devolvió a su hijo. Que esta noche hacen una cena en su casa, en Mapo. Que vayan los dos. Y el gato.
+
+Cruza los brazos.
+
+—Le dije que les preguntaba. —Te mira—. ¿Qué le digo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1857 · SOLO LEVELING · DÍA 22 · 13:06  ║
+║ Seúl, Corea del Sur                          ║
+║ Casa de la señora Kang · mesa del living     ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 1.282.800 won           ║
+║ Energía 96% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el sofá, mirando a Cha              ║
+║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
+║ OBJETIVO: Cena con Min y su padre esta noche ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 13:02, mesa de la señora Kang. Cerró la puerta. Quedó una hoja de pasto verde de Dragon Ball en el piso: Cha la guardó en el bolsillo interior de la chamarra de su mamá. Volvieron. Té de cebada y peras. Cha a su mamá: "A la plaza. Hacía falta aire." La señora Kang sospecha algo y no pregunta. Suena el teléfono fijo; ella va al pasillo. Cha, al oído: "Ahora. Rápido, antes de que vuelva. Cuéntame algo del lugar de ese cielo."
+ESTADO AL CIERRE: Día 22 13:06, mesa de la señora Kang. Facundo le contó a Cha (susurro) del mundo de Dragon Ball: gente que supera por mucho el poder de este mundo aunque no tanto como él; dioses de la creación y de la destrucción; distintos universos con planetas, dioses, humanos y razas. Cha, temblando: "Paraste al Rey hormiga con una mano. Y eso para ti era..." Luego: "No me importa. Eres el que trajo peras... Eso es lo que eres para mí." La señora Kang vuelve: llamó Min Byung-Gyu (tiene el número de años); su padre quiere conocer "al chico que le devolvió a su hijo": cena esta noche en su casa en Mapo, los dos y el gato. "¿Qué le digo?"

@@ -65,3 +65,4 @@
 ## QUIÉN SABE QUE VIENE DE OTRO LADO
 - T1853 · CHA HAE-IN vio una puerta de Facundo abierta a otro mundo (Dragon Ball: pradera, montañas, ciudad de cúpulas, pterodáctilo). Todavía no sabe qué es; Facundo se lo está mostrando. Nadie más presente.
 - T1854 · CHA HAE-IN SABE (por Facundo) que viene de otro mundo y que viaja a otros mundos. Vio uno (Dragon Ball) por la puerta. Nadie más lo sabe en este mundo.
+- T1857 · CHA HAE-IN sabe (por Facundo, en susurro) de los dioses de la creación y de la destrucción, los universos y las razas del mundo de Dragon Ball, y que Facundo es más fuerte que todos ellos.
