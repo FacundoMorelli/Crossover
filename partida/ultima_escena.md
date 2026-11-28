@@ -3,85 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1750)
-
-me teletransporto a hughes en frente a el de espaldas
-
-## RESPUESTA 1 (T1750)
-
-> me teletransporto a hughes enfrente de él de espaldas
-
-Agarras a Kase con una mano. Dos dedos de la otra en la frente.
-
-El banco de la plaza queda vacío bajo el farol.
-
-El archivo. Una sala larga, de techo alto, con estanterías de madera oscura que llegan hasta arriba, llenas de cajas de cartón con etiquetas y carpetas atadas con cintas. Una sola lámpara de pantalla verde, encendida sobre una mesa del fondo. Papeles desparramados por el piso. Olor a polvo, a papel viejo y, de golpe, a algo dulce y frío, como un perfume en una morgue.
-
-Apareces entre los dos.
-
-De espaldas a Hughes. De frente a ella.
-
-Detrás de ti, oyes a Hughes respirar de golpe, con un ruido corto, y el roce metálico de un cuchillo saliendo de una funda.
-
-—¿Morelli? —Apenas un susurro, incrédulo—. ¿Cómo...?
-
-Delante de ti, a cinco metros, en el pasillo entre dos estanterías, hay una mujer.
-
-Alta. Hermosa, de una manera que da frío. Pelo negro, larguísimo, ondulado, que le cae hasta la cintura. Un vestido negro largo, ajustado, con un escote en forma de V. Guantes negros hasta los codos. Labios pintados de un rojo oscuro. Y en el pecho, justo arriba del escote, sobre la piel pálida, un tatuaje rojo: una serpiente que se muerde la cola, con una estrella en el medio.
-
-Se queda quieta. La sorpresa le dura menos de un segundo, y solo se nota en las pestañas, que suben un poco. Después sonríe. Una sonrisa lenta, de gata que encontró algo nuevo para romper.
-
-—Vaya. —La voz es grave, suave, casi aburrida—. Y tú, ¿de dónde saliste?
-
-Te mira. El pelo, los ojos, los tatuajes. Baja la vista al gato que tienes en el brazo. Kase la mira de vuelta, sin parpadear, con todo el pelo del lomo de punta y las orejas pegadas a la cabeza.
-
-—No estabas en ningún lado hace un momento. —Inclina la cabeza—. Y ahora estás acá. En el medio. Entre mi trabajo y yo.
-
-Levanta una mano. Despacio. El índice extendido, apuntándote al pecho, como quien señala algo en una vidriera.
-
-La uña del índice se alarga. Negra, brillante, fina como una aguja, crece de golpe un palmo, dos, un metro, y se queda suspendida en el aire, temblando, a un metro de tu corazón.
-
-—Sea lo que seas —dice, con la misma voz suave—, te pido que te corras. No vine por ti.
-
-Detrás de ti, Hughes levanta el cuchillo.
-
-```
-╔══════════════════════════════════════════════╗
-║ LUST                                         ║
-║ Homúnculo · Lujuria                          ║
-║ PODER: dedos-lanza (uñas que se alargan y    ║
-║        cortan todo); regeneración por        ║
-║        Piedra Filosofal interna              ║
-║ AMENAZA: BAJA                                ║
-║ Diferencia estimada: x0,012 sobre ti         ║
-║ Adentro tiene miles de almas. Cada vez que   ║
-║ muere, gasta algunas.                        ║
-║ COPIABLE · MISIÓN: ALTA                      ║
-╚══════════════════════════════════════════════╝
-```
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1750 · FULLMETAL · DÍA 1 · 21:48       ║
-║ Ciudad Central, Amestris, 1914               ║
-║ Cuartel general, archivo del 2.º piso        ║
-║ NIVEL 33 · EXP 461.130/480.000               ║
-║ FRAGMENTOS 289.378 · 0 cenz                  ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en tu brazo, erizado                   ║
-║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
-║ OBJETIVO: Hughes, esta noche                 ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## COMANDO 2 (T1751)
+## COMANDO 1 (T1751)
 
 la dejo inconsciente sin lastimar a hughes
 
-## RESPUESTA 2 (T1751)
+## RESPUESTA 1 (T1751)
 
 > la dejo inconsciente sin lastimar a hughes
 
@@ -147,11 +73,11 @@ Se pone de pie. Se acomoda los anteojos con un dedo que tiembla un poco.
 
 ---
 
-## COMANDO 3 (T1752)
+## COMANDO 2 (T1752)
 
 soy un viajero, bueno por que te andan buscando?
 
-## RESPUESTA 3 (T1752)
+## RESPUESTA 2 (T1752)
 
 > soy un viajero, bueno por que te andan buscando?
 
@@ -204,4 +130,74 @@ Hacia la calle. Hacia la cabina verde.
 
 ---
 
-ESTADO AL CIERRE: Día 1 21:52, archivo del 2.º piso. Hughes le explicó el patrón: masacres (Lior, Ishval, Fuerte del Sur, Pendleton, Fisk) forman un círculo de transmutación del tamaño del país; alguien muy arriba en el Ejército; Lust lleva el tatuaje como el del Quinto Laboratorio. No confía en las líneas internas. SALIÓ HACIA LA CABINA TELEFÓNICA de la calle lateral para llamar a Mustang (donde espera ENVY con forma de mujer joven de pelo corto — canon: Gracia). Le pidió a Facundo quedarse con Lust inconsciente. Hughes ya bajando la escalera.
+## COMANDO 3 (T1753)
+
+me teletransporto a la cabina y dejo inconsciente a envy y dejo a los dos juntos para mirar que no despierten
+
+## RESPUESTA 3 (T1753)
+
+> me teletransporto a la cabina y dejo inconsciente a envy y dejo a los dos juntos para mirar que no despierten
+
+Dos dedos en la frente.
+
+La calle lateral del cuartel. Angosta, empedrada, mojada, con un solo farol de gas a media cuadra y la cabina telefónica verde en la esquina, con el vidrio empañado y la luz de adentro encendida. Hace frío. No hay nadie.
+
+Nadie, salvo una mujer.
+
+Está de pie junto a la cabina, de espaldas a la pared, con las manos juntas delante del vestido. Joven, de pelo castaño corto, ondulado, con una cara dulce, de ama de casa, la clase de cara que le abre la puerta a uno con una sonrisa y una bandeja de galletas. Mira hacia la esquina del cuartel, por donde va a aparecer Hughes. Sonríe un poco, esperando.
+
+No llega a verte.
+
+Un toque en la nuca, con dos dedos, justo donde va.
+
+La mujer se dobla. Y mientras cae, cambia. La cara dulce se le deshace como cera cerca del fuego, el pelo castaño se alarga, se oscurece, se vuelve verde negro, larguísimo, en mechones como hojas de palmera. El vestido se encoge hasta ser una ropa negra y ajustada, sin mangas, con una falda corta. El cuerpo se le alarga, se le afina, deja de ser de mujer o de hombre. En el muslo, por un instante, ves un tatuaje rojo: la misma serpiente que se muerde la cola.
+
+Lo atajas antes de que toque el empedrado. Es liviano. Tiene la piel fría.
+
+[Envy: vencido. Fragmentos +25.]
+
+```
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Cambio de forma                              ║
+║ USUARIO: Envy · Fullmetal Alchemist          ║
+║                                              ║
+║ MISIÓN: Reconocer a Envy diez veces          ║
+║ seguidas, en diez formas distintas, sin      ║
+║ usar el ki ni ningún sentido de energía.     ║
+║ DIFICULTAD: MEDIA                            ║
+╚══════════════════════════════════════════════╝
+```
+
+Al fondo de la calle, en la esquina del cuartel, se oyen pasos rápidos sobre las piedras mojadas. Hughes.
+
+Dos dedos en la frente.
+
+El archivo del segundo piso. La lámpara verde. Las estanterías. Lust sigue ahí, boca arriba sobre los papeles, dormida, con el pelo negro desparramado. Acuestas a Envy a su lado, en el pasillo entre las mismas dos estanterías. Quedan uno junto al otro, en el piso, como dos muñecos guardados en la misma caja: ella de negro, larga, con la serpiente en el pecho; él de negro, flaco, con la serpiente en el muslo. Respiran los dos. Lento. Duermen.
+
+Kase baja de tu brazo, camina hasta ellos, los huele. Primero a ella. Después a él. Arruga la nariz, se da vuelta y se sienta a dos metros, de espaldas, lamiéndose una pata.
+
+Te quedas de pie entre las estanterías, mirándolos.
+
+Y con el ki, abajo, afuera, a media cuadra, sientes a Hughes llegar a la cabina verde. Mira para un lado de la calle, después para el otro. No hay nadie. Abre la puerta de vidrio. Se mete adentro. Descuelga el tubo. Mete una moneda.
+
+Marca un número largo. Con los dedos que todavía le tiemblan un poco.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1753 · FULLMETAL · DÍA 1 · 21:54       ║
+║ Ciudad Central, Amestris, 1914               ║
+║ Cuartel general, archivo del 2.º piso        ║
+║ NIVEL 33 · EXP 461.130/480.000               ║
+║ FRAGMENTOS 289.428 · 0 cenz                  ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: sentado de espaldas a los homúnculos   ║
+║ MISIÓN DE MUNDO: Que Maes Hughes viva        ║
+║ OBJETIVO: Vigilar a Lust y a Envy            ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+ESTADO AL CIERRE: Día 1 21:54, archivo del 2.º piso. ENVY INCONSCIENTE (estaba junto a la cabina con forma de Gracia; al caer volvió a su forma real: pelo verde negro larguísimo, ropa negra ajustada, uróboros en el muslo). +25 Frag; misión de copia (cambio de forma). Facundo lo llevó al archivo y lo acostó junto a Lust; los vigila. Kase los olió y se sentó de espaldas. Hughes llegó a la cabina (no vio a nadie), descolgó, metió una moneda y marca el número de Mustang.

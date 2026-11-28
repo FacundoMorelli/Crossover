@@ -13,3 +13,4 @@ Fuente: canon/fullmetal/ (manga). Llegada: Día 1, 1914, Ciudad Central, ~17:30.
 - Muerte de Hughes (inminente). Lust (Mustang). Bradley = Wrath (secreto). Selim = Pride (secreto). Padre bajo Central.
 ## CAMBIOS
 (ninguno todavía)
+- Día 1 21:48-21:54 · (T1751-T1753, CAMBIO MAYOR) Facundo deja inconscientes a Lust (archivo) y a Envy (cabina). Hughes vivo; llama a Mustang. Canon: Lust hiere a Hughes, Envy lo mata en la cabina.

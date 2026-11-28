@@ -1751,3 +1751,4 @@ T1749 · FULLMETAL · plaza del cuartel · Vigila a Hughes con el ki. 21:47: Lus
 T1750 · FULLMETAL · archivo · Se teletransporta entre Hughes y Lust. Lust: "Estás entre mi trabajo y yo. Córrete." Uña a un metro de su pecho.
 T1751 · FULLMETAL · archivo · Deja a Lust inconsciente sin daño (+25 Frag). Hughes: "Creo que hice la pregunta equivocada. ¿Qué es usted?"
 T1752 · FULLMETAL · archivo · "¿Por qué te andan buscando?" Hughes explica el círculo del país y sale hacia la cabina telefónica (donde espera Envy). Le deja a Lust.
+T1753 · FULLMETAL · cabina / archivo · Deja inconsciente a Envy (+25 Frag), lo lleva junto a Lust en el archivo y los vigila. Hughes, vivo, llama a Mustang desde la cabina.

@@ -1,13 +1,13 @@
 {
-  "turno": 1752,
+  "turno": 1753,
   "mundo_actual": "fullmetal",
   "fecha_local": "Fullmetal Alchemist: Día 1, 1914",
-  "hora": "21:52 (Ciudad Central)",
+  "hora": "21:54 (Ciudad Central)",
   "edad": 18,
   "nivel": 33,
   "exp": 461130,
   "exp_siguiente_nivel": 480000,
-  "fragmentos": 289403,
+  "fragmentos": 289428,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -1669,6 +1669,13 @@
       "mision": "Detener con las manos desnudas las diez lanzas de Lust a la vez, en una pelea en la que ella vaya con todo.",
       "dificultad": "MEDIA",
       "emitida": "T1751"
+    },
+    {
+      "poder": "Cambio de forma (Envy)",
+      "mundo": "fullmetal",
+      "mision": "Reconocer a Envy diez veces seguidas, en diez formas distintas, sin usar el ki ni ningún sentido de energía.",
+      "dificultad": "MEDIA",
+      "emitida": "T1753"
     }
   ],
   "misiones_de_copia_rechazadas": [],
@@ -2423,6 +2430,12 @@
       "mundo": "fullmetal",
       "quien": "Lust (homúnculo)",
       "como": "inconsciente, sin daño (T1751)",
+      "fragmentos": 25
+    },
+    {
+      "mundo": "fullmetal",
+      "quien": "Envy (homúnculo)",
+      "como": "inconsciente, sin daño, junto a la cabina telefónica (T1753)",
       "fragmentos": 25
     }
   ],
