@@ -1795,3 +1795,4 @@ T1792 · SOLO LEVELING · Namsan · Candado: "Facundo ♥ Hae-in". Lo cierran ju
 T1793 · SOLO LEVELING · Namsan · Cada uno se queda con su llave. Cha la cuelga junto a su placa de cazadora.
 T1794 · SOLO LEVELING · Namsan · Al encenderse Seúl, besa a Cha Hae-in. Ella: "Quería que lo hicieras desde anoche."
 T1795 · SOLO LEVELING · Namsan · Le pide a Cha que se quede en el hotel esta noche: "Sí." Primero, el mercado de Gwangjang.
+T1796 · SOLO LEVELING · Mercado de Gwangjang · De la mano con Cha. La señora de los panqueques: "¿Es tu novio?"

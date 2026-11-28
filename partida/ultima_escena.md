@@ -3,56 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1793)
-
-cada uno nos quedamos con la nuestra
-
-## RESPUESTA 1 (T1793)
-
-> cada uno nos quedamos con la nuestra
-
-> —Cada uno se queda con la suya.
-
-Tomas la llavecita de entre sus dedos. Es chiquita, plateada, liviana, todavía tibia de su mano.
-
-Cha Hae-in asiente. Se queda mirando la suya en la palma un momento más. Después se saca del cuello, de debajo del suéter, una cadenita fina de plata que no habías visto, con una sola placa de metal colgando: su placa de cazadora, con el emblema del gremio grabado. Abre el cierre, pasa la llavecita por la cadena, al lado de la placa, y se la vuelve a poner debajo del suéter, contra el pecho.
-
-Lo hace sin mirarte. Pero cuando termina, sí te mira, y sonríe. Esta vez no se tapa ni mira hacia otro lado.
-
-La pareja joven del candado rojo pasa junto a ustedes de vuelta hacia el teleférico. La chica le dice algo al oído al novio y se ríen bajito. Cha Hae-in los escucha y, por primera vez, no se pone más roja de lo que ya está.
-
-Kase se estira hacia el candado desde tu hombro y lo huele. Estornuda una vez, chiquito.
-
-Cha Hae-in se ríe. Una risa de verdad, corta y clara, que se lleva el viento.
-
-Se apoya otra vez en la baranda, al lado tuyo, más cerca que antes. El hombro le queda casi pegado a tu brazo. Abajo, Seúl sigue brillando, y el sol empieza a bajar despacio hacia las montañas del oeste, poniendo todo un poco dorado.
-
-—Cuando se ponga el sol, toda la ciudad se enciende —dice, mirando el horizonte—. Desde aquí se ve como si fuera de luces. —Hace una pausa—. Falta un rato todavía.
-
-Te mira de reojo.
-
-—Podemos esperar. O podemos bajar y ir al mercado a comer. Lo que tú quieras.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1793 · SOLO LEVELING · DÍA 2 · 14:36   ║
-║ Seúl, Corea del Sur                          ║
-║ Monte Namsan · plaza de la torre, candados   ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: —                                  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1794)
+## COMANDO 1 (T1794)
 
 ya que estamos aquí mientras se pone el sol, perdon si voy rapido, la agarro de la cintura y la beso
 
-## RESPUESTA 2 (T1794)
+## RESPUESTA 1 (T1794)
 
 > ya que estamos aquí mientras se pone el sol, perdon si voy rapido, la agarro de la cintura y la beso
 
@@ -99,11 +54,11 @@ Kase, que se despertó con el movimiento, los mira desde tu hombro con los ojos 
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1795)
+## COMANDO 2 (T1795)
 
 la sigo besando, hoy podes quedarte en el hotel conmigo?
 
-## RESPUESTA 3 (T1795)
+## RESPUESTA 2 (T1795)
 
 > la sigo besando, hoy podes quedarte en el hotel conmigo?
 
@@ -148,6 +103,51 @@ En la baranda, Kase bosteza enorme, con la ciudad iluminada detrás.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1796)
+
+vamos
+
+## RESPUESTA 3 (T1796)
+
+> vamos
+
+> —Vamos.
+
+Kase salta de la baranda a tu hombro. Cha Hae-in junta del piso la lata de café que se le cayó, la tira en un tacho y se vuelve a poner la gorra y los anteojos de sol, aunque ya es de noche. Cuando empiezan a caminar hacia el teleférico, te busca la mano. La encuentra. Entrelaza los dedos con los tuyos, despacio, y no la suelta.
+
+En la cabina roja, bajando entre los árboles oscuros, con la ciudad encendida delante, no dice nada. Solo te aprieta la mano de vez en cuando.
+
+Un taxi los lleva hacia el norte, por avenidas llenas de luces, hasta un barrio viejo de calles angostas. El mercado de Gwangjang es un túnel enorme de techo de chapa y lona, iluminado con lamparitas amarillas colgadas en hilera, lleno de gente, de vapor y de ruido. Huele a aceite caliente, a sésamo tostado, a pescado, a ajo, a carne a la plancha, a algo dulce frito. Los puestos están pegados uno al otro, con bancos de madera largos donde la gente come codo con codo: oficinistas, abuelos, estudiantes, turistas con cámaras.
+
+Señoras mayores con delantales gritan lo que venden. Hay fideos fríos, rollitos de arroz con algas cortados en rodajas, morcillas, pies de cerdo, pulpo vivo que todavía se mueve en el plato y que Kase mira con muchísimo interés.
+
+Cha Hae-in te lleva de la mano entre la gente, segura, como si conociera el camino de memoria, hasta un puesto donde una señora bajita, de pelo corto con permanente y un delantal floreado, muele frijoles en una piedra de molino enorme y después fríe la masa en una plancha llena de aceite. Los panqueques salen redondos, gruesos, dorados, crujientes por los bordes.
+
+—Dos, por favor —dice Cha Hae-in, y se sienta en el banco de madera frente a la plancha.
+
+La señora levanta la vista. Mira a Cha Hae-in. Mira la gorra, los anteojos de sol de noche. Entrecierra los ojos. Después mira a Kase en tu hombro, y a ti, de arriba abajo: el pelo blanco y azul, la cicatriz, los tatuajes. Y por último mira las dos manos, todavía entrelazadas sobre el banco.
+
+Sonríe, con todos los dientes.
+
+—Hae-in, querida —dice, fuerte, con la espátula en la mano—. Hace años que vienes sola a mi puesto. Años. —Te señala con la espátula—. ¿Y este? ¿Es tu novio?
+
+Cha Hae-in se queda helada. Te mira.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1796 · SOLO LEVELING · DÍA 2 · 18:40   ║
+║ Seúl, Corea del Sur                          ║
+║ Mercado de Gwangjang · puesto de panqueques  ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, mirando el pulpo         ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Cenar en Gwangjang con Cha         ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 17:55, Namsan. Siguen besándose (ella le pasa los brazos por el cuello). Kase bajó a la baranda. Facundo: "Hoy, ¿puedes quedarte en el hotel conmigo?" Cha: "Sí. Sí." Pero primero comer: mercado de Gwangjang (panqueques de frijol), abierto hasta tarde. "¿Vamos?"
+ESTADO AL CIERRE: Día 2 18:40, mercado de Gwangjang, puesto de panqueques de frijol (bindaetteok). Cha le tomó la mano (dedos entrelazados) desde Namsan. Pidió dos panqueques. La señora del puesto (bajita, permanente, delantal floreado) la conoce hace años ("vienes sola a mi puesto"): "¿Y este? ¿Es tu novio?" Cha se queda helada y mira a Facundo.
