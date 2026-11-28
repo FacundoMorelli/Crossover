@@ -1,8 +1,8 @@
 {
-  "turno": 1839,
+  "turno": 1840,
   "mundo_actual": "sololeveling",
   "fecha_local": "Solo Leveling: Día 1 (arco de la Reevaluación / Puerta del Gremio de Cazadores)",
-  "hora": "Día 22, 11:31 (Jeju)",
+  "hora": "Día 22, 11:32 (Jeju)",
   "edad": 18,
   "nivel": 34,
   "exp": 486130,
@@ -1785,6 +1785,13 @@
       "dificultad": "MEDIA",
       "emitida": "T1827",
       "estado": "IMPOSIBLE: el usuario murió en Jeju (T1837)"
+    },
+    {
+      "poder": "Poder del Rey hormiga (fuerza, velocidad, veneno paralizante, alas, mando del enjambre, cambio de tamaño)",
+      "mundo": "sololeveling",
+      "mision": "Vencer al Rey hormiga cuerpo a cuerpo, sin armas ni poderes copiados.",
+      "dificultad": "ALTA",
+      "emitida": "T1840"
     }
   ],
   "misiones_de_copia_rechazadas": [],

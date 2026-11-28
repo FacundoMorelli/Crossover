@@ -3,86 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1837)
-
-sigo mirando como van contra la reina
-
-## RESPUESTA 1 (T1837)
-
-> sigo mirando como van contra la reina
-
-Bajas la mirada hacia la montaña, hacia adentro, hacia los túneles. Hacia ella.
-
-En la costa este, a tu izquierda, tres puntos de maná se apagan. Uno detrás del otro, en menos de un minuto. Primero el verde, el de la sanadora. Después los dos blancos. El último en apagarse es el más rápido.
-
-[Misión de copia imposible: Velocidad de Kenzo Tanaka. El usuario murió en la isla de Jeju.]
-
-El punto oscuro se queda un rato quieto sobre los tres puntos apagados. Después sigue hacia el oeste. Al rato, dos puntos blancos más, de un equipo que encuentra los cuerpos, se encienden fuerte, uno con un frío como de hielo, y se apagan también. Kei. Y el que estaba con ella.
-
-Kase deja de clavarte las uñas. Se queda mirando hacia la costa este con los ojos muy abiertos.
-
-Abajo, dentro de la montaña, los coreanos no saben nada.
-
-Llegan a la cámara más profunda del nido: una caverna enorme, redonda, con el techo perdido en la oscuridad, las paredes cubiertas de una sustancia blanca, pegajosa, que brilla. Y en el centro, la reina.
-
-La sientes antes de entenderla: una masa de maná rojizo, pesado, del tamaño de un edificio de tres pisos. Un abdomen hinchado, enorme, que late. Patas como columnas. Y alrededor, una docena de puntos fuertes, más fuertes que las hormigas comunes, que se le ponen delante: la guardia real.
-
-Los coreanos atacan.
-
-El naranja de Choi estalla primero: fuego, mucho, llenando la caverna. Los puntos de la guardia se mueven rápido, atacan, se cruzan con los cazadores. El maná blanco de Baek Yoonho crece de golpe, salvaje, y cambia de forma: la bestia. El maná verde de Min Byung-Gyu se mueve de un lado a otro detrás de todos, sin parar, curando, curando, curando.
-
-Y el plateado de Cha Hae-in baila.
-
-La sientes moverse entre los guardias como una cinta, y los puntos fuertes, uno por uno, se apagan alrededor de ella. Uno. Tres. Siete. Ninguno la toca.
-
-La reina se mueve. Algo sale de ella, un chorro de maná rojizo, espeso, venenoso, hacia el grupo. El blanco de Baek se tambalea y se encoge. Otro punto, el del tanque, Ma Dongwook, se debilita. El verde de Min corre hacia ellos y los envuelve, pero el veneno es fuerte y la curación tarda.
-
-Cha Hae-in termina con el último guardia y no se detiene. Corre hacia la reina. Sube. La sientes subir por una de las patas, por el costado del abdomen, hasta la cabeza. El maná plateado se concentra en un solo punto, en el filo, todo, apretado.
-
-Un corte.
-
-La masa rojiza de la reina se parte en dos.
-
-Y entonces la reina grita.
-
-No lo escuchas: lo sientes. Una onda de maná rojizo sale de la caverna y atraviesa toda la montaña, toda la isla, como un trueno silencioso. Las miles de hormigas que estaban peleando con los japoneses en el oeste se detienen. Todas al mismo tiempo. Y se dan vuelta. Y empiezan a correr hacia el nido, hacia la reina, hacia los coreanos.
-
-Los japoneses no las siguen. Sus puntos blancos se quedan donde están. Después empiezan a alejarse, hacia la costa, hacia los helicópteros.
-
-Y el punto oscuro, el Rey, que iba por el oeste hacia Goto, se detiene en el aire.
-
-Gira.
-
-Va hacia el nido. Más rápido de lo que se movió en todo el día. Entra por un agujero, baja por los túneles como una bala, atraviesa la pared de fuego de Choi en la entrada sin frenar.
-
-En la caverna de la reina, los coreanos todavía están respirando, heridos, con el cadáver enorme delante. El verde de Min está agachado junto al blanco de Baek, curándolo. El plateado de Cha Hae-in baja de la cabeza de la reina, cansado, con el maná más bajo que en todo el día.
-
-El punto oscuro entra en la caverna.
-
-Se detiene en la entrada. Mira el cadáver de su madre.
-
-Su maná se vuelve negro.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1837 · SOLO LEVELING · DÍA 22 · 11:31  ║
-║ Isla de Jeju                                 ║
-║ Ladera del Hallasan · saliente de roca negra ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: erizado, mirando la montaña            ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: ¡El Rey entra a la cámara de Cha!  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1838)
+## COMANDO 1 (T1838)
 
 miro y cuando este por hacer algo aparezco en frente del rey
 
-## RESPUESTA 2 (T1838)
+## RESPUESTA 1 (T1838)
 
 > miro y cuando este por hacer algo aparezco en frente del rey
 
@@ -152,11 +77,11 @@ La garra izquierda baja hacia tu cara.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1839)
+## COMANDO 2 (T1839)
 
 le agarro la garra con una mano y lo miro
 
-## RESPUESTA 3 (T1839)
+## RESPUESTA 2 (T1839)
 
 > le agarro la garra con una mano y lo miro
 
@@ -213,6 +138,81 @@ El Rey abre las mandíbulas. Entre ellas, en el fondo de la garganta, se le junt
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1840)
+
+le pego un puño en el pecho
+
+## RESPUESTA 3 (T1840)
+
+> le pego un puño en el pecho
+
+El veneno violeta sube por la garganta del Rey.
+
+No llega a salir.
+
+Cierras la otra mano y le pegas en el pecho.
+
+Es un golpe corto, recto, sin vuelo, desde la cadera. El puño entra en el caparazón negro justo en el centro del tórax, donde las placas metálicas se juntan en una quilla, y el caparazón no se raja: estalla. Se parte hacia adentro en cien pedazos, como un plato que cae sobre piedra, con un crujido seco que retumba en toda la caverna.
+
+El Rey se dobla alrededor de tu puño.
+
+La boca se le abre del todo y el veneno sale, pero ya no hacia ti: sale hacia arriba, en un chorro violeta, espeso, que salpica el techo de la caverna y empieza a gotear y a sisear sobre la sustancia blanca de las paredes, derritiéndola.
+
+Y el Rey sale volando hacia atrás.
+
+Sigues teniendo su garra en la mano. Por un instante, el brazo negro se estira entre los dos como una cuerda. Después lo sueltas, y el cuerpo entero del Rey cruza la caverna de punta a punta, como una piedra lanzada por una catapulta, por encima del cadáver de la reina, y se estrella contra la pared del fondo. La roca se hunde. Se abre un cráter de cuatro metros. Caen piedras, polvo, pedazos de caparazón.
+
+Silencio.
+
+Después, un ruido chiquito, húmedo. Algo que se mueve dentro del cráter.
+
+```
+╔══════════════════════════════════════════════╗
+║ REGISTRO DE PODER                            ║
+║ Poder del Rey hormiga (fuerza, velocidad,    ║
+║ veneno paralizante, alas, mando del          ║
+║ enjambre, cambio de tamaño)                  ║
+║ USUARIO: Rey hormiga · Solo Leveling         ║
+║                                              ║
+║ MISIÓN: Vencer al Rey hormiga cuerpo a       ║
+║ cuerpo, sin armas ni poderes copiados.       ║
+║ DIFICULTAD: ALTA                             ║
+╚══════════════════════════════════════════════╝
+```
+
+El Rey sale del cráter arrastrándose. Tiene el pecho hundido, abierto, con un líquido negro y espeso saliéndole entre las placas rotas. Un ala está doblada en un ángulo que no es el suyo. Se apoya en una mano, en la otra. Se levanta, temblando, sobre las dos patas.
+
+Los cientos de ojos rojos te miran desde el otro lado de la caverna. Ya no tienen furia. Tienen otra cosa.
+
+Abre la boca y grita.
+
+No es el grito de la reina. Es más agudo, más corto, desesperado. Una orden.
+
+Y por el túnel de entrada, a tu izquierda, la caverna se llena.
+
+Hormigas. Cientos. Salen del túnel en una ola negra y roja, chocando unas contra otras, trepando por las paredes, por el techo, por encima del cadáver de la reina, como agua que revienta un dique. No van hacia el Rey. Van hacia los coreanos. Hacia Min, que sigue de rodillas junto a Ma Dongwook. Hacia Baek, que no termina de transformarse. Hacia Cha Hae-in, a dos pasos de ti, con la espada en la mano y el maná casi vacío.
+
+—¡Todos atrás! —grita Choi Jong-In, y le estallan llamas en las dos manos otra vez.
+
+Al fondo, el Rey despliega el ala sana. Mira hacia arriba. Hacia el techo de la caverna, donde el veneno derritió la pared blanca y se abrió un hueco hacia un túnel superior.
+
+Va a huir.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1840 · SOLO LEVELING · DÍA 22 · 11:32  ║
+║ Isla de Jeju                                 ║
+║ Nido bajo el Hallasan · cámara de la reina   ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, con el pelo erizado      ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: ¡Hormigas contra los coreanos!     ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 11:31, cámara de la reina. Facundo atrapó la garra del Rey con una mano (onda de aire apagó medio fuego de Choi, piso rajado; su brazo no se movió). El Rey quedó congelado; tiró dos veces sin soltarse; su maná se encogió: miedo por primera vez. Los coreanos sin respirar (Choi boquiabierto, Baek quieto, Min mirando, Cha: "Facundo..."). Cámara EN VIVO filmando. Miles de hormigas llegando por el túnel de entrada. El Rey abre las mandíbulas: se le junta algo violeta, espeso, brillante en la garganta (veneno).
+ESTADO AL CIERRE: Día 22 11:32, cámara de la reina. Puño en el pecho: el caparazón del Rey estalla hacia adentro; el veneno sale hacia arriba y derrite el techo (se abre un hueco a un túnel superior). El Rey cruza la caverna y se incrusta en la pared del fondo (cráter de 4 m). Copia del Rey emitida (ALTA: vencerlo cuerpo a cuerpo sin armas ni copias). El Rey sale del cráter: pecho hundido, líquido negro, un ala rota; ojos con miedo. Grita una orden: cientos de hormigas inundan la caverna desde el túnel de entrada y van contra los coreanos (Min de rodillas junto a Ma, Baek, Cha a dos pasos con maná casi vacío). Choi: "¡Todos atrás!", fuego. El Rey despliega el ala sana hacia el hueco del techo: va a huir.

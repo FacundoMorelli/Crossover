@@ -51,3 +51,4 @@
 - T1832 · JINWOO sabe (por Facundo) que Facundo conoce sus sombras y que puede usarlas para viajar. No sabe cómo lo sabe. Facundo prometió estar cerca en Jeju.
 - T1838 · PÚBLICO (EN VIVO, transmisión del camarógrafo rango A): Facundo Morelli aparece de la nada en la cámara de la reina de Jeju, entre el Rey hormiga y los coreanos. Lo ven los coreanos presentes (Cha, Choi, Baek, Min, Ma...) y toda Corea por TV (Go Gunhee, Woo Jinchul, la señora Kang, Dong-su, Jinwoo...). QUIÉN VIO QUÉ PODERES: teletransporte (aparecer de la nada) — todos.
 - T1839 · PÚBLICO (EN VIVO): Facundo detiene la garra del Rey hormiga con una mano sin moverse; el piso se raja. QUIÉN VIO QUÉ PODERES: fuerza física descomunal — coreanos presentes, camarógrafo, toda la audiencia en vivo. El Velo sigue: nadie le siente maná.
+- T1840 · PÚBLICO (EN VIVO): Facundo destroza el pecho del Rey hormiga de un puñetazo y lo manda contra la pared del fondo.
