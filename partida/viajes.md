@@ -283,3 +283,4 @@
 ### Solo Leveling
 - MISIÓN: Que todos los cazadores coreanos de la incursión a la Isla de Jeju vuelvan vivos. RECOMPENSA: 25.000 EXP · 600 Fragmentos. VENCE: nunca.
 - DON: Llave de las Puertas (30).
+- T1845 · SOLO LEVELING: Misión de Mundo CUMPLIDA (Día 22): todos los cazadores coreanos de Jeju volvieron vivos. 15/16 mundos completados. Queda sin visitar: Demon Slayer.

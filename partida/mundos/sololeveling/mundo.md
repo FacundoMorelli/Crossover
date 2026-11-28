@@ -11,3 +11,4 @@ VELO: no despertado a cualquier medición; Cha Hae-in (olfato de maná) no le si
 - T1812 · Día 4 · Facundo Morelli obtiene residencia provisoria en Corea (persona sin nacionalidad registrada; garante Cha Hae-in).
 - T1837 · Facundo, desde el Hallasan, eligió mirar a los coreanos y no intervenir con el Equipo Charlie: mueren Akari, Kenzo, Tatsumi, Kei e Ippei (como en el canon).
 - T1841 · Día 22 11:33 · Facundo mata al Rey hormiga en vivo y derriba con el Haki del Rey a todas las hormigas de Jeju (~8.200). TODOS los coreanos sobreviven (Min Byung-Gyu VIVO, cambio del canon). Cha Hae-in no queda al borde de la muerte. Goto Ryuji y los japoneses restantes (Goto, Mari, Hoshino, Kanae, Kumamoto, Hanekawa, Atsushi...) VIVOS (en el canon morían Mari y Goto). Muertos japoneses: Akari, Kenzo, Tatsumi, Kei, Ippei. Jeju liberada.
+- T1845 · Día 22 11:43 · Facundo teletransporta a los 16 coreanos, al camarógrafo y a Jinwoo al buque de la Asociación. MISIÓN DE MUNDO CUMPLIDA.

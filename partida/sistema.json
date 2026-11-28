@@ -1,13 +1,13 @@
 {
-  "turno": 1844,
+  "turno": 1845,
   "mundo_actual": "sololeveling",
   "fecha_local": "Solo Leveling: Día 1 (arco de la Reevaluación / Puerta del Gremio de Cazadores)",
-  "hora": "Día 22, 11:41 (Jeju)",
+  "hora": "Día 22, 11:43 (estrecho de Jeju)",
   "edad": 18,
-  "nivel": 34,
-  "exp": 524130,
-  "exp_siguiente_nivel": 530000,
-  "fragmentos": 340805,
+  "nivel": 35,
+  "exp": 549130,
+  "exp_siguiente_nivel": 580000,
+  "fragmentos": 341405,
   "plata_local": {
     "jujutsu": {
       "moneda": "yenes",
@@ -90,18 +90,18 @@
       "cambio": "1 Fragmento = 130.000 won (fijado T1764)"
     }
   },
-  "puntos_de_stat_sin_asignar": 190,
+  "puntos_de_stat_sin_asignar": 205,
   "stats": {
-    "fuerza": 4000,
-    "velocidad": 4003,
-    "resistencia": 4000,
-    "tecnica": 4003,
-    "percepcion": 4001,
-    "voluntad": 4001,
-    "energia": 4002,
-    "control": 4001
+    "fuerza": 4004,
+    "velocidad": 4007,
+    "resistencia": 4004,
+    "tecnica": 4007,
+    "percepcion": 4005,
+    "voluntad": 4005,
+    "energia": 4006,
+    "control": 4005
   },
-  "energia_actual_pct": 97,
+  "energia_actual_pct": 95,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -1842,7 +1842,8 @@
     "Fusión en caliente",
     "Doble Núcleo",
     "Pelo a voluntad (cambia el color y el largo de su pelo cuando quiere; T878)",
-    "Corona Orbital (nivel 30): hasta tres poderes \"en órbita\", activos solos alrededor suyo, atacando o defendiendo unos minutos"
+    "Corona Orbital (nivel 30): hasta tres poderes \"en órbita\", activos solos alrededor suyo, atacando o defendiendo unos minutos",
+    "Reflejo del Eclipse (nivel 35): un doble exacto de Facundo, con todos sus poderes, durante una hora; lo que el doble percibe, lo percibe Facundo"
   ],
   "estilos_desbloqueados": [
     {
@@ -2614,7 +2615,8 @@
       "tokyoghoul",
       "naruto",
       "chainsawman",
-      "fullmetal"
+      "fullmetal",
+      "sololeveling"
     ],
     "viaje_libre": true,
     "mision_de_mundo_actual": {
@@ -2623,7 +2625,7 @@
       "recompensa": "25.000 EXP · 600 Fragmentos",
       "vence": "nunca",
       "cambiada": false,
-      "estado": "activa (T1764)"
+      "estado": "CUMPLIDA (T1845, Día 22: los 16 coreanos volvieron vivos al buque)"
     },
     "relojes": {
       "jujutsu": "Salida 29/04/2019 10:21, portón de la sede de los altos mandos (Kioto). Prometió a Nanami avisar al volver. Corre.",

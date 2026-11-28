@@ -61,3 +61,9 @@ LO QUE TRAE: el Sistema, el Eclipse (Sol y Luna), las Espadas Gemelas del Eclips
 - Turno 1277 · Deja Tokyo Ghoul (Día 7, Anteiku) y vuelve a Black Clover ~90 días después de irse, el día del asalto a la base del Ojo.
 - Turno 1582 · Dragon Ball, planeta de Bills · Recibe en serio un Hakai de Bills y lo rompe en SSJ Blue. Copia el poder de un Dios de la Destrucción. Nivel 32.
 - Turno 1599 · Dragon Ball, planeta de Bills · Vence a Bills en el choque final (Ultra Instinto Dominado, conteniéndose para no matarlo). Nivel 33.
+
+### Solo Leveling
+- Turno 1764 · Llega a Gangnam, Seúl (arco de la reevaluación de Jinwoo). Don de Mundo: Llave de las Puertas.
+- Turno 1797 · Cha Hae-in, su novia ("Sí, soy su novio", mercado de Gwangjang). Candado en Namsan.
+- Turno 1841 · Isla de Jeju · Mata al Rey hormiga a puñetazos, en vivo (copia de su poder) y derriba a todas las hormigas de la isla con el Haki del Rey.
+- Turno 1845 · MISIÓN DE MUNDO DE SOLO LEVELING CUMPLIDA: los 16 coreanos de Jeju volvieron vivos (Min Byung-Gyu incluido). Nivel 35. Reflejo del Eclipse. Mundos completados: 15/16.

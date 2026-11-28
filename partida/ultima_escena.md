@@ -3,70 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1842)
-
-te dije que no hacía falta que vengas, le doy una semilla del ermitaño a cada uno
-
-## RESPUESTA 1 (T1842)
-
-> te dije que no hacía falta que vengas, le doy una semilla del ermitaño a cada uno
-
-> —Te dije que no hacía falta que vinieras.
-
-Jinwoo no contesta.
-
-Se queda quieto, con los ojos todavía encendidos de azul, mirándote. Después mira otra vez al Rey muerto a tus pies. La luz de los ojos se le apaga despacio. Baja los hombros, apenas. Abre la boca, la cierra.
-
-Sacas del inventario un puñado de semillas. Pequeñas, verdes, del tamaño de un frijol.
-
-A la vista de todos, para los que miran, simplemente aparecen en tu mano.
-
-Caminas entre los coreanos y les das una a cada uno. Le pones una en la mano a Choi Jong-In, que la mira sin entender, con los anteojos torcidos. Otra a Baek Yoonho, que se queda mirándola en su garra gigante de bestia. A Ma Dongwook, tirado en el piso con el veneno en la sangre y la cara gris, se la pones directamente entre los labios. A Lim Taegyu. A cada uno de los demás, uno por uno, dieciséis en total. Min Byung-Gyu, de rodillas, la recibe con las manos verdes todavía encendidas, mirándote como si estuviera viendo algo imposible.
-
-La última es para Cha Hae-in.
-
-Ella la mira en tu palma. Después te mira a ti.
-
-Muerden.
-
-Lo que pasa a continuación pasa en todos al mismo tiempo. El color gris se le va de la cara a Ma Dongwook en un segundo; abre los ojos de golpe, respira hondo y se sienta en el piso, tocándose el pecho donde el veneno le había abierto la piel, que ahora está cerrada. Baek Yoonho vuelve a su forma humana sin querer, con un suspiro largo, y se mira las manos, sin una sola herida. Los cortes de Choi se cierran. El maná de todos, que estaba casi vacío después de la reina, se llena entero, de golpe, como un vaso bajo la llave del agua. Lo sientes en el Ojo del Eclipse: dieciséis luces que se vuelven a encender, brillantes, como al principio del día.
-
-Cha Hae-in se queda quieta con la mano en el pecho. La armadura sigue manchada, rota en un hombro. Pero ella ya no está rota.
-
-—¿Qué... es esto? —murmura Min Byung-Gyu, mirándose las manos. Es sanador. Sabe exactamente lo que acaba de pasar, y sabe que él no puede hacerlo—. Esto no es curación. Esto es... todo. Todo de vuelta.
-
-Nadie le contesta.
-
-En la saliente de arriba, el camarógrafo sigue grabando. La luz roja parpadea.
-
-Jinwoo, al fondo, sigue mirándote. Ya no tiene la cara de alguien listo para pelear. Tiene la de alguien que acaba de llegar tarde a algo que creía que solo él podía resolver, y que lo encontró resuelto.
-
-Después baja la vista al Rey hormiga muerto, a tus pies. Lo mira largo. Algo se mueve en su cara: un interés que conoces, el mismo con el que miraba al chamán orco en la Puerta de Gangnam antes de decir "Levántate".
-
-Levanta la vista hacia ti.
-
-—¿Me lo dejas? —pregunta, en voz baja, señalando al Rey con la barbilla.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1842 · SOLO LEVELING · DÍA 22 · 11:36  ║
-║ Isla de Jeju                                 ║
-║ Nido bajo el Hallasan · cámara de la reina   ║
-║ NIVEL 34 · EXP 524.130/530.000               ║
-║ FRAGMENTOS 340.805 · 1.282.800 won           ║
-║ Energía 97% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el hombro                           ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Jinwoo pide la sombra del Rey      ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1843)
+## COMANDO 1 (T1843)
 
 si, es tuyo, levántalo
 
-## RESPUESTA 2 (T1843)
+## RESPUESTA 1 (T1843)
 
 > si, es tuyo, levántalo
 
@@ -121,11 +62,11 @@ Le tiemblan los labios. Se le llenan los ojos.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1844)
+## COMANDO 2 (T1844)
 
 la abrazo, perdon amor, no queria que te pase nada
 
-## RESPUESTA 3 (T1844)
+## RESPUESTA 2 (T1844)
 
 > la abrazo, perdon amor, no queria que te pase nada
 
@@ -176,6 +117,95 @@ Señala con la barbilla al camarógrafo, que sigue sentado arriba, con la luz ro
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1845)
+
+agarrense de mi todos, o estén conectados entre ustedes. me teletransporto al buque
+
+## RESPUESTA 3 (T1845)
+
+> agarrense de mi todos, o estén conectados entre ustedes. me teletransporto al buque
+
+> —Agárrense de mí todos, o estén conectados entre ustedes.
+
+Por un segundo nadie se mueve. Se miran entre ellos, en la caverna, entre los cuerpos de miles de hormigas.
+
+Cha Hae-in es la primera. Levanta su espada del piso, se la cuelga a la espalda, y te agarra la mano. Fuerte. Sin soltarla.
+
+Después Min Byung-Gyu se pone de pie y le agarra el otro brazo a ella. Ma Dongwook, riéndose todavía, nervioso, le pone la mano en el hombro a Min. Baek Yoonho, en silencio, toma la de Ma. Lim Taegyu, los demás, uno por uno, se van agarrando de una mano, de un hombro, de una correa de armadura, formando una cadena torcida entre las hormigas caídas, como chicos en una excursión del colegio. Choi Jong-In es el último coreano: se acomoda los anteojos, suspira, y le apoya la mano en el hombro a Baek.
+
+Arriba, el camarógrafo baja de la saliente resbalando por la pared, con la cámara apretada contra el pecho, y se agarra del cinturón de Lim Taegyu sin que nadie se lo pida.
+
+Jinwoo se queda donde está, junto al cadáver del Rey, con las manos en los bolsillos. Te mira. Tú lo miras. Después de un segundo, camina hasta la cadena y apoya dos dedos en el hombro de Choi Jong-In, que se pone rígido.
+
+Kase, en la nuca de Cha Hae-in, cierra los ojos.
+
+La caverna desaparece.
+
+...
+
+Viento. Sal. Sol. Gritos de gaviotas.
+
+Aparecen todos juntos, en cadena, en la cubierta de un buque enorme, gris, con el emblema de la Asociación de Cazadores pintado en la chimenea. A lo lejos, sobre el mar azul, la costa negra de Jeju, en silencio. Alrededor, en la cubierta, decenas de personas: marineros, técnicos con auriculares, médicos de la Asociación con camillas preparadas, un grupo de funcionarios de traje junto a unas pantallas portátiles que muestran el último fotograma de la transmisión, congelado: tu cara, en la caverna, con el Rey hormiga muerto a tus pies.
+
+Todos se dan vuelta al mismo tiempo.
+
+Alguien deja caer una tablet. Un médico se sienta en el piso de la cubierta, sin darse cuenta.
+
+Y en el medio, de traje negro, con los anteojos de sol puestos y un teléfono satelital en la mano, Woo Jinchul. Te mira. Mira la cadena de cazadores coreanos detrás de ti, uno por uno, vivos, enteros, con las armaduras rotas pero de pie. Cuenta. Lo ves contar, moviendo apenas los labios.
+
+Dieciséis.
+
+[Los cazadores coreanos de la incursión a la isla de Jeju volvieron vivos.]
+
+```
+╔══════════════════════════════════════════════╗
+║ MISIÓN DE MUNDO CUMPLIDA                     ║
+║ Mundo: Solo Leveling                         ║
+║                                              ║
+║ Todos los cazadores coreanos de la           ║
+║ incursión a la isla de Jeju volvieron vivos. ║
+║ RECOMPENSA: 25.000 EXP · 600 Fragmentos      ║
+║ Mundos completados: 15/16                    ║
+╚══════════════════════════════════════════════╝
+```
+
+[Has subido de nivel.]
+
+```
+╔══════════════════════════════════════════════╗
+║ NIVEL 35 · HITO                              ║
+║ +4 a todos los stats · +15 puntos            ║
+║                                              ║
+║ HABILIDAD DEL SISTEMA: REFLEJO DEL ECLIPSE   ║
+║ Un doble exacto de ti, con todos tus         ║
+║ poderes, durante una hora. Lo que él         ║
+║ percibe, lo percibes tú.                     ║
+╚══════════════════════════════════════════════╝
+```
+
+Cha Hae-in no te suelta la mano. Mira el buque, el mar, el sol, la costa de Jeju a lo lejos, como si no pudiera creer que está afuera. Min Byung-Gyu se sienta en la cubierta y se pone a reír, tapándose la cara con las dos manos. Jinwoo saca los dedos del hombro de Choi y da un paso atrás, apartándose de la cadena.
+
+Woo Jinchul se saca los anteojos de sol. Tiene los ojos rojos.
+
+Camina hacia ti. Se detiene a un paso. Te mira a los ojos un rato largo, sin decir nada. Después levanta el teléfono satelital, que todavía tiene en la mano.
+
+—Señor Morelli —dice, con la voz ronca—. El presidente Go Gunhee está en la línea. —Te ofrece el teléfono—. Quiere hablar con usted.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1845 · SOLO LEVELING · DÍA 22 · 11:43  ║
+║ Estrecho de Jeju                             ║
+║ Buque de la Asociación · cubierta            ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 1.282.800 won           ║
+║ Energía 95% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en la nuca de Cha Hae-in               ║
+║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
+║ OBJETIVO: Go Gunhee al teléfono              ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 11:41, cámara de la reina. Abrazo. "Perdón, amor. No quería que te pasara nada." Cha suelta la espada, lo abraza fuerte y llora; Kase pasa a su nuca. "No me pidas perdón... No sé qué eres. Y no me importa... Pero estás aquí. Y estamos todos vivos. Todos." Min llora; Ma se ríe nervioso; Jinwoo mira a la pared para dejarlos. Radio de Choi: el buque perdió la señal de la transmisión; los japoneses dicen que todas las hormigas cayeron. Choi: helicópteros en la costa a 4 km, miles de cuerpos, todo el país mirando: "¿Cómo salimos de aquí?"
+ESTADO AL CIERRE: Día 22 11:43, cubierta del buque de la Asociación en el estrecho de Jeju. Cadena: Cha de la mano de Facundo, Min, Ma, Baek, Lim, los demás, Choi, el camarógrafo y Jinwoo (dos dedos en el hombro de Choi). Teletransporte al buque. Woo Jinchul (con teléfono satelital) cuenta 16. MISIÓN DE MUNDO CUMPLIDA (15/16; +25.000 EXP, +600 F). NIVEL 35 (hito: +4 stats, +15 puntos; habilidad Reflejo del Eclipse). Jinwoo se aparta. Woo, ojos rojos, ofrece el teléfono: "El presidente Go Gunhee está en la línea. Quiere hablar con usted."

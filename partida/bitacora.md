@@ -1844,3 +1844,4 @@ T1841 · ISLA DE JEJU · Mata al Rey hormiga a puñetazos (copia del Rey). Haki 
 T1842 · ISLA DE JEJU · 16 semillas del ermitaño a los coreanos (en vivo). Jinwoo: "¿Me lo dejas?"
 T1843 · ISLA DE JEJU · Le deja el Rey a Jinwoo: "Levántate" (Beru). La sombra le teme a Facundo. Cha: "Me dijiste que me ibas a esperar en el hotel."
 T1844 · ISLA DE JEJU · Abraza a Cha: "Perdón, amor." "Estamos todos vivos." Choi: "¿Cómo salimos de aquí?"
+T1845 · SOLO LEVELING · Buque de la Asociación · Saca a todos de Jeju. MISIÓN DE MUNDO CUMPLIDA (15/16). NIVEL 35: Reflejo del Eclipse. Go Gunhee al teléfono.

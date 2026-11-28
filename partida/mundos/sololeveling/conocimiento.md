@@ -56,3 +56,4 @@
 - T1842 · PÚBLICO (EN VIVO): Facundo saca de la nada "semillas" verdes que curan todo y llenan el maná de 16 cazadores (Min: "no es curación, es todo de vuelta").
 - T1843 · PÚBLICO (EN VIVO): Sung Jinwoo convierte al Rey hormiga en una sombra arrodillada ("Levántate"); la sombra le teme a Facundo. Los coreanos presentes lo ven.
 - T1844 · El buque de la Asociación perdió la señal de la transmisión en vivo (en algún momento después de las hormigas caídas). Los japoneses reportan que todas las hormigas cayeron a la vez.
+- T1845 · TRIPULACIÓN Y FUNCIONARIOS DEL BUQUE ven aparecer de la nada a Facundo con los 16 coreanos, el camarógrafo y Jinwoo (teletransporte). Woo Jinchul presente.
