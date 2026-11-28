@@ -3,52 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1782)
-
-me llamo Facundo Morelli
-
-## RESPUESTA 1 (T1782)
-
-> me llamo Facundo Morelli
-
-> —Me llamo Facundo Morelli.
-
-—Pa... —Dong-su lo intenta y se traba—. Pa-kun-do.
-
-Se ríe solo de lo mal que le salió, con una risa corta, de verdad, que le dura un segundo más de lo que esperaba.
-
-—Perdón. Fa-cun-do. —Lo repite despacio, con cuidado, como si no quisiera romperlo—. Facundo. No es de aquí, ¿verdad? Suena a lejos.
-
-Se pone de pie. Junta el vaso de ramyeon y los palillos, los tira en el tacho de basura de la tienda y se guarda la credencial en el bolsillo de adentro de la campera, con cuidado, aunque diga que no sirve.
-
-—Yo me llamo Han Dong-su. Bueno, ya lo viste en la tarjeta. —Mira la hora en el celular rajado—. Tengo que volver. Mi abuela se despierta si llego muy tarde, y después no se vuelve a dormir y se preocupa.
-
-Kase se levanta de al lado de su pie y vuelve a ti.
-
-Dong-su se queda parado junto a la mesa, con las manos en los bolsillos, mirando el río una vez más. Después te mira, un poco incómodo, como si no supiera bien cómo se despide uno de alguien así.
-
-—Yo vengo aquí casi todas las noches, después de las Puertas. —Se encoge de hombros—. Si sigues por la ciudad... no sé. Por si quieres hablar otra vez.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1782 · SOLO LEVELING · DÍA 2 · 00:24   ║
-║ Seúl, Corea del Sur                          ║
-║ Parque junto al río Han · tienda 24 horas    ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.292.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: a tus pies                             ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Cha Hae-in vuelve a la una         ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1783)
+## COMANDO 1 (T1783)
 
 lo toco uso la técnica de mahito para agrandar su mana a rango A, nos vemos dong, ve a hacerte una reevaluacion despues
 
-## RESPUESTA 2 (T1783)
+## RESPUESTA 1 (T1783)
 
 > lo toco uso la técnica de mahito para agrandar su mana a rango A, nos vemos dong, ve a hacerte una reevaluacion despues
 
@@ -91,11 +50,11 @@ Dong-su levanta la vista hacia ti. Tiene los ojos muy abiertos, brillantes, y la
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1784)
+## COMANDO 2 (T1784)
 
 Solo te ayude un poco, suerte, vuelvo al hotel
 
-## RESPUESTA 3 (T1784)
+## RESPUESTA 2 (T1784)
 
 > Solo te ayude un poco, suerte, vuelvo al hotel
 
@@ -142,6 +101,55 @@ En el reloj digital de la mesita: 00:51.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1785)
+
+me voy a dormir y simula hasta la 1
+
+## RESPUESTA 3 (T1785)
+
+> me voy a dormir y simula hasta la 1
+
+Te acuestas en la cama enorme. Las sábanas están frías y huelen a limpio. Kase espera a que te acomodes, se baja de la almohada del medio y se te echa encima del pecho, pesado y caliente, como todas las noches en todos los mundos.
+
+Afuera, la llovizna sigue cayendo sobre Seúl, sin ruido.
+
+Te duermes.
+
+...
+
+La lluvia para cerca de las cuatro. A las seis empieza a clarear, gris, detrás de las torres del este. A las siete la ciudad ya ruge abajo: autobuses, bocinas, el tren elevado que pasa cada tres minutos sobre el puente del Han. En el pasillo, una mucama empuja un carrito y pasa de largo frente a la 2207, porque el cartelito de "no molestar" quedó colgado del picaporte desde que entraste.
+
+Duermes de corrido. Sin sueños.
+
+A las doce y cuarenta te despierta una pata. Una pata grande y peluda, apoyada en tu cara, con las uñas apenas asomadas. Después otra. Kase está sentado sobre tu pecho, mirándote con los dos ojos, y cuando ve que abres los tuyos, maúlla una sola vez, corto y exigente: es la hora de comer de un gato que no come desde el atún de anoche.
+
+El sol entra por el ventanal. Seúl está limpio y brillante después de la lluvia. En la mesita, la tarjetita de Cha Hae-in. El reloj: 12:41.
+
+Pasan los minutos.
+
+A la una en punto, ni un minuto antes ni uno después, golpean la puerta. Tres golpes suaves, separados, de alguien que lo pensó antes de golpear.
+
+Del otro lado, por la mirilla, se ve a Cha Hae-in. Sin armadura, sin espada a la vista: un suéter de lana color crema, un pantalón oscuro, el pelo suelto sobre los hombros. En cada mano trae una bolsa de papel de un restaurante, y sale de ellas un olor a carne a la parrilla, a ajo y a arroz recién hecho que atraviesa la puerta.
+
+Kase ya está en la puerta, sentado, con la cola moviéndose.
+
+—¿Facundo? —dice ella, desde el pasillo, un poco bajito—. Soy yo. Traje bulgogi. —Una pausa—. Y algo para el gato.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1785 · SOLO LEVELING · DÍA 2 · 13:00   ║
+║ Seúl, Corea del Sur                          ║
+║ Hotel de Gangnam · habitación 2207           ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.292.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: sentado frente a la puerta             ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Cha Hae-in en la puerta            ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 00:51, habitación 2207. Facundo: "Solo te ayudé un poco. Suerte." Dong-su gritó "¡Gracias!" dos veces, se quedó mirándose las manos. Llovizna fina. Recepción cambió de turno (chico joven). Kase en la almohada del medio. Tarjetita de Cha en la mesita. Cha vuelve a la una (13:00).
+ESTADO AL CIERRE: Día 2 13:00. Facundo durmió de corrido; Kase lo despertó a las 12:40 pidiendo comida (no comió desde el atún). Sol después de la lluvia. A la una en punto, Cha Hae-in golpea la 2207: suéter crema, pantalón oscuro, pelo suelto, sin espada a la vista; dos bolsas de restaurante. "¿Facundo? Soy yo. Traje bulgogi. Y algo para el gato." Facundo todavía no abrió.

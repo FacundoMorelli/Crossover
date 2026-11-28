@@ -10,3 +10,4 @@ Llegada: Día 1, 21:40 (T1764).
 (ninguno)
 - Día 1 22:30 · (T1768, canon) Incursión del Gremio de Cazadores en Gangnam: Jinwoo mata a Kargalgan y lo extrae (Tusk). Cha Hae-in nota que Jinwoo no huele mal.
 - Día 1 23:10 · (T1769) Sale el Gremio de Cazadores de la Puerta de Gangnam; la Puerta se apaga.
+- Día 2 · Mañana: (canon en paralelo) Cha Hae-in entrega el informe en la oficina del Gremio de Cazadores. Han Dong-su con maná de rango A (no se sabe aún si fue a reevaluarse).
