@@ -3,72 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1890)
-
-si, ella entra, y toda la tripulación de luffy y sus amigos, solo me podes buscar a mi, nadie que tenga que ver con la tripulación
-
-## RESPUESTA 1 (T1890)
-
-> si, ella entra, y toda la tripulación de luffy y sus amigos, solo me podes buscar a mi, nadie que tenga que ver con la tripulación
-
-> —Sí, ella entra. Y toda la tripulación de Luffy, y sus amigos. Solo me puedes buscar a mí. A nadie que tenga que ver con la tripulación.
-
-Akainu se queda quieto, con el dedo sobre la línea negra del escritorio.
-
-—Los Sombrero de Paja —dice, despacio—. Los que le declararon la guerra al Gobierno Mundial en Enies Lobby. Los que quemaron la bandera. Los que golpearon a un Dragón Celestial en Sabaody. —Levanta la vista—. Y el hijo de Dragon el revolucionario, como capitán.
-
-Se le contrae la mandíbula.
-
-—Y sus "amigos". —Se le escapa otra risa seca—. Ese chico hace amigos en cada isla donde pisa.
-
-Se endereza. El calor de la oficina sube tanto que el vidrio del ventanal cruje, una vez, una raja fina en una esquina.
-
-Robin no se mueve. No baja la vista. Lo mira.
-
-Akainu la mira a ella. Un rato largo. La arqueóloga de Ohara. La nena que se le escapó en un barco hace veinte años, mientras la biblioteca ardía.
-
-—Veinte años —dice, bajo, mirándola—. Veinte años buscándote. Y ahora me piden que te deje de buscar.
-
-Robin no contesta.
-
-Akainu vuelve a mirarte a ti.
-
-—Un año —dice—. Ni la Marina, ni el Cipher Pol, ni ningún brazo del Gobierno Mundial va a tocar a la tripulación del Sombrero de Paja ni a los que caminan con ellos. —Hace una pausa—. Pero escucha bien la condición de la Marina, Ojos de Eclipse.
-
-Levanta un dedo. Un hilo de humo le sale de la uña.
-
-—Si ellos atacan a un marine, la Marina se defiende. La justicia no pone la otra mejilla. —Levanta otro dedo—. Y cuando te encuentre, y te voy a encontrar, te entregas aquí, en esta oficina, sin pelear. Sin desaparecer. Sin nada de lo que hiciste en Marineford.
-
-Rodea el escritorio y se planta delante del sillón. Delante de ti.
-
-Extiende la mano derecha.
-
-La mano no es de carne. Es magma. Roja, naranja, brillante, chorreando gotas que agujerean la alfombra, con un calor que hace temblar el aire alrededor y que a Robin, a tu lado, le hace dar medio paso atrás sin querer. Una mano que derrite el acero.
-
-—La palabra de un Almirante de Flota no se rompe —dice Akainu—. ¿Y la tuya?
-
-Te sostiene la mano extendida, abierta, ardiendo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1890 · ONE PIECE · DÍA ~227 · 23:15    ║
-║ Nuevo Cuartel General de la Marina           ║
-║ Oficina del Almirante de Flota · su sillón   ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
-║ Energía 99% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: sobre los informes, erizado            ║
-║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
-║ OBJETIVO: Akainu te ofrece su mano de magma  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1891)
+## COMANDO 1 (T1891)
 
 es un trato akainu, le doy la mano
 
-## RESPUESTA 2 (T1891)
+## RESPUESTA 1 (T1891)
 
 > es un trato akainu, le doy la mano
 
@@ -121,11 +60,11 @@ Akainu, en el ventanal, no se da vuelta.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1892)
+## COMANDO 2 (T1892)
 
 agarro a robin y me teletransporto a baltigo
 
-## RESPUESTA 3 (T1892)
+## RESPUESTA 2 (T1892)
 
 > agarro a robin y me teletransporto a baltigo
 
@@ -182,6 +121,67 @@ Levanta la vista hacia ti. Ya no llora. Se le dibuja una sonrisa que no le habí
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1893)
+
+esta bien amor, mañana vamos, le doy un beso y despues voy a venir un poco menos, me voy a mantener entre otros mundos
+
+## RESPUESTA 3 (T1893)
+
+> esta bien amor, mañana vamos, le doy un beso y despues voy a venir un poco menos, me voy a mantener entre otros mundos
+
+> —Está bien, amor. Mañana vamos.
+
+Le das un beso.
+
+Robin te agarra de la cara con las dos manos y te lo devuelve, despacio, con los ojos cerrados. Kase, aplastado entre los dos, suelta un gruñido corto y no se mueve.
+
+> —Y después voy a venir un poco menos. Me voy a mantener entre otros mundos.
+
+Robin abre los ojos. Se queda mirándote, muy de cerca, con las manos todavía en tu cara.
+
+Lo entiende enseguida. Lo ves pasar por los ojos azules, rápido, como una página que se da vuelta.
+
+—Para que no te encuentren —dice, bajito.
+
+No es una pregunta.
+
+—Akainu va a poner a toda la Marina a buscarte. Al Cipher Pol. A los Den Den Mushi de vigilancia de todas las islas. —Se le escapa una risa suave, por la nariz—. Y tú no vas a estar en ninguna isla. Ni en este mar. Ni en este mundo. —Te pasa el pulgar por la cicatriz, despacio—. Un año buscando a un hombre que no está.
+
+Se ríe otra vez, más fuerte, con la cabeza un poco hacia atrás.
+
+—Fufu. Pobre Sakazuki.
+
+Después se le apaga la risa de a poco. Baja las manos de tu cara al pecho. Se queda mirando el dragón tatuado, debajo de la camisa.
+
+—Veinte años me escondí yo —dice—. Y ahora, por mí, te vas a esconder tú.
+
+Levanta la vista.
+
+—No me pidas perdón. Ya sé que no lo vas a hacer. —Sonríe de costado—. Pero acuérdate de que esta vez sé lo que es contar los días en una pared.
+
+Mira las noventa y siete marcas.
+
+—Voy a hacer otra pared —dice—. Del otro lado de la ventana. —Te aprieta la camisa entre los dedos—. Y cada vez que vuelvas, aunque sea por una noche, la voy a borrar entera y empezar de nuevo.
+
+Se queda callada. Después, más bajito:
+
+—¿Cuánto es "un poco menos", Facundo?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1893 · ONE PIECE · DÍA ~227 · 23:22    ║
+║ Baltigo · cuarto de Robin                    ║
+║ Sentado en la cama, con Robin                ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 99% · Ojos: bien                     ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: aplastado entre los dos                ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Robin: "¿Cuánto es un poco menos?" ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día ~227 23:18, cuarto de Robin en Baltigo. Teletransporte con Robin. Robin se sienta en la cama; llora y ríe a la vez: "Veinte años. Tenía ocho... no dormí una sola noche sin pensar que alguien iba a tirar la puerta abajo." "Y tú entraste a su oficina. Te sentaste en su sillón. Le diste la mano. Y él dijo 'disfrútalo'." Kase se le echa en las piernas, ronroneando. "Un año sin capucha. Sin nombre falso. Sin cuchillo debajo de la almohada." Sonrisa entera, como de niña: "Mañana. Quiero caminar por una ciudad... A plena luz del día. Sin taparme la cara. Y entrar a una librería. Y comprar un libro. Y pagarlo con mi nombre."
+ESTADO AL CIERRE: Día ~227 23:22, cuarto de Robin. "Está bien, amor. Mañana vamos." Beso. "Y después voy a venir un poco menos. Me voy a mantener entre otros mundos." Robin lo entiende: "Para que no te encuentren... Un año buscando a un hombre que no está. Fufu. Pobre Sakazuki." "Veinte años me escondí yo. Y ahora, por mí, te vas a esconder tú." "Voy a hacer otra pared. Del otro lado de la ventana. Y cada vez que vuelvas, aunque sea por una noche, la voy a borrar entera y empezar de nuevo." "¿Cuánto es 'un poco menos', Facundo?" (Mañana: ciudad y librería.)

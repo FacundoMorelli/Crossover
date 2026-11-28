@@ -1892,3 +1892,4 @@ T1889 · ONE PIECE · Oficina de Akainu · Trato: un año para que lo encuentre;
 T1890 · ONE PIECE · Oficina de Akainu · "Ella entra, y la tripulación de Luffy y sus amigos." Akainu fija sus condiciones y extiende la mano de magma.
 T1891 · ONE PIECE · Oficina de Akainu · Trato sellado con la mano de magma (no lo quema). Un año desde las 0:00. "Fuera de mi oficina."
 T1892 · ONE PIECE · Baltigo · Vuelve con Robin. Ella llora y ríe. "Mañana quiero caminar por una ciudad sin taparme la cara y comprar un libro con mi nombre."
+T1893 · ONE PIECE · Baltigo · "Mañana vamos. Después vengo menos, me mantengo entre otros mundos." Robin: "Pobre Sakazuki." "¿Cuánto es un poco menos?"
