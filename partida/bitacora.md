@@ -1836,3 +1836,4 @@ T1833 · SOLO LEVELING · Hotel de Gangnam · (simulados Días 11-21) Preparativ
 T1834 · SOLO LEVELING · Hotel de Gangnam · Despedida. "Cuídate mucho, amor." Cha: "Voy a volver. Entro."
 T1835 · ISLA DE JEJU · Se teletransporta sin ser visto. Siente al Rey hormiga ya nacido, suelto por los túneles.
 T1836 · ISLA DE JEJU · Mira la llegada de los cazadores. Coreanos al nido; japoneses de cebo. El Rey hormiga vuela hacia el equipo de Kenzo.
+T1837 · ISLA DE JEJU · Mueren el Equipo Charlie, Kei e Ippei. Cha decapita a la reina. El Rey entra furioso a la cámara de los coreanos.

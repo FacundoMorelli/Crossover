@@ -3,62 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1834)
-
-le doy un beso, te espero aquí, cuídate mucho amor
-
-## RESPUESTA 1 (T1834)
-
-> le doy un beso, te espero aquí, cuídate mucho amor
-
-Le das un beso.
-
-Cha Hae-in te agarra del cuello de la camisa con las dos manos, por encima de los guantes de la armadura, y te lo devuelve fuerte, largo, con los ojos cerrados. El metal frío de la hombrera te roza el brazo. La llavecita de la cadena te toca el pecho.
-
-> —Te espero aquí. Cuídate mucho, amor.
-
-Ella apoya la frente contra la tuya. Respira hondo por la nariz, una vez, como antes de entrar a una Puerta. Como si quisiera llevarse el olor de nada que tienes.
-
-—Voy a volver —dice, en un susurro—. Te lo prometo. Igual que tú me lo prometiste a mí.
-
-Se separa. Se acomoda la espada a la espalda. Abre la puerta.
-
-En el umbral se da vuelta una última vez. Mira a Kase, que sigue sentado, muy derecho, mirándola. Te mira a ti. Sonríe, chiquito, de costado, igual que la noche de la cinta en Gangnam.
-
-—Entro —dice.
-
-Y la puerta se cierra.
-
-Escuchas sus pasos por el pasillo alfombrado, rápidos, firmes. El timbre del ascensor. Las puertas de espejo que se abren y se cierran. Después, nada.
-
-Kase se queda mirando la puerta cerrada un rato largo. No se mueve.
-
-Desde el ventanal del piso veintidós, abajo, en la avenida todavía vacía del amanecer, ves salir una figura chiquita, gris plateada, con una espada a la espalda. Sube a una camioneta negra con el emblema de la Asociación. La puerta corrediza se cierra. La camioneta arranca y dobla en la esquina, hacia el norte, hacia el helipuerto.
-
-El cielo sobre Seúl se pone rosado.
-
-Sobre la mesita de luz, al lado del teléfono blanco, sigue la tarjetita del hotel con el número de Cha Hae-in escrito atrás, con su letra prolija, la primera noche.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1834 · SOLO LEVELING · DÍA 22 · 05:36  ║
-║ Seúl, Corea del Sur                          ║
-║ Hotel de Gangnam · habitación 2207           ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.282.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: mirando la puerta cerrada              ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Cha va camino a Jeju               ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1835)
+## COMANDO 1 (T1835)
 
 me teletransporto a jeju sin que nadie me vea
 
-## RESPUESTA 2 (T1835)
+## RESPUESTA 1 (T1835)
 
 > me teletransporto a jeju sin que nadie me vea
 
@@ -111,11 +60,11 @@ El Rey ya está despierto.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1836)
+## COMANDO 2 (T1836)
 
 espero escondido a que lleguen los cazadores y miro
 
-## RESPUESTA 3 (T1836)
+## RESPUESTA 2 (T1836)
 
 > espero escondido a que lleguen los cazadores y miro
 
@@ -176,6 +125,81 @@ Kase te clava las uñas en el hombro.
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1837)
+
+sigo mirando como van contra la reina
+
+## RESPUESTA 3 (T1837)
+
+> sigo mirando como van contra la reina
+
+Bajas la mirada hacia la montaña, hacia adentro, hacia los túneles. Hacia ella.
+
+En la costa este, a tu izquierda, tres puntos de maná se apagan. Uno detrás del otro, en menos de un minuto. Primero el verde, el de la sanadora. Después los dos blancos. El último en apagarse es el más rápido.
+
+[Misión de copia imposible: Velocidad de Kenzo Tanaka. El usuario murió en la isla de Jeju.]
+
+El punto oscuro se queda un rato quieto sobre los tres puntos apagados. Después sigue hacia el oeste. Al rato, dos puntos blancos más, de un equipo que encuentra los cuerpos, se encienden fuerte, uno con un frío como de hielo, y se apagan también. Kei. Y el que estaba con ella.
+
+Kase deja de clavarte las uñas. Se queda mirando hacia la costa este con los ojos muy abiertos.
+
+Abajo, dentro de la montaña, los coreanos no saben nada.
+
+Llegan a la cámara más profunda del nido: una caverna enorme, redonda, con el techo perdido en la oscuridad, las paredes cubiertas de una sustancia blanca, pegajosa, que brilla. Y en el centro, la reina.
+
+La sientes antes de entenderla: una masa de maná rojizo, pesado, del tamaño de un edificio de tres pisos. Un abdomen hinchado, enorme, que late. Patas como columnas. Y alrededor, una docena de puntos fuertes, más fuertes que las hormigas comunes, que se le ponen delante: la guardia real.
+
+Los coreanos atacan.
+
+El naranja de Choi estalla primero: fuego, mucho, llenando la caverna. Los puntos de la guardia se mueven rápido, atacan, se cruzan con los cazadores. El maná blanco de Baek Yoonho crece de golpe, salvaje, y cambia de forma: la bestia. El maná verde de Min Byung-Gyu se mueve de un lado a otro detrás de todos, sin parar, curando, curando, curando.
+
+Y el plateado de Cha Hae-in baila.
+
+La sientes moverse entre los guardias como una cinta, y los puntos fuertes, uno por uno, se apagan alrededor de ella. Uno. Tres. Siete. Ninguno la toca.
+
+La reina se mueve. Algo sale de ella, un chorro de maná rojizo, espeso, venenoso, hacia el grupo. El blanco de Baek se tambalea y se encoge. Otro punto, el del tanque, Ma Dongwook, se debilita. El verde de Min corre hacia ellos y los envuelve, pero el veneno es fuerte y la curación tarda.
+
+Cha Hae-in termina con el último guardia y no se detiene. Corre hacia la reina. Sube. La sientes subir por una de las patas, por el costado del abdomen, hasta la cabeza. El maná plateado se concentra en un solo punto, en el filo, todo, apretado.
+
+Un corte.
+
+La masa rojiza de la reina se parte en dos.
+
+Y entonces la reina grita.
+
+No lo escuchas: lo sientes. Una onda de maná rojizo sale de la caverna y atraviesa toda la montaña, toda la isla, como un trueno silencioso. Las miles de hormigas que estaban peleando con los japoneses en el oeste se detienen. Todas al mismo tiempo. Y se dan vuelta. Y empiezan a correr hacia el nido, hacia la reina, hacia los coreanos.
+
+Los japoneses no las siguen. Sus puntos blancos se quedan donde están. Después empiezan a alejarse, hacia la costa, hacia los helicópteros.
+
+Y el punto oscuro, el Rey, que iba por el oeste hacia Goto, se detiene en el aire.
+
+Gira.
+
+Va hacia el nido. Más rápido de lo que se movió en todo el día. Entra por un agujero, baja por los túneles como una bala, atraviesa la pared de fuego de Choi en la entrada sin frenar.
+
+En la caverna de la reina, los coreanos todavía están respirando, heridos, con el cadáver enorme delante. El verde de Min está agachado junto al blanco de Baek, curándolo. El plateado de Cha Hae-in baja de la cabeza de la reina, cansado, con el maná más bajo que en todo el día.
+
+El punto oscuro entra en la caverna.
+
+Se detiene en la entrada. Mira el cadáver de su madre.
+
+Su maná se vuelve negro.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1837 · SOLO LEVELING · DÍA 22 · 11:31  ║
+║ Isla de Jeju                                 ║
+║ Ladera del Hallasan · saliente de roca negra ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.282.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: erizado, mirando la montaña            ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: ¡El Rey entra a la cámara de Cha!  ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 10:42, saliente del Hallasan. 09:30 llegaron 4 helicópteros; Choi limpió la zona de salto con meteoritos. Coreanos (Choi, Baek, Min, Cha adelante; camarógrafo atrás) bajaron al nido; Choi dejó pared de fuego en la entrada; en la cámara de los huevos Cha vio el huevo enorme roto (entendió); siguen hacia la reina. Japoneses de cebo al oeste, atraen miles de hormigas; Goto corta (sombra de Jinwoo pegada a él). El REY HORMIGA salió a la superficie en la costa este (Facundo lo ve a 4 km: tamaño de hombre alto, erguido, caparazón negro metálico, alas transparentes), abrió las alas y va hacia el equipo de 3 japoneses aislado a 1 km de él (Akari sanadora, Kenzo Tanaka, Tatsumi). Kase clava las uñas. (Facundo observó todo por ki/Ojo del Eclipse a distancia: no vio técnicas de cerca.)
+ESTADO AL CIERRE: Día 22 11:31, saliente del Hallasan. El Rey mató al Equipo Charlie (Akari, Kenzo, Tatsumi) y luego a Kei e Ippei (copias de Kenzo y Kei: imposibles). Coreanos en la cámara de la reina: Choi fuego; Baek bestia; Min cura; Cha mata a la guardia real; veneno de la reina hiere a Baek y Ma Dongwook; Cha sube y DECAPITA a la reina. El grito de muerte hace volver a todas las hormigas al nido; los japoneses se retiran hacia la costa (abandonan a los coreanos). El Rey dio la vuelta, atravesó la pared de fuego y ENTRÓ en la cámara: ve a su madre muerta; su maná se vuelve negro. Coreanos heridos y cansados; Min curando a Baek; Cha bajando de la cabeza de la reina, con el maná bajo. (Canon inmediato: el Rey noquea a Cha y mata a Min.)

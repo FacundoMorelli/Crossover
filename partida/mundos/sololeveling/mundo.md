@@ -9,3 +9,4 @@ VELO: no despertado a cualquier medición; Cha Hae-in (olfato de maná) no le si
 - T1783 · Día 2 00:25 · Han Dong-su (~17, cazador rango E) tiene ahora maná de rango A: Facundo se lo ensanchó con la Transfiguración Ociosa (sin cambiar su alma ni su persona). Si se reevalúa, la Asociación lo registrará como un "segundo despertar".
 - T1812 · Día 4 · Han Dong-su reevaluado oficialmente rango A (segundo despertar público, por la Transfiguración Ociosa de Facundo). La Asociación lo registra como el segundo caso del mes.
 - T1812 · Día 4 · Facundo Morelli obtiene residencia provisoria en Corea (persona sin nacionalidad registrada; garante Cha Hae-in).
+- T1837 · Facundo, desde el Hallasan, eligió mirar a los coreanos y no intervenir con el Equipo Charlie: mueren Akari, Kenzo, Tatsumi, Kei e Ippei (como en el canon).

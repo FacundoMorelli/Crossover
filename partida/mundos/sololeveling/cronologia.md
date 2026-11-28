@@ -22,3 +22,4 @@ Llegada: Día 1, 21:40 (T1764).
 - Día 22 05:37 · (canon) El Rey hormiga ya nació (huevo roto en el nido) y recorre solo los túneles del este. Los cazadores aún no llegaron (buque en la costa sur).
 - Día 22 09:30 · Llegan 4 helicópteros; Choi limpia la zona de salto. Coreanos al nido (pared de fuego en la entrada); Cha ve el huevo enorme eclosionado. Japoneses de cebo al oeste.
 - Día 22 10:42 · El Rey hormiga sale a la superficie en la costa este y vuela hacia el Equipo Charlie (Akari, Kenzo, Tatsumi).
+- Día 22 ~10:45-11:30 · (canon) El Rey decapita al Equipo Charlie (Akari, Kenzo, Tatsumi) y después a Kei e Ippei. Coreanos vs guardia real y reina: veneno hiere a Baek y Ma; Cha decapita a la reina. El grito de muerte llama a todas las hormigas al nido; los japoneses no cubren la retaguardia y se retiran. El Rey vuelve al nido y entra en la cámara de la reina.

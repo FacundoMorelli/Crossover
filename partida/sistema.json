@@ -1,8 +1,8 @@
 {
-  "turno": 1836,
+  "turno": 1837,
   "mundo_actual": "sololeveling",
   "fecha_local": "Solo Leveling: Día 1 (arco de la Reevaluación / Puerta del Gremio de Cazadores)",
-  "hora": "Día 22, 10:42 (Jeju)",
+  "hora": "Día 22, 11:31 (Jeju)",
   "edad": 18,
   "nivel": 34,
   "exp": 486130,
@@ -1775,14 +1775,16 @@
       "mundo": "sololeveling",
       "mision": "Que Kenzo Tanaka salga vivo de la isla de Jeju.",
       "dificultad": "MEDIA",
-      "emitida": "T1826"
+      "emitida": "T1826",
+      "estado": "IMPOSIBLE: el usuario murió en Jeju (T1837)"
     },
     {
       "poder": "Magia de hielo de Kei",
       "mundo": "sololeveling",
       "mision": "Que Kei salga viva de la isla de Jeju.",
       "dificultad": "MEDIA",
-      "emitida": "T1827"
+      "emitida": "T1827",
+      "estado": "IMPOSIBLE: el usuario murió en Jeju (T1837)"
     }
   ],
   "misiones_de_copia_rechazadas": [],

@@ -4,3 +4,4 @@ RANGO: rango S
 PODER VISTO POR FACUNDO: muro de hielo de 3 m (T1827); (canon: olfato sensible al maná)
 ESTADO: (canon: muere en Jeju)
 MISIÓN DE COPIA (T1827): que salga viva de Jeju. (Cazadora; la que levantó el muro.)
+- T1837 · Día 22 · Muere en Jeju a manos del Rey hormiga, junto a Ippei, al encontrar los cuerpos del Equipo Charlie. Misión de copia: IMPOSIBLE.
