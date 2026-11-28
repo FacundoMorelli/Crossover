@@ -19,3 +19,7 @@ QUÉ SABE DE FACUNDO (T1779): que dice ser viajero, no cazador.
 - T1781 · Facundo: "Creo que sí. Nadie se queda igual para siempre." Lo repite bajito; se alivia. Kase se le sienta al lado; acerca la mano vendada sin tocarlo, sonríe de verdad. "Perdón. Te conté toda mi vida y ni siquiera sé cómo te llamas."
 - T1782 · Facundo: "Me llamo Facundo Morelli." "Pa-kun-do", se ríe de verdad; "Fa-cun-do... No es de aquí, ¿verdad? Suena a lejos." Vive con su abuela (se despierta si llega tarde y se preocupa). "Yo vengo aquí casi todas las noches, después de las Puertas. Si sigues por la ciudad... no sé. Por si quieres hablar otra vez."
 QUÉ SABE DE FACUNDO (T1782): nombre Facundo Morelli; viajero; no es cazador.
+- T1783 · Facundo le pone la mano en el hombro y con la Transfiguración Ociosa le ensancha el maná de rango E a rango A (no toca su alma ni quién es; sin dolor). "Nos vemos, Dong. Ve a hacerte una reevaluación después." Siente el cambio: abre y cierra las manos, respira distinto, se endereza. Pálido, ojos brillantes: "Facundo... ¿Qué... qué me hiciste?"
+RANGO REAL DESDE T1783: maná de rango A (credencial todavía dice E).
+QUÉ SABE DE FACUNDO (T1783): que lo tocó y en ese momento su maná cambió (lo sintió; deduce que fue Facundo); que le dijo que se reevaluara.
+QUÉ PODERES DE FACUNDO VIO: ninguno visible; sintió el efecto de la Transfiguración Ociosa.

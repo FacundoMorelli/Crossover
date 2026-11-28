@@ -6,4 +6,4 @@ DON DE MUNDO: Llave de las Puertas (ver sistema.json).
 MISIÓN DE MUNDO: Que todos los cazadores coreanos de la incursión a la Isla de Jeju vuelvan vivos (canon: muere Min Byung-Gyu y varios más).
 VELO: no despertado a cualquier medición; Cha Hae-in (olfato de maná) no le siente olor (como a Jinwoo, pero aún más: nada).
 ## CAMBIOS POR CULPA DE FACUNDO
-(ninguno todavía)
+- T1783 · Día 2 00:25 · Han Dong-su (~17, cazador rango E) tiene ahora maná de rango A: Facundo se lo ensanchó con la Transfiguración Ociosa (sin cambiar su alma ni su persona). Si se reevalúa, la Asociación lo registrará como un "segundo despertar".

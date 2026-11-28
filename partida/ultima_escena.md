@@ -3,58 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1780)
-
-y con el rango que despertás es con el que te quedas?
-
-## RESPUESTA 1 (T1780)
-
-> y con el rango que despertás es con el que te quedas?
-
-> —¿Y con el rango que despiertas es con el que te quedas?
-
-Dong-su asiente sin pensarlo, como si le preguntaras si el agua moja.
-
-—Sí. El maná que despiertas es el que tienes. Para siempre. —Se encoge de hombros—. Puedes entrenar, hacerte más fuerte de cuerpo, aprender a pelear mejor. Pero el maná no sube. Un E es un E hasta que se muere.
-
-Mira el río un rato. Un barco de turistas, tarde, cruza despacio con las luces de colores encendidas y música lejana.
-
-—Bueno. Casi siempre. —Se le escapa una risa corta por la nariz—. Hay una cosa que llaman "segundo despertar". Que alguien despierta otra vez, ya siendo cazador, y le sube el rango. Pasa una vez en muchos años. Es como ganarse la lotería.
-
-Saca un celular viejo, con la pantalla rajada en una esquina, y lo desbloquea. Busca algo con el pulgar y te lo muestra.
-
-Es una nota de un portal de noticias. Una foto borrosa, tomada de lejos, de un chico de pelo negro y chaqueta negra saliendo de un edificio de la Asociación. El titular dice:
-
-"Cazador de rango E reevaluado como rango S: el primer caso en la historia de Corea".
-
-Debajo, el nombre: Sung Jinwoo.
-
-—Salió hace unos días —dice Dong-su—. De E a S. De lo peor a lo mejor. Dicen que antes le decían "el cazador más débil del mundo". —Guarda el celular—. Todos los de rango E del país lo leímos cien veces.
-
-Mira sus zapatillas rotas.
-
-—Yo sé que a mí no me va a pasar. Pero... —Se calla. Te mira de reojo, a la cicatriz, a los ojos—. ¿Tú crees que la gente puede cambiar lo que es? ¿O lo que te toca, te toca?
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1780 · SOLO LEVELING · DÍA 2 · 00:18   ║
-║ Seúl, Corea del Sur                          ║
-║ Parque junto al río Han · tienda 24 horas    ║
-║ NIVEL 34 · EXP 486.130/530.000               ║
-║ FRAGMENTOS 298.805 · 1.292.800 won           ║
-║ Energía 100% · Ojos: bien                    ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: lamiéndose los bigotes junto al plato  ║
-║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
-║ OBJETIVO: Cha Hae-in vuelve a la una         ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1781)
+## COMANDO 1 (T1781)
 
 creo que si, nadie se queda igual para siempre
 
-## RESPUESTA 2 (T1781)
+## RESPUESTA 1 (T1781)
 
 > creo que si, nadie se queda igual para siempre
 
@@ -95,11 +48,11 @@ Después se acomoda la capucha y se aclara la garganta, un poco avergonzado.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1782)
+## COMANDO 2 (T1782)
 
 me llamo Facundo Morelli
 
-## RESPUESTA 3 (T1782)
+## RESPUESTA 2 (T1782)
 
 > me llamo Facundo Morelli
 
@@ -136,6 +89,53 @@ Dong-su se queda parado junto a la mesa, con las manos en los bolsillos, mirando
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1783)
+
+lo toco uso la técnica de mahito para agrandar su mana a rango A, nos vemos dong, ve a hacerte una reevaluacion despues
+
+## RESPUESTA 3 (T1783)
+
+> lo toco uso la técnica de mahito para agrandar su mana a rango A, nos vemos dong, ve a hacerte una reevaluacion despues
+
+Te acercas y le apoyas la mano en el hombro, por encima de la campera gastada. Es un gesto cualquiera, como el de alguien que se despide.
+
+Debajo de la palma, con la Transfiguración Ociosa, sientes su alma: chiquita, apretada, encogida, como algo que lleva mucho tiempo creciendo dentro de una caja demasiado estrecha. Y alrededor, enredado en ella, su maná. Es poco, un hilo fino, de rango E.
+
+No la cambias. No le tocas nada de lo que es. Solo abres la caja.
+
+Tomas el hilo de maná y lo ensanchas, despacio, con cuidado, como quien agranda el cauce de un río sin moverle el agua. El hilo se vuelve una cuerda, después un arroyo, después una corriente ancha y firme que recorre todo el cuerpo del chico y se asienta. Rango A. Se queda ahí, como si siempre hubiera sido así.
+
+No duele. Desde afuera no se ve nada: una mano en un hombro, un segundo, dos.
+
+> —Nos vemos, Dong. Ve a hacerte una reevaluación después.
+
+Le sacas la mano.
+
+Dong-su no contesta. Se queda quieto, con la boca un poco abierta. Se mira la mano vendada. La abre y la cierra, despacio. Después la otra.
+
+Respira hondo, y el aire le entra distinto. Se le nota en el pecho, en la espalda, en cómo se le endereza el cuerpo sin que él lo decida. El vendaje sucio de los nudillos de golpe parece de otra persona.
+
+A tus pies, Kase mira al chico con los ojos entrecerrados, tranquilo.
+
+Dong-su levanta la vista hacia ti. Tiene los ojos muy abiertos, brillantes, y la cara pálida, como si acabara de despertarse de un sueño y todavía no supiera cuál de los dos lados es el real.
+
+—Facundo... —dice, con la voz temblando—. ¿Qué... qué me hiciste?
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1783 · SOLO LEVELING · DÍA 2 · 00:25   ║
+║ Seúl, Corea del Sur                          ║
+║ Parque junto al río Han · tienda 24 horas    ║
+║ NIVEL 34 · EXP 486.130/530.000               ║
+║ FRAGMENTOS 298.805 · 1.292.800 won           ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: a tus pies, mirando a Dong-su          ║
+║ MISIÓN DE MUNDO: Cazadores de Jeju vivos     ║
+║ OBJETIVO: Cha Hae-in vuelve a la una         ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 2 00:24. Facundo se presenta. Dong-su: "Pa-kun-do", se ríe, lo corrige. "Suena a lejos." Se levanta, tira el vaso, guarda la credencial. Tiene que volver: su abuela se despierta y se preocupa. "Yo vengo aquí casi todas las noches, después de las Puertas. Si sigues por la ciudad... Por si quieres hablar otra vez." Kase volvió a los pies de Facundo.
+ESTADO AL CIERRE: Día 2 00:25. Facundo, con la mano en el hombro de Dong-su y la Transfiguración Ociosa, ensanchó su maná de rango E a rango A (sin tocar su alma ni quién es; sin dolor; nada visible). "Nos vemos, Dong. Ve a hacerte una reevaluación después." Dong-su siente el cambio (cuerpo, respiración), pálido, ojos brillantes: "Facundo... ¿Qué... qué me hiciste?"

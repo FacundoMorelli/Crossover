@@ -1782,3 +1782,4 @@ T1779 · SOLO LEVELING · Río Han · El chico es Han Dong-su, cazador rango E, 
 T1780 · SOLO LEVELING · Río Han · Dong-su explica rangos y el segundo despertar; nota de Jinwoo E→S. "¿La gente puede cambiar lo que es?"
 T1781 · SOLO LEVELING · Río Han · "Nadie se queda igual para siempre." Kase se sienta junto a Dong-su. Le pregunta el nombre.
 T1782 · SOLO LEVELING · Río Han · Se presenta a Dong-su ("Pa-kun-do"). Dong-su vuelve con su abuela; va al río casi todas las noches.
+T1783 · SOLO LEVELING · Río Han · Transfiguración Ociosa: el maná de Han Dong-su pasa de rango E a A. "Ve a hacerte una reevaluación." "¿Qué me hiciste?"

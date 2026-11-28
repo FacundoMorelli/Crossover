@@ -17,3 +17,6 @@
 - T1776 · FACUNDO vio el noticiero público sobre Jeju (fuente válida para mencionarlo).
 - T1780 · FACUNDO leyó (celular de Dong-su) la nota pública de Jinwoo reevaluado E→S, y sabe por Dong-su qué es el "segundo despertar".
 - T1782 · HAN DONG-SU sabe (por Facundo) su nombre, que es viajero y no cazador.
+- T1783 · HAN DONG-SU sintió que su maná creció (E→A) cuando Facundo le tocó el hombro; deduce que Facundo le hizo algo. Facundo le dijo "ve a hacerte una reevaluación". Nadie más lo vio (el dueño de la tienda solo vio una mano en un hombro).
+## QUIÉN VIO QUÉ PODERES
+- Han Dong-su: efecto de la Transfiguración Ociosa (sintió, no vio). T1783.
