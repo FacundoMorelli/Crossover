@@ -35,3 +35,4 @@ QUÉ SABE DE FACUNDO (T1832): que Facundo sabe de sus sombras y de su capacidad 
 QUÉ SABE DE FACUNDO (T1841): todo lo que se vio en vivo (y lo que le contó su sombra): paró la garra con una mano, mató al Rey a puñetazos, la onda que derribó a todas las hormigas.
 - T1842 · Facundo: "Te dije que no hacía falta que vinieras." No contesta; se le apaga la luz de los ojos. Cara de quien llegó tarde a algo que creía que solo él podía resolver. Mira al Rey muerto con el interés del "Levántate": "¿Me lo dejas?"
 - T1843 · Facundo: "Sí, es tuyo. Levántalo." Asiente. "Levántate.": la sombra del Rey (canon: Beru) se arrodilla. Después la sombra mira a Facundo, se encoge y se esconde detrás de las piernas de Jinwoo. Casi se ríe: "Se acuerda de ti." La guarda en su sombra. (Beru no comió a Min: no tiene su curación ni habla coreano por esa vía.)
+- T1844 · Se mete las manos en los bolsillos y mira a la pared para dejar solos a Facundo y Cha.

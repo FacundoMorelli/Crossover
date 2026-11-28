@@ -55,3 +55,4 @@
 - T1841 · PÚBLICO (EN VIVO, Corea y el mundo): Facundo mata al Rey hormiga a puñetazos y una onda suya (chispas azules y blancas) derriba a todas las hormigas de la isla. QUIÉN VIO QUÉ PODERES: fuerza y velocidad descomunales; Haki del Rey (interpretado como "una onda", desconocido) — coreanos presentes, camarógrafo, audiencia en vivo, Jinwoo (por su sombra y en persona). Ninguna medición le siente maná (Velo).
 - T1842 · PÚBLICO (EN VIVO): Facundo saca de la nada "semillas" verdes que curan todo y llenan el maná de 16 cazadores (Min: "no es curación, es todo de vuelta").
 - T1843 · PÚBLICO (EN VIVO): Sung Jinwoo convierte al Rey hormiga en una sombra arrodillada ("Levántate"); la sombra le teme a Facundo. Los coreanos presentes lo ven.
+- T1844 · El buque de la Asociación perdió la señal de la transmisión en vivo (en algún momento después de las hormigas caídas). Los japoneses reportan que todas las hormigas cayeron a la vez.
