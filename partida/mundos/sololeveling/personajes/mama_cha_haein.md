@@ -26,3 +26,4 @@ FAMILIA: viuda; marido bombero, murió en un incendio.
 - T1856 · Les sirve té de cebada y peras. "¿Dónde fueron?" Sospecha algo y no pregunta. Atiende el teléfono fijo ("seguro es la vecina del tercero").
 - T1857 · Llamada de Min Byung-Gyu (tiene su número de años, de avisarle cosas): su padre quiere conocer "al chico que le devolvió a su hijo"; cena esta noche en su casa en Mapo, los dos y el gato. "Le dije que les preguntaba. ¿Qué le digo?"
 - T1858 · Facundo: "Sí, dígale que vamos con gusto." "Así me gusta." Llama a Min: que sí, a qué hora, si el gato come pescado crudo, que el padre no cocine solo, que ella manda kimchi. "A las siete. En Mapo... Y no se va con las manos vacías a la casa de un señor mayor. Llevan fruta. Y el kimchi que yo les preparo."
+- T1859 · Día 24 · Cocina para cuarenta; no habla de la partida. Le da un frasco enorme de kimchi "donde sea que vayas". Le toma la cara, dos palmadas, cierra rápido la puerta verde.

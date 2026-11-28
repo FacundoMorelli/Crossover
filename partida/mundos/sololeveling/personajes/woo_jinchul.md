@@ -19,3 +19,4 @@ QUÉ SABE DE FACUNDO (T1806): nombre; foto pública; sin registros; no despertad
 - T1812 · Día 4 10:00 · Sede de la Asociación (techo azul). Tramita la residencia provisoria: foto, huellas, firmas, sellos. "Un año, renovable. No se meta en problemas, señor Morelli." Le da la mano.
 - T1845 · Día 22 · En la cubierta del buque, con teléfono satelital. Cuenta a los 16 coreanos moviendo los labios. Se saca los anteojos: ojos rojos. "Señor Morelli. El presidente Go Gunhee está en la línea. Quiere hablar con usted."
 - T1847 · Recibe el teléfono de vuelta con una inclinación profunda.
+- T1859 · Día 23 · Le da la mano en el vestíbulo de la Asociación, larga; le entrega el sobre de Go Gunhee.

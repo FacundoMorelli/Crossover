@@ -3,64 +3,11 @@
 
 ---
 
-## COMANDO 1 (T1856)
-
-cierro el portal y vuelvo con ella a la casa
-
-## RESPUESTA 1 (T1856)
-
-> cierro el portal y vuelvo con ella a la casa
-
-Bajas la mano.
-
-La puerta se cierra despacio, como se abrió: las dos hojas de luz se juntan hacia el centro, y el cielo azul del otro lado se achica, y la pradera, y las montañas, y las cúpulas blancas, hasta que queda solo una línea fina, vertical, blanca y azul, entre las hojas del ginkgo. Después, nada. El zumbido grave se apaga.
-
-En la plaza vuelve a oler a otoño de Seúl: hojas secas, escape, castañas de algún puesto lejano.
-
-En el piso, justo donde estaba la puerta, quedó una sola hoja de pasto verde, más verde que cualquier pasto de la plaza, que entró con el viento del otro lado. Cha Hae-in la ve. Se agacha y la levanta con dos dedos, con cuidado. La mira un rato largo. Después la guarda en el bolsillo interior de la chamarra de su mamá, sin decir nada.
-
-Vuelven caminando de la mano por la calle tranquila del barrio, entre las bicicletas atadas a las rejas y las ventanas que siguen repitiendo tu nombre. Kase va en tu hombro, mirando hacia atrás, hacia la plaza, hasta que doblan la esquina.
-
-Cuatro pisos por la escalera. Puerta verde.
-
-Adentro, la señora Kang ya limpió la mesa y puso tres tazas de té de cebada humeante y un plato con las peras que sobraron de la caja, cortadas en gajos. La tele sigue encendida, sin volumen. Ella está sentada en el almohadón, esperando, con las manos juntas.
-
-—¿Dónde fueron? —pregunta, mirándolos de arriba abajo.
-
-—A la plaza, mamá. —Cha Hae-in se saca la chamarra y la cuelga en la entrada con cuidado, sin tocar el bolsillo donde guardó la hoja de pasto—. Hacía falta aire.
-
-La señora Kang los mira a los dos. Entrecierra los ojos, como si supiera que hay algo más y decidiera no preguntar.
-
-—Siéntense. El té se enfría.
-
-Se sientan. Cha Hae-in a tu lado, pegada a tu hombro. Kase baja al sofá, a la manta tejida.
-
-A los dos minutos suena el teléfono fijo de la casa, en el pasillo. La señora Kang suspira, se levanta, refunfuñando que seguro es la vecina del tercero otra vez, y va a atender.
-
-Cha Hae-in espera a que se oiga la voz de su mamá en el pasillo. Después se inclina hacia ti, con la taza entre las manos, y te habla al oído, muy bajito, con los ojos brillantes.
-
-—Ahora —susurra—. Rápido, antes de que vuelva. Cuéntame algo del lugar de ese cielo.
-
-```
-╔══════════════════════════════════════════════╗
-║ TURNO 1856 · SOLO LEVELING · DÍA 22 · 13:02  ║
-║ Seúl, Corea del Sur                          ║
-║ Casa de la señora Kang · mesa del living     ║
-║ NIVEL 35 · EXP 549.130/580.000               ║
-║ FRAGMENTOS 341.405 · 1.282.800 won           ║
-║ Energía 95% · Ojos: bien                     ║
-║ Sin transformar · Velo: persona común        ║
-║ Kase: en el sofá, sobre la manta tejida      ║
-║ MISIÓN DE MUNDO: CUMPLIDA (15/16)            ║
-║ OBJETIVO: Cha: "Cuéntame algo de ese cielo"  ║
-╚══════════════════════════════════════════════╝
-```
-
-## COMANDO 2 (T1857)
+## COMANDO 1 (T1857)
 
 en ese lugar hay gente no igual de fuerte que yo, pero que pasa mucho el poder de este, hay dioses de la creación y de la destrucción, distintos universos, cada uno con diferentes planetas, dioses, humanos, diferentes razas
 
-## RESPUESTA 2 (T1857)
+## RESPUESTA 1 (T1857)
 
 > en ese lugar hay gente no igual de fuerte que yo, pero que pasa mucho el poder de este, hay dioses de la creación y de la destrucción, distintos universos, cada uno con diferentes planetas, dioses, humanos, diferentes razas
 
@@ -121,11 +68,11 @@ Cruza los brazos.
 ╚══════════════════════════════════════════════╝
 ```
 
-## COMANDO 3 (T1858)
+## COMANDO 2 (T1858)
 
 si, dile que vamos con gusto
 
-## RESPUESTA 3 (T1858)
+## RESPUESTA 2 (T1858)
 
 > si, dile que vamos con gusto
 
@@ -172,6 +119,97 @@ Bosteza, tapándose la boca con el dorso de la mano, sin poder evitarlo. Se le c
 ╚══════════════════════════════════════════════╝
 ```
 
+## COMANDO 3 (T1859)
+
+simula un par de dias despidiendome de todos y yendo a one piece
+
+## RESPUESTA 3 (T1859)
+
+> simula un par de dias despidiendome de todos y yendo a one piece
+
+...
+
+La cena en Mapo es en una casa vieja de una sola planta, con un patio de tierra, redes de pesca colgadas en la pared y olor a pescado a la parrilla. El padre de Min Byung-Gyu es un hombre bajo, flaco, curtido por el sol, con las manos llenas de cicatrices de anzuelos. Cuando te ve entrar, no dice nada: se inclina hasta casi tocar el piso y se queda así un rato largo, hasta que Min, colorado, lo levanta de los hombros. Después cocina toda la noche y no deja que nadie más toque la parrilla. A Kase le sirve un pescado entero, crudo, recién sacado del agua. Kase lo acepta como un tributo. Al final de la cena, el señor te pone en la mano un anzuelo viejo, de hierro, gastado, envuelto en un trapo. "El primero que me hizo pescar mi padre", te dice Min que dice. "Para que vuelvas a pescar con nosotros."
+
+Esa noche, en el hotel, Cha Hae-in se duerme antes de sacarse los zapatos.
+
+El día veintitrés, en la mesita de luz de la 2207, aparece otra lata de atún para gatos. Debajo hay un papel doblado, con una letra apretada, de alguien que no escribe mucho: "Gracias. — S. J." Kase se come el atún. El papel lo guardas.
+
+Ese día pasas por el Gremio de Cazadores. Choi Jong-In te recibe en su oficina, de pie, y te dice que el gremio tiene una puerta abierta para ti para siempre, con o sin maná, y que Goto Ryuji se volvió a Tokio anoche pero le dejó un mensaje: que la pelea ahora la queda debiendo él. Woo Jinchul te da la mano en el vestíbulo de la Asociación, más tiempo que la primera vez. Go Gunhee no aparece: está en una reunión con el gobierno. Te manda con Woo un sobre cerrado, con su letra, que dice solo: "Cuando quiera volver, esta casa también es suya."
+
+Esa noche vas al río Han, a la tienda de veinticuatro horas. Dong-su está ahí, en la mesa de plástico, con un ramyeon. Pero ya no tiene la capucha, ni los tenis rotos. Tiene una credencial nueva colgada del cuello, con una letra A en un recuadro dorado, y un gremio mediano le ofreció contrato el mismo día de la reevaluación. Cuando te ve llegar, se pone de pie de golpe, tira la silla, y no sabe qué decir. Al final no dice nada. Te abraza. Después se ríe, avergonzado, y le compra a Kase dos latas de atún con su primera paga. El señor del mostrador pone el platito de cartón sin que nadie se lo pida.
+
+El día veinticuatro es el último.
+
+La señora Kang cocina para cuarenta. No habla de que te vas en ningún momento. Habla del precio del repollo, del vecino del tercero, de que el gato está más gordo. Al final, cuando ya están en la puerta verde, te da un frasco enorme de kimchi envuelto en tres bolsas de plástico, para el viaje, "donde sea que vayas". Después te agarra la cara con las dos manos, desde abajo, como la primera vez, y te mira un rato largo. Te da las dos palmadas en el brazo. Y cierra la puerta rápido, antes de que se le note.
+
+Guardas el frasco en el inventario.
+
+A las seis de la tarde, con el sol bajando, están otra vez en la plaza del barrio, debajo del ginkgo. Quedan menos hojas amarillas en las ramas que hace dos días. El piso está cubierto.
+
+Cha Hae-in lleva la chamarra mostaza de su mamá. Tiene las manos en los bolsillos. No llora. Está tranquila, con la cara seria de antes de entrar a una Puerta, pero cuando te mira se le ablanda.
+
+Saca algo del bolsillo y te lo pone en la mano. Es una foto impresa, en papel brillante, un poco arrugada en una esquina: la foto borrosa del mercado de Gwangjang, la de los diarios, la que vio todo el país. Ella con la gorra y los anteojos de sol, tú con el pelo blanco y azul, Kase en tu hombro. El beso.
+
+—La imprimí en la tienda de la esquina del hotel —dice—. El chico me reconoció y no me cobró. —Se ríe, bajito—. Es la única foto que tenemos juntos.
+
+Te mira.
+
+—Una flor —dice—. No te olvides.
+
+Te da un beso. Corto. Suave. Con los ojos cerrados.
+
+Después se aparta un paso, y espera.
+
+Abres la puerta. La línea de luz blanca y azul entre las hojas del ginkgo, las dos hojas que se abren despacio. Del otro lado, esta vez, no hay un cielo azul: hay noche, y viento con polvo blanco, y torres de piedra pálida bajo la luna, y el ruido del mar.
+
+Cha Hae-in mira del otro lado. Respira hondo por la nariz. Sonríe.
+
+—Huele a sal —dice—. Y a libros.
+
+Kase se sube a tu hombro. Cruzas la puerta.
+
+Lo último que ves de ese mundo, al darte vuelta, es a ella, de pie debajo del ginkgo, en la chamarra mostaza de su mamá, con la mano levantada, despacio, como aquella noche en las puertas de espejo del ascensor.
+
+La puerta se cierra.
+
+...
+
+Viento. Sal. Polvo blanco. El ruido de las olas golpeando contra acantilados, abajo, lejos.
+
+Estás en un pasillo angosto de piedra blanca, de techo bajo, iluminado por una sola lámpara de aceite colgada de la pared. Conoces este pasillo. Al fondo, una puerta de madera entreabierta, con luz amarilla saliendo por la rendija.
+
+Baltigo.
+
+[One Piece. Pasaron unos tres meses desde tu última salida. Día ~226 del viaje en este mundo. El tiempo de los dos años sigue corriendo.]
+
+Te acercas a la puerta. Por la rendija se ve el cuarto: los libros por todos lados, los mapas clavados con cuchillos, la cama angosta, la ventana con la luna. Y en la mesa, de espaldas a la puerta, inclinada sobre un cuaderno abierto, con una pluma en la mano y una taza de café frío al lado, una mujer de pelo negro, más largo que la última vez, atado atrás.
+
+Está escribiendo. En la tapa del cuaderno, cerrado sobre la mesa junto al abierto, se lee con su letra chiquita: "Los mundos de Facundo".
+
+Kase, en tu hombro, levanta la nariz. Huele el aire. Y maúlla. Una vez. Bajito.
+
+La pluma se detiene.
+
+Nico Robin se queda quieta, de espaldas, sin darse vuelta. La mano con la pluma suspendida sobre el papel.
+
+—¿Kase? —dice, muy bajito.
+
+```
+╔══════════════════════════════════════════════╗
+║ TURNO 1859 · ONE PIECE · DÍA ~226 · 21:40    ║
+║ Baltigo · base del Ejército Revolucionario   ║
+║ Pasillo, puerta del cuarto de Robin          ║
+║ NIVEL 35 · EXP 549.130/580.000               ║
+║ FRAGMENTOS 341.405 · 5.950.000 berries       ║
+║ Energía 100% · Ojos: bien                    ║
+║ Sin transformar · Velo: persona común        ║
+║ Kase: en el hombro, acaba de maullar         ║
+║ MISIÓN DE MUNDO: One Piece · CUMPLIDA        ║
+║ OBJETIVO: Robin, de espaldas: "¿Kase?"       ║
+╚══════════════════════════════════════════════╝
+```
+
 ---
 
-ESTADO AL CIERRE: Día 22 13:14, casa de la señora Kang. "Sí, dígale que vamos con gusto." La señora Kang llamó a Min: cena a las 19:00 en Mapo (Min manda la dirección al celular de Cha); preguntó si el gato come pescado crudo; manda kimchi; "no se va con las manos vacías": fruta y su kimchi. Cha, sucia de la caverna, sin dormir desde ayer: "Necesito bañarme. Y dormir una hora. O dos. ¿Volvemos al hotel? Un rato. Antes de la cena."
+ESTADO AL CIERRE: (Simulado Días 22-24 Solo Leveling: cena en Mapo con Min y su padre (anzuelo); nota de Jinwoo "Gracias. — S. J."; despedidas de Choi (puerta abierta; Goto le debe la pelea), Woo, Go Gunhee (sobre: "esta casa también es suya"), Dong-su (rango A, contrato, abrazo, atún para Kase), la señora Kang (kimchi; palmadas). Día 24 18:05, plaza del ginkgo: Cha le da la foto del beso de Gwangjang; "Una flor. No te olvides."; beso; puerta a One Piece; ella lo ve irse.) ONE PIECE Día ~226 21:40: pasillo de piedra blanca de Baltigo, frente al cuarto de Robin. Robin, de espaldas, escribe en un cuaderno (tapa: "Los mundos de Facundo"), pelo más largo atado. Kase maúlla. Robin, sin darse vuelta: "¿Kase?"

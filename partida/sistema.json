@@ -1,8 +1,8 @@
 {
-  "turno": 1858,
-  "mundo_actual": "sololeveling",
-  "fecha_local": "Solo Leveling: Día 1 (arco de la Reevaluación / Puerta del Gremio de Cazadores)",
-  "hora": "Día 22, 13:14 (Seúl)",
+  "turno": 1859,
+  "mundo_actual": "onepiece",
+  "fecha_local": "One Piece: Día ~226 (timeskip de dos años en curso, ~5,5 meses)",
+  "hora": "Día ~226, 21:40 (Baltigo)",
   "edad": 18,
   "nivel": 35,
   "exp": 549130,
@@ -101,7 +101,7 @@
     "energia": 4006,
     "control": 4005
   },
-  "energia_actual_pct": 96,
+  "energia_actual_pct": 100,
   "eclipse": {
     "maestria": 100,
     "partes_desbloqueadas": [
@@ -796,6 +796,31 @@
       "mundo": "sololeveling",
       "cantidad": 1,
       "nota": "emitida Día 4 por la Asociación (Woo Jinchul); la lleva encima"
+    },
+    {
+      "objeto": "Anzuelo viejo de hierro envuelto en un trapo (del padre de Min Byung-Gyu: \"el primero que me hizo pescar mi padre\")",
+      "mundo": "sololeveling",
+      "turno": 1859
+    },
+    {
+      "objeto": "Nota \"Gracias. — S. J.\" (Sung Jinwoo, con una lata de atún)",
+      "mundo": "sololeveling",
+      "turno": 1859
+    },
+    {
+      "objeto": "Sobre cerrado de Go Gunhee: \"Cuando quiera volver, esta casa también es suya.\"",
+      "mundo": "sololeveling",
+      "turno": 1859
+    },
+    {
+      "objeto": "Frasco enorme de kimchi de la señora Kang Mi-sook (tres bolsas)",
+      "mundo": "sololeveling",
+      "turno": 1859
+    },
+    {
+      "objeto": "Foto impresa del beso en Gwangjang (la de los diarios), regalo de Cha Hae-in: \"Es la única foto que tenemos juntos.\"",
+      "mundo": "sololeveling",
+      "turno": 1859
     }
   ],
   "copias": [
@@ -2640,7 +2665,7 @@
         "cuarta_salida": "21/12 21:26 (T1039), plaza de la feria navideña de Karakura. Vieron la Puerta: Ichigo, Rukia, Orihime, Chad, Uryū, Karin. Ichigo tiene un botón de aviso. Corre."
       },
       "dragonball": "Salida año 774 ~día 96 ~18:35 desde el Templo Sagrado. Prometió a Dende volver en unos días a ver a los demás (Videl entrena con Gohan, \"te va a ganar\"). Corre. REGLA R14 (T1440, a pedido del jugador, solo esta vez): el reloj de Dragon Ball se acelera: los ~4 años hasta la llegada de Bills (canon: año 778, Battle of Gods) pasan en UN MES de Facundo, contando desde T1440 (Día ~120 de One Piece). Bills llega a la Tierra cuando a Facundo le pase un mes desde ahora. Después, el reloj vuelve a la normalidad.",
-      "onepiece": "VUELVE (T1440): Día ~120 00:05 (~63 días después de irse el Día 57 17:52), bar de Shakky, Grove 13, Sabaody. Timeskip de dos años en curso (~2 meses). Corre.",
+      "onepiece": "VUELVE (T1859): Día ~226 21:40 (~97 días de Facundo desde la salida del Día ~129), pasillo del cuarto de Robin, Baltigo. Timeskip de dos años en curso (~5,5 meses desde Marineford). Corre.",
       "shingeki": "Salida día 66 13:35 desde el patio trasero del ayuntamiento de Shiganshina. Mundo sin titanes; revividos; paz. Prometió a Ymir volver (guarda las manzanas). Corre.",
       "blackclover": "VUELVE ~90 días después de irse (T489, salida dos días después de la luna llena 06:18). Explanada de la base de los Toros Negros, 12:10, día del asalto a la base del Ojo (canon c138).",
       "equivalencia_op_shingeki": "One Piece = Shingeki + 9 días 5 h 30 min (fiesta Tybur día 40 19:00 = OP Día 50 00:30). Shingeki día 44 02:48 = OP Día 53 08:18. Marineford (canon) ~OP Día 57-58 = Shingeki días 48-49.",
@@ -2656,7 +2681,7 @@
       "chainsawman": "Llegada Día 1 (fines de oct. 1997) 19:30. Salida Día 9 18:40 (T1737), azotea del edificio de Aki, Tokio. Corre al ritmo de Facundo. MISIÓN DE MUNDO NO CUMPLIDA (Aki vivo tras el Pistola; el ataque del Pistola es en nov-dic 1997).",
       "fullmetal": "Llegada Día 1, 1914 (T1738). Día Prometido Día 31. Salida Día 36, atardecer, colina de la tumba de Trisha en Resembool (T1763). Corre al ritmo de Facundo.",
       "dragonball_vuelta_T1764": "Vuelta ~6,5 semanas después de la salida (3 días con Erasa y los demás). Salida otra vez de noche desde la colina del parque central. Corre al ritmo de Facundo. Freezer: Sorbet llega ~3,5 meses después de esta salida; ataque ~7,5 meses después.",
-      "sololeveling": "Llegada Día 1, 21:40, Gangnam, Seúl (T1764). Arco 6 (Reevaluación/Puerta del Gremio de Cazadores). Corre al ritmo de Facundo."
+      "sololeveling": "Llegada Día 1, 21:40, Gangnam (T1764). MISIÓN CUMPLIDA Día 22 (Jeju). SALIDA Día 24 ~18:05, plaza del ginkgo del barrio de la señora Kang (este de Seúl), testigo Cha Hae-in. Corre al ritmo de Facundo."
     },
     "puerta_abierta": true,
     "historial_misiones": {
@@ -3003,7 +3028,8 @@
     "sololeveling_llegada": "Elegido al azar (T1764) entre demonslayer/sololeveling: sololeveling. Momento al azar: arco 6 (caps. 76-92), noche de la incursión del Gremio de Cazadores (Puerta de rango A en Gangnam; orcos altos; Kargalgan → Tusk). Después: Jeju (arco 8).",
     "apodo_pendiente_sololeveling": "'El cazador sin olor' (entre cazadores, por Cha Hae-in) / 'el Cerrajero' (si lo ven cerrar Puertas).",
     "sololeveling_jeju_fecha": "T1818: 4.ª incursión a Jeju anunciada Día 8 a los S; fecha: Día 22 (dos semanas). 18 cazadores coreanos S/A + japoneses (Goto Ryuji). Canon: muere Min Byung-Gyu (el Rey Hormiga lo come) y varios más; Jinwoo llega por Intercambio de Sombras con la sombra que dejó junto a Cha Hae-in (si lo hace en esta línea).",
-    "sololeveling_jeju_canon_detallado": "(Fuente: repo FacundoMorelli/SoloLeveling, partida/Canon/07_isla_de_jeju.md) Día 11 (en esta línea): entrenamiento en el gimnasio de la Asociación, Jinwoo mira desde el balcón con Gunhee y Choi. 4 vs 4: Kenzo vence a Ma Dongwook; Hoshino vence a Lim Taegyu; Hoshino y Tanaka vencen a Baek; Cha vence a Kanae Tawata; Kumamoto se descontrola contra Cha y Jinwoo interviene y lo incapacita. Luego Goto desafía a Jinwoo (duda que sea mago): Jinwoo esquiva todo; Goto ataca a matar y le corta la mejilla; Jinwoo le sujeta la mano; Kei levanta muro de hielo; los separan; sin ganador. Jinwoo deja sombras en Goto y Cha (o Yoonho). Jinwoo decide no ir a Jeju (cuidar a su madre). Día 22 incursión: japoneses cebo; el Rey hormiga mata a Akari, Kenzo, Tatsumi, Kei, Ippei, Mari, GOTO (dos golpes) y MIN BYUNG-GYU (le come la cabeza); noquea a Cha casi muerta. Matsumoto ordena abandonar a los coreanos. Jinwoo llega por Intercambio de Sombras, mata al Rey (Beru). Sobreviven Choi, Cha, Baek, Ma Dongwook, Lim Taegyu, Hoshino, Kanae, Kumamoto."
+    "sololeveling_jeju_canon_detallado": "(Fuente: repo FacundoMorelli/SoloLeveling, partida/Canon/07_isla_de_jeju.md) Día 11 (en esta línea): entrenamiento en el gimnasio de la Asociación, Jinwoo mira desde el balcón con Gunhee y Choi. 4 vs 4: Kenzo vence a Ma Dongwook; Hoshino vence a Lim Taegyu; Hoshino y Tanaka vencen a Baek; Cha vence a Kanae Tawata; Kumamoto se descontrola contra Cha y Jinwoo interviene y lo incapacita. Luego Goto desafía a Jinwoo (duda que sea mago): Jinwoo esquiva todo; Goto ataca a matar y le corta la mejilla; Jinwoo le sujeta la mano; Kei levanta muro de hielo; los separan; sin ganador. Jinwoo deja sombras en Goto y Cha (o Yoonho). Jinwoo decide no ir a Jeju (cuidar a su madre). Día 22 incursión: japoneses cebo; el Rey hormiga mata a Akari, Kenzo, Tatsumi, Kei, Ippei, Mari, GOTO (dos golpes) y MIN BYUNG-GYU (le come la cabeza); noquea a Cha casi muerta. Matsumoto ordena abandonar a los coreanos. Jinwoo llega por Intercambio de Sombras, mata al Rey (Beru). Sobreviven Choi, Cha, Baek, Ma Dongwook, Lim Taegyu, Hoshino, Kanae, Kumamoto.",
+    "onepiece_vuelta_T1859": "Cálculo: desde la salida Día ~129 pasaron ~97 días de Facundo (Shingeki 11, DB ~14, CSM 9, FMA 36, DB 3, SL 24). OP Día ~226. Canon en paralelo (timeskip): la tripulación entrena dispersa; Luffy con Rayleigh en Rusukaina; Robin en Baltigo con los revolucionarios; Barbablanca sano (curado por Facundo) con Ace vivo; Bankai de Facundo protegiendo la flota; Sabo con memoria. Robin pidió algo del mundo de los titanes (T1470) — Facundo no lo trajo todavía."
   },
   "recompensa_onepiece": {
     "monto": 400000000,

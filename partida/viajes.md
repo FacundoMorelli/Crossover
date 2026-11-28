@@ -284,3 +284,5 @@
 - MISIÓN: Que todos los cazadores coreanos de la incursión a la Isla de Jeju vuelvan vivos. RECOMPENSA: 25.000 EXP · 600 Fragmentos. VENCE: nunca.
 - DON: Llave de las Puertas (30).
 - T1845 · SOLO LEVELING: Misión de Mundo CUMPLIDA (Día 22): todos los cazadores coreanos de Jeju volvieron vivos. 15/16 mundos completados. Queda sin visitar: Demon Slayer.
+- Solo Leveling: SALIDA Día 24 ~18:05, plaza del ginkgo del barrio de la señora Kang (este de Seúl). Testigo: Cha Hae-in. Corre.
+- One Piece: VUELVE (T1859) Día ~226 21:40 (~97 días de Facundo después de irse el Día ~129), pasillo del cuarto de Robin, Baltigo. Timeskip en curso (~5,5 meses).

@@ -37,3 +37,4 @@ QUÉ SABE DE FACUNDO (T1841): todo lo que se vio en vivo (y lo que le contó su 
 - T1843 · Facundo: "Sí, es tuyo. Levántalo." Asiente. "Levántate.": la sombra del Rey (canon: Beru) se arrodilla. Después la sombra mira a Facundo, se encoge y se esconde detrás de las piernas de Jinwoo. Casi se ríe: "Se acuerda de ti." La guarda en su sombra. (Beru no comió a Min: no tiene su curación ni habla coreano por esa vía.)
 - T1844 · Se mete las manos en los bolsillos y mira a la pared para dejar solos a Facundo y Cha.
 - T1845 · Se une a la cadena con dos dedos en el hombro de Choi; teletransportado al buque; se aparta.
+- T1859 · Día 23 · Deja otra lata de atún y una nota en la 2207: "Gracias. — S. J."

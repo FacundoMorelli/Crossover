@@ -32,3 +32,4 @@ QUÉ SABE DE FACUNDO (T1805): nombre Facundo Morelli; viajero; novio de Cha Hae-
 - T1841 · Ve a Facundo matar al Rey hormiga a puñetazos y derribar a todas las hormigas con una onda (Haki del Rey) sin que a los coreanos les pase nada. Vivo/a. Ve a Jinwoo salir de la sombra de Cha.
 - T1842 · Come una semilla del ermitaño de Facundo: heridas cerradas, maná lleno.
 - T1844 · Radio del buque gritando (perdieron la señal; las hormigas cayeron todas a la vez). No contesta. A Facundo, sin saber qué decir: "Los helicópteros están en la costa, a cuatro kilómetros. Hay miles de... cuerpos entre aquí y allá. Y todo el país estuvo mirando por esa cámara hasta hace un momento. ¿Cómo salimos de aquí?"
+- T1859 · Día 23 · Le ofrece a Facundo una puerta abierta en el gremio para siempre. Mensaje de Goto (se volvió a Tokio): la pelea ahora la queda debiendo él.

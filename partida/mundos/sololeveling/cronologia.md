@@ -25,3 +25,4 @@ Llegada: Día 1, 21:40 (T1764).
 - Día 22 ~10:45-11:30 · (canon) El Rey decapita al Equipo Charlie (Akari, Kenzo, Tatsumi) y después a Kei e Ippei. Coreanos vs guardia real y reina: veneno hiere a Baek y Ma; Cha decapita a la reina. El grito de muerte llama a todas las hormigas al nido; los japoneses no cubren la retaguardia y se retiran. El Rey vuelve al nido y entra en la cámara de la reina.
 - Día 22 11:33 · (por Facundo) Rey hormiga muerto por Facundo; todas las hormigas de Jeju caídas. Jinwoo llega por Intercambio de Sombras a la sombra de Cha: tarde.
 - Día 22 11:38 · Jinwoo extrae al Rey hormiga (Beru), con permiso de Facundo.
+- Días 22-24 · Despedidas de Facundo. Salida Día 24 ~18:05 por una puerta desde la plaza del ginkgo (testigo Cha Hae-in).

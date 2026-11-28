@@ -191,3 +191,5 @@
 - Día ~121 noche · (T1466) Barbablanca anuncia a su flota que está sano; brindis por Facundo. Se esperan rumores en el Nuevo Mundo (la flota es grande; la noticia puede salir).
 - Días ~121-125 · (T1467) Sabo vuelve a Baltigo con Facundo. Facundo pasa cuatro días con Robin en Baltigo.
 - Días ~126-129 · (T1471) Facundo en Baltigo; once alumnos de espada. Día ~129 mañana: se va del mundo por una puerta desde la torre de Dragon (testigo: Robin).
+- Días ~129-226 · (en paralelo, sin Facundo) Sigue el timeskip: entrenamientos de los Sombrero de Paja dispersos; Robin con los revolucionarios en Baltigo; flota de Barbablanca protegida por el Bankai. (Simular lo ocurrido según lo que Facundo pueda saber.)
+- Día ~226 21:40 · (T1859) Facundo vuelve a Baltigo, al pasillo del cuarto de Robin.

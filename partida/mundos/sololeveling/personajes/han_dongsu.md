@@ -26,3 +26,4 @@ QUÉ PODERES DE FACUNDO VIO: ninguno visible; sintió el efecto de la Transfigur
 - T1784 · Facundo: "Solo te ayudé un poco. Suerte." Le grita "¡Gracias!" dos veces; se queda mirándose las manos bajo la luz de la tienda.
 - T1812 · Día 4 mañana · Reevaluado de rango E a rango A en el centro de evaluación de Mapo. Noticia nacional: "segundo despertar", segundo caso en menos de un mes (tras Jinwoo). Sale tapándose la cara con la mano vendada; no hace declaraciones.
 RANGO OFICIAL DESDE DÍA 4: A.
+- T1859 · Día 23 noche · Río Han: sin capucha, credencial rango A dorada, contrato con un gremio mediano desde la reevaluación. Abraza a Facundo sin decir nada; le compra a Kase dos latas de atún con su primera paga.

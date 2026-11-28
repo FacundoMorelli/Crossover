@@ -1858,3 +1858,4 @@ T1855 · SOLO LEVELING · Plaza del ginkgo · Promete la flor; beso. Cha: "Cierr
 T1856 · SOLO LEVELING · Casa de la señora Kang · Cierra la puerta; Cha guarda una hoja de pasto del otro mundo. "Cuéntame algo de ese cielo."
 T1857 · SOLO LEVELING · Casa de la señora Kang · Le cuenta a Cha de los dioses y universos de Dragon Ball. "Eso es lo que eres para mí." Min los invita a cenar con su padre.
 T1858 · SOLO LEVELING · Casa de la señora Kang · Aceptan la cena en casa de Min a las 19:00. Cha quiere volver al hotel a dormir.
+T1859 · SOLO LEVELING → ONE PIECE · (simulados Días 22-24) Despedidas: Min y su padre, Jinwoo (nota), Choi, Woo, Gunhee, Dong-su, la señora Kang, Cha (foto del beso; "una flor"). Puerta desde el ginkgo a Baltigo, Día ~226. Robin escribe "Los mundos de Facundo". "¿Kase?"

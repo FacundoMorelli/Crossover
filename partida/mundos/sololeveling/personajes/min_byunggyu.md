@@ -23,3 +23,4 @@ QUÉ SABE DE FACUNDO: lo público; novio de Cha.
 - T1842 · Recibe una semilla del ermitaño: maná lleno. "¿Qué... es esto? Esto no es curación. Esto es... todo. Todo de vuelta."
 - T1857 · Llama a la casa de la señora Kang (el celular de Cha apagado): su padre quiere conocer a Facundo; invita a cenar esta noche en su casa en Mapo, a los dos y al gato.
 - T1858 · Cena confirmada: Día 22, 19:00, en la casa de su padre en Mapo.
+- T1859 · Día 22 · Cena en la casa de su padre en Mapo (casa vieja, redes de pesca). Levanta a su padre de la reverencia, colorado.
